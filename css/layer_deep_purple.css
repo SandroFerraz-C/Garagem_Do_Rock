@@ -1,0 +1,279 @@
+#divRE01,
+#divRB01,
+#divNS01,
+#divJL01,
+#divIP01 {
+    position: absolute;
+    top: 232%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRE02,
+#divRB02,
+#divNS02,
+#divJL02,
+#divIP02 {
+    position: absolute;
+    top: 134%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRE03,
+#divRB03,
+#divNS03,
+#divJL03,
+#divIP03 {
+    position: absolute;
+    top: 148%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divIG04,
+#divRB04,
+#divRG04,
+#divJL04,
+#divIP04 {
+    position: absolute;
+    top: 178%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divIG05,
+#divRB05,
+#divRG05,
+#divJL05,
+#divIP05 {
+    position: absolute;
+    top: 195%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divIG06,
+#divRB06,
+#divRG06,
+#divJL06,
+#divIP06 {
+    position: absolute;
+    top: 213%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divIG07,
+#divRB07,
+#divRG07,
+#divJL07,
+#divIP07 {
+    position: absolute;
+    top: 227%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divDC08,
+#divRB08,
+#divGH08,
+#divJL08,
+#divIP08 {
+    position: absolute;
+    top: 222%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divDC09,
+#divRB09,
+#divGH09,
+#divJL09,
+#divIP09 {
+    position: absolute;
+    top: 258%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divDC10,
+#divTB10,
+#divGH10,
+#divJL10,
+#divIP10 {
+    position: absolute;
+    top: 244%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divIG11,
+#divRB11,
+#divRG11,
+#divJL11,
+#divIP11 {
+    position: absolute;
+    top: 249%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divIG12,
+#divRB12,
+#divRG12,
+#divJL12,
+#divIP12 {
+    position: absolute;
+    top: 262%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divJLT13,
+#divRB13,
+#divRG13,
+#divJL13,
+#divIP13 {
+    position: absolute;
+    top: 241%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divIG15,
+#divSM15,
+#divRG15,
+#divJL15,
+#divIP15 {
+    position: absolute;
+    top: 211%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divIG18,
+#divSM18,
+#divRG18,
+#divDA18,
+#divIP18 {
+    position: absolute;
+    top: 186%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divIG19,
+#divSM19,
+#divRG19,
+#divDA19,
+#divIP19 {
+    position: absolute;
+    top: 249%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+.css {
+    float: left;
+    margin-top: 1%;
+    max-width: 25%;
+    margin-left: 1%;
+    margin-right: 1%;
+}

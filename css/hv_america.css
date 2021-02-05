@@ -1,0 +1,120 @@
+body {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    border-top: 1px solid transparent;
+    color: rgb(31, 29, 29);
+    font-size: 18px;
+}
+
+.content-section {
+    background-color: rgb(235, 227, 227);
+    padding: 10px;
+    margin-top: 15px;
+    overflow: auto;
+}
+
+p {
+    margin-left: 1%;
+}
+
+.disco {
+    margin-left: 1;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+main {
+    width: 90%;
+    margin: auto;
+}
+
+a {
+    background: rgba(0, 0, 0, .2);
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 1px;
+}
+
+.play {
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#lado_a,
+#lado_b td:first-child+td {
+    font-weight: bolder;
+}
+
+#demo-table {
+    font: 100% sans-serif;
+    background-color: #efe;
+    border-collapse: collapse;
+    empty-cells: show;
+    border: 1px solid rgb(65, 77, 65);
+    margin-left: 1%;
+}
+
+#demo-table>caption {
+    text-align: left;
+    font-weight: bold;
+    font-size: 150%;
+    border-bottom: .2em solid rgb(58, 75, 71);
+    margin-bottom: .5em;
+}
+
+#demo-table th,
+#demo-table td {
+    text-align: right;
+    padding-right: .5em;
+}
+
+button {
+    border-top: 1px solid #000000;
+    background: #325d7a;
+    background: -webkit-gradient(linear, left top, left bottom, from(#1f282e), to(#325d7a));
+    background: -webkit-linear-gradient(top, #1f282e, #325d7a);
+    background: -moz-linear-gradient(top, #1f282e, #325d7a);
+    background: -ms-linear-gradient(top, #1f282e, #325d7a);
+    background: -o-linear-gradient(top, #1f282e, #325d7a);
+    padding: 8.5px 17px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    -webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+    -moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+    box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+    text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+    color: white;
+    font-size: 12px;
+    font-family: Georgia, Serif;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.button:hover {
+    border-top-color: #324857;
+    background: #324857;
+    color: #ccc;
+}
+
+.button:active {
+    border-top-color: #415461;
+    background: #415461;
+}
+
+
+/* body */
+
+#demo-table td {
+    background-color: rgb(176, 177, 174);
+    padding: .5em .5em .5em 3em;
+}

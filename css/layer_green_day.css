@@ -1,0 +1,202 @@
+#divBJ01,
+#divMD01,
+#divJK01 {
+    position: absolute;
+    top: 375%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ02,
+#divMD02,
+#divTC02 {
+    position: absolute;
+    top: 297%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ03,
+#divMD03,
+#divTC03 {
+    position: absolute;
+    top: 376%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ04,
+#divMD04,
+#divTC04 {
+    position: absolute;
+    top: 242%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ05,
+#divMD05,
+#divTC05 {
+    position: absolute;
+    top: 292%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ06,
+#divMD06,
+#divTC06 {
+    position: absolute;
+    top: 265%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ07,
+#divMD07,
+#divTC07 {
+    position: absolute;
+    top: 352%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ08,
+#divMD08,
+#divTC08 {
+    position: absolute;
+    top: 411%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ09,
+#divMD09,
+#divTC09 {
+    position: absolute;
+    top: 284%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ10,
+#divMD10,
+#divTC10 {
+    position: absolute;
+    top: 264%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ11,
+#divMD11,
+#divTC11 {
+    position: absolute;
+    top: 224%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ12,
+#divMD12,
+#divTC12 {
+    position: absolute;
+    top: 262%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ13,
+#divMD13,
+#divTC13 {
+    position: absolute;
+    top: 218%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+.css {
+    float: left;
+    margin-top: 1%;
+    max-width: 25%;
+    margin-left: 1%;
+    margin-right: 1%;
+}

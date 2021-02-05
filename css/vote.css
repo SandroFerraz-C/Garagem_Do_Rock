@@ -1,0 +1,32 @@
+body{
+    background-color: #918888;
+ font-size: 22px;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    background-color: #aca6a6;
+    margin-top: 0;
+    margin: 0;
+}
+p{
+    margin: 3px;
+    font-size: 22px;
+}
+
+.votos{
+    margin-top: 3%;
+        float: inline-start;
+      
+        
+        margin-right: 2%;
+        margin-top: 1%;
+        margin-bottom: 1%;
+}
+
+
+p{
+    float: left;
+    margin-top: 5px;
+}

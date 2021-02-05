@@ -1,0 +1,154 @@
+#divAM1,
+#divRB1,
+#divKL1,
+#divLM1,
+#divAH1,
+#divTN1,
+#divAM3,
+#divRB3,
+#divKL3,
+#divLM3,
+#divRC3 {
+    position: absolute;
+    top: 186%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divAM4,
+#divRB4,
+#divKL4,
+#divLM4,
+#divRC4 {
+    position: absolute;
+    top: 145%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divAM5,
+#divRB5,
+#divKL5,
+#divLM5,
+#divRC5 {
+    position: absolute;
+    top: 182%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divEF6,
+#divRB6,
+#divKL6,
+#divFA6,
+#divAP6 {
+    position: absolute;
+    top: 161%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divEF7,
+#divRB7,
+#divKL7,
+#divFA7,
+#divAP7 {
+    position: absolute;
+    top: 257%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divEF8,
+#divRB8,
+#divKL8,
+#divFA8,
+#divAP8 {
+    position: absolute;
+    top: 208%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divEF9,
+#divRB9,
+#divKL9,
+#divFA9,
+#divRC9,
+#divFL10,
+#divRB10,
+#divKL10,
+#divFA10,
+#divBV10 {
+    position: absolute;
+    top: 223%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divFL11,
+#divRB11,
+#divMB11,
+#divFA11,
+#divBV11 {
+    position: absolute;
+    top: 184%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+.css {
+    float: left;
+    margin-top: 1%;
+    max-width: 25%;
+    margin-left: 1%;
+    margin-right: 1%;
+}

@@ -1,0 +1,162 @@
+body{
+    font-size: 18px;
+	font-family: arial, sans-serif;
+	background: #ccc;
+	margin:2px;
+    }
+
+    .img{
+       
+            background-image: url(../img/a.png);
+            height: 300px;
+            background-position: right center ;
+            background-size: cover ;
+            border-top: 1px solid transparent;
+           
+    }
+    .content-section_album{
+        overflow: auto;
+    }
+
+    nav.top-nav{
+        text-align: center;
+        background: #412849;
+    }
+  
+    .top-nav ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+   
+
+    .img1 {
+        width: 30%;
+        float: left;
+      
+        box-sizing: border-box;
+     }
+
+     .img1 img{
+        width: 100%;
+        display: block;
+    } 
+
+    .card01, .card02, .card03, .card04, .card05, .card06, .card07, .card08, .card09, .card10, .card11, .card12, .card13, .card14, .card15,
+     .card16, .card17, .card18, .card19, .card20, .card21, .card22, .card23, .card24,.card25, .card26, .card27, .card28, .card29, .card30, 
+     .card31, .card32, .card33, .card34, .card35, .card36, .card37, .card38, .card39, .card40, .card41 {
+        margin-right: 1%;
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+
+    .card01{
+        margin-top: 3%;
+    }
+
+    .card02{
+        margin-top: 1.5%;
+    }
+
+    .card03{
+        margin-top: 0.1%;
+
+    }
+
+    
+   
+    
+    nav{text-align: right; text-transform: houver; }
+     
+    
+    
+  
+
+        .css{
+            float: left;
+            margin-top: 1%;
+            max-width: 25%;
+            margin-left:1% ;
+            margin-right:1% ;
+            }
+
+            .html{
+                float: left;
+                margin-top: 1%;
+                max-width: 25%;
+                margin-left:1% ;
+                margin-right:1% ;
+                }
+
+        
+.content-section{
+	background-color: white;
+	padding: 10px;
+	margin-top: 15px;
+    overflow: auto;
+    float: left;
+}
+
+
+
+.content-section_album{
+	background-color: #ccc;
+	padding: 10px;
+	margin-top: 15px;
+	overflow: auto;
+}
+
+.content-header{
+border-bottom: solid 5px #393535;
+
+
+}
+
+.h2{background-color: #aca6a6;
+    margin-top: 0;
+    margin: 0;
+}
+
+a{
+    background: rgba(0,0,0,.2);
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 1px;
+}
+
+
+
+
+
+a:link {
+    text-decoration:none;
+    }
+    a:visited {
+    text-decoration:none;
+    }
+    a:hover {
+    text-decoration:underline;
+    }
+
+
+
+
+ .play{
+     padding-left: 1000px;
+     margin-top: 2px;
+    
+ }
+ 
+ .rodape{ height: 40px;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    background: #6b6c68;
+    line-height: 40px;
+    
+}
+   

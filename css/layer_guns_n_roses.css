@@ -1,0 +1,137 @@
+#divAR01,
+#divSLS01,
+#divIS01,
+#divDM01,
+#divSA01 {
+    position: absolute;
+    top: 328%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divAR02,
+#divSLS02,
+#divIS02,
+#divDM02,
+#divSA02 {
+    position: absolute;
+    top: 266%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divAR03,
+#divSLS03,
+#divIS03,
+#divDM03,
+#divMS03,
+#divDR03 {
+    position: absolute;
+    top: 388%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divAR04,
+#divSLS04,
+#divIS04,
+#divDM04,
+#divMS04,
+#divDR04 {
+    position: absolute;
+    top: 355%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divAR05,
+#divSLS05,
+#divGC05,
+#divDM05,
+#divMS05,
+#divDR05 {
+    position: absolute;
+    top: 355%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divAR06,
+#divBF06,
+#divRF06,
+#divTS06,
+#divFF06,
+#divDR06 {
+    position: absolute;
+    top: 357%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divAR,
+#divS,
+#divDM {
+    position: absolute;
+    top: 34%;
+    left: 65%;
+    width: 100%;
+    display: none;
+    height: auto;
+}
+
+#divDG {
+    position: absolute;
+    top: 138%;
+    left: 10%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+.css {
+    float: left;
+    margin-top: 0;
+    max-width: 25%;
+    margin-left: 1%;
+    margin-right: 1%;
+}

@@ -1,0 +1,250 @@
+#divBJ01,
+#divRS01,
+#divAJ01,
+#divDB01,
+#divTT01 {
+    position: absolute;
+    top: 208%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ02,
+#divRS02,
+#divAJ02,
+#divDB02,
+#divTT02 {
+    position: absolute;
+    top: 294%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ03,
+#divRS03,
+#divAJ03,
+#divDB03,
+#divTT03 {
+    position: absolute;
+    top: 327%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ04,
+#divRS04,
+#divAJ04,
+#divDB04,
+#divTT04 {
+    position: absolute;
+    top: 295%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ05,
+#divRS05,
+#divAJ05,
+#divDB05,
+#divTT05 {
+    position: absolute;
+    top: 377%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ06,
+#divRS06,
+#divHM06,
+#divDB06,
+#divTT06 {
+    position: absolute;
+    top: 342%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ07,
+#divRS07,
+#divHM07,
+#divDB07,
+#divTT07 {
+    position: absolute;
+    top: 470%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ08,
+#divRS08,
+#divHM08,
+#divDB08,
+#divTT08,
+#divBJ11,
+#divRS11,
+#divHM11,
+#divDB11,
+#divTT11 {
+    position: absolute;
+    top: 304%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ09,
+#divRS09,
+#divHM09,
+#divDB09,
+#divTT09 {
+    position: absolute;
+    top: 324%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ10,
+#divRS10,
+#divHM10,
+#divDB10,
+#divTT10 {
+    position: absolute;
+    top: 354%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ12,
+#divRS12,
+#divHM12,
+#divDB12,
+#divTT12 {
+    position: absolute;
+    top: 339%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ13,
+#divJS13,
+#divHM13,
+#divDB13,
+#divTT13 {
+    position: absolute;
+    top: 202%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ14,
+#divJS14,
+#divHM14,
+#divDB14,
+#divTT14 {
+    position: absolute;
+    top: 238%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divBJ14,
+#divJS14,
+#divHM14,
+#divDB14,
+#divTT14 {
+    position: absolute;
+    top: 196%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+.css {
+    float: left;
+    margin-top: 1%;
+    max-width: 25%;
+    margin-left: 1%;
+    margin-right: 1%;
+}

@@ -1,0 +1,250 @@
+#divRH01,
+#divkkd01,
+#divGT01,
+#divIH01,
+#divSP01 {
+    position: absolute;
+    top: 299%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH02,
+#divkkd02,
+#divGT02,
+#divIH02,
+#divLB02 {
+    position: absolute;
+    top: 253%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH03,
+#divkkd03,
+#divGT03,
+#divIH03,
+#divLB03 {
+    position: absolute;
+    top: 278%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH04,
+#divkkd04,
+#divGT04,
+#divIH04,
+#divLB04 {
+    position: absolute;
+    top: 274%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH05,
+#divkkd05,
+#divGT05,
+#divIH05,
+#divDH05 {
+    position: absolute;
+    top: 251%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH06,
+#divkkd06,
+#divGT06,
+#divIH06,
+#divDH06 {
+    position: absolute;
+    top: 273%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH07,
+#divkkd07,
+#divGT07,
+#divIH07,
+#divDH07 {
+    position: absolute;
+    top: 283%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH08,
+#divkkd08,
+#divGT08,
+#divIH08,
+#divDH08 {
+    position: absolute;
+    top: 259%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH09,
+#divkkd09,
+#divGT09,
+#divIH09,
+#divST09 {
+    position: absolute;
+    top: 309%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH10,
+#divkkd10,
+#divGT10,
+#divIH10,
+#divST10 {
+    position: absolute;
+    top: 233%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH11,
+#divkkd11,
+#divGT11,
+#divIH11,
+#divST11 {
+    position: absolute;
+    top: 358%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH12,
+#divRF12,
+#divGT12,
+#divIH12,
+#divST12 {
+    position: absolute;
+    top: 298%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divRH13,
+#divRF13,
+#divGT13,
+#divIH13,
+#divST13 {
+    position: absolute;
+    top: 289%;
+    left: 40%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: 1%;
+    height: auto;
+}
+
+#divKKD {
+    position: absolute;
+    top: 29%;
+    left: 72%;
+    width: 50%;
+    height: 44%;
+    display: none;
+    padding: 1%;
+    height: auto;
+}
+
+#divIH {
+    position: absolute;
+    top: 29%;
+    left: 78%;
+    width: 50%;
+    height: 44%;
+    display: none;
+    padding: 1%;
+    height: auto;
+}
+
+.css {
+    float: left;
+    margin-top: 0;
+    max-width: 25%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
