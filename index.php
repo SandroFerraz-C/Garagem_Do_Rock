@@ -23,7 +23,7 @@
 
 <body>
 
-<!-- https://github.com/SandroFerraz-C/Garagem-do-Rock.git -->
+	<!-- https://github.com/SandroFerraz-C/Garagem-do-Rock.git -->
 	<div id="principal">
 
 		<header class="hero">
@@ -48,15 +48,15 @@
 						<li><a class="loja" href="classic.php">TOP 100 CLASSICOS DO ROCK (Com legenda em PT-BR)</a></li>
 						<a href="sair.php">Sair</a>
 					</ul>
-					
-				</nave>
+
+					</nave>
 		</header>
 
 		<section class="content-section">
 			<article>
 				<section class="historia">
 					<header class="content-header">
-						<h2 class="h2">Um pouco da história do Rock! <a href="tritono.php"> <img class="tritono" src="img/tritono2.jpg" width="3%;"></a>
+						<h2 class="h2">Um pouco da história do Rock! <a href="tritono.php" target="blank"> <img class="tritono" src="img/tritono2.jpg" width="3%;"></a>
 						</h2>
 					</header>
 					<br /><br />
@@ -310,7 +310,24 @@
 							mas foi precedida de muitas gravações das décadas anteriores em que os elementos do rock and roll pode ser claramente detectados.
 							<img class="html" src="img/bill.jpg" width="150px; " alt="">
 						</p>
-						<br /><br /> <br /><br /><br />
+						<br /><br /><br /><br />
+
+						<header class="content-header">
+							<h2 class="h2">Cultura adolescente.</h2>
+						</header>
+						<br />
+
+						<p>
+							Vários historiadores do rock afirmam que o rock and roll foi um dos primeiros gêneros musicais a definir uma faixa etária.
+							Isso deu aos adolescentes uma sensação de pertencimento, mesmo quando estavam sozinhos. O rock and roll é frequentemente
+							identificado com o surgimento da cultura adolescente entre a primeira geração baby boomer (Termo usado para pessoas nascidas entre 1946 e 1965; Anterior a Geração "X"),
+							que tinha maior riqueza relativa e tempo de lazer e adotou o rock and roll como parte de uma subcultura distinta. Isso envolveu
+							não apenas música, absorvida via rádio, compra de discos, jukeboxes e programas de TV como American Bandstand, mas também se
+							estendeu a filmes, roupas, cabelos, carros e motos e linguagem distinta. A cultura jovem exemplificada pelo rock and roll foi
+							uma fonte recorrente de preocupação para as gerações mais velhas, que se preocupavam com a delinquência juvenil e a rebelião
+							social, principalmente porque em grande parte a cultura do rock and roll era compartilhada por diferentes grupos raciais e sociais.
+						</p>
+						<br />
 
 						<div id="divRosetta" name="nm_Rosetta">
 
@@ -327,7 +344,7 @@
 							<p>
 								<img class="css" src="img/Goree.png" width="150px;" height="130px;">
 								Goree Carter, foi um cantor americano, guitarrista, baterista, compositor e soldado. Ele também foi creditado com os nomes artísticos
-								Little T-Bone, Rocky Thompson e Gory Carter, e gravou música em gêneros de blues, como blues elétrico, jump blues eTexas blues,
+								Little T-Bone, Rocky Thompson e Gory Carter, e gravou música em gêneros de blues, como blues elétrico, jump blues e Texas blues,
 								assim como rock and roll.
 							</p>
 							<p>

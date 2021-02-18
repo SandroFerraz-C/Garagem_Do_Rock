@@ -20,7 +20,6 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-
 </head>
 
 <body>
@@ -40,36 +39,35 @@
                 <h1>Albuns</h1>
                 <div class="albuns_aerosmith">
 
-                    <a href="aerosmith_01.php"> <img class="hv" src="img/aerosmith/aerosmith_01.jpg" height="310px;" width="360px;" alt=""> </a>
+                    <a href="aerosmith_01_aerosmith.php"> <img class="hv" src="img/aerosmith/aerosmith_01.jpg" height="310px;" width="360px;" alt=""> </a>
 
-                    <a href="aerosmith_02_g_y_w.php"><img class="hv" src="img/aerosmith/Get Your Wings_02.jpg" height="310px;" width="360px;" al7t=""></a>
+                    <a href="aerosmith_02_get_your_wings.php"><img class="hv" src="img/aerosmith/Get Your Wings_02.jpg" height="310px;" width="360px;" al7t=""></a>
 
-                    <a href="aerosmith_03_t_a.php"> <img class="hv" src="img/aerosmith/Toys in the Attic_03.jpg" height="310px;" width="360px;" alt=""> </a>
-
+                    <a href="aerosmith_03_toys_in_the_attic.php"> <img class="hv" src="img/aerosmith/Toys in the Attic_03.jpg" height="310px;" width="360px;" alt=""> </a>
 
                     <a href="aerosmith_04_rocks.php"><img class="hv" src="img/aerosmith/Rocks_04.jpg" height="310px;" width="360px;" alt=""></a>
 
-                    <a href="aerosmith_05_d_t_l.php"><img class="hv" src="img/aerosmith/Draw the Line_05.jpg" height="310px;" width="360px;" alt=""></a>
+                    <a href="aerosmith_05_draw_the_line.php"><img class="hv" src="img/aerosmith/Draw the Line_05.jpg" height="310px;" width="360px;" alt=""></a>
 
-                    <a href="aerosmith_06_n_t_r.php"><img class="hv" src="img/aerosmith/Night in the Ruts_06.jpg" height="310px;" width="360px;"></a>
+                    <a href="aerosmith_06_nighr_in_the_ruts.php"><img class="hv" src="img/aerosmith/Night in the Ruts_06.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="aerosmith_07_r_h_p.php"><img class="hv" src="img/aerosmith/Rock in a Hard Place_07.jpg" height="310px;" width="360px;"></a>
+                    <a href="aerosmith_07_Rock_in_a_hard_place.php"><img class="hv" src="img/aerosmith/Rock in a Hard Place_07.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="aerosmith_08_d_w_m.php"><img class="hv" src="img/aerosmith/Done with Mirrors_08.jpg" height="310px;" width="360px;"></a>
+                    <a href="aerosmith_08_done_with_mirros.php"><img class="hv" src="img/aerosmith/Done with Mirrors_08.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="aerosmith_09_p_v.php"><img class="hv" src="img/aerosmith/Permanent Vacation_09.jpg" height="310px;" width="360px;"></a>
+                    <a href="aerosmith_09_permanent_vacation.php"><img class="hv" src="img/aerosmith/Permanent Vacation_09.jpg" height="310px;" width="360px;"></a>
 
                     <a href="aerosmith_10_pump.php"><img class="hv" src="img/aerosmith/Pump_10.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="aerosmith_11_g_g.php"><img class="hv" src="img/aerosmith/Get a Grip_11.jpg" height="310px;" width="360px;"></a>
+                    <a href="aerosmith_11_get_a_grip.php"><img class="hv" src="img/aerosmith/Get a Grip_11.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="aerosmith_12_n_l.php"><img class="hv" src="img/aerosmith/Nine Lives_12.jpg" height="310px;" width="360px;"></a>
+                    <a href="aerosmith_12_nine_lives.php"><img class="hv" src="img/aerosmith/Nine Lives_12.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="aerosmith_13_j_p_p.php"><img class="hv" src="img/aerosmith/Just Push Play_13.jpg" height="310px;" width="360px;"></a>
+                    <a href="aerosmith_13_just_push_play.php"><img class="hv" src="img/aerosmith/Just Push Play_13.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="aerosmith_14_h_b.php"><img class="hv" src="img/aerosmith/Honkin' on Bobo_14.jpg" height="310px;" width="360px;"></a>
+                    <a href="aerosmith_14_honkin_on_bobo.php"><img class="hv" src="img/aerosmith/Honkin' on Bobo_14.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="aerosmith_15_f_a_d.php"><img class="hv" src="img/aerosmith/Music from Another Dimension!_15.jpg" height="310px;" width="360px;"></a>
+                    <a href="aerosmith_15_music_from_another_dimension.php"><img class="hv" src="img/aerosmith/Music from Another Dimension!_15.jpg" height="310px;" width="360px;"></a>
 
                 </div>
 

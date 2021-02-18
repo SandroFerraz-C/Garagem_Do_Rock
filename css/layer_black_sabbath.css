@@ -1,194 +1,274 @@
-#divTI1,
-#divGB1,
-#divOO1,
-#divBW_black_sabbath1 {
-    position: absolute;
-    top: 187%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divTI2,
-#divGB2,
-#divOO2,
-#divBW_black_sabbath2,
-#divTI3,
-#divGB3,
-#divOO3,
-#divBW_black_sabbath3 {
-    position: absolute;
-    top: 200%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divTI4,
-#divGB4,
-#divOO4,
-#divBW_black_sabbath4 {
-    position: absolute;
-    top: 207%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divTI5,
-#divGB5,
-#divOO5,
-#divBW_black_sabbath5 {
-    position: absolute;
-    top: 258%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divTI6,
-#divGB6,
-#divOO6,
-#divBW_black_sabbath6,
-#divTI7,
-#divGB7,
-#divOO7,
-#divBW_black_sabbath7 {
-    position: absolute;
-    top: 237%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divTI8,
-#divGB8,
-#divOO8,
-#divBW_black_sabbath8 {
-    position: absolute;
-    top: 267%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divTI9,
-#divRJD9,
-#divBW_black_sabbath9,
-#divGN9 {
-    position: absolute;
-    top: 282%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divTI10,
-#divRJD10,
-#divGB10,
-#divVA10,
-#divGN10 {
-    position: absolute;
-    top: 233%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divTI11,
-#divIG11,
-#divGB11,
-#divBW_black_sabbath11,
-#divGN11,
-#divTI12,
-#divGH12,
-#divDS12,
-#divES12,
-#divGN12 {
-    position: absolute;
-    top: 211%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divTI13,
-#divTM13,
-#divBD13,
-#divES13,
-#divGN13 {
-    position: absolute;
-    top: 203%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
+        #divTI1,
+        #divGB1,
+        #divOO1,
+        #divBW_black_sabbath1 {
+            font-size: 17px;
+            position: absolute;
+            top: 283%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI2,
+        #divGB2,
+        #divOO2,
+        #divBW_black_sabbath2 {
+            font-size: 17px;
+            position: absolute;
+            top: 280%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI3,
+        #divGB3,
+        #divOO3,
+        #divBW_black_sabbath3 {
+            font-size: 17px;
+            position: absolute;
+            top: 265%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI4,
+        #divGB4,
+        #divOO4,
+        #divBW_black_sabbath4 {
+            font-size: 17px;
+            position: absolute;
+            top: 278%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI5,
+        #divGB5,
+        #divOO5,
+        #divBW_black_sabbath5 {
+            font-size: 17px;
+            position: absolute;
+            top: 285%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI6,
+        #divGB6,
+        #divOO6,
+        #divBW_black_sabbath6 {
+            font-size: 17px;
+            position: absolute;
+            top: 264%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI7,
+        #divGB7,
+        #divOO7,
+        #divBW_black_sabbath7 {
+            font-size: 17px;
+            position: absolute;
+            top: 272%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI8,
+        #divGB8,
+        #divOO8,
+        #divBW_black_sabbath8 {
+            font-size: 17px;
+            position: absolute;
+            top: 293%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI9,
+        #divRJD9,
+        #divBW_black_sabbath9,
+        #divGN9 {
+            font-size: 17px;
+            position: absolute;
+            top: 284%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI10,
+        #divRJD10,
+        #divGB10,
+        #divVA10,
+        #divGN10 {
+            font-size: 17px;
+            position: absolute;
+            top: 265%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI11,
+        #divIG11,
+        #divGB11,
+        #divBW_black_sabbath11,
+        #divGN11,
+        #divTI12,
+        #divGH12,
+        #divDS12,
+        #divES12,
+        #divGN12 {
+            font-size: 17px;
+            position: absolute;
+            top: 230%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI13,
+        #divTM13,
+        #divBD13,
+        #divES13,
+        #divGN13 {
+            font-size: 17px;
+            position: absolute;
+            top: 230%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI16,
+        #divRJD16,
+        #divGB16,
+        #divVA16,
+        #divGN16 {
+            font-size: 17px;
+            position: absolute;
+            top: 245%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        #divTI19,
+        #divOO19,
+        #divGB19,
+        #divBWILK19 {
+            font-size: 17px;
+            position: absolute;
+            top: 313%;
+            left: 42%;
+            border: solid 1px #696969;
+            width: 50%;
+            height: 44%;
+            display: none;
+            background-color: #D3D3D3;
+            padding: .5%;
+            height: auto;
+        }
+        
+        .css {
+            float: left;
+            margin-top: 1%;
+            max-width: 25%;
+            margin-left: 1%;
+            margin-right: 1%;
+        }
+        /*
 #divTI14,
 #divTM14,
 #divLC14,
 #divCP14,
 #divGN14,
 #divBM14 {
+    font-size: 17px;
     position: absolute;
-    top: 175%;
-    left: 40%;
+    top: 233%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -209,30 +289,13 @@
     height: auto;
 }
 
-#divTI16,
-#divRJD16,
-#divGB16,
-#divVA16,
-#divGN16 {
-    position: absolute;
-    top: 190%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
 #divTI17,
 #divTM17,
 #divGB17,
 #divBR17,
 #divGN17 {
     position: absolute;
-    top: 134%;
+    top: 150%;
     left: 40%;
     border: solid 1px #696969;
     width: 50%;
@@ -249,7 +312,7 @@
 #divCP18,
 #divGN18 {
     position: absolute;
-    top: 138%;
+    top: 150%;
     left: 40%;
     border: solid 1px #696969;
     width: 50%;
@@ -259,27 +322,4 @@
     padding: 1%;
     height: auto;
 }
-
-#divTI19,
-#divOO19,
-#divGB19,
-#divBWILK19 {
-    position: absolute;
-    top: 286%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-.css {
-    float: left;
-    margin-top: 1%;
-    max-width: 25%;
-    margin-left: 1%;
-    margin-right: 1%;
-}
+*/

@@ -63,19 +63,6 @@ body {
     animation-delay: 35s;
 }
 
-
-/*
-    .img{
-       
-           background-image: url(../img/a.png);
-            height: 300px;
-            background-position: right center ;
-            background-size: cover ;
-            border-top: 1px solid transparent;
-           
-    }
-    */
-
 .content-section_album {
     overflow: auto;
 }
@@ -208,11 +195,11 @@ nav {
 
 .a a {
     background: rgba(0, 0, 0, .2);
-    padding: 5px;
+    padding: 4px;
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 10px;
+    font-size: 14px;
     letter-spacing: 1px;
     text-decoration: none;
 }

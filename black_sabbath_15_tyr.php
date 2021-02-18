@@ -14,45 +14,31 @@
 
     <!-- Latest compiled and minified CSS -->
 
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
     <link rel="stylesheet" type="text/css" href="css/hv_2.css">
     <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
 
-
-    <!--
-    <link rel="stylesheet" type="text/css" href="css/ti.css">
-    <link rel="stylesheet" type="text/css" href="css/tm.css">
-    <link rel="stylesheet" type="text/css" href="css/nm.css">
-    <link rel="stylesheet" type="text/css" href="css/cp.css">
-    <link rel="stylesheet" type="text/css" href="css/gn.css">
--->
 </head>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
 
             <h1>Tyr (1990)</h1>
-            <br />
 
             <p>
-                TYR é o décimo quinto álbum de estúdio da banda heavy metal Black Sabbath, produzido e lançado em 1990.
+                - TYR é o décimo quinto álbum de estúdio da banda heavy metal Black Sabbath, produzido e lançado em 1990.
             </p>
-            <br />
 
             <p>
                 O título do álbum, e vários títulos de canções, fazem alusão à mitologia nórdica, o que levou muitos a chamarem TYR de um álbum conceitual,
                 embora o baixista Neil Murray tenha negado isso em 2005, afirmando que enquanto muitas das cancões possam parecer vagamente relacionadas,
                 poucas delas tem a ver com mitologia e que não foi feito para ser uma gravação conceitual.
             </p>
-            <br />
 
             <p>
                 O frontman Heri Joensen da banda de viking metal Týr declarou que foi influenciado pela capa do disco ao desenhar o logotipo de sua banda.
             </p>
-            <br />
 
             <p>
                 As runas da capa foram tiradas do Rök Runestone na Suécia. Elas representam as letras "TYR" de acordo com o alfabeto rúnico Futhark Antigo.
@@ -74,14 +60,16 @@
                         Black Sabbath! Estamos trabalhando para resolvermos esse problema o quanto antes,.,. <br />
                         Nossas sincera desculpas!
                     </h1>
-                    <br /><br /><br />
+                    <br /><br />
+
+                    <h3>Créditos</h3>
 
                     <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divTI15');" onMouseOut="escondeLayer('divTI15');"> Tony Iommi </a> – Guitarra.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTM15');" onMouseOut="escondeLayer('divTM15');"> Tony Martin </a> – Vocais. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divNM15');" onMouseOut="escondeLayer('divNM15');"> Neil Murray </a> – Baixo . </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divCP15');" onMouseOut="escondeLayer('divCP15');"> Cozy Powell</a> – Bateria.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGN15');" onMouseOut="escondeLayer('divGN15');"> Geoff Nicholls </a> – Teclados. </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divTI15');" onMouseOut="escondeLayer('divTI15');">Tony Iommi</a> – Guitarra.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divTM15');" onMouseOut="escondeLayer('divTM15');">Tony Martin</a> – Vocais. </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divNM15');" onMouseOut="escondeLayer('divNM15');">Neil Murray</a> – Baixo . </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divCP15');" onMouseOut="escondeLayer('divCP15');">Cozy Powell</a> – Bateria.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divGN15');" onMouseOut="escondeLayer('divGN15');">Geoff Nicholls</a> – Teclados. </li>
                     </ul>
                     <br>
 
@@ -89,22 +77,21 @@
                     <div id="divTI15" name="nm_divTI15">
                         <p>
                             <img class="css" src="img/Black Sabbath/ti.jpg" width="150px;" height="130px;">
-                            Anthony Frank "Tony" Iommi, Ele é conhecido mundialmente por ser guitarrista e membro fundador da banda britânica de
-                            metal Black Sabbath. Foi considerado o 25º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                            Anthony Frank "Tony" Iommi, Foi considerado o 25º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
                             É amplamente considerado o principal contribuidor na criação do Heavy Metal.
-                            <br /> A Rolling Stone descreveu Iommi como o "Rei do Riffs",
-                            com as faixas de Iron Man, Paranoid e War Pigs.
+                            <br /> A Rolling Stone descreveu Iommi como o "Rei do Riffs", com as faixas de "Iron Man", "Paranoid" e "War Pigs".
+                            <br /><br />
                         </p>
                     </div>
 
                     <div id="divTM15" name="nm_divTM15">
                         <p>
                             <img class="css" src="img/Black Sabbath/tm.jpg" width="150px;" height="130px;">
-                            Anthony Philip Harford "Tony Martin" (Birmingham, 19 de abril de 1957), é um músico e vocalista britânico de heavy metal.
+                            Anthony Philip Harford "Tony Martin", é um músico e vocalista britânico de heavy metal.
                             <br />
-
                             Já fez parte de diversas bandas e projectos musicais, sendo notória sua passagem pelo Black Sabbath, onde permaneceu
                             quase dez anos no total (vocalista com maior permanencia depois de Ozzy Osbourne).
+                            <br /><br />
                         </p>
                     </div>
 
@@ -113,6 +100,7 @@
                             <img class="css" src="img/Black Sabbath/nm.jpg" width="150px;" height="130px;">
                             Neil Murray (nascido em 27 de agosto de 1950) é um baixista escocês, mais conhecido por seu trabalho com o Whitesnake, The Brian May Band
                             e Black Sabbath.
+                            <br /><br /><br /><br />
                         </p>
                     </div>
 

@@ -14,19 +14,8 @@
 
     <!-- Latest compiled and minified CSS -->
 
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
     <link rel="stylesheet" type="text/css" href="css/hv_2.css">
     <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-
-    <!--
-    <link rel="stylesheet" type="text/css" href="css/ti.css">
-    <link rel="stylesheet" type="text/css" href="css/tm.css">
-    <link rel="stylesheet" type="text/css" href="css/lc.css">
-    <link rel="stylesheet" type="text/css" href="css/cp.css">
-    <link rel="stylesheet" type="text/css" href="css/gn.css">
-    <link rel="stylesheet" type="text/css" href="css/bm.css">
--->
 </head>
 
 <body>
@@ -36,28 +25,24 @@
         <section class="content-section">
 
             <h1>Headless Cross (1989)</h1>
-            <br />
 
             <p>
-                Headless Cross é o décimo quarto álbum de estúdio da banda inglesa de heavy metal Black Sabbath.
+                - Headless Cross é o décimo quarto álbum de estúdio da banda inglesa de heavy metal Black Sabbath.
             </p>
-            <br />
 
             <p>
                 Este álbum foi o primeiro com o baterista Cozy Powell e o segundo com o vocalista Tony Martin. O guitarrista Brian May participa do
                 disco com um solo na faixa “When Death Calls”.
             </p>
-            <br />
 
             <p>
-                Headless Cross foi elogiado pela crítica e pelos fãs, sendo considerado o melhor álbum do Sabbath em anos. Com altas vendas
+                - Headless Cross foi elogiado pela crítica e pelos fãs, sendo considerado o melhor álbum do Sabbath em anos. Com altas vendas
                 (recebeu certificação de ouro em solo inglês), fizeram uma bem-sucedida tour na Inglaterra e Europa. Em 2005, o album foi classificado
                 na posição 403 no livro The 500 Greatest Rock & Metal Albums of All Time da revista Rock Hard.
             </p>
-            <br />
 
             <p>
-                Conceitualmente, as letras têm , de forma predominante, elementos satanista e ocultistas, sendo assim provavelmente o único álbum da história
+                Conceitualmente, as letras têm, de forma predominante, elementos satanista e ocultistas, sendo assim provavelmente o único álbum da história
                 da banda em que todos os ideais de composição tem essa inspiração, ao invés de somente algumas canções específicas. A canção "Call of the
                 Wild" seria primeiramente intitulada "Hero", mas quando Ozzy Osbourne usou esse título no seu álbum No Rest for the Wicked, Tony Iommi optou
                 por mudá-lo. "Devil & Daughter" tinha originalmente o nome de "Devil's Daughter", mas foi mudado pela mesma razão."Call of the Wild" e
@@ -80,38 +65,40 @@
                         Black Sabbath! Estamos trabalhando para resolvermos esse problema o quanto antes,.,. <br />
                         Nossas sincera desculpas!
                     </h1>
-                    <br /><br /><br />
+                    <br /><br />
+
+                    <h3>Créditos</h3>
+
                     <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divTI14');" onMouseOut="escondeLayer('divTI14');"> Tony Iommi </a> – Guitarra.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTM14');" onMouseOut="escondeLayer('divTM14');"> Tony Martin </a> – Vocais. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divLC14');" onMouseOut="escondeLayer('divLC14');"> Laurence Cottle </a> – Baixo (Como Convidado). </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divCP14');" onMouseOut="escondeLayer('divCP14');"> Cozy Powell</a> – Bateria e Percussão.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGN14');" onMouseOut="escondeLayer('divGN14');"> Geoff Nicholls </a> – Teclados. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divBM14');" onMouseOut="escondeLayer('divBM14');"> Brian May </a> – Participação especial - Guitarra solo na faixa "When Death Calls". </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divTI14');" onMouseOut="escondeLayer('divTI14');">Tony Iommi</a> – Guitarra.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divTM14');" onMouseOut="escondeLayer('divTM14');">Tony Martin</a> – Vocais. </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divLC14');" onMouseOut="escondeLayer('divLC14');">Laurence Cottle</a> – Baixo (Como Convidado). </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divCP14');" onMouseOut="escondeLayer('divCP14');">Cozy Powell</a> – Bateria e Percussão.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divGN14');" onMouseOut="escondeLayer('divGN14');">Geoff Nicholls</a> – Teclados. </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divBM14');" onMouseOut="escondeLayer('divBM14');">Brian May</a> – Participação especial - Guitarra solo na faixa "When Death Calls". </li>
 
                     </ul>
-                    <br>
+                    <br /><br />
 
 
                     <div id="divTI14" name="nm_divTI14">
                         <p>
                             <img class="css" src="img/Black Sabbath/ti.jpg" width="150px;" height="130px;">
-                            Anthony Frank "Tony" Iommi, Ele é conhecido mundialmente por ser guitarrista e membro fundador da banda britânica de
-                            metal Black Sabbath. Foi considerado o 25º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                            Anthony Frank "Tony" Iommi, Foi considerado o 25º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
                             É amplamente considerado o principal contribuidor na criação do Heavy Metal.
-                            <br /> A Rolling Stone descreveu Iommi como o "Rei do Riffs",
-                            com as faixas de Iron Man, Paranoid e War Pigs.
+                            <br /> A Rolling Stone descreveu Iommi como o "Rei do Riffs", com as faixas de "Iron Man", "Paranoid" e "War Pigs".
+                            <br /><br />
                         </p>
                     </div>
 
                     <div id="divTM14" name="nm_divTM14">
                         <p>
                             <img class="css" src="img/Black Sabbath/tm.jpg" width="150px;" height="130px;">
-                            Anthony Philip Harford "Tony Martin" (Birmingham, 19 de abril de 1957), é um músico e vocalista britânico de heavy metal.
+                            Anthony Philip Harford "Tony Martin", é um músico e vocalista britânico de heavy metal.
                             <br />
-
                             Já fez parte de diversas bandas e projectos musicais, sendo notória sua passagem pelo Black Sabbath, onde permaneceu
                             quase dez anos no total (vocalista com maior permanencia depois de Ozzy Osbourne).
+                            <br /><br />
                         </p>
                     </div>
 
@@ -145,7 +132,8 @@
                             Geoff Nicholls foi um músico britânico, mais conhecido por se tecladista da banda de heavy metal Black Sabbath por mais de duas décadas.
                             No final da sua vida estava tocando com Tony Martin e na banda Quartz.
                             <br />
-                            Morreu em 28 de Janeiro de 2017, aos 68 anos, de câncer no pulmão
+                            Morreu em 28 de Janeiro de 2017, aos 68 anos, de câncer no pulmão.
+                            <br /><br />
                         </p>
                     </div>
 
@@ -159,8 +147,6 @@
 
                         </p>
                     </div>
-
-                    <br>
 
                     <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
                     <a href="index.php"><button>Home</button></a>

@@ -4,20 +4,39 @@
 #divLM1,
 #divAH1,
 #divTN1,
-#divAM3,
-#divRB3,
-#divKL3,
-#divLM3,
-#divRC3 {
+#divAM2,
+#divRB2,
+#divKL2,
+#divLM2,
+#divRC2 {
+    font-size: 17px;
     position: absolute;
-    top: 186%;
-    left: 40%;
+    top: 247%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
+    height: auto;
+}
+
+#divAM3,
+#divRB3,
+#divKL3,
+#divLM3,
+#divRC3 {
+    font-size: 17px;
+    position: absolute;
+    top: 188%;
+    left: 42%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: .5%;
     height: auto;
 }
 
@@ -26,32 +45,34 @@
 #divKL4,
 #divLM4,
 #divRC4 {
+    font-size: 17px;
     position: absolute;
-    top: 145%;
-    left: 40%;
+    top: 267%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
-#divAM5,
+#divEF5,
 #divRB5,
 #divKL5,
-#divLM5,
-#divRC5 {
+#divFA5,
+#divAP5 {
+    font-size: 17px;
     position: absolute;
-    top: 182%;
-    left: 40%;
+    top: 237%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -60,15 +81,16 @@
 #divKL6,
 #divFA6,
 #divAP6 {
+    font-size: 17px;
     position: absolute;
-    top: 161%;
-    left: 40%;
+    top: 293%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -77,15 +99,16 @@
 #divKL7,
 #divFA7,
 #divAP7 {
+    font-size: 17px;
     position: absolute;
-    top: 257%;
-    left: 40%;
+    top: 243%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -93,55 +116,53 @@
 #divRB8,
 #divKL8,
 #divFA8,
-#divAP8 {
+#divRC8 {
+    font-size: 17px;
     position: absolute;
-    top: 208%;
-    left: 40%;
+    top: 258%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
-#divEF9,
-#divRB9,
-#divKL9,
-#divFA9,
-#divRC9,
+#divFL09,
+#divRB09,
+#divKL09,
+#divFA09,
+#divBV09 {
+    font-size: 17px;
+    position: absolute;
+    top: 250%;
+    left: 42%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: .5%;
+    height: auto;
+}
+
 #divFL10,
 #divRB10,
-#divKL10,
+#divMB10,
 #divFA10,
 #divBV10 {
+    font-size: 17px;
     position: absolute;
-    top: 223%;
-    left: 40%;
+    top: 254%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divFL11,
-#divRB11,
-#divMB11,
-#divFA11,
-#divBV11 {
-    position: absolute;
-    top: 184%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 

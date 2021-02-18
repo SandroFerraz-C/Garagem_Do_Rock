@@ -38,7 +38,8 @@
                 <h1>Albuns</h1>
 
                 <div class="albuns_black_sabbath">
-                    <a href="black_sabbath_01.php"> <img class="hv" src="img/Black Sabbath/01_Black Sabbath.jpg" height="310px;" width="360px;" alt=""> </a>
+
+                    <a href="black_sabbath_01_black_sabbath.php"> <img class="hv" src="img/Black Sabbath/01_Black Sabbath.jpg" height="310px;" width="360px;" alt=""> </a>
 
                     <a href="black_sabbath_02_paranoid.php"> <img class="hv" src="img/Black Sabbath/02_paranoid.jpg" height="310px;" width="360px;" alt=""> </a>
 
@@ -64,15 +65,17 @@
 
                     <a href="black_sabbath_13_the_Eternal_idol.php"> <img class="hv" src="img/Black Sabbath/13_t_e_i.jpg" height="310px;" width="360px;" alt=""> </a>
 
+                    <!-- Sem player de musica
                     <a href="black_sabbath_14_headless_cross.php"> <img class="hv" src="img/Black Sabbath/14_h_c.jpg" height="310px;" width="360px;" alt=""> </a>
 
                     <a href="black_sabbath_15_tyr.php"><img class="hv" src="img/Black Sabbath/15_tyr.jpg" height="310px;" width="360px;" alt=""></a>
-
+-->
                     <a href="black_sabbath_16_dehumanizer.php"><img class="hv" src="img/Black Sabbath/16_d.jpg" height="310px;" width="360px;" alt=""></a>
-
+                    <!-- Sem player de musica
                     <a href="black_sabbath_17_cross_purposes.php"><img class="hv" src="img/Black Sabbath/17_c_p.jpg" height="310px;" width="360px;"></a>
-
                     <a href="black_sabbath_18_forbidden.php"><img class="hv" src="img/Black Sabbath/18_f.jpg" height="310px;" width="360px;"></a>
+
+-->
 
                     <a href="black_sabbath_19_13.php"><img class="hv" src="img/Black Sabbath/19_13.jpg" height="310px;" width="360px;"></a>
 

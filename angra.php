@@ -39,25 +39,25 @@
                 <h1>Albuns</h1>
 
                 <div class="albuns_angra">
-                    <a href="angra_01_ac.php"> <img class="hv" src="img/angra/01_Angels Cry.jpg" height="310px;" width="360px;" alt=""> </a>
+                    <a href="angra_01_angels_cry.php"> <img class="hv" src="img/angra/01_Angels Cry.jpg" height="310px;" width="360px;" alt=""> </a>
 
-                    <a href="angra_03_h_l.php"> <img class="hv" src="img/angra/03_Holy Land.jpg" height="310px;" width="360px;" alt=""> </a>
+                    <a href="angra_02_holy_land.php"> <img class="hv" src="img/angra/03_Holy Land.jpg" height="310px;" width="360px;" alt=""> </a>
 
-                    <a href="angra_04_f_c.php"><img class="hv" src="img/angra/04_Freedom Call.jpg" height="310px;" width="360px;" alt=""></a>
+                    <a href="angra_03_freedon_call.php"><img class="hv" src="img/angra/04_Freedom Call.jpg" height="310px;" width="360px;" alt=""></a>
 
-                    <a href="angra_05_fire.php"><img class="hv" src="img/angra/05_Fireworks.jpg" height="310px;" width="360px;" alt=""></a>
+                    <a href="angra_04_fireworks.php"><img class="hv" src="img/angra/05_Fireworks.jpg" height="310px;" width="360px;" alt=""></a>
 
-                    <a href="angra_06_rebirth.php"><img class="hv" src="img/angra/06_Rebirth.jpg" height="310px;" width="360px;"></a>
+                    <a href="angra_05_rebirth.php"><img class="hv" src="img/angra/06_Rebirth.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="angra_07_t_s.php"><img class="hv" src="img/angra/07_Temple of Shadows.jpg" height="310px;" width="360px;"></a>
+                    <a href="angra_06_temple_of_shadows.php"><img class="hv" src="img/angra/07_Temple of Shadows.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="angra_08_a_c.php"><img class="hv" src="img/angra/08_Aurora Consurgens.jpg" height="310px;" width="360px;"></a>
+                    <a href="angra_07_aurora_consurgens.php"><img class="hv" src="img/angra/08_Aurora Consurgens.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="angra_09_aqua.php"><img class="hv" src="img/angra/09_Aqua.jpg" height="310px;" width="360px;"></a>
+                    <a href="angra_08_aqua.php"><img class="hv" src="img/angra/09_Aqua.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="angra_10_s_g.php"><img class="hv" src="img/angra/10_Secret_Garden.jpg" height="310px;" width="360px;"></a>
+                    <a href="angra_09_secret_gargen.php"><img class="hv" src="img/angra/10_Secret_Garden.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="angra_11_omini.php"><img class="hv" src="img/angra/11_Ømni.jpg" height="310px;" width="360px;"></a>
+                    <a href="angra_10_omini.php"><img class="hv" src="img/angra/11_Ømni.jpg" height="310px;" width="360px;"></a>
 
                 </div>
 
