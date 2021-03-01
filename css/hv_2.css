@@ -8,10 +8,19 @@ body {
 }
 
 .tabela {
+    margin-bottom: 6%;
     margin-left: .5%;
+    float: left;
 }
 
-.tabela table tr td {
+.tabela-2 {
+    position: absolute;
+    margin-left: 40%;
+    width: 45%;
+}
+
+.tabela table tr td,
+.tabela-2 table tr td {
     background-color: #ccc;
     letter-spacing: .3%;
     text-align: center;
@@ -34,7 +43,7 @@ p {
 
 h1 {
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 900;
     font-family: Brush Script MT, Brush Script Std, cursive;
 }

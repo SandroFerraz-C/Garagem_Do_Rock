@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
 
 <html lang="pt-br">
 
@@ -14,35 +13,21 @@
 
     <!-- Latest compiled and minified CSS -->
 
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
     <link rel="stylesheet" type="text/css" href="css/hv_2.css">
     <link rel="stylesheet" type="text/css" href="css/layer_bon_jovi.css">
 
-
-    <!--
-    <link rel="stylesheet" type="text/css" href="css/ti.css">
-    <link rel="stylesheet" type="text/css" href="css/tm.css">
-    <link rel="stylesheet" type="text/css" href="css/lc.css">
-    <link rel="stylesheet" type="text/css" href="css/cp.css">
-    <link rel="stylesheet" type="text/css" href="css/gn.css">
-    <link rel="stylesheet" type="text/css" href="css/bm.css">
--->
 </head>
 
 <body>
-    <br>
-
     <main>
         <section class="content-section">
 
             <h1>What About Now (2013)</h1>
-            <br />
 
             <p>
-                What About Now é o décimo segundo álbum de estúdio da banda Bon Jovi, lançado em 8 de março de 2013.
-                <br /> O álbum foi divulgado na turnê Because We Can - The Tour, que ocorreu nos anos de 2013 e 2014.
+                - What About Now é o décimo segundo álbum da banda Bon Jovi, lançado em 8 de março de 2013.
+                <br /> O álbum foi divulgado na turnê - Because We Can - The Tour -, que ocorreu nos anos de 2013 e 2014.
             </p>
-            <br />
 
             <p>
                 Em uma entrevista à revista Classic Rock, o guitarrista Richie Sambora afirmou que o álbum foi gravado antes de seu
@@ -55,15 +40,15 @@
                 Richie Sambora também considerou o novo material como uma coletânea de "diferentes elementos", mas assegurou que
                 os fãs antigos ficarão tão satisfeitos com o novo trabalho quanto ficaram com os antigos por mais de 30 anos.
             </p>
-            <br />
 
             <p>
-                O álbum estreou em primeiro lugar nos Estados Unidos, onde vendeu 101.000 cópias na primeira semana. What About Now se tornou o
-                terceiro álbum consecutivo de Bon Jovi a atingir o número 1 nos Estados Unidos, depois de The Circle e Lost Highway e seu quinto
-                álbum em primeiro lugar durante sua carreira. O álbum vendeu 220.000 cópias nos Estados Unidos em agosto de 2015, e mais de 1,5
-                milhão de cópias em todo o mundo, chegando ao ouro na Alemanha, vendendo 100.000 cópias.
+                O álbum estreou em primeiro lugar nos Estados Unidos, onde vendeu 100.000 cópias na primeira semana. - What About Now se tornou o
+                terceiro álbum consecutivo de Bon Jovi a atingir o número #1 nos Estados Unidos, depois de
+                - <a href="bon_jovi_11_the_circle.php" target="blank">The Circle</a> e
+                - <a href="bon_jovi_10_lost_highway.php" target="blank">Lost Highway</a> e seu quinto álbum em primeiro lugar durante sua
+                carreira. O álbum vendeu 220.000 cópias nos Estados Unidos em agosto de 2015, e mais de 1,5 milhão de cópias em todo o mundo,
+                chegando ao ouro na Alemanha, vendendo 100.000 cópias.
             </p>
-            <br />
 
             <p>
                 A capa do álbum foi criada por Liu Bolin e foi revelada em 10 de janeiro de 2013, três dias após o lançamento do single principal "
@@ -72,50 +57,49 @@
                 algumas rosas e o símbolo do coração e punhal da banda. Um cata-vento também é visto ao fundo. A arte da capa também é vista no verso,
                 embora a colagem contenha mais fotos e os membros da banda estejam ausentes.
             </p>
-            <br /><br />
+            <br />
 
             <p>
                 O album atingil certificação:
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Unidades</td>
-                        </tr>
+            <div class="tabela">
+                <table border="1px" width="45%">
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Unidades</td>
+                    </tr>
 
 
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 500.000 (EUA)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 100.000 (Alemanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td>+ 100.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 40.000 (Canadá)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro </td>
+                        <td> + 35.000 (Austrália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Platina </td>
+                        <td> + 15.000 (Áustria)</td>
+                    </tr>
 
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 500.000 (Estados Unidos)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 100.000 (Alemanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td>+ 100.000 (Reino Unido)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 40.000 (Canadá)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro </td>
-                            <td> + 35.000 (Austrália)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Platina </td>
-                            <td> + 15.000 (Áustria)</td>
-                        </tr>
-
-                    </table>
-                </div>
+                </table>
+            </div>
             </p>
 
-            <br /><br />
+            <br />
 
             <p>Duração do album: 51 min. 36 seg.</p>
             <p>Gravadora(s): Island Records.</p>
@@ -126,19 +110,19 @@
             <section class="disco">
                 <table id="demo-table">
 
-                <iframe src="https://open.spotify.com/embed/playlist/3AB1QwuDcRAc1Yb30QDLEp" width="98%" height="950" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-                                        <br /><br /><br />
+                    <iframe src="https://open.spotify.com/embed/playlist/3AB1QwuDcRAc1Yb30QDLEp" width="100%" height="950" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <br /><br />
+
+                    <h3>Créditos</h3>
 
                     <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ12');" onMouseOut="escondeLayer('divBJ12');"> Jon Bon Jovi </a> – Vocal principal, Guitarras adicionais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS12');" onMouseOut="escondeLayer('divRS12');"> Richie Sambora </a> – Guitarras principais e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divHM12');" onMouseOut="escondeLayer('divHM12');"> Hugh McDonald </a> –  Baixo e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDB12');" onMouseOut="escondeLayer('divDB12');"> David Bryan</a> – Teclado e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTT12');" onMouseOut="escondeLayer('divTT12');"> Tico Torres </a> – Bateria e Percussão. </li>
-
+                        <li><a href="#" onMouseOver="mostraLayer('divBJ12');" onMouseOut="escondeLayer('divBJ12');">Jon Bon Jovi</a> – Vocal principal, Guitarras adicionais.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divRS12');" onMouseOut="escondeLayer('divRS12');">Richie Sambora</a> – Guitarras principais e Vocal de apoio. </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divHM12');" onMouseOut="escondeLayer('divHM12');">Hugh McDonald</a> – Baixo e Vocal de apoio. </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divDB12');" onMouseOut="escondeLayer('divDB12');">David Bryan</a> – Teclado.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divTT12');" onMouseOut="escondeLayer('divTT12');">Tico Torres</a> – Bateria. </li>
                     </ul>
-
-                    <br>
+<br />
 
 
                     <div id="divBJ12" name="nm_divBJ12">
@@ -154,12 +138,11 @@
                     <div id="divRS12" name="nm_divRS12">
                         <p>
                             <img class="css" src="img/bon jovi/rs.jpg" width="150px;" height="130px;">
-                            Richard "Richie" Stephen Sambora (Perth Amboy, 11 de julho de 1959) é um guitarrista, cantor e compositor norte-americano, conhecido
+                            Richard "Richie" é um guitarrista, cantor e compositor norte-americano, conhecido
                             por ter sido, até 2013, o guitarrista solo da banda de hard-rock Bon Jovi.
                             <br />
                             Antes de aparecer na banda Bon Jovi, participou de uma audição para tocar nos Kiss, mas, por achar que a banda não se adequava às suas
                             expectativas como músico, pois possuíam influências e gêneros diferentes, não entrou na banda.
-
                         </p>
                     </div>
 
@@ -177,28 +160,27 @@
                     <div id="divDB12" name="nm_divDB12">
                         <p>
                             <img class="css" src="img/bon jovi/db.jpg" width="150px;" height="130px;">
-                            David Bryan Rashbaum(Perth Amboy, 7 de fevereiro de 1962) é um multi-instrumentista e compositor estadunidense, mais conhecido
+                            David Bryan Rashbaum é um multi-instrumentista e compositor estadunidense, mais conhecido
                             como o tecladista da banda Bon Jovi.
                             <br />
                             Ele é um símbolo dos teclados, é considerado uns dos melhores tecladistas de bandas de rock; David Bryan toca teclado,
                             piano, trompete e acordeon. Conheceu Jon quando tinha 16 anos.
-
+                            <br /><br />
                         </p>
                     </div>
 
                     <div id="divTT12" name="nm_divTT12">
                         <p>
                             <img class="css" src="img/bon jovi/tt.jpg" width="150px;" height="130px;">
-                            Hector Samuel Juan "Tico" Torres (Nova Iorque, 7 de outubro de 1953) é um músico cubano-americano, mais conhecido como
+                            Hector Samuel Juan "Tico" Torres é um músico cubano-americano, mais conhecido como
                             o baterista da banda Bon Jovi.
                             <br />
                             Tico também é dono de uma linha de roupas para bebês chamada Rock Star Baby; Além de roupas para bebês, a Rock Star Baby também
                             produz métodos de aprendizado e desenhos. Além disto, ele também tem licença de piloto de aeronave.
-
-
+                            <br /><br />
                         </p>
                     </div>
-                    <br>
+                    <br />
 
                     <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
                     <a href="index.php"><button>Home</button></a>
@@ -211,7 +193,6 @@
     </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

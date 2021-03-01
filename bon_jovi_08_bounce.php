@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
 
 <html lang="pt-br">
 
@@ -14,150 +13,133 @@
 
     <!-- Latest compiled and minified CSS -->
 
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
     <link rel="stylesheet" type="text/css" href="css/hv_2.css">
     <link rel="stylesheet" type="text/css" href="css/layer_bon_jovi.css">
 
-
-    <!--
-    <link rel="stylesheet" type="text/css" href="css/ti.css">
-    <link rel="stylesheet" type="text/css" href="css/tm.css">
-    <link rel="stylesheet" type="text/css" href="css/lc.css">
-    <link rel="stylesheet" type="text/css" href="css/cp.css">
-    <link rel="stylesheet" type="text/css" href="css/gn.css">
-    <link rel="stylesheet" type="text/css" href="css/bm.css">
--->
 </head>
 
 <body>
-    <br>
-
     <main>
         <section class="content-section">
 
             <h1>Bounce (2002)</h1>
-            <br />
 
             <p>
-                Bounce é o oitavo álbum de estúdio da banda Bon Jovi. Lançado em 8 de outubro de 2002.
+                - Bounce é o oitavo álbum da banda Bon Jovi. Lançado em 8 de outubro de 2002.
             </p>
-            <br />
 
             <p>
                 Esse álbum é fortemente influenciado pelos ataques do 11 de setembro em Nova Iorque, em parte devido à proximidade de Jon Bon Jovi com
-                a cidade de Nova York. Contém os hits "Everyday", "Misunderstood" e "All About Loving You". O título "Bounce" era uma referência à capacidade da cidade de Nova York e dos Estados Unidos de se recuperar dos ataques ao World Trade
-                Center como nação.
+                a cidade de Nova York. Contém os hits "Everyday", "Misunderstood" e "All About Loving You". O título "Bounce" era uma referência à
+                capacidade da cidade de Nova York e dos Estados Unidos de se recuperar dos ataques ao World Trade Center como nação.
                 <br />
                 A imagem da capa do álbum inclui uma imagem estilizada de uma antena de radiotelescópio no Very Large Array .
             </p>
 
             <p>
-                O álbum estreou em # 2 na Billboard 200, tornando-se a maior estreia de Bon Jovi na história da banda naquela época.
+                O álbum estreou em #2 na Billboard 200, tornando-se a maior estreia de Bon Jovi na história da banda naquela época.
             </p>
-            <br />
 
             <p>
-                No final de julho de 2001, durante a turnê final One Wild Night Tour , Jon Bon Jovi confirmou para a Billboard que começou a escrever
+                No final de julho de 2001, durante a turnê final - One Wild Night Tour -, Jon Bon Jovi confirmou para a Billboard que começou a escrever
                 novas canções para o seguimento do album Crush (2000) e que toda a banda está planejando começar a gravar a partir de janeiro 2002.
                 Além disso, ele confirmou que a banda está planejando lançar o boxset em 2003. em conjunto com o 20º aniversário da banda.
                 Entre junho e outubro de 2001, os membros da banda escreveram 25 canções e demo totalmente 12 delas. Muitas dessas canções foram escritas
                 em setembro e foram influenciadas pelos ataques de 11 de setembro. Uma das canções com relação ao ataque de 11 de Setembro é "Standing" e
                 "Another Reason to Believe".
             </p>
-            <br /><br />
+            <br />
 
             <p>
                 O album atingil certificação:
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Unidades</td>
-                        </tr>
+            <div class="tabela">
+                <table border="1px" width="45%">
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Álbuns Vendidos</td>
+                    </tr>
 
 
-
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 500.000 (Estados Unidos)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina </td>
-                            <td> + 300.000 (Alemanha)</td>
-                        </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 500.000 (EUA.)</td>
+                    </tr>
+                    <tr>
                         <td width="15%"> Platina </td>
                         <td> + 320.000 (Japão)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro </td>
-                            <td> + 20.000 (Argentina)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td>+ 100.000 (Reino Unido)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Platina </td>
-                            <td> + 100.000 (Canadá)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro </td>
-                            <td> + 50.000 (Espanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 40.000 (Holanda)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Platina </td>
-                            <td> + 40.000 (Suíça)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro </td>
-                            <td> + 50.000 (Brasil )</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro </td>
-                            <td> + 35.000 (Austrália)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro </td>
-                            <td> + 15.000 (Áustria)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 25.000 (Bélgica)</td>
-                        </tr>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina </td>
+                        <td> + 300.000 (Alemanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Platina </td>
+                        <td> + 100.000 (Canadá)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td>+ 100.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro </td>
+                        <td> + 50.000 (Brasil )</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro </td>
+                        <td> + 50.000 (Espanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 40.000 (Holanda)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Platina </td>
+                        <td> + 40.000 (Suíça)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro </td>
+                        <td> + 35.000 (Austrália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro </td>
+                        <td> + 20.000 (Argentina)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 25.000 (Bélgica)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro </td>
+                        <td> + 15.000 (Áustria)</td>
+                    </tr>
 
-                    </table>
-                </div>
+                </table>
+            </div>
             </p>
-
-            <br /><br />
-
+            
             <p>Duração do album: 49 min. 10 seg.</p>
             <p>Gravadora(s): Island Records.</p>
             <p>Produção: Luke Ebbin, Jon Bon Jovi, Richie Sambora. </p>
             <br /><br />
-
+            
 
             <section class="disco">
                 <table id="demo-table">
 
-                    <iframe src="https://open.spotify.com/embed/playlist/6wBGvTLADCuOpKlox5RUU3" width="98%" height="700" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-                    <br /><br /><br />
+                    <iframe src="https://open.spotify.com/embed/playlist/6wBGvTLADCuOpKlox5RUU3" width="100%" height="700" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <br /><br />
+
+                    <h3>Créditos</h3>
 
                     <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ08');" onMouseOut="escondeLayer('divBJ08');"> Jon Bon Jovi </a> – Vocal principal, Guitarras adicionais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS08');" onMouseOut="escondeLayer('divRS08');"> Richie Sambora </a> – Guitarras principais e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divHM08');" onMouseOut="escondeLayer('divHM08');"> Hugh McDonald </a> (Como Convidado) – Baixo e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDB08');" onMouseOut="escondeLayer('divDB08');"> David Bryan</a> – Teclado e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTT08');" onMouseOut="escondeLayer('divTT08');"> Tico Torres </a> – Bateria e Percussão. </li>
-
+                        <li><a href="#" onMouseOver="mostraLayer('divBJ08');" onMouseOut="escondeLayer('divBJ08');">Jon Bon Jovi</a> – Vocal principal e Guitarras adicionais.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divRS08');" onMouseOut="escondeLayer('divRS08');">Richie Sambora</a> – Guitarras principais e Vocal de apoio. </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divHM08');" onMouseOut="escondeLayer('divHM08');">Hugh McDonald</a> (Como Convidado) – Baixo e Vocal de apoio. </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divDB08');" onMouseOut="escondeLayer('divDB08');">David Bryan</a> – Teclado.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divTT08');" onMouseOut="escondeLayer('divTT08');">Tico Torres</a> – Bateria e Percussão. </li>
                     </ul>
-
-                    <br>
+                    <br />
 
 
                     <div id="divBJ08" name="nm_divBJ08">
@@ -173,12 +155,11 @@
                     <div id="divRS08" name="nm_divRS08">
                         <p>
                             <img class="css" src="img/bon jovi/rs.jpg" width="150px;" height="130px;">
-                            Richard "Richie" Stephen Sambora (Perth Amboy, 11 de julho de 1959) é um guitarrista, cantor e compositor norte-americano, conhecido
+                            Richard "Richie" é um guitarrista, cantor e compositor norte-americano, conhecido
                             por ter sido, até 2013, o guitarrista solo da banda de hard-rock Bon Jovi.
                             <br />
                             Antes de aparecer na banda Bon Jovi, participou de uma audição para tocar nos Kiss, mas, por achar que a banda não se adequava às suas
                             expectativas como músico, pois possuíam influências e gêneros diferentes, não entrou na banda.
-
                         </p>
                     </div>
 
@@ -196,28 +177,27 @@
                     <div id="divDB08" name="nm_divDB08">
                         <p>
                             <img class="css" src="img/bon jovi/db.jpg" width="150px;" height="130px;">
-                            David Bryan Rashbaum(Perth Amboy, 7 de fevereiro de 1962) é um multi-instrumentista e compositor estadunidense, mais conhecido
+                            David Bryan Rashbaum é um multi-instrumentista e compositor estadunidense, mais conhecido
                             como o tecladista da banda Bon Jovi.
                             <br />
                             Ele é um símbolo dos teclados, é considerado uns dos melhores tecladistas de bandas de rock; David Bryan toca teclado,
                             piano, trompete e acordeon. Conheceu Jon quando tinha 16 anos.
-
+                            <br /><br />
                         </p>
                     </div>
 
                     <div id="divTT08" name="nm_divTT08">
                         <p>
                             <img class="css" src="img/bon jovi/tt.jpg" width="150px;" height="130px;">
-                            Hector Samuel Juan "Tico" Torres (Nova Iorque, 7 de outubro de 1953) é um músico cubano-americano, mais conhecido como
+                            Hector Samuel Juan "Tico" Torres é um músico cubano-americano, mais conhecido como
                             o baterista da banda Bon Jovi.
                             <br />
                             Tico também é dono de uma linha de roupas para bebês chamada Rock Star Baby; Além de roupas para bebês, a Rock Star Baby também
                             produz métodos de aprendizado e desenhos. Além disto, ele também tem licença de piloto de aeronave.
-
-
+                            <br /><br />
                         </p>
                     </div>
-                    <br>
+                    <br />
 
                     <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
                     <a href="index.php"><button>Home</button></a>
@@ -230,7 +210,6 @@
     </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

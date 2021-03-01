@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
 
 <html lang="pt-br">
 
@@ -14,34 +13,21 @@
 
     <!-- Latest compiled and minified CSS -->
 
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
     <link rel="stylesheet" type="text/css" href="css/hv_2.css">
     <link rel="stylesheet" type="text/css" href="css/layer_capital_inicial.css">
-
-
-    <!--
-    <link rel="stylesheet" type="text/css" href="css/ti.css">
-    <link rel="stylesheet" type="text/css" href="css/tm.css">
-    <link rel="stylesheet" type="text/css" href="css/lc.css">
-    <link rel="stylesheet" type="text/css" href="css/cp.css">
-    <link rel="stylesheet" type="text/css" href="css/gn.css">
-    <link rel="stylesheet" type="text/css" href="css/bm.css">
--->
 </head>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
 
             <h1>Eu nunca Disse Adeus (2007)</h1>
-            <br />
 
             <p>
-                Eu Nunca Disse Adeus é o décimo-segundo álbum do Capital Inicial.
+                - Eu Nunca Disse Adeus é o décimo-segundo álbum do Capital Inicial.
             </p>
-            <br /><br />
+            <br />
 
             <p>Duração do album: 46 min. 07 seg.</p>
             <p>Gravadora(s): BMG.</p>
@@ -52,14 +38,16 @@
             <section class="disco">
                 <table id="demo-table">
 
-                <iframe src="https://open.spotify.com/embed/playlist/3OTY1qjDByr8rTkgKurBBl" width="98%" height="740" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-                                        <br /><br />
+                    <iframe src="https://open.spotify.com/embed/playlist/3OTY1qjDByr8rTkgKurBBl" width="100%" height="740" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <br /><br />
+
+                    <h3>Créditos</h3>
 
                     <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divDOP12');" onMouseOut="escondeLayer('divDOP12');"> Dinho Ouro Preto </a> – Voz. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divYP12');" onMouseOut="escondeLayer('divYP12');"> Yves Passarell </a> – Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divFL12');" onMouseOut="escondeLayer('divFL12');"> Flávio Lemos </a> – Baixo. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divFEL12');" onMouseOut="escondeLayer('divFEL12');"> Fê Lemos </a> – Bateria. </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divDOP12');" onMouseOut="escondeLayer('divDOP12');">Dinho Ouro Preto</a> – Voz.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divYP12');" onMouseOut="escondeLayer('divYP12');">Yves Passarell</a> – Guitarra.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divFL12');" onMouseOut="escondeLayer('divFL12');">Flávio Lemos</a> – Baixo.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divFEL12');" onMouseOut="escondeLayer('divFEL12');">Fê Lemos</a> – Bateria.</li>
                     </ul>
                     <br />
 
@@ -70,6 +58,7 @@
                             Fernando de Ouro Preto, mais conhecido como Dinho Ouro Preto (Curitiba, 27 de abril de 1963), é um músico e
                             compositor brasileiro. É vocalista da banda brasileira Capital Inicial, além de irmão do músico brasileiro Ico
                             Ouro Preto e meio irmão do também músico Dado Villa-Lobos.
+                            <br /><br /><br />
                     </div>
 
 
@@ -78,6 +67,7 @@
                             <img class="css" src="img/capital inicial/yp.jpg" width="150px;" height="130px;">
                             Oswaldo Yves Murad Passarell (São Paulo, 8 de fevereiro de 1969) é um guitarrista brasileiro. É conhecido
                             por ser o guitarrista da banda Capital Inicial, e por ser um dos fundadores da banda de Heavy Metal, Viper.
+                            <br /><br />
                         </p>
                     </div>
 
@@ -87,6 +77,7 @@
                             Flávio Miguel Villar de Lemos, mais conhecido como Flávio Lemos (Rio de Janeiro, 29 de outubro de 1963), é um músico brasileiro,
                             baixista da banda brasileira Capital Inicial, da qual foi fundador junto de seu irmão, o baterista Fê Lemos. Também tocou na banda
                             Aborto Elétrico. Ele foi interpretado por Daniel Passi na cinebiografia Somos Tão Jovens, de 2013.
+                            <br /><br />
                         </p>
                     </div>
 
@@ -96,6 +87,7 @@
                             Antônio Felipe Villar de Lemos, mais conhecido como Fê Lemos (Rio de Janeiro, 18 de junho de 1962), é o baterista e
                             fundador da banda Capital Inicial. Também tocou na banda Aborto Elétrico, ambas ao lado de seu irmão, o baixista Flávio
                             Lemos. Ele foi interpretado por Bruno Torres na cinebiografia Somos Tão Jovens, de 2013.
+                            <br /><br />
                         </p>
                     </div>
 

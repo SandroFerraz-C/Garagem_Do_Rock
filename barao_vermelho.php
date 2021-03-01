@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
 
 <html lang="pt-br">
 
@@ -56,18 +55,18 @@
                     <a href="barao_vermelho_05_rock'n_geral.php"><img class="hv" src="img/barao vermelho/05_rock'n geral.jpg" height="310px;" width="360px;"></a>
 
                     <a href="barao_vermelho_06_carnaval.php"><img class="hv" src="img/barao vermelho/06_carnaval.jpg" height="310px;" width="360px;"></a>
-
+<!--
                     <a href="barao_vermelho_07_na_calada_da_noite.php"><img class="hv" src="img/barao vermelho/07_na calada da noite.jpg" height="310px;" width="360px;"></a>
-
+-->
                     <a href="barao_vermelho_08_supermercados_da_vida.php"><img class="hv" src="img/barao vermelho/08_supermercados da vida.jpg" height="310px;" width="360px;"></a>
 
                     <a href="barao_vermelho_09_carne_crua.php"><img class="hv" src="img/barao vermelho/09_carne crua.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="barao_vermelho_11_puro_extase.php"><img class="hv" src="img/barao vermelho/11_puro_extase.jpg" height="310px;" width="360px;"></a>
+                    <a href="barao_vermelho_10_puro_extase.php"><img class="hv" src="img/barao vermelho/11_puro_extase.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="barao_vermelho_12_barão_vermelho.php"><img class="hv" src="img/barao vermelho/12_barao vermelho.jpg" height="310px;" width="360px;"></a>
+                    <a href="barao_vermelho_11_barão_vermelho.php"><img class="hv" src="img/barao vermelho/12_barao vermelho.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="barao_vermelho_13_viva.php"> <img class="hv" src="img/barao vermelho/13_viva.jpg" height="310px;" width="360px;" alt=""> </a>
+                    <a href="barao_vermelho_12_viva.php"> <img class="hv" src="img/barao vermelho/13_viva.jpg" height="310px;" width="360px;" alt=""> </a>
 
                 </div>
 

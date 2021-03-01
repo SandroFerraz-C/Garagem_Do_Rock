@@ -46,6 +46,7 @@
 					<ul>
 						<li><a class="vote" href="vote.php">Vote na Sua banda Favorita</a></li>
 						<li><a class="loja" href="classic.php">TOP 100 CLASSICOS DO ROCK (Com legenda em PT-BR)</a></li>
+						<li><a class="loja" href="http://localhost:3030">Chat da Galera!!</a></li>	
 						<a href="sair.php">Sair</a>
 					</ul>
 

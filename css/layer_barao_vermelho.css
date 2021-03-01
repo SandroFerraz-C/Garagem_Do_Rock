@@ -3,15 +3,16 @@
 #divMB01,
 #divDE01,
 #divGG01 {
+    font-size: 17px;
     position: absolute;
-    top: 182%;
-    left: 40%;
+    top: 192%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -21,15 +22,16 @@
 #divDE02,
 #divGG02,
 #divPNH02 {
+    font-size: 17px;
     position: absolute;
-    top: 176%;
-    left: 40%;
+    top: 190%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -39,15 +41,16 @@
 #divDE03,
 #divGG03,
 #divPNH03 {
+    font-size: 17px;
     position: absolute;
-    top: 244%;
-    left: 40%;
+    top: 238%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -56,15 +59,16 @@
 #divDE04,
 #divGG04,
 #divPNH04 {
+    font-size: 17px;
     position: absolute;
-    top: 203%;
-    left: 40%;
+    top: 215%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -73,15 +77,16 @@
 #divDE05,
 #divGG05,
 #divPNH05 {
+    font-size: 17px;
     position: absolute;
-    top: 180%;
-    left: 40%;
+    top: 200%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -89,35 +94,40 @@
 #divDE06,
 #divGG06,
 #divPNH06 {
+    font-size: 17px;
     position: absolute;
-    top: 203%;
-    left: 40%;
+    top: 230%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
+
+/*
 #divRF07,
 #divFM07,
 #divRS07,
 #divGG07,
 #divPNH07,
 #divMB07 {
+    font-size: 17px;
     position: absolute;
-    top: 193%;
-    left: 40%;
+    top: 230%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
+*/
 
 #divRF08,
 #divFM08,
@@ -125,15 +135,16 @@
 #divGG08,
 #divPNH08,
 #divMB08 {
+    font-size: 17px;
     position: absolute;
-    top: 191%;
-    left: 40%;
+    top: 210%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -143,15 +154,35 @@
 #divGG09,
 #divPNH09,
 #divMB09 {
+    font-size: 17px;
     position: absolute;
-    top: 159%;
-    left: 40%;
+    top: 175%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
+    height: auto;
+}
+
+#divRF10,
+#divFM10,
+#divRS10,
+#divGG10,
+#divPNH10,
+#divMB10 {
+    font-size: 17px;
+    position: absolute;
+    top: 190%;
+    left: 42%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: .5%;
     height: auto;
 }
 
@@ -161,50 +192,34 @@
 #divGG11,
 #divPNH11,
 #divMB11 {
+    font-size: 17px;
     position: absolute;
-    top: 173%;
-    left: 40%;
+    top: 176%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
-#divRF12,
-#divFM12,
 #divRS12,
+#divFM12,
+#divRSANTOS12,
 #divGG12,
-#divPNH12,
 #divMB12 {
+    font-size: 17px;
     position: absolute;
-    top: 175%;
-    left: 40%;
+    top: 176%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divRS13,
-#divFM13,
-#divRS13,
-#divGG13,
-#divMB13 {
-    position: absolute;
-    top: 195%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 

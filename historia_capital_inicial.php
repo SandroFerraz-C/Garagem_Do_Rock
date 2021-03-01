@@ -22,7 +22,8 @@
 
             <h1>História do Capital Inicial</h1>
 
-            <p>Capital Inicial é uma banda de rock brasileira formada pelos irmãos Fê Lemos e Flávio Lemos em 1982, após o encerramento das
+            <p>
+                Capital Inicial é uma banda de rock brasileira formada pelos irmãos Fê Lemos e Flávio Lemos em 1982, após o encerramento das
                 atividades do grupo Aborto Elétrico, de que os irmãos participavam. A banda atualmente é composta por quatro integrantes: Fê Lemos
                 (baterista), Flávio Lemos (baixista), Dinho Ouro Preto (vocalista) e Yves Passarell (guitarrista), além de Robledo Silva (tecladista)
                 e Fabiano Carelli (guitarrista), banda de apoio. A banda estreou em 1986, com seu álbum de estreia autointitulado.
@@ -41,8 +42,9 @@
             <p>
                 Em 1983, Fê e Renato se desentenderam, causando a saída do cantor e a extinção do Aborto Elétrico. Os irmãos Lemos chamaram o
                 ex-guitarrista da Blitx 64, Loro Jones, e uma cantora, Heloísa, para formar outra banda, o Capital Inicial. Depois de um mês
-                tocando em um teatro da Associação Brasiliense de Odontologia com a Plebe Rude e a nova banda de Renato, a Legião Urbana, por
-                pressão dos pais Heloísa sai da banda. Os Lemos fazem uma audição para um novo cantor, e Dinho Ouro Preto assumiu o cargo.
+                tocando em um teatro da Associação Brasiliense de Odontologia com a Plebe Rude e a nova banda de Renato, a
+                <a href="legiao_urbana.php" target="blank">Legião Urbana</a>, por pressão dos pais Heloísa sai da banda. Os Lemos fazem uma
+                audição para um novo cantor, e Dinho Ouro Preto assumiu o cargo.
                 Dinho insistiu para que a banda incluísse canções do Aborto no repertório, e mais tarde chamou Renato para concluir a letra de
                 "Música Urbana", que se tornaria um dos primeiros sucessos do Capital. Dinho e Jones haviam antes tocado juntos na banda Dado e
                 o Reino Animal, que incluía os futuros membros da Legião Dado Villa-Lobos e Marcelo Bonfá. Três meses depois, em julho de 1983,
@@ -55,7 +57,7 @@
                 No final do ano assinam seu primeiro contrato fonográfico, com a CBS (atual Sony), e se mudam para São Paulo no início de 1985.
                 Logo em seguida lançam seu primeiro registro em vinil, o compacto duplo Descendo o Rio Nilo/Leve Desespero. Ainda neste ano
                 integram o elenco da trilha sonora do primeiro "filme-rock" brasileiro, Areias Escaldantes, de Francisco de Paula, ao lado de
-                Ultraje a Rigor, Titãs, Lobão e os Ronaldos, Ira!, Metrô, Lulu Santos e May East.
+                Ultraje a Rigor, <a href="titas.php" target="blank">Titãs</a>, Lobão e os Ronaldos, Ira!, Metrô, Lulu Santos e May East.
             </p>
 
             <p>
@@ -76,8 +78,8 @@
                 No dia 10 de abril de 2018, a banda entrou em estúdio e gravou um novo álbum de inéditas, cujo lançamento foi "parcelado"
                 onde a banda divulgou uma música inédita por mês, totalizando 12 músicas inéditas que teve primeiramente lançamento digital e posteriormente mídia física.
                 No dia 25 de maio de 2018, a banda lançou em todas rádios do país o mais novo single "Não me olhe assim", primeiro trabalho divulgado do
-                novo álbum intitulado "Sonora" produzido por Lucas Silveira da banda Fresno. Em junho, o Capital Inicial iniciou a nova turnê "Sonora"
-                começando pelo Rio de Janeiro - RJ.
+                novo álbum intitulado - <a href="capital_inicial_15_sonora.php" target="blank">Sonora</a> produzido por Lucas Silveira da banda Fresno.
+                Em junho, o Capital Inicial iniciou a nova turnê - Sonora - começando pelo Rio de Janeiro - RJ.
             </p>
 
             <a href="capital_inicial.php"><button>Voltar para Albuns do Capital Inicial</button></a>

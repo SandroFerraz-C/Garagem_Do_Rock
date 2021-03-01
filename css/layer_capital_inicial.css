@@ -3,15 +3,16 @@
 #divFL01,
 #divFEL01,
 #divBB01 {
+    font-size: 17px;
     position: absolute;
-    top: 168%;
-    left: 40%;
+    top: 217%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -20,15 +21,16 @@
 #divFL02,
 #divFEL02,
 #divBB02 {
+    font-size: 17px;
     position: absolute;
-    top: 178%;
-    left: 40%;
+    top: 205%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -37,15 +39,16 @@
 #divFL03,
 #divFEL03,
 #divBB03 {
+    font-size: 17px;
     position: absolute;
-    top: 163%;
-    left: 40%;
+    top: 182%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -53,31 +56,34 @@
 #divLJ04,
 #divFL04,
 #divFEL04 {
+    font-size: 17px;
     position: absolute;
-    top: 217%;
-    left: 40%;
+    top: 238%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
 #divDOP05,
 #divLJ05,
 #divFL05,
-#divFEL05 {
+#divFEL05,
+#divBB05 {
+    font-size: 17px;
     position: absolute;
-    top: 200%;
-    left: 40%;
+    top: 220%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -85,15 +91,16 @@
 #divLJ07,
 #divFL07,
 #divFEL07 {
+    font-size: 17px;
     position: absolute;
-    top: 188%;
-    left: 40%;
+    top: 205%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -101,15 +108,16 @@
 #divLJ08,
 #divFL08,
 #divFEL08 {
+    font-size: 17px;
     position: absolute;
-    top: 260%;
-    left: 40%;
+    top: 285%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -117,15 +125,16 @@
 #divYP09,
 #divFL09,
 #divFEL09 {
+    font-size: 17px;
     position: absolute;
-    top: 243%;
-    left: 40%;
+    top: 260%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -133,15 +142,16 @@
 #divDR10,
 #divFL10,
 #divFEL10 {
+    font-size: 17px;
     position: absolute;
-    top: 201%;
-    left: 40%;
+    top: 227%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -149,15 +159,16 @@
 #divDR11,
 #divFL11,
 #divFEL11 {
+    font-size: 17px;
     position: absolute;
-    top: 221%;
-    left: 40%;
+    top: 237%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -165,15 +176,16 @@
 #divYP12,
 #divFL12,
 #divFEL12 {
+    font-size: 17px;
     position: absolute;
-    top: 175%;
-    left: 40%;
+    top: 193%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -181,15 +193,16 @@
 #divYP13,
 #divFL13,
 #divFEL13 {
+    font-size: 17px;
     position: absolute;
-    top: 223%;
-    left: 40%;
+    top: 238%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -197,15 +210,16 @@
 #divYP14,
 #divFL14,
 #divFEL14 {
+    font-size: 17px;
     position: absolute;
-    top: 193%;
-    left: 40%;
+    top: 214%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -213,15 +227,16 @@
 #divYP15,
 #divFL15,
 #divFEL15 {
+    font-size: 17px;
     position: absolute;
-    top: 210%;
-    left: 40%;
+    top: 220%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 

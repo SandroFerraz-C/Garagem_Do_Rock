@@ -22,12 +22,17 @@
 
             <h1>História do Barão Vermelho</h1>
 
-            <p>Barão Vermelho é uma banda de rock brasileiro fundada em 1981, na cidade do Rio de Janeiro, Brasil. Juntamente com Legião Urbana,
-                Paralamas do Sucesso e os Titãs é considerada uma das quatro bandas brasileiras mais influentes fundadas na década de 1980.
+            <p>
+                Barão Vermelho é uma banda de rock brasileiro fundada em 1981, na cidade do Rio de Janeiro, Brasil. Juntamente com
+                <a href="legiao_urbana.php" target="blank">Legião Urbana</a>, <a href="paralamas_so_sucesso.php" target="blank">Paralamas do Sucesso</a>
+                e os <a href="titas.php" target="blank">Titãs</a>, é considerada uma das quatro bandas brasileiras mais influentes fundadas na década
+                de 1980.
             </p>
 
-            <p> Após assistirem a um show da banda Queen no Morumbi, em São Paulo, surgiu o desejo em Guto Goffi (Flávio Augusto Goffi Marquesini), bateria,
-                e Maurício Barros (Maurício Carvalho de Barros), teclado, de 19 e 17 anos de idade respectivamente, de formar uma banda de rock.
+            <p>
+                Após assistirem a um show da banda <a href="queen.php" target="blank">Queen</a> no Morumbi, em São Paulo, surgiu o desejo em Guto Goffi
+                (Flávio Augusto Goffi Marquesini), bateria, e Maurício Barros (Maurício Carvalho de Barros), teclado, de 19 e 17 anos de idade
+                respectivamente, de formar uma banda de rock.
                 <br />
                 Em outubro de 1981, os dois estudantes do Colégio da Imaculada Conceição, no Rio de Janeiro, escolheram o nome: Guto sugeriu e Maurício
                 concordou que a banda usaria o codinome do aviador alemão Manfred von Richthofen, principal inimigo dos Aliados na Primeira Guerra: Barão Vermelho.
@@ -40,17 +45,20 @@
 
             <p> Em 1982, o som do Barão Vermelho, lançado nas lojas dia 27 de setembro, se espalhou um pouco e agradou muito o produtor Ezequiel Neves
                 (José Ezequiel Moreira Neves, jornalista) e o diretor da Som Livre, Guto Graça Mello. Juntos, eles lançaram a banda e, com uma produção
-                baratíssima, em quatro dias, foi gravado o primeiro álbum do Barão: "Barão Vermelho". Das músicas mais importantes, destacam-se
+                baratíssima, em quatro dias, foi gravado o primeiro álbum do Barão:
+                - <a href="barao_vermelho_01_barao_vermelho.php" target="blank">Barão Vermelho</a>. Das músicas mais importantes, destacam-se
                 "Bilhetinho Azul", "Todo Amor Que Houver Nessa Vida", "Ponto Fraco" e "Down Em Mim". Depois de alguns shows no Rio de Janeiro e em São Paulo,
-                a banda voltou ao estúdio, agora por um mês inteiro, e gravou o LP "Barão Vermelho 2", lançado em 1983.
+                a banda voltou ao estúdio, agora por um mês inteiro, e gravou o LP <a href="barao_vermelho_02_barao_vermelho_2.php" target="blank">Barão Vermelho 2</a>,
+                lançado em 1983.
             </p>
 
             <p>
                 Embora o quinteto pudesse ser promissor, as rádios não pensavam assim, e se negavam a tocar suas músicas. Só depois que Ney Matogrosso
                 gravou "Pro Dia Nascer Feliz", é que as rádios passam a tocar a versão original do Barão Vermelho. Nessa mesma época, Caetano Veloso
                 reconheceu Cazuza como um grande poeta e incluiu a música "Todo amor que houver nessa vida" no repertório do seu show. A banda começou a
-                ter o destaque que merecia, a repercussão foi tanta, que eles foram convidados para compor a trilha sonora do filme Bete Balanço, de Lael
-                Rodrigues, em 1984, e o seu som se espalhou pelo Brasil. Aproveitando o embalo, o grupo lançou o terceiro disco, Maior Abandonado, em 1984,
+                ter o destaque que merecia, a repercussão foi tanta, que eles foram convidados para compor a trilha sonora do filme - Bete Balanço -, de Lael
+                Rodrigues, em 1984, e o seu som se espalhou pelo Brasil. Aproveitando o embalo, o grupo lançou o terceiro disco,
+                - <a href="barao_vermelho_01_barao_vermelho.php" target="blank">Maior Abandonado</a>, em 1984,
                 conseguindo vender mais de 100 mil cópias em apenas seis meses.
             </p>
 
