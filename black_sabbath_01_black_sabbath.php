@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -43,7 +25,6 @@
                 Ainda que não tenha recebido muita atenção na época de seu lançamento, - Black Sabbath tem sido, desde então, considerado como um dos
                 discos mais importantes para o desenvolvimento do heavy metal.
             </p>
-            
 
             <p>
                 De acordo com o guitarrista e fundador do - Black Sabbath, Tony Iommi, o álbum de estréia do grupo foi gravado em um único dia em
@@ -86,7 +67,6 @@
                 </table>
             </div>
             </p>
-
             <br />
 
             <p>Duração do album: 38 min. 12 seg.</p>
@@ -101,14 +81,16 @@
                     <iframe src="https://open.spotify.com/embed/playlist/7MmUmoioYKsazulPl4oRSJ" width="100%" height="500" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divTI1');" onMouseOut="escondeLayer('divTI1');">Tony Iommi</a> – Guitarra.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGB1');" onMouseOut="escondeLayer('divGB1');">Geezer Butler</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divOO1');" onMouseOut="escondeLayer('divOO1');">Ozzy Osbourne</a> – Vocais e Gaita. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath1');" onMouseOut="escondeLayer('divBW_black_sabbath1');">Bill Ward</a> – Bateria.</li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI1');" onMouseOut="escondeLayer('divTI1');">Tony Iommi</a> – Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGB1');" onMouseOut="escondeLayer('divGB1');">Geezer Butler</a> – Baixo. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divOO1');" onMouseOut="escondeLayer('divOO1');">Ozzy Osbourne</a> – Vocais e Gaita. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath1');" onMouseOut="escondeLayer('divBW_black_sabbath1');">Bill Ward</a> – Bateria.</li>
+                        </ul>
+                    </nav>
                     <br /><br />
 
                     <div id="divTI1" name="nm_divTI1">
@@ -124,7 +106,7 @@
                     <div id="divGB1" name="nm_divGB1">
                         <p>
                             <img class="css" src="img/Black Sabbath/gb.jpg" width="150px;" height="130px;">
-                            Terence Michael Joseph "Geezer" Butler  é um baixista e compositor inglês; O músico é conhecido por ter tocado na banda de heavy metal
+                            Terence Michael Joseph "Geezer" Butler é um baixista e compositor inglês; O músico é conhecido por ter tocado na banda de heavy metal
                             Black Sabbath, pioneira do gênero, onde Butler escrevia todas as letras durante os anos 1970, e é tido como um dos mais influentes de todos
                             os tempos com seu instrumento.
                             <br />
@@ -153,19 +135,18 @@
                             <br /><br />
                         </p>
                     </div>
-                
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+            
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

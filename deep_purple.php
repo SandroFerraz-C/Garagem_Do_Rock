@@ -20,16 +20,13 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-
-
 </head>
 
 <body>
     <br><br>
     <div id="Principal">
-        <!-- inicio principal -->
-        <main>
 
+        <main>
 
             <nav>
                 <a class="loja" href="historia_deep_purple.php">Historia da Banda</a>
@@ -77,12 +74,12 @@
 
                     <a href="deep_purple_20_whoosh.php"> <img class="hv" src="img/deep purple/20_whoosh.jpg" height="310px;" width="360px;" alt=""> </a>
 
-
                 </div>
 
             </section>
             <div class="botao_acdc">
-<br />
+                <br />
+
                 <button><a href="index.php">Home</a></button>
             </div>
         </main>

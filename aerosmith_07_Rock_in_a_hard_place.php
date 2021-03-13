@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_aerosmith.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -50,7 +32,7 @@
                 "Há algumas coisas realmente boas nele. Mas não é um álbum do Aerosmith de verdade porque sou apenas eu, Steven e Tom [Hamilton] -
                 com um guitarrista de substituição ... E Jimmy Crespo fazendo o trabalho de guitarra."
             </p>
-            <br><br>
+            <br /><br />
 
             <p>
                 O album atingil certificação:
@@ -62,6 +44,8 @@
                         <td width="15%" height="10%">Nivel</td>
                         <td width="15%">Data</td>
                     </tr>
+
+
                     <tr>
                         <td width="15%"> Ouro</td>
                         <td> + 500.000 (EUA.)</td>
@@ -83,16 +67,19 @@
 
                     <iframe src="https://open.spotify.com/embed/playlist/2wUoUI4Yw2hMb3TXilG4ke" width="100%" height="590" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
-                    <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divST7');" onMouseOut="escondeLayer('divST7');">Steven Tyler</a> – Gaita, Percussão, Teclado e Vocais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJC7');" onMouseOut="escondeLayer('divJC7');">Jimmy Crespo</a> – Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTH7');" onMouseOut="escondeLayer('divTH7');">Tom Hamilton</a> – Baixo. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJK7');" onMouseOut="escondeLayer('divJK7');">Joey Kramer</a> – Bateria.</li>
 
-                    </ul>
-                    <br>
+                    <nav>
+                        <h3>Créditos</h3>
+
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divST7');" onMouseOut="escondeLayer('divST7');">Steven Tyler</a> – Gaita, Percussão, Teclado e Vocais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divJC7');" onMouseOut="escondeLayer('divJC7');">Jimmy Crespo</a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTH7');" onMouseOut="escondeLayer('divTH7');">Tom Hamilton</a> – Baixo. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divJK7');" onMouseOut="escondeLayer('divJK7');">Joey Kramer</a> – Bateria.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divST7" name="nm_divST7">
@@ -136,21 +123,17 @@
                         </p>
                     </div>
 
-
-                    <br>
-
-                    <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
             </section>
 
+            <footer>
+                <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

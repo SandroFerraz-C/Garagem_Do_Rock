@@ -1,32 +1,13 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_acdc.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
 
             <h1>Power Up (2020)</h1>
-
 
             <p>
                 - Power Up (por vezes abreviado para PWR/UP e estilizado como PWRϟUP ) é o Décimo-Setimo álbum do AC/DC, lançado em 13 de Novembro 2020,
@@ -71,7 +52,7 @@
                 Na Alemanha, estreou em #1° lugar, vendendo quase 160.000 cópias, o melhor início do ano para um álbum. Ele permaneceu no número #1
                 por um total de 5 semanas não consecutivas, e se tornou o álbum mais vendido de 2020.
             </p>
-            <br>
+            <br />
 
             <p>
                 O album atingil certificação:
@@ -82,7 +63,6 @@
                         <td width="15%" height="10%">Nivel</td>
                         <td width="15%">Albuns Vendidos</td>
                     </tr>
-
 
 
                     <tr>
@@ -147,17 +127,17 @@
             </section>
             <br /><br />
 
-            <h3>Créditos</h3>
-            <ul>
-                <li><a href="#" onMouseOver="mostraLayer('divBJ19');" onMouseOut="escondeLayer('divBJ19');">Brian Johnson</a> – Vocal.</li>
-                <li><a href="#" onMouseOver="mostraLayer('divAY19');" onMouseOut="escondeLayer('divAY19');">Angus Young</a> – Guitarra solo.</li>
-                <li><a href="#" onMouseOver="mostraLayer('divSY19');" onMouseOut="escondeLayer('divSY19');">Stevie Young</a> – Guitarra rítmica e Vocal de apoio.</li>
-                <li><a href="#" onMouseOver="mostraLayer('divCW19');" onMouseOut="escondeLayer('divCW19');">Cliff Williams</a> – Baixo e Vocal de apoio.</li>
-                <li><a href="#" onMouseOver="mostraLayer('divPR19');" onMouseOut="escondeLayer('divPR19');">Phil Rudd</a> – Bateria.</li>
-
-            </ul>
-            <br>
-
+            <nav>
+                <h3>Créditos</h3>
+                <ul>
+                    <li><a href="#" onMouseOver="mostraLayer('divBJ19');" onMouseOut="escondeLayer('divBJ19');">Brian Johnson</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divAY19');" onMouseOut="escondeLayer('divAY19');">Angus Young</a> – Guitarra solo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSY19');" onMouseOut="escondeLayer('divSY19');">Stevie Young</a> – Guitarra rítmica e Vocal de apoio.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divCW19');" onMouseOut="escondeLayer('divCW19');">Cliff Williams</a> – Baixo e Vocal de apoio.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPR19');" onMouseOut="escondeLayer('divPR19');">Phil Rudd</a> – Bateria.</li>
+                </ul>
+            </nav>
+            <br />
 
             <div id="divBJ19" name="nm_divBJ19">
                 <p>
@@ -170,21 +150,21 @@
             <div id="divAY19" name="nm_divAY19">
                 <p>
                     <img class="css" src="img/angus.jpg" width="150px;" height="130px;"> Angus McKinnon Young (31 de março de 1955) é um guitarrista e compositor, conhecido por ser guitarrista solo, compositor, líder e co-fundador da banda AC/DC.
-                    <br> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
-                    <br> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                    <br /> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
+                    <br /> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
                 </p>
             </div>
 
             <div id="divSY19" name="nm_divSY19">
-                <<p>
+                <p>
                     <img class="css" src="img/sy.jpg" width="150px;" height="130px;"> Stephen Crawford Young (Glasgow, 11 de dezembro de 1956) é um guitarrista escocês da banda de hard rock AC/DC, tendo entrado no lugar do seu tio Malcolm Young, que deixou
                     o grupo por problemas de saúde.
-                    </p>
+                </p>
 
-                    <p>
-                        Durante a turnê estadunidense de 1988 do álbum - Blow Up Your Video, que começou em 3 de maio daquele ano, Stevie substituiu Malcolm na guitarra para que o tio pudesse tratar de sua dependência do álcool. Muitos fãs sequer perceberam que não era Malcolm
-                        que estava tocando, dada a semelhança física entre os dois.
-                    </p>
+                <p>
+                    Durante a turnê estadunidense de 1988 do álbum - Blow Up Your Video, que começou em 3 de maio daquele ano, Stevie substituiu Malcolm na guitarra para que o tio pudesse tratar de sua dependência do álcool. Muitos fãs sequer perceberam que não era Malcolm
+                    que estava tocando, dada a semelhança física entre os dois.
+                </p>
             </div>
 
             <div id="divCW19" name="nm_divCW19">
@@ -203,18 +183,16 @@
                 </p>
             </div>
 
-            <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
-            <a href="index.php"><button>Home</button></a>
-
             </div>
         </section>
 
+        <footer>
+            <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
+            <a href="index.php"><button>Home</button></a>
+        </footer>
+
     </main>
-    </div>
-    </div>
-
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

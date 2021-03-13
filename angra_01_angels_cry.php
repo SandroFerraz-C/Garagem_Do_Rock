@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_angra.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -29,7 +11,7 @@
 
 
             <p>
-               - Angels Cry é o álbum de estreia da banda brasileira de progressive power metal Angra. Foi lançado em 1993 no
+                - Angels Cry é o álbum de estreia da banda brasileira de progressive power metal Angra. Foi lançado em 1993 no
                 Japão e em 1994 para o resto do mundo e gravado na Alemanha, no Kai Hansen Studios em Hamburgo.
             </p>
 
@@ -67,7 +49,7 @@
             </div>
             </p>
             <br />
-            
+
             <p>Duração do album: 60 min. 12 seg.</p>
             <p>Gravadora(s): JVC / Victor.</p>
             <p>Produção: Charlie Bauerfeind Sascha Paeth. </p>
@@ -79,27 +61,26 @@
 
                     <iframe src="https://open.spotify.com/embed/playlist/2rDOVoS0WiGW372o8ypiOT" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
-                    
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divAM1');" onMouseOut="escondeLayer('divAM1');">Andre Matos</a> – Vocal, Piano, Teclado, Arranjos de Orquestra e Conceito da Capa.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRB1');" onMouseOut="escondeLayer('divRB1');">Rafael Bittencourt</a> – Guitarra e Background vocais. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divKL1');" onMouseOut="escondeLayer('divKL1');">Kiko Loureiro</a> – Guitarra e Backing vocals. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divLM1');" onMouseOut="escondeLayer('divLM1');">Luis Mariutti</a> – Baixo e Backing vocals.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divAH1');" onMouseOut="escondeLayer('divAH1');">Alex Holzwarth</a> – Bateria em todas as faixas exceto na faixa 7.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTN1');" onMouseOut="escondeLayer('divTN1');">Thomas Nack</a> – Bateria na faixa 7.</li>
-
-
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divAM1');" onMouseOut="escondeLayer('divAM1');">Andre Matos</a> – Vocal, Piano, Teclado, Arranjos de Orquestra e Conceito da Capa.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRB1');" onMouseOut="escondeLayer('divRB1');">Rafael Bittencourt</a> – Guitarra e Background vocais. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divKL1');" onMouseOut="escondeLayer('divKL1');">Kiko Loureiro</a> – Guitarra e Backing vocals. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divLM1');" onMouseOut="escondeLayer('divLM1');">Luis Mariutti</a> – Baixo e Backing vocals.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divAH1');" onMouseOut="escondeLayer('divAH1');">Alex Holzwarth</a> – Bateria em todas as faixas exceto na faixa 7.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTN1');" onMouseOut="escondeLayer('divTN1');">Thomas Nack</a> – Bateria na faixa 7.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divAM1" name="nm_divAM1">
                         <p>
                             <img class="css" src="img/angra/am.png" width="150px;" height="130px;">
-                            Andre Coelho Matos ( 14 de setembro de 1971 —  8 de junho de 2019) foi um cantor, compositor, maestro,
+                            Andre Coelho Matos ( 14 de setembro de 1971 — 8 de junho de 2019) foi um cantor, compositor, maestro,
                             produtor e pianista brasileiro, conhecido por ter sido vocalista das bandas Viper, Angra e Shaman. O artista vendeu
                             milhões de cópias durante a sua carreira
                             <br />
@@ -156,20 +137,18 @@
                             <img class="css" src="img/angra/tn.jpg" width="150px;" height="130px;"> ...
                         </p>
                     </div>
-                    <br>
-
-                    <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

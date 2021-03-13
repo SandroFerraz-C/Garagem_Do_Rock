@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -70,8 +53,10 @@
                 <table border="1px" width="45%">
                     <tr>
                         <td width="15%" height="10%">Nivel</td>
-                        <td width="15%">Data</td>
+                        <td width="15%">Álbuns Vendidos</td>
                     </tr>
+
+
                     <tr>
                         <td width="15%">Ouro </td>
                         <td> + 500.000 (EUA.)</td>
@@ -93,14 +78,16 @@
                     <iframe src="https://open.spotify.com/embed/playlist/5x5qxt3IU7cMILGG88jMOu" width="100%" height="500" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divTI9');" onMouseOut="escondeLayer('divTI9');">Tony Iommi</a> – Guitarra.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRJD9');" onMouseOut="escondeLayer('divRJD9');">Ronnie James Dio</a> – Vocais. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath9');" onMouseOut="escondeLayer('divBW_black_sabbath9');">Bill Ward</a> – Bateria.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGN9');" onMouseOut="escondeLayer('divGN9');">Geoff Nicholls</a> – Teclados. </li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI9');" onMouseOut="escondeLayer('divTI9');">Tony Iommi</a> – Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRJD9');" onMouseOut="escondeLayer('divRJD9');">Ronnie James Dio</a> – Vocais. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath9');" onMouseOut="escondeLayer('divBW_black_sabbath9');">Bill Ward</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGN9');" onMouseOut="escondeLayer('divGN9');">Geoff Nicholls</a> – Teclados. </li>
+                        </ul>
+                    </nav>
                     <br /><br />
 
 
@@ -148,20 +135,19 @@
                             <br /><br />
                         </p>
                     </div>
-  
-
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
+
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

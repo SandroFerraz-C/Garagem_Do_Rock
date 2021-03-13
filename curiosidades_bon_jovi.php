@@ -1,92 +1,52 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-
-
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
-    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-
-
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link href="css/css_loja.css" rel="stylesheet" />
-
-</head>
+<?php
+include_once("header_curiosidades.php");
+?>
 
 <body>
 
     <section id="cabecalho">
-        <!-- inico topo-->
         <?php include_once("cabecalho.php"); ?>
     </section>
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre Bon Jovi</h1>
-        <br><br>
+        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
-
             <div class="botao_acdc">
-
-
 
                 <button class="btn1" data-toggle="collapse" data-target="#demo1">Curiosidade 01</button>
 
                 <div id="demo1" class="collapse">
                     <br />
-                    <p>
-                        - Jon Bon Jovi queria ser Físico nuclear aos 7 anos de idade.
-                    </p>
+                    <p> - Jon Bon Jovi queria ser Físico nuclear aos 7 anos de idade.</p>
                 </div>
                 <br /><br />
-
 
                 <button class="btn2" data-toggle="collapse" data-target="#demo2">Curiosidade 02</button>
 
                 <div id="demo2" class="collapse">
                     <br />
-                    <p>
-                        - Jon Bon Jovi o vocalista da banda, já teve uma participação especial na novela Malhação(Globo) numa visita ao Brasil no ano de 1997
-                        ao lado de Luana Piovani.
-                    </p>
+                    <p>- Jon Bon Jovi o vocalista da banda, já teve uma participação especial na novela Malhação(Globo) numa visita ao Brasil no ano de 1997
+                        ao lado de Luana Piovani.</p>
                 </div>
                 <br /><br />
-
 
                 <button class="btn3" data-toggle="collapse" data-target="#demo3">Curiosidade 03</button>
 
                 <div id="demo3" class="collapse">
                     <br />
-                    <p>
-                        - Quando Jon conheceu sua esposa Dorothea, ele era muito tímido para se declarar. Então ele fingiu que não sabia de uma matéria da
+                    <p>- Quando Jon conheceu sua esposa Dorothea, ele era muito tímido para se declarar. Então ele fingiu que não sabia de uma matéria da
                         escola e pediu para que ela o ensinasse. Assim, ele começou a se aproximar de Dorothea, a quem chamava de Dot. </p>
                 </div>
                 <br /><br />
-
-
 
                 <button class="btn4" data-toggle="collapse" data-target="#demo4">Curiosidade 04</button>
 
                 <div id="demo4" class="collapse">
                     <br />
-                    <p>
-                        - Filho da coelhinha da Playboy Carol Sharkey com um cabeleireiro da marinha. Jon desde criança sonhava em ser um astro de rock..
-                    </p>
+                    <p>- Filho da coelhinha da Playboy Carol Sharkey com um cabeleireiro da marinha. Jon desde criança sonhava em ser um astro de rock..</p>
                 </div>
                 <br /> <br />
 
@@ -94,10 +54,8 @@
 
                 <div id="demo5" class="collapse">
                     <br />
-                    <p>
-                        - Em 29 de abril de 1989, Jon casou-se com a namorada dos tempos de escola, Dorothea Hurley, e tem 4 filhos; Stephanie,
-                        Jesse James, Jacob e Romeo.
-                    </p>
+                    <p>- Em 29 de abril de 1989, Jon casou-se com a namorada dos tempos de escola, Dorothea Hurley, e tem 4 filhos; Stephanie,
+                        Jesse James, Jacob e Romeo.</p>
                 </div>
                 <br /><br />
 
@@ -105,9 +63,7 @@
 
                 <div id="demo6" class="collapse">
                     <br />
-                    <p>
-                        - O último prêmio que a banda Bon Jovi ganhou foi histórico: eles foram os primeiros a ganhar o prêmio Ícone Global, em 2010.
-                    </p>
+                    <p>- O último prêmio que a banda Bon Jovi ganhou foi histórico: eles foram os primeiros a ganhar o prêmio Ícone Global, em 2010.</p>
                 </div>
                 <br /><br />
 
@@ -115,9 +71,7 @@
 
                 <div id="demo7" class="collapse">
                     <br />
-                    <p>
-                        - O jon já fez vários trabalhos como ator, participou dos filmes ''Cry Wolf'', ''Corrente do bem'' e foi protagonista do filme ''O Sedutor''.
-                    </p>
+                    <p>- O jon já fez vários trabalhos como ator, participou dos filmes ''Cry Wolf'', ''Corrente do bem'' e foi protagonista do filme ''O Sedutor''.</p>
                 </div>
                 <br /><br />
 
@@ -125,8 +79,7 @@
 
                 <div id="demo8" class="collapse">
                     <br />
-                    <p>
-                        - Em 2011, o roqueiro entrou no mundo da culinária e abriu seu próprio restaurante, o JBJ Soul Kitchen (cozinha da alma).
+                    <p>- Em 2011, o roqueiro entrou no mundo da culinária e abriu seu próprio restaurante, o JBJ Soul Kitchen (cozinha da alma).
                         Sem preços nos cardápios, a casa propõe refeições para pessoas que trabalham voluntariamente no local, seja preparando
                         pratos ou atendendo mesas. Com apenas uma hora de trabalho beneficiente, o colaborador ganha direito a até quatro refeições.
                         <br />
@@ -136,15 +89,12 @@
                 </div>
                 <br /> <br />
 
-
                 <button class="btn9" data-toggle="collapse" data-target="#demo9">Curiosidade 09</button>
 
                 <div id="demo9" class="collapse">
                     <br />
-                    <p>
-                        - Apaixonado por carros, Bon Jovi tem uma coleção de máquinas potentes. Entre os mimos do cantor estão um Dodge Viper,
-                        dois Corvetes, dois Jeepes, um Mustang Shelby, um clássico Lincoln Premier 1957, um Camaro e uma Ferrari.
-                    </p>
+                    <p>- Apaixonado por carros, Bon Jovi tem uma coleção de máquinas potentes. Entre os mimos do cantor estão um Dodge Viper,
+                        dois Corvetes, dois Jeepes, um Mustang Shelby, um clássico Lincoln Premier 1957, um Camaro e uma Ferrari.</p>
                 </div>
                 <br /><br />
 
@@ -152,11 +102,9 @@
 
                 <div id="demo10" class="collapse">
                     <br />
-                    <p>
-                        - Nos anos 80, quando já namorava Dorothea, o cantor e sua atual esposa entraram bêbados em uma pista de patinação no gelo no Central Park. 
-                        Abordado por policiais, Jon tentou explicar quem era às autoridades, mas como ambos estavam sem documentos, acabaram entrando 
-                        em outra fria e foram presos. 
-                    </p>
+                    <p>- Nos anos 80, quando já namorava Dorothea, o cantor e sua atual esposa entraram bêbados em uma pista de patinação no gelo no Central Park.
+                        Abordado por policiais, Jon tentou explicar quem era às autoridades, mas como ambos estavam sem documentos, acabaram entrando
+                        em outra fria e foram presos.</p>
                 </div>
                 <br /><br />
 
@@ -164,10 +112,8 @@
 
                 <div id="demo11" class="collapse">
                     <br />
-                    <p>
-                        - Quando o furacão Hugo assolou os Estado Unidos em outubro de 1989, Jon e seu irmão Tony receberam uma medalha de honra 
-                        por participarem do salvamento de algumas vítimas.  
-                    </p>
+                    <p>- Quando o furacão Hugo assolou os Estado Unidos em outubro de 1989, Jon e seu irmão Tony receberam uma medalha de honra
+                        por participarem do salvamento de algumas vítimas.</p>
                 </div>
                 <br /><br />
 
@@ -175,10 +121,8 @@
 
                 <div id="demo12" class="collapse">
                     <br />
-                    <p>
-                        - Jon, além de ser o frontman da banda, ainda deu um pulinho na carreira de ator. Participou de um total de 14 filmes, 
-                        protagonizando cinco destes.
-                    </p>
+                    <p>- Jon, além de ser o frontman da banda, ainda deu um pulinho na carreira de ator. Participou de um total de 14 filmes,
+                        protagonizando cinco destes.</p>
                 </div>
                 <br /> <br />
 
@@ -186,11 +130,9 @@
 
                 <div id="demo13" class="collapse">
                     <br />
-                    <p>
-                        - A primeira música da banda, Runaway, foi enviada para diversas gravadoras, como Atlantic Records e Mercury. Mas nenhuma 
-                        delas aceitou. Jon, então, pediu para que John Lassman veiculasse a música na programação de sua rádio. Ela tornou-se um 
-                        sucesso e a Mercury logo correu atrás de sua atitude anterior.
-                    </p>
+                    <p>- A primeira música da banda, Runaway, foi enviada para diversas gravadoras, como Atlantic Records e Mercury. Mas nenhuma
+                        delas aceitou. Jon, então, pediu para que John Lassman veiculasse a música na programação de sua rádio. Ela tornou-se um
+                        sucesso e a Mercury logo correu atrás de sua atitude anterior.</p>
                 </div>
                 <br /><br />
 
@@ -198,10 +140,8 @@
 
                 <div id="demo14" class="collapse">
                     <br />
-                    <p>
-                        - Ele largou a escola para gravar com seu primo Tony Bongiovi no projeto Power Station e passou a trabalhar como 
-                        zelador no próprio estúdio de gravação.
-                    </p>
+                    <p>- Ele largou a escola para gravar com seu primo Tony Bongiovi no projeto Power Station e passou a trabalhar como
+                        zelador no próprio estúdio de gravação.</p>
                 </div>
                 <br /><br />
 
@@ -209,11 +149,8 @@
 
                 <div id="demo15" class="collapse">
                     <br />
-                    <p>
-                        - Bon Jovi tem como esporte preferido o futebol americano. Apesar disso, seus canais favoritos na TV não são os esportivos. 
-                        Ele lista MTV, Cartoon e CNN e afirma que gosta muito de desenhos animados, principalmente do Tio Patinhas.
-
-                    </p>
+                    <p>- Bon Jovi tem como esporte preferido o futebol americano. Apesar disso, seus canais favoritos na TV não são os esportivos.
+                        Ele lista MTV, Cartoon e CNN e afirma que gosta muito de desenhos animados, principalmente do Tio Patinhas.</p>
                 </div>
                 <br /><br />
 
@@ -221,10 +158,8 @@
 
                 <div id="demo16" class="collapse">
                     <br />
-                    <p>
-                        - Outras curiosidades são que o cantor não usa cuecas, tem três tatuagens - o símbolo do Super-Homem no ombro esquerdo, a cara de 
-                        um búfalo no ombro direito, e um pequeno dragão alado no tornozelo esquerdo.
-                    </p>
+                    <p>- Outras curiosidades são que o cantor não usa cuecas, tem três tatuagens - o símbolo do Super-Homem no ombro esquerdo, a cara de
+                        um búfalo no ombro direito, e um pequeno dragão alado no tornozelo esquerdo.</p>
                 </div>
                 <br /> <br />
 
@@ -232,10 +167,8 @@
 
                 <div id="demo17" class="collapse">
                     <br />
-                    <p>
-                        - Bon Jovi já foi preso tambem por vender pôsteres piratas do lado de fora do Madison Square Garden, na tentativa de juntar dinheiro 
-                        para comprar um ingresso para o show do Bruce Springstein,.
-                    </p>
+                    <p>- Bon Jovi já foi preso tambem por vender pôsteres piratas do lado de fora do Madison Square Garden, na tentativa de juntar dinheiro
+                        para comprar um ingresso para o show do Bruce Springstein.</p>
                 </div>
                 <br /><br />
 
@@ -243,9 +176,7 @@
 
                 <div id="demo18" class="collapse">
                     <br />
-                    <p>
-                        - Bon Jovi esteve no Brasil algumas vezes e em especial em 1995 e em 2010, quando tocou em São e no Rio de Janeiro.
-                    </p>
+                    <p>- Bon Jovi esteve no Brasil algumas vezes e em especial em 1995 e em 2010, quando tocou em São e no Rio de Janeiro.</p>
                 </div>
                 <br /><br />
 
@@ -253,11 +184,9 @@
 
                 <div id="demo19" class="collapse">
                     <br />
-                    <p>
-                        - Gravado em março de 2019, o álbum ‘2020’ sairia originalmente em maio de 2020, mas foi adiado para outubro de 2020 devido à pandemia. 
-                        Com a alteração de data, foram feitas duas mudanças na tracklist: ‘Do What You Can’ e ‘American Reckoning’, compostas nos últimos meses, 
-                        substituíram ‘Luv Can’ e ‘Shine’, que estavam na lista original.
-                    </p>
+                    <p>- Gravado em março de 2019, o álbum ‘2020’ sairia originalmente em maio de 2020, mas foi adiado para outubro de 2020 devido à pandemia.
+                        Com a alteração de data, foram feitas duas mudanças na tracklist: ‘Do What You Can’ e ‘American Reckoning’, compostas nos últimos meses,
+                        substituíram ‘Luv Can’ e ‘Shine’, que estavam na lista original.</p>
                 </div>
                 <br /><br />
 
@@ -265,10 +194,8 @@
 
                 <div id="demo20" class="collapse">
                     <br />
-                    <p>
-                        - Outro fato curioso é que o Jon Bon Jovi é dono da banda. Contratualmente, o conjunto pertence a ele, e os demais 
-                        membros são seus empregados.
-                    </p>
+                    <p>- Outro fato curioso é que o Jon Bon Jovi é dono da banda. Contratualmente, o conjunto pertence a ele, e os demais
+                        membros são seus empregados.</p>
                 </div>
                 <br /> <br />
 
@@ -276,10 +203,8 @@
 
                 <div id="demo21" class="collapse">
                     <br />
-                    <p>
-                        - Durante seus quase 40 anos (!) de estrada, a banda passou por algumas alterações na formação. O baixista Alex John Such 
-                        deixou os companheiros em 1994, e o guitarrista Richie Sambora em 2013, após 30 anos de contribuição.
-                    </p>
+                    <p>- Durante seus quase 40 anos (!) de estrada, a banda passou por algumas alterações na formação. O baixista Alex John Such
+                        deixou os companheiros em 1994, e o guitarrista Richie Sambora em 2013, após 30 anos de contribuição.</p>
                 </div>
                 <br /><br />
 
@@ -287,10 +212,8 @@
 
                 <div id="demo22" class="collapse">
                     <br />
-                    <p>
-                        - Apesar de não fazerem mais parte do conjunto, em 2018, quando o Bon Jovi foi convidado a entregar o Hall da Fama do Rock n’ Roll, 
-                        a banda fez questão de ter os ex-companheiros consigo no palco para celebrar esse momento juntos. 
-                    </p>
+                    <p>- Apesar de não fazerem mais parte do conjunto, em 2018, quando o Bon Jovi foi convidado a entregar o Hall da Fama do Rock n’ Roll,
+                        a banda fez questão de ter os ex-companheiros consigo no palco para celebrar esse momento juntos. </p>
                 </div>
             </div>
             <br />
@@ -304,74 +227,53 @@
             <h2>Albun de Fotos do Bon Jovi</h2>
             <p class="ay_hj">Bon Jovi</p>
             <p class="ay_antes">Bon Jovi</p>
-            <p class="bj_hj">Richie Sambora  </p>
-            <p class="bj_antes">Richie Sambora  </p>
-            <img src="img/bon jovi/bon jovi_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/bon jovi_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
+            <p class="bj_hj">Richie Sambora </p>
+            <p class="bj_antes">Richie Sambora </p>
+
+            <img src="img/bon jovi/bon jovi_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/bon jovi_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
             <p class="ay_hj">Phil X </p>
             <p class="ay_antes">Phil X </p>
             <p class="bj_hj">Alec John</p>
             <p class="bj_antes">Alec John</p>
-            <img src="img/bon jovi/rs_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/rs_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/px_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/px_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
+
+            <img src="img/bon jovi/rs_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/rs_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/px_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/px_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
             <p class="ay_hj">Hugh McDonald</p>
             <p class="ay_antes">Hugh McDonald</p>
             <p class="bj_hj">David Bryan</p>
             <p class="bj_antes">David Bryan</p>
 
+            <img src="img/bon jovi/alec_hj.png" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/alec_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/hm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/hm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
-            <img src="img/bon jovi/alec_hj.png" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/alec_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/hm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/hm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <p class="ay_hj">Tico Torres  </p>
-            <p class="ay_antes">Tico Torres  </p>
-            <img src="img/bon jovi/db_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/db_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
+            <p class="ay_hj">Tico Torres </p>
+            <p class="ay_antes">Tico Torres </p>
 
+            <img src="img/bon jovi/db_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/db_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
-            <img src="img/bon jovi/tc_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/tt_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-            <img src="img/bon jovi/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style= "border-radius: 15px;">
-
-
+            <img src="img/bon jovi/tc_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/tt_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img src="img/bon jovi/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
         </div>
 
         </section>
 
-        <footer id="rodape">
-            <?php include_once("rodape.php"); ?>
-        </footer>
-
-
     </div>
- 
-    <script language="javascript">
 
-function aumenta(obj){
-    obj.height=obj.height*1.1;
-	obj.width=obj.width*1.1;
-}
- 
-function diminui(obj){
-	obj.height=obj.height/1.1;
-	obj.width=obj.width/1.1;
-}
-
-</script>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-</body>
-
-</html>
+    <footer id="rodape">
+        <?php include_once("footer_curiosidades.php"); ?>
+    </footer>

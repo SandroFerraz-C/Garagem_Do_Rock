@@ -1,24 +1,8 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_capital_inicial.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-
     <main>
         <section class="content-section">
 
@@ -52,18 +36,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/2pyI9Ja5SVjBeEgPntCjBo" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
-                    
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divDOP02');" onMouseOut="escondeLayer('divDOP02');">Dinho Ouro Preto</a> – Voz.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divLJ02');" onMouseOut="escondeLayer('divLJ02');">Loro Jones</a> – Guitarra e Violão.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divFL02');" onMouseOut="escondeLayer('divFL02');">Flávio Lemos</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divFEL02');" onMouseOut="escondeLayer('divFEL02');">Fê Lemos</a> – Bateria.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divBB02');" onMouseOut="escondeLayer('divBB02');">Bozzo Barretti</a> – Teclados e Pianos.</li>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divDOP02');" onMouseOut="escondeLayer('divDOP02');">Dinho Ouro Preto</a> – Voz.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divLJ02');" onMouseOut="escondeLayer('divLJ02');">Loro Jones</a> – Guitarra e Violão.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFL02');" onMouseOut="escondeLayer('divFL02');">Flávio Lemos</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFEL02');" onMouseOut="escondeLayer('divFEL02');">Fê Lemos</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBB02');" onMouseOut="escondeLayer('divBB02');">Bozzo Barretti</a> – Teclados e Pianos.</li>
+                        </ul>
+                    </nav>
                     <br />
-
 
                     <div id="divDOP02" name="nm_divDOP02">
                         <p>
@@ -73,7 +57,6 @@
                             Ouro Preto e meio irmão do também músico Dado Villa-Lobos.
                             <br /><br /><br />
                     </div>
-
 
                     <div id="divLJ02" name="nm_divLJ02">
                         <p>
@@ -115,18 +98,18 @@
                         </p>
                     </div>
 
-                    <a href="capital_inicial.php"><button>Voltar para Albuns do Capital Inicial</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
+
             </section>
 
+            <footer>
+                <a href="capital_inicial.php"><button>Voltar para Albuns do Capital Inicial</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

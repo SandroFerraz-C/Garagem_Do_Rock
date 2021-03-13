@@ -1,53 +1,24 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_barao_vermelho.css">
-
-
-    <!--
-    <link rel="stylesheet" type="text/css" href="css/ti.css">
-    <link rel="stylesheet" type="text/css" href="css/tm.css">
-    <link rel="stylesheet" type="text/css" href="css/lc.css">
-    <link rel="stylesheet" type="text/css" href="css/cp.css">
-    <link rel="stylesheet" type="text/css" href="css/gn.css">
-    <link rel="stylesheet" type="text/css" href="css/bm.css">
--->
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
 
             <h1>Supermercados da Vida (1992)</h1>
-            <br />
 
             <p>
                 Supermercados da Vida é o oitavo álbum da banda Barão Vermelho, lançado em 1992 pela WEA.
             </p>
-            <br />
+
 
             <p>
                 O disco marca a estréia do baixista Rodrigo Santos no lugar de Dadi. Rodrigo estava desempregado em decorrência da dissolução da banda
                 de Lobão, que havia optado por carreira solo. Então Guto entrou em contato com Rodrigo Santos e oficializou a vinda do novo baixista.
             </p>
-            <br />
+
 
             <p>
                 Para produzir a capa do álbum foi chamado o artista plástico Antonio Peticov, entretanto seu trabalho não agradou o grupo que acabou
@@ -67,15 +38,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/1vNRZnmup1KhNaIxh8mw1A" width="98%" height="640" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divRF07');" onMouseOut="escondeLayer('divRF07');"> Roberto Frejat </a> – Vocal e Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divFM07');" onMouseOut="escondeLayer('divFM07');"> Fernando Magalhães </a> – Guitarra e Violão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS07');" onMouseOut="escondeLayer('divRS07');"> Rodrigo Santos </a> – Baixo e Coro em "Flores do Mal". </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGG07');" onMouseOut="escondeLayer('divGG07');"> Guto Goffi </a> – Bateria e Percussão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divPNH07');" onMouseOut="escondeLayer('divPNH07');"> Peninha </a> – Percussão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMB07');" onMouseOut="escondeLayer('divMB07');"> Maurício Barros </a> – Teclados e Piano. </li>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divRF07');" onMouseOut="escondeLayer('divRF07');"> Roberto Frejat </a> – Vocal e Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFM07');" onMouseOut="escondeLayer('divFM07');"> Fernando Magalhães </a> – Guitarra e Violão. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRS07');" onMouseOut="escondeLayer('divRS07');"> Rodrigo Santos </a> – Baixo e Coro em "Flores do Mal". </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGG07');" onMouseOut="escondeLayer('divGG07');"> Guto Goffi </a> – Bateria e Percussão. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divPNH07');" onMouseOut="escondeLayer('divPNH07');"> Peninha </a> – Percussão. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divMB07');" onMouseOut="escondeLayer('divMB07');"> Maurício Barros </a> – Teclados e Piano. </li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -137,20 +111,18 @@
                             sonora de telenovela.
                         </p>
                     </div>
-                    <br />
-
-                    <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

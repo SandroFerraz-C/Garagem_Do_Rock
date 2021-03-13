@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_angra.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -52,6 +34,7 @@
                         <td width="15%">Albuns Vendidos</td>
                     </tr>
 
+
                     <tr>
                         <td width="15%"> Ouro</td>
                         <td> + 100.000 (Alemanha)</td>
@@ -68,6 +51,7 @@
             </div>
             </p>
             <br />
+
             <p>Duração do album: 52 min. 51 seg.</p>
             <p>Gravadora(s): Paradoxx Music.</p>
             <p>Produção: Dennis Ward. </p>
@@ -80,18 +64,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/0of1zpYbO6V1AwgtKlU6s4" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divEF5');" onMouseOut="escondeLayer('divEF5');">Edu Falaschi</a> – Vocal.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRB5');" onMouseOut="escondeLayer('divRB5');">Rafael Bittencourt</a> – Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divKL5');" onMouseOut="escondeLayer('divKL5');">Kiko Loureiro</a> – Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divFA5');" onMouseOut="escondeLayer('divFA5');">Felipe Andreoli</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divAP5');" onMouseOut="escondeLayer('divAP5');">Aquiles Priester</a> – Bateria.</li>
-
-
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divEF5');" onMouseOut="escondeLayer('divEF5');">Edu Falaschi</a> – Vocal.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRB5');" onMouseOut="escondeLayer('divRB5');">Rafael Bittencourt</a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divKL5');" onMouseOut="escondeLayer('divKL5');">Kiko Loureiro</a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFA5');" onMouseOut="escondeLayer('divFA5');">Felipe Andreoli</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divAP5');" onMouseOut="escondeLayer('divAP5');">Aquiles Priester</a> – Bateria.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divEF5" name="nm_divEF5">
@@ -101,7 +85,6 @@
                             musical de renome internacional. Após integrar os grupos Angra, Mitrium, Venus, Symbols e Almah, o músico atualmente está em
                             carreira solo tocando os clássicos de sua época de Angra.
                             <br />
-
                             Edu Falaschi também ministra workshops de técnicas vocais e faz palestras corporativas pelo Brasil.
                         </p>
                     </div>
@@ -152,20 +135,18 @@
                             Iniciou sua vida musical estudando piano clássico durante quatro anos, mas depois de ouvir sons do Rush, Deep Purple, Led Zeppelin etc, Ricardo se decidiu pela bateria, aos 13 anos de idade.
                         </p>
                     </div>
-                    <br>
-
-                    <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

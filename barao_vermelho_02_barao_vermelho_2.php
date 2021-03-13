@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_barao_vermelho.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -50,15 +34,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/3LQCcxRDcdaOCpnrTZv38Z" width="100%" height="640" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divCZZ02');" onMouseOut="escondeLayer('divCZZ02');">Cazuza</a> – Vocal.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRF02');" onMouseOut="escondeLayer('divRF02');">Roberto Frejat</a> – Guitarra e Violão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMB02');" onMouseOut="escondeLayer('divMB02');">Maurício Barros</a> – Teclados e Piano. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDE02');" onMouseOut="escondeLayer('divDE02');">Dé</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGG02');" onMouseOut="escondeLayer('divGG02');">Guto Goffi</a> – Bateria e Percussão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divPNH02');" onMouseOut="escondeLayer('divPNH02');">Peninha</a> – (Como artista convidado) Percussão. </li>
-                    </ul>
+                    <nav>
+                        <h3>Créditos</h3>
+
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divCZZ02');" onMouseOut="escondeLayer('divCZZ02');">Cazuza</a> – Vocal.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRF02');" onMouseOut="escondeLayer('divRF02');">Roberto Frejat</a> – Guitarra e Violão. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divMB02');" onMouseOut="escondeLayer('divMB02');">Maurício Barros</a> – Teclados e Piano. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDE02');" onMouseOut="escondeLayer('divDE02');">Dé</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGG02');" onMouseOut="escondeLayer('divGG02');">Guto Goffi</a> – Bateria e Percussão. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divPNH02');" onMouseOut="escondeLayer('divPNH02');">Peninha</a> – (Como artista convidado) Percussão. </li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -85,7 +72,7 @@
                     <div id="divMB02" name="nm_divMB02">
                         <p>
                             <img class="css" src="img/barao vermelho/mb.jpg" width="150px;" height="130px;">
-                            Maurício Carvalho de Barros, "Maurício Barros"  é um tecladista
+                            Maurício Carvalho de Barros, "Maurício Barros" é um tecladista
                             brasileiro e membro fundador da banda Barão Vermelho.
                             <br />
                             No final da década de 1980, foi vocalista e tecladista da banda Buana 4, chegando a gravar um LP e música em trilha
@@ -101,7 +88,7 @@
                             integrantes originais do Barão Vermelho até 1990.
                             <br />
                             Participou da banda Telefone Gol. Em 2011, juntou-se a Toni Platão, Dado Villa-Lobos e Charles Gavin para formar o
-                            supergrupo Panamericana, que toca sucessos do rock sul-americano.                           
+                            supergrupo Panamericana, que toca sucessos do rock sul-americano.
                         </p>
                     </div>
 
@@ -126,20 +113,18 @@
                             <br /><br />
                         </p>
                     </div>
-                    <br />
-
-                    <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

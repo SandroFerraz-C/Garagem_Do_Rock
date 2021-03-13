@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_bon_jovi.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
     <main>
@@ -25,7 +9,7 @@
             <h1>Keep the Faith (1992)</h1>
 
             <p>
-               - Keep The Faith é o quinto álbum (cujo nome original era "Revenge") da banda Bon Jovi, lançado em 1992.
+                - Keep The Faith é o quinto álbum (cujo nome original era "Revenge") da banda Bon Jovi, lançado em 1992.
             </p>
 
             <p>
@@ -49,7 +33,7 @@
 
             <p>
                 Após a conclusão da turnê - New Jersey -, a banda entrou em um hiato. Durante o tempo livre, Jon Bon Jovi escreveu a trilha sonora de
-               - Young Guns II -, que foi lançado em 1990, e Richie Sambora lançou seu primeiro álbum solo chamado - Stranger in This Town.
+                - Young Guns II -, que foi lançado em 1990, e Richie Sambora lançou seu primeiro álbum solo chamado - Stranger in This Town.
                 Nessa época, Jon Bon Jovi demitiu seu empresário de longa data, Doc McGhee, e criou o Bon Jovi Management. Jon Bon Jovi decidiu
                 assumir um papel maior e ter mais responsabilidades dentro da banda. Em outubro de 1991, a banda foi para a ilha caribenha de St.
                 Thomas discutir planos para o futuro; Os problemas internos da banda foram resolvidos e eles estavam prontos para um retorno.
@@ -59,100 +43,101 @@
             <p>
                 O album atingil certificação:
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Álbuns Vendidos</td>
-                        </tr>
+            <div class="tabela">
+                <table border="1px" width="45%">
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Álbuns Vendidos</td>
+                    </tr>
 
-                        <tr>
-                            <td width="15%">2X Platina </td>
-                            <td> + 2.000.000 (Estados Unidos)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Platina </td>
-                            <td> + 500.000 (Alemanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">5X Platina </td>
-                            <td> + 500.000 (Canadá)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> 2X Platina </td>
-                            <td> + 400.000 (Japão)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina </td>
-                            <td>+ 300.000 (Reino Unido)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Platina </td>
-                            <td> + 250.000 (Coreia do Sul)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">3X Platina </td>
-                            <td> + 210.000 (Austrália)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro</td>
-                            <td> + 150.000 (França)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">3X Platina </td>
-                            <td> + 150.000 (Suíça)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">2X Platina </td>
-                            <td> + 100.000 (Áustria)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Platina </td>
-                            <td> + 100.000 (Espanha )</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Platina </td>
-                            <td> + 100.000 (Holanda)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 100.000 (México)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Platina </td>
-                            <td> + 100.000 (Suécia )</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro </td>
-                            <td> + 50.000 (Dinamarca )</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 40.000 (Finlândia)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro </td>
-                            <td> + 30.000 (Argentina)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro </td>
-                            <td> + 25.000 (Noruega )</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Platina </td>
-                            <td> + 10.000 (Taiwan )</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro </td>
-                            <td> + 7.500 (Irlanda)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro </td>
-                            <td> + 7.500 (Nova Zelândia )</td>
-                        </tr>
 
-                    </table>
-                </div>
+                    <tr>
+                        <td width="15%">2X Platina </td>
+                        <td> + 2.000.000 (Estados Unidos)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Platina </td>
+                        <td> + 500.000 (Alemanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">5X Platina </td>
+                        <td> + 500.000 (Canadá)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 2X Platina </td>
+                        <td> + 400.000 (Japão)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina </td>
+                        <td>+ 300.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Platina </td>
+                        <td> + 250.000 (Coreia do Sul)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">3X Platina </td>
+                        <td> + 210.000 (Austrália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro</td>
+                        <td> + 150.000 (França)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">3X Platina </td>
+                        <td> + 150.000 (Suíça)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">2X Platina </td>
+                        <td> + 100.000 (Áustria)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Platina </td>
+                        <td> + 100.000 (Espanha )</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Platina </td>
+                        <td> + 100.000 (Holanda)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 100.000 (México)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Platina </td>
+                        <td> + 100.000 (Suécia )</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro </td>
+                        <td> + 50.000 (Dinamarca )</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 40.000 (Finlândia)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro </td>
+                        <td> + 30.000 (Argentina)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro </td>
+                        <td> + 25.000 (Noruega )</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Platina </td>
+                        <td> + 10.000 (Taiwan )</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro </td>
+                        <td> + 7.500 (Irlanda)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Ouro </td>
+                        <td> + 7.500 (Nova Zelândia )</td>
+                    </tr>
+
+                </table>
+            </div>
             </p>
             <br /><br />
 
@@ -168,16 +153,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/7sCyjARvScQSr6WbG8gsWS" width="100%" height="700" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ05');" onMouseOut="escondeLayer('divBJ05');">Jon Bon Jovi</a> – Vocal principal e Guitarras adicionais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS05');" onMouseOut="escondeLayer('divRS05');">Richie Sambora</a> – Guitarras principais e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divAJ05');" onMouseOut="escondeLayer('divAJ05');">Alec John Such</a> – Baixo e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDB05');" onMouseOut="escondeLayer('divDB05');">David Bryan</a> – Teclado e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTT05');" onMouseOut="escondeLayer('divTT05');">Tico Torres</a> – Bateria e Percussão.</li>
-                    </ul>
-                   <br />
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBJ05');" onMouseOut="escondeLayer('divBJ05');">Jon Bon Jovi</a> – Vocal principal e Guitarras adicionais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRS05');" onMouseOut="escondeLayer('divRS05');">Richie Sambora</a> – Guitarras principais e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divAJ05');" onMouseOut="escondeLayer('divAJ05');">Alec John Such</a> – Baixo e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDB05');" onMouseOut="escondeLayer('divDB05');">David Bryan</a> – Teclado e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTT05');" onMouseOut="escondeLayer('divTT05');">Tico Torres</a> – Bateria e Percussão.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divBJ05" name="nm_divBJ05">
@@ -235,20 +222,19 @@
                             <br /><br />
                         </p>
                     </div>
-                    <br />
-
-                    <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
+
             </section>
 
+            <footer>
+                <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

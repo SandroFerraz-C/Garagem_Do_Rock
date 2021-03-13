@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_angra.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -29,7 +11,7 @@
 
 
             <p>
-               - Secret Garden é o décimo álbum de estúdio da banda brasileira de heavy metal Angra lançado em 17 de dezembro de 2014.
+                - Secret Garden é o décimo álbum de estúdio da banda brasileira de heavy metal Angra lançado em 17 de dezembro de 2014.
             </p>
 
             <p>
@@ -68,18 +50,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/4tbxWD8Ebwhhs9ZuuNEOF7" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divFL09');" onMouseOut="escondeLayer('divFL09');">Fabio Lione</a> – Vocal.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRB09');" onMouseOut="escondeLayer('divRB09');">Rafael Bittencourt</a> – Guitarra, Vocal, Backing vocals. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divKL09');" onMouseOut="escondeLayer('divKL09');">Kiko Loureiro</a> – Guitarra e Backing vocals. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divFA09');" onMouseOut="escondeLayer('divFA09');">Felipe Andreoli</a> – Baixo e Backing vocals.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divBV09');" onMouseOut="escondeLayer('divBV09');">Bruno Valverde</a> – Bateria.</li>
-
-
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divFL09');" onMouseOut="escondeLayer('divFL09');">Fabio Lione</a> – Vocal.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRB09');" onMouseOut="escondeLayer('divRB09');">Rafael Bittencourt</a> – Guitarra, Vocal, Backing vocals. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divKL09');" onMouseOut="escondeLayer('divKL09');">Kiko Loureiro</a> – Guitarra e Backing vocals. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFA09');" onMouseOut="escondeLayer('divFA09');">Felipe Andreoli</a> – Baixo e Backing vocals.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBV09');" onMouseOut="escondeLayer('divBV09');">Bruno Valverde</a> – Bateria.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divFL09" name="nm_divFL09">
@@ -135,20 +117,18 @@
                             <br /><br />
                         </p>
                     </div>
-                    <br>
-
-                    <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

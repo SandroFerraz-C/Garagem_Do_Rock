@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_angra.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -29,21 +11,21 @@
 
 
             <p>
-               - Aqua é o nono álbum de estúdio da banda brasileira de heavy metal Angra.
+                - Aqua é o nono álbum de estúdio da banda brasileira de heavy metal Angra.
             </p>
-         
+
 
             <p>
                 É um álbum conceitual que gira em torno da peça - A Tempestade - de William Shakespeare, e marca a volta de Ricardo Confessori;
                 foi o último trabalho de estúdio com o baterista.
             </p>
-          
+
 
             <p>
                 O álbum foi lançado de forma independente no Brasil, já que a banda desejava ter total controle sobre o processo criativo do material.
                 Foi o último álbum que conta com o vocalista Edu Falaschi, que deixou a banda em 24 de maio de 2012.
             </p>
-           
+
 
             <p>
                 A letra de "Awake from Darkness" foi escrita pelo baixista Felipe Andreoli e descreve o momento em que Prospero se dá conta de que
@@ -51,7 +33,7 @@
                 reverter a situação, e aceita seu destino. Então ele percebe que, na escuridão, existe um sopro de luz: seu bom e fiel amigo
                 Gonzalo lhe deixou comida, roupas e seus livros de magia. Prospero então alcança a ilha, e retoma a esperança de superar sua condição.
             </p>
-           
+
 
             <p>
                 A letra de "Ashes", a faixa de encerramento, foi escrita por Kiko Loureiro e usa o último ato da peça, no qual Prospero reflete sobre o
@@ -74,16 +56,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/2fW2UepQrSBduTm5XjiOmG" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divEF8');" onMouseOut="escondeLayer('divEF8');">Edu Falaschi</a> – Vocal.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRB8');" onMouseOut="escondeLayer('divRB8');">Rafael Bittencourt</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divKL8');" onMouseOut="escondeLayer('divKL8');">Kiko Loureiro</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divFA8');" onMouseOut="escondeLayer('divFA8');">Felipe Andreoli</a> – Baixo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRC8');" onMouseOut="escondeLayer('divRC8');">Ricardo Confessori</a> – Bateria.</li>
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divEF8');" onMouseOut="escondeLayer('divEF8');">Edu Falaschi</a> – Vocal.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRB8');" onMouseOut="escondeLayer('divRB8');">Rafael Bittencourt</a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divKL8');" onMouseOut="escondeLayer('divKL8');">Kiko Loureiro</a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFA8');" onMouseOut="escondeLayer('divFA8');">Felipe Andreoli</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRC8');" onMouseOut="escondeLayer('divRC8');">Ricardo Confessori</a> – Bateria.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divEF8" name="nm_divEF8">
@@ -93,7 +77,6 @@
                             musical de renome internacional. Após integrar os grupos Angra, Mitrium, Venus, Symbols e Almah, o músico atualmente está em
                             carreira solo tocando os clássicos de sua época de Angra.
                             <br />
-
                             Edu Falaschi também ministra workshops de técnicas vocais e faz palestras corporativas pelo Brasil.
                         </p>
                     </div>
@@ -144,20 +127,18 @@
                             <br />
                         </p>
                     </div>
-                    <br>
-
-                    <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

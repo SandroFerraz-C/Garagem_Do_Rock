@@ -1,32 +1,13 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_aerosmith.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
 
             <h1>Get a Grip (1993)</h1>
-
 
             <p>
                 - Get a Grip é o décimo primeiro álbum do Aerosmith.
@@ -139,17 +120,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/3MexxCQDKOI2B3n7hX59MM" width="100%" height="800" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divST11');" onMouseOut="escondeLayer('divST11');">Steven Tyler</a> – Vocais, Percussão, Teclado.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJP11');" onMouseOut="escondeLayer('divJP11');">Joe Perry</a> – Guitarra e Background vocais. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTH11');" onMouseOut="escondeLayer('divTH11');">Tom Hamilton</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJK11');" onMouseOut="escondeLayer('divJK11');">Joey Kramer</a> – Bateria.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divBW11');" onMouseOut="escondeLayer('divBW11');">Brad Whitford</a> – Guitarra e Guitarra-base.</li>
-
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divST11');" onMouseOut="escondeLayer('divST11');">Steven Tyler</a> – Vocais, Percussão, Teclado.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divJP11');" onMouseOut="escondeLayer('divJP11');">Joe Perry</a> – Guitarra e Background vocais. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTH11');" onMouseOut="escondeLayer('divTH11');">Tom Hamilton</a> – Baixo. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divJK11');" onMouseOut="escondeLayer('divJK11');">Joey Kramer</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBW11');" onMouseOut="escondeLayer('divBW11');">Brad Whitford</a> – Guitarra e Guitarra-base.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divST11" name="nm_divST11">
@@ -207,20 +189,18 @@
                         </p>
                         <br />
                     </div>
-                    <br>
-
-                    <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

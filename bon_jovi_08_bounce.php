@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_bon_jovi.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
     <main>
@@ -117,12 +101,12 @@
                 </table>
             </div>
             </p>
-            
+
             <p>Duração do album: 49 min. 10 seg.</p>
             <p>Gravadora(s): Island Records.</p>
             <p>Produção: Luke Ebbin, Jon Bon Jovi, Richie Sambora. </p>
             <br /><br />
-            
+
 
             <section class="disco">
                 <table id="demo-table">
@@ -130,15 +114,17 @@
                     <iframe src="https://open.spotify.com/embed/playlist/6wBGvTLADCuOpKlox5RUU3" width="100%" height="700" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ08');" onMouseOut="escondeLayer('divBJ08');">Jon Bon Jovi</a> – Vocal principal e Guitarras adicionais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS08');" onMouseOut="escondeLayer('divRS08');">Richie Sambora</a> – Guitarras principais e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divHM08');" onMouseOut="escondeLayer('divHM08');">Hugh McDonald</a> (Como Convidado) – Baixo e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDB08');" onMouseOut="escondeLayer('divDB08');">David Bryan</a> – Teclado.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTT08');" onMouseOut="escondeLayer('divTT08');">Tico Torres</a> – Bateria e Percussão. </li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBJ08');" onMouseOut="escondeLayer('divBJ08');">Jon Bon Jovi</a> – Vocal principal e Guitarras adicionais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRS08');" onMouseOut="escondeLayer('divRS08');">Richie Sambora</a> – Guitarras principais e Vocal de apoio. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divHM08');" onMouseOut="escondeLayer('divHM08');">Hugh McDonald</a> (Como Convidado) – Baixo e Vocal de apoio. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDB08');" onMouseOut="escondeLayer('divDB08');">David Bryan</a> – Teclado.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTT08');" onMouseOut="escondeLayer('divTT08');">Tico Torres</a> – Bateria e Percussão. </li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -197,17 +183,17 @@
                             <br /><br />
                         </p>
                     </div>
-                    <br />
-
-                    <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
+
             </section>
 
+            <footer>
+                <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
 

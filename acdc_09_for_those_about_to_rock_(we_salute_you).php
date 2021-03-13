@@ -1,21 +1,6 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_acdc.css">
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -42,80 +27,79 @@
                 do álbum, "Let's Get It Up" e "For They About to Rock (We Salute You)", chegaram aos #13º e #15º lugares, respectivamente. O álbum vendeu cerca de sete milhões de cópias em todo o mundo, tornando-se um dos álbuns AC/DC mais vendidos em
                 todo o mundo. No entanto, isso marca uma grande queda nas vendas nos Estados Unidos, vendendo apenas 4 milhões como sequência do 25 milhões de - <a href="acdc_08_black_in_black.html" target="blank">Back in Black</a>.
             </p>
-            <br><br>
+            <br /><br />
 
             <p>
                 O album atingil certificação:
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Albuns Vendidos</td>
-                        </tr>
+            <div class="tabela">
+                <table border="1px" width="45%">
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Albuns Vendidos</td>
+                    </tr>
 
+                    <tr>
+                        <td width="15%"> 4X Platina</td>
+                        <td> + 4.000.000 (EUA.)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 500.000 (Alemanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Diamante</td>
+                        <td> + 500.000 (França)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 5X Platina</td>
+                        <td> + 350.000 (Austrália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 100.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 50.000 (Dinamarca)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 50.000 (Espanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 50.000 (Suíça)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 25.000 (Áustria)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 25.000 (Itália)</td>
+                    </tr>
+                    <tr>
 
-                        <tr>
-                            <td width="15%"> 4X Platina</td>
-                            <td> + 4.000.000 (EUA.)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 500.000 (Alemanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Diamante</td>
-                            <td> + 500.000 (França)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> 5X Platina</td>
-                            <td> + 350.000 (Austrália)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 100.000 (Reino Unido)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 50.000 (Dinamarca)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 50.000 (Espanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 50.000 (Suíça)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 25.000 (Áustria)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 25.000 (Itália)</td>
-                        </tr>
-                        <tr>
-
-                    </table>
-                </div>
+                </table>
+            </div>
             </p>
             <br />
 
             <p>Gênero(s):
-                <ul>
-                    <li>Hard rock</li>
-                    <li>Blues</li>
-                    <li>Rock</li>
-                    <li>Rock and Roll</li>
-                </ul>
+            <ul>
+                <li>Hard rock</li>
+                <li>Blues</li>
+                <li>Rock</li>
+                <li>Rock and Roll</li>
+            </ul>
             </p>
             <br />
 
             <p>Duração do album: 40 min. 10 seg. </p>
             <p>Gravadora(s): Atlantic Records, ALBERT.</p>
             <p>Produção: Robert John “Mutt” Lange / David Thoener</p>
-            <br>
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -123,16 +107,17 @@
                     <iframe src="https://open.spotify.com/embed/playlist/0zFvELO9cXr4cq71BTuoGf" width="100%" height="580" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ09');" onMouseOut="escondeLayer('divBJ09');">Brian Johnson</a> – Vocais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divAY09');" onMouseOut="escondeLayer('divAY09');">Angus Young</a> – Guitarra solo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMY09');" onMouseOut="escondeLayer('divMY09');">Malcolm Young</a> – Guitarra rítmica e Backing vocals.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divCW09');" onMouseOut="escondeLayer('divCW09');">Cliff Williams</a> – Baixo e Backing vocals.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divPH09');" onMouseOut="escondeLayer('divPH09');">Phil Rudd</a> – Bateria.</li>
-
-                    </ul>
-                    <br>
+                    <nav>
+                        <h3>Créditos</h3>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBJ09');" onMouseOut="escondeLayer('divBJ09');">Brian Johnson</a> – Vocais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divAY09');" onMouseOut="escondeLayer('divAY09');">Angus Young</a> – Guitarra solo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divMY09');" onMouseOut="escondeLayer('divMY09');">Malcolm Young</a> – Guitarra rítmica e Backing vocals.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divCW09');" onMouseOut="escondeLayer('divCW09');">Cliff Williams</a> – Baixo e Backing vocals.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divPH09');" onMouseOut="escondeLayer('divPH09');">Phil Rudd</a> – Bateria.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
                     <div id="divBJ09" name="nm_divBJ09">
                         <p>
@@ -145,8 +130,8 @@
                     <div id="divAY09" name="nm_divAY09">
                         <p>
                             <img class="css" src="img/angus.jpg" width="150px;" height="130px;"> Angus McKinnon Young (31 de março de 1955) é um guitarrista e compositor, conhecido por ser guitarrista solo, compositor, líder e co-fundador da banda AC/DC.
-                            <br> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
-                            <br> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                            <br /> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
+                            <br /> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
                         </p>
                     </div>
 
@@ -154,7 +139,7 @@
                         <p>
                             <img class="css" src="img/Malcolm.jpg" width="150px;" height="130px;"> Malcolm Mitchell Young (6 de janeiro de 1953 — 18 de novembro de 2017) foi um guitarrista e compositor escocês naturalizado australiano e fundador, junto
                             com seu irmão mais novo Angus Young, do AC/DC, da qual era o guitarrista rítmico, vocalista de apoio e compositor.
-                            <br> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
+                            <br /> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
                         </p>
                     </div>
 
@@ -174,11 +159,14 @@
                         </p>
                     </div>
 
-                    <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
             </section>
+
+            <footer>
+                <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
     <script type="text/javascript" src="js/Country.js"></script>
 

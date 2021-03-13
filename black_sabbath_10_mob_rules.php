@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -93,15 +75,17 @@
                     <iframe src="https://open.spotify.com/embed/playlist/3FpOhoZ5804neOt7c3JXOe" width="100%" height="550" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divTI10');" onMouseOut="escondeLayer('divTI10');">Tony Iommi</a> – Guitarra.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRJD10');" onMouseOut="escondeLayer('divRJD10');">Ronnie James Dio</a> – Vocais. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGB10');" onMouseOut="escondeLayer('divGB10');">Geezer Butler</a> – Baixo . </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divVA10');" onMouseOut="escondeLayer('divVA10');">Vinny Appice</a> – Bateria.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGN10');" onMouseOut="escondeLayer('divGN10');">Geoff Nicholls</a> – Teclados. </li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI10');" onMouseOut="escondeLayer('divTI10');">Tony Iommi</a> – Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRJD10');" onMouseOut="escondeLayer('divRJD10');">Ronnie James Dio</a> – Vocais. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGB10');" onMouseOut="escondeLayer('divGB10');">Geezer Butler</a> – Baixo . </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divVA10');" onMouseOut="escondeLayer('divVA10');">Vinny Appice</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGN10');" onMouseOut="escondeLayer('divGN10');">Geoff Nicholls</a> – Teclados. </li>
+                        </ul>
+                    </nav>
                     <br /><br />
 
 
@@ -160,18 +144,18 @@
                         </p>
                     </div>
 
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
+
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

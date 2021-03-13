@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_angra.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -60,6 +42,7 @@
                         <td width="15%">Albuns Vendidos</td>
                     </tr>
 
+
                     <tr>
                         <td width="15%"> Ouro</td>
                         <td> + 100.000 (Japão)</td>
@@ -68,7 +51,7 @@
             </div>
             </p>
             <br />
-            
+
             <p>Duração do album: 54 min. 41 seg.</p>
             <p>Gravadora(s): JVC e Paradoxx Music.</p>
             <p>Produção: Charlie Bauerfeind Sascha Paeth. </p>
@@ -81,16 +64,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/4pG9NyuuYkIOpzX6bYguCn" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divAM2');" onMouseOut="escondeLayer('divAM2');">Andre Matos</a> – Vocal, Piano, Teclado, Arranjos Orquestrais e órgão.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRB2');" onMouseOut="escondeLayer('divRB2');">Rafael Bittencourt</a> – Guitarra, Vocais de apoio e Percussão adicional em "Holy Land". </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divKL2');" onMouseOut="escondeLayer('divKL2');">Kiko Loureiro</a> – Guitarra e Vocais de apoio e Percussão adicional em "Holy Land". </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divLM2');" onMouseOut="escondeLayer('divLM2');">Luis Mariutti</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRC2');" onMouseOut="escondeLayer('divRC2');">Ricardo Confessori</a> – Bateria e Percussão adicional em "Holy Land".</li>
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divAM2');" onMouseOut="escondeLayer('divAM2');">Andre Matos</a> – Vocal, Piano, Teclado, Arranjos Orquestrais e órgão.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRB2');" onMouseOut="escondeLayer('divRB2');">Rafael Bittencourt</a> – Guitarra, Vocais de apoio e Percussão adicional em "Holy Land". </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divKL2');" onMouseOut="escondeLayer('divKL2');">Kiko Loureiro</a> – Guitarra e Vocais de apoio e Percussão adicional em "Holy Land". </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divLM2');" onMouseOut="escondeLayer('divLM2');">Luis Mariutti</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRC2');" onMouseOut="escondeLayer('divRC2');">Ricardo Confessori</a> – Bateria e Percussão adicional em "Holy Land".</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divAM2" name="nm_divAM2">
@@ -149,20 +134,18 @@
                             <br />
                         </p>
                     </div>
-                    <br>
-
-                    <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

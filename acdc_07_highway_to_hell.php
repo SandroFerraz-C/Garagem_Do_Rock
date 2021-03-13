@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_acdc.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -50,110 +34,111 @@
                 As palavras finais ditas por Bon Scott no álbum foram “Shazbot, na-nu na-nu” frases usadas no então popular sitcom americano, “Mork and Mindy”, pelo personagem Mork (um visitante extraterrestre interpretado por Robin Williams). A frase é falada no final
                 da música “Night Prowler” e também fecha o álbum.
             </p>
-            <br><br>
+            <br /><br />
 
             <p>
                 O album atingil certificação:
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Albuns Vendidos</td>
-                        </tr>
+            <div class="tabela">
+                <table border="1px" width="45%">
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Albuns Vendidos</td>
+                    </tr>
 
+                    <tr>
+                        <td width="15%"> 7X Platina</td>
+                        <td> + 7.000.000 (EUA.)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 500.000 (França)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 5X Platina</td>
+                        <td> + 350.000 (Austrália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 300.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 2X Platina</td>
+                        <td> + 200.000 (Canadá)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 50.000 (Espanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 50.000 (Suíça)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 30.000 (Argentina)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 25.000 (Áustria)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 25.000 (Itália)</td>
+                    </tr>
 
-                        <tr>
-                            <td width="15%"> 7X Platina</td>
-                            <td> + 7.000.000 (EUA.)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 500.000 (França)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> 5X Platina</td>
-                            <td> + 350.000 (Austrália)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 300.000 (Reino Unido)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> 2X Platina</td>
-                            <td> + 200.000 (Canadá)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 50.000 (Espanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 50.000 (Suíça)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 30.000 (Argentina)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 25.000 (Áustria)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 25.000 (Itália)</td>
-                        </tr>
-
-                    </table>
-                </div>
+                </table>
+            </div>
             </p>
             <br />
 
             <p>Gênero(s):
-                <ul>
-                    <li>Hard rock</li>
-                    <li>Blues</li>
-                    <li>Rock</li>
-                    <li>Rock and Roll</li>
-                </ul>
+            <ul>
+                <li>Hard rock</li>
+                <li>Blues</li>
+                <li>Rock</li>
+                <li>Rock and Roll</li>
+            </ul>
             </p>
 
             <p>Duração do album:41 min. 34 seg. </p>
             <p>Gravadora(s):Atlantic Records</p>
             <p>Produção: Robert John “Mutt” Lange</p>
-            <br>
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
 
-                    <iframe src="https://open.spotify.com/embed/playlist/3Qr6usnW7ZIXi4lTWBJS0X" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> </table>
+                    <iframe src="https://open.spotify.com/embed/playlist/3Qr6usnW7ZIXi4lTWBJS0X" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                </table>
                 <br /><br />
 
-                <h3>Créditos</h3>
-                <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divBS07');" onMouseOut="escondeLayer('divBS07');">Bon Scott</a> – Vocais.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divAY07');" onMouseOut="escondeLayer('divAY07');">Angus Young</a> – Guitarra solo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divMY07');" onMouseOut="escondeLayer('divMY07');">Malcolm Young</a> – Guitarra rítmica e Backing vocals.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divCW07');" onMouseOut="escondeLayer('divCW07');">Cliff Williams</a> – Baixo e Backing vocals.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divPH07');" onMouseOut="escondeLayer('divPH07');">Phil Rudd</a> – Bateria.</li>
-
-                </ul>
-                <br>
+                <nav>
+                    <h3>Créditos</h3>
+                    <ul>
+                        <li><a href="#" onMouseOver="mostraLayer('divBS07');" onMouseOut="escondeLayer('divBS07');">Bon Scott</a> – Vocais.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divAY07');" onMouseOut="escondeLayer('divAY07');">Angus Young</a> – Guitarra solo.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divMY07');" onMouseOut="escondeLayer('divMY07');">Malcolm Young</a> – Guitarra rítmica e Backing vocals.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divCW07');" onMouseOut="escondeLayer('divCW07');">Cliff Williams</a> – Baixo e Backing vocals.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divPH07');" onMouseOut="escondeLayer('divPH07');">Phil Rudd</a> – Bateria.</li>
+                    </ul>
+                </nav>
+                <br />
 
                 <div id="divBS07" name="nm_divBS07">
                     <p>
                         <img class="css" src="img/Bon.jpg" width="150px;" height="130px;"> Ronald Belford Scott ( 9 de julho de 1946 — 19 de fevereiro de 1980) foi um cantor e compositor australiano nascido na Escócia. Ele ficou mundialmente conhecido
                         por ser vocalista e compositor da banda de rock australiana AC/DC de 1974 a 1980.
                         <br />
-                        <br> Em 2006, a revista Hit Parader colocou Scott como o quinto melhor vocalista de heavy metal de todos os tempos.
+                        <br /> Em 2006, a revista Hit Parader colocou Scott como o quinto melhor vocalista de heavy metal de todos os tempos.
                     </p>
                 </div>
 
                 <div id="divAY07" name="nm_divAY07">
                     <p>
                         <img class="css" src="img/angus.jpg" width="150px;" height="130px;"> Angus McKinnon Young (31 de março de 1955) é um guitarrista e compositor, conhecido por ser guitarrista solo, compositor, líder e co-fundador da banda AC/DC.
-                        <br> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
-                        <br> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                        <br /> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
+                        <br /> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
                     </p>
                 </div>
 
@@ -161,7 +146,7 @@
                     <p>
                         <img class="css" src="img/Malcolm.jpg" width="150px;" height="130px;"> Malcolm Mitchell Young (6 de janeiro de 1953 — 18 de novembro de 2017) foi um guitarrista e compositor escocês naturalizado australiano e fundador, junto com
                         seu irmão mais novo Angus Young, do AC/DC, da qual era o guitarrista rítmico, vocalista de apoio e compositor.
-                        <br> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
+                        <br /> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
                     </p>
                 </div>
 
@@ -181,11 +166,14 @@
                     </p>
                 </div>
 
-                <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
-                <a href="index.php"><button>Home</button></a>
-
                 </div>
             </section>
+
+            <footer>
+                <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
     <script type="text/javascript" src="js/Country.js"></script>
 

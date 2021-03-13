@@ -1,25 +1,9 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_barao_vermelho.css">
-
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
+
     <main>
         <section class="content-section">
 
@@ -33,14 +17,14 @@
                 Em 1985, Cazuza, por conta de algumas brigas e de seu interesse em fazer um trabalho solo, sai da banda. Leva com ele algumas
                 composições que fariam parte do seu primeiro trabalho solo, como "Exagerado" e "Só as Mães São Felizes". A banda estava pronta para
                 começar a gravação do novo trabalho, mas por conta disso houve um atraso, se inicia uma fase ruim, para muitos era o fim, mas
-                Frejat assume os vocais e ainda em 1985, surge a primeira música do Barão Vermelho sem o Cazuza, "Torre de Babel", gravada num 
-                programa infantil de TV. 
+                Frejat assume os vocais e ainda em 1985, surge a primeira música do Barão Vermelho sem o Cazuza, "Torre de Babel", gravada num
+                programa infantil de TV.
             </p>
-            
+
             <p>
                 Finalmente em 1986 depois de um período longo de gravação, lançam o álbum - Declare Guerra, que contou com a participação de
-                 letristas como Renato Russo e Arnaldo Antunes, porém, ele não teve publicidade, vendendo muito pouco (em relação aos 
-                 demais álbuns da banda). Ainda em 1986 a banda deixa a Som Livre e assina contrato com a WEA.
+                letristas como Renato Russo e Arnaldo Antunes, porém, ele não teve publicidade, vendendo muito pouco (em relação aos
+                demais álbuns da banda). Ainda em 1986 a banda deixa a Som Livre e assina contrato com a WEA.
             </p>
             <br />
 
@@ -56,14 +40,16 @@
                     <iframe src="https://open.spotify.com/embed/playlist/5vn1w9X2e6UvoJ4U1GvTvH" width="100%" height="650" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divRF04');" onMouseOut="escondeLayer('divRF04');">Roberto Frejat</a> – Voz, Guitarra e Violão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMB04');" onMouseOut="escondeLayer('divMB04');">Maurício Barros</a> – Teclados e Piano. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDE04');" onMouseOut="escondeLayer('divDE04');">Dé</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGG04');" onMouseOut="escondeLayer('divGG04');"> Guto Goffi</a> – Bateria e Percussão. </li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divRF04');" onMouseOut="escondeLayer('divRF04');">Roberto Frejat</a> – Voz, Guitarra e Violão. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divMB04');" onMouseOut="escondeLayer('divMB04');">Maurício Barros</a> – Teclados e Piano. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDE04');" onMouseOut="escondeLayer('divDE04');">Dé</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGG04');" onMouseOut="escondeLayer('divGG04');"> Guto Goffi</a> – Bateria e Percussão. </li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -80,7 +66,7 @@
                     <div id="divMB04" name="nm_divMB04">
                         <p>
                             <img class="css" src="img/barao vermelho/mb.jpg" width="150px;" height="130px;">
-                            Maurício Carvalho de Barros, "Maurício Barros"  é um tecladista
+                            Maurício Carvalho de Barros, "Maurício Barros" é um tecladista
                             brasileiro e membro fundador da banda Barão Vermelho.
                             <br />
                             No final da década de 1980, foi vocalista e tecladista da banda Buana 4, chegando a gravar um LP e música em trilha
@@ -96,7 +82,7 @@
                             integrantes originais do Barão Vermelho até 1990.
                             <br />
                             Participou da banda Telefone Gol. Em 2011, juntou-se a Toni Platão, Dado Villa-Lobos e Charles Gavin para formar o
-                            supergrupo Panamericana, que toca sucessos do rock sul-americano.                           
+                            supergrupo Panamericana, que toca sucessos do rock sul-americano.
                         </p>
                     </div>
 
@@ -110,20 +96,18 @@
                             <br /><br />
                         </p>
                     </div>
-                    <br />
-
-                    <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

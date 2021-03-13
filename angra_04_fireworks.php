@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_angra.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -34,7 +16,7 @@
 
 
             <p>
-                O ano de 1998 marcou o início de mais uma produção do Angra. Com Chris Tsangarides ( que, entre outros, produziu - 
+                O ano de 1998 marcou o início de mais uma produção do Angra. Com Chris Tsangarides ( que, entre outros, produziu -
                 <a href="judas_priest_09_painkiller.php" target="blank">Painkiller</a> do <a href="judas_priest.php" target="blank">Judas Priest</a> ) na
                 produção, a banda antecipou seu próximo álbum com o single de três canções "Lisbon", lançado em julho daquele ano.
             </p>
@@ -47,11 +29,11 @@
             </p>
 
             <p>
-            De acordo com o guitarrista Kiko Loureiro, o vocalista Andre Matos decidiu deixar a banda após a turnê de Holy Live em 97, para se 
-            dedicar ao seu projeto solo, - A Virgo (em colaboração com Sascha Paeth). Com isso, os demais integrantes começaram a ensaiar com
-             Edu Falaschi, que ingressaria apenas em 2001. No entanto, um executivo francês da gravadora, na época, falou com eles durante 
-             um jantar para ajudar a corrigir suas diferenças. Mesmo assim, Kiko lembra que Andre estava distante, trabalhando principalmente
-              em suas próprias composições ao invés de colaborar com os outros membros
+                De acordo com o guitarrista Kiko Loureiro, o vocalista Andre Matos decidiu deixar a banda após a turnê de Holy Live em 97, para se
+                dedicar ao seu projeto solo, - A Virgo (em colaboração com Sascha Paeth). Com isso, os demais integrantes começaram a ensaiar com
+                Edu Falaschi, que ingressaria apenas em 2001. No entanto, um executivo francês da gravadora, na época, falou com eles durante
+                um jantar para ajudar a corrigir suas diferenças. Mesmo assim, Kiko lembra que Andre estava distante, trabalhando principalmente
+                em suas próprias composições ao invés de colaborar com os outros membros
             </p>
             <br />
 
@@ -66,6 +48,7 @@
                         <td width="15%" height="10%">Nivel</td>
                         <td width="15%">Albuns Vendidos</td>
                     </tr>
+
 
                     <tr>
                         <td width="15%"> Ouro</td>
@@ -88,17 +71,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/0JHDX0Ry64s0UQSxWr8BcY" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divAM4');" onMouseOut="escondeLayer('divAM4');">Andre Matos</a> – Vocal, Piano, Teclado, Arranjos Orquestrais e órgão.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRB4');" onMouseOut="escondeLayer('divRB4');">Rafael Bittencourt</a> – Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divKL4');" onMouseOut="escondeLayer('divKL4');">Kiko Loureiro</a> – Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divLM4');" onMouseOut="escondeLayer('divLM4');">Luis Mariutti</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRC4');" onMouseOut="escondeLayer('divRC4');">Ricardo Confessori</a> – Bateria.</li>
-
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divAM4');" onMouseOut="escondeLayer('divAM4');">Andre Matos</a> – Vocal, Piano, Teclado, Arranjos Orquestrais e órgão.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRB4');" onMouseOut="escondeLayer('divRB4');">Rafael Bittencourt</a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divKL4');" onMouseOut="escondeLayer('divKL4');">Kiko Loureiro</a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divLM4');" onMouseOut="escondeLayer('divLM4');">Luis Mariutti</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRC4');" onMouseOut="escondeLayer('divRC4');">Ricardo Confessori</a> – Bateria.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divAM4" name="nm_divAM4">
@@ -157,20 +141,19 @@
                             <br />
                         </p>
                     </div>
-                    <br>
-
-                    <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
+
             </section>
 
+            <footer>
+                <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

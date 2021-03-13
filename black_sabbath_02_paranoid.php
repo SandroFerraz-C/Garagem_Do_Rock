@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -30,13 +12,13 @@
             <p>
                 - Paranoid é o segundo álbum do Black Sabbath, lançado em 1970 no Reino Unido.
             </p>
-            
+
             <p>
                 Ele contém várias das canções de assinatura da banda, incluindo "Iron Man", "War Pigs" e a faixa-título , que foi
                 o único Top hit #20 da banda, alcançando o número #4 nas paradas do Reino Unido. É frequentemente citado como um álbum influente
                 no desenvolvimento inicial dogênero heavy metal. - Paranoid foi o único álbum da banda no topo da UK Albums Chart.
             </p>
-          
+
             <p>
                 O disco é usualmente considerado um dos mais quintessenciais e influentes da história do heavy metal, sendo incluído na lista
                 dos <a href="https://planocriticoblog.wordpress.com/2017/02/13/200-albuns-definitivos-do-rock-and-roll-hall-of-fame/" target="blank">200 álbuns definitivos no Rock and Roll Hall of Fame</a>;
@@ -65,6 +47,7 @@
                         <td width="15%">Álbuns Vendidos</td>
                     </tr>
 
+
                     <tr>
                         <td width="15%">4 X Platina</td>
                         <td> + 4.000.000 (EUA.)</td>
@@ -90,7 +73,6 @@
                 </table>
             </div>
             </p>
-
             <br />
 
             <p>Duração do album: 42 min. 02 seg.</p>
@@ -105,14 +87,16 @@
                     <iframe src="https://open.spotify.com/embed/playlist/4FMmZn9nTnmpPs0IwJyckf" width="100%" height="500" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divTI2');" onMouseOut="escondeLayer('divTI2');">Tony Iommi</a> – Guitarra e Flauta.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGB2');" onMouseOut="escondeLayer('divGB2');">Geezer Butler</a> – Baixo. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divOO2');" onMouseOut="escondeLayer('divOO2');">Ozzy Osbourne</a> – Vocais e Gaita. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath2');" onMouseOut="escondeLayer('divBW_black_sabbath2');">Bill Ward</a> – Bateria e Conga.</li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI2');" onMouseOut="escondeLayer('divTI2');">Tony Iommi</a> – Guitarra e Flauta.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGB2');" onMouseOut="escondeLayer('divGB2');">Geezer Butler</a> – Baixo. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divOO2');" onMouseOut="escondeLayer('divOO2');">Ozzy Osbourne</a> – Vocais e Gaita. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath2');" onMouseOut="escondeLayer('divBW_black_sabbath2');">Bill Ward</a> – Bateria e Conga.</li>
+                        </ul>
+                    </nav>
                     <br /><br />
 
 
@@ -159,18 +143,17 @@
                         </p>
                     </div>
 
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

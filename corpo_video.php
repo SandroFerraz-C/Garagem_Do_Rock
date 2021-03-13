@@ -8,8 +8,7 @@
 </head>
 
 <body>
-
-
+    
     <h1 class="aline">O TOP 100 dos melhores classicos</h1>
 
 </body>

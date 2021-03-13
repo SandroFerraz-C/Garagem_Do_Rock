@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_bon_jovi.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
     <main>
@@ -60,13 +44,12 @@
             <p>
                 O album atingil certificação:
 
-             <div class="tabela">
+            <div class="tabela">
                 <table border="1px" width="45%">
                     <tr>
                         <td width="15%" height="10%">Nivel</td>
-                        <td width="15%">Unidades</td>
+                        <td width="15%">Álbuns Vendidos</td>
                     </tr>
-
 
 
                     <tr>
@@ -131,7 +114,7 @@
                     </tr>
 
                 </table>
-             </div>
+            </div>
             </p>
 
             <p>Duração do album: 49 min. 40 seg.</p>
@@ -146,15 +129,17 @@
                     <iframe src="https://open.spotify.com/embed/playlist/14zUqbsdxI3kvSiWurguu6" width="100%" height="800" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ10');" onMouseOut="escondeLayer('divBJ10');">Jon Bon Jovi</a> – Vocal principal, Guitarras adicionais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS10');" onMouseOut="escondeLayer('divRS10');">Richie Sambora</a> – Guitarras principais e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divHM10');" onMouseOut="escondeLayer('divHM10');">Hugh McDonald</a> – Baixo e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDB10');" onMouseOut="escondeLayer('divDB10');">David Bryan</a> – Teclado e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTT10');" onMouseOut="escondeLayer('divTT10');">Tico Torres</a> – Bateria e Percussão. </li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBJ10');" onMouseOut="escondeLayer('divBJ10');">Jon Bon Jovi</a> – Vocal principal, Guitarras adicionais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRS10');" onMouseOut="escondeLayer('divRS10');">Richie Sambora</a> – Guitarras principais e Vocal de apoio. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divHM10');" onMouseOut="escondeLayer('divHM10');">Hugh McDonald</a> – Baixo e Vocal de apoio. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDB10');" onMouseOut="escondeLayer('divDB10');">David Bryan</a> – Teclado e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTT10');" onMouseOut="escondeLayer('divTT10');">Tico Torres</a> – Bateria e Percussão. </li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -214,19 +199,18 @@
                         </p>
                     </div>
 
-
-                    <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
+
             </section>
 
+            <footer>
+                <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

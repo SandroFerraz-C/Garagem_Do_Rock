@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_angra.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -41,9 +23,7 @@
             <p>
                 Nota: *Infelizmente não conseguimos muitas informaçoes sobre sesse EP.*
             </p>
-
-
-            <br><br>
+            <br /><br />
 
 
             <p>Duração do album: 54 min. 41 seg.</p>
@@ -58,18 +38,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/3ZlHvfTQ5o807EV3fN16S7" width="100%" height="500" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divAM3');" onMouseOut="escondeLayer('divAM3');">Andre Matos</a> – Vocal, Piano, Teclado, Arranjos Orquestrais e órgão.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRB3');" onMouseOut="escondeLayer('divRB3');">Rafael Bittencourt</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divKL3');" onMouseOut="escondeLayer('divKL3');">Kiko Loureiro</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divLM3');" onMouseOut="escondeLayer('divLM3');">Luis Mariutti</a> – Baixo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRC3');" onMouseOut="escondeLayer('divRC3');">Ricardo Confessori</a> – Bateria.</li>
-
-
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divAM3');" onMouseOut="escondeLayer('divAM3');">Andre Matos</a> – Vocal, Piano, Teclado, Arranjos Orquestrais e órgão.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRB3');" onMouseOut="escondeLayer('divRB3');">Rafael Bittencourt</a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divKL3');" onMouseOut="escondeLayer('divKL3');">Kiko Loureiro</a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divLM3');" onMouseOut="escondeLayer('divLM3');">Luis Mariutti</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRC3');" onMouseOut="escondeLayer('divRC3');">Ricardo Confessori</a> – Bateria.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divAM3" name="nm_divAM3">
@@ -128,20 +108,18 @@
                             <br />
                         </p>
                     </div>
-                    <br>
-
-                    <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

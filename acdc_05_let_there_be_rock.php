@@ -1,32 +1,13 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_acdc.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
 
             <h1>Let There Be Rock (1977)</h1>
-
 
             <p>
                 - Let There Be Rock é o quarto álbum do AC/DC. Foi lançado na Austrália em março de 1977, e relançado de forma internacional em julho de 1977.
@@ -48,63 +29,60 @@
                 A recepção ao - Let There Be Rock foi geralmente positiva; de acordo com o AllMusic, que deu ao álbum uma classificação de 4.5 de 5 estrelas em uma revisão retrospectiva, o AC / DC tocou "rock suado, sujo e agradável" e a banda "Raramente fez esse tipo
                 de rock, o melhor do que eles já fizeram. Em 2001, a revista Q nomeou - Let There Be Rock como um dos #50 álbuns mais pesados ​​de todos os tempos.
             </p>
-            <br><br>
+            <br /><br ;>
 
             <p>
                 O album atingil certificação:
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Albuns Vendidos</td>
-                        </tr>
+            <div class="tabela">
+                <table border="1px" width="45%">
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Albuns Vendidos</td>
+                    </tr>
 
+                    <tr>
+                        <td width="15%"> 2X Platina</td>
+                        <td> + 2.000.000 (EUA.)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 5X Platina</td>
+                        <td> + 350.000 (Austrália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 250.000 (Alemanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 100.000 (França)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 100.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 50.000 (Espanha)</td>
+                    </tr>
 
-                        <tr>
-                            <td width="15%"> 2X Platina</td>
-                            <td> + 2.000.000 (EUA.)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> 5X Platina</td>
-                            <td> + 350.000 (Austrália)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 250.000 (Alemanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 100.000 (França)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 100.000 (Reino Unido)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 50.000 (Espanha)</td>
-                        </tr>
-
-                    </table>
-                </div>
+                </table>
+            </div>
             </p>
-
 
             <p>Gênero(s):
-                <ul>
-                    <li>Hard rock</li>
-                    <li>Blues</li>
-                    <li>Rock</li>
-                    <li>Rock and Roll</li>
-                </ul>
+            <ul>
+                <li>Hard rock</li>
+                <li>Blues</li>
+                <li>Rock</li>
+                <li>Rock and Roll</li>
+            </ul>
             </p>
-
 
             <p>Duração do album: 40:19 (Austrália) || 41:01 (Internacional)</p>
             <p>Gravadora(s):Albert Productions</p>
             <p>Produção: Harry Vanda e George Young</p>
-            <br>
+            <br />
 
 
             <section class="disco">
@@ -113,30 +91,32 @@
                     <iframe src="https://open.spotify.com/embed/playlist/3Pvq15RriSiPRf5s8x9imR" width="100%" height="490" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /> <br />
 
-                    <h3>Créditos</h3>
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBS05');" onMouseOut="escondeLayer('divBS05');">Bon Scott</a> – Vocais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divAY05');" onMouseOut="escondeLayer('divAY05');">Angus Young</a> – Guitarra solo e Vocais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMY05');" onMouseOut="escondeLayer('divMY05');">Malcolm Young</a> – Guitarra Rítmica e Vocais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRB05');" onMouseOut="escondeLayer('divRB05');">Mark Evans</a> – Baixo e Vocais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTC05');" onMouseOut="escondeLayer('divTC05');">Phil Rudd</a> – Bateria.</li>
-                    </ul>
-                    <br>
+                    <nav>
+                        <h3>Créditos</h3>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBS05');" onMouseOut="escondeLayer('divBS05');">Bon Scott</a> – Vocais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divAY05');" onMouseOut="escondeLayer('divAY05');">Angus Young</a> – Guitarra solo e Vocais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divMY05');" onMouseOut="escondeLayer('divMY05');">Malcolm Young</a> – Guitarra Rítmica e Vocais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRB05');" onMouseOut="escondeLayer('divRB05');">Mark Evans</a> – Baixo e Vocais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTC05');" onMouseOut="escondeLayer('divTC05');">Phil Rudd</a> – Bateria.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
                     <div id="divBS05" name="nm_divBS05">
                         <p>
                             <img class="css" src="img/Bon.jpg" width="150px;" height="130px;"> Ronald Belford Scott ( 9 de julho de 1946 — 19 de fevereiro de 1980) foi um cantor e compositor australiano nascido na Escócia. Ele ficou mundialmente conhecido
                             por ser vocalista e compositor da banda de rock australiana AC/DC de 1974 a 1980.
                             <br />
-                            <br> Em 2006, a revista Hit Parader colocou Scott como o quinto melhor vocalista de heavy metal de todos os tempos.
+                            <br /> Em 2006, a revista Hit Parader colocou Scott como o quinto melhor vocalista de heavy metal de todos os tempos.
                         </p>
                     </div>
 
                     <div id="divAY05" name="nm_divAY05">
                         <p>
                             <img class="css" src="img/angus.jpg" width="150px;" height="130px;"> Angus McKinnon Young (31 de março de 1955) é um guitarrista e compositor, conhecido por ser guitarrista solo, compositor, líder e co-fundador da banda AC/DC.
-                            <br> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
-                            <br> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                            <br /> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
+                            <br /> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
                         </p>
                     </div>
 
@@ -144,7 +124,7 @@
                         <p>
                             <img class="css" src="img/Malcolm.jpg" width="150px;" height="130px;"> Malcolm Mitchell Young (6 de janeiro de 1953 — 18 de novembro de 2017) foi um guitarrista e compositor escocês naturalizado australiano e fundador, junto
                             com seu irmão mais novo Angus Young, do AC/DC, da qual era o guitarrista rítmico, vocalista de apoio e compositor.
-                            <br> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
+                            <br /> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
                         </p>
                     </div>
 
@@ -152,7 +132,7 @@
                         <p>
                             <img class="css" src="img/Mark.png" width="150px;" height="130px;"> Mark Evans (2 de março de 1956)é um baixista australiano, mais conhecido como um dos primeiros baixistas do AC/DC, onde participou de cinco discos entre 1975
                             e 1977. Mark saiu da banda por desentendimentos com o guitarrista Angus Young.
-                            <br> Em 2011, Mark lançou o livro: Dirty Deeds: My Life Inside / Outside of AC / DC, que conta os bastidores das gravações com o AC/DC, além de suas memórias dos shows com o grupo.
+                            <br /> Em 2011, Mark lançou o livro: Dirty Deeds: My Life Inside / Outside of AC / DC, que conta os bastidores das gravações com o AC/DC, além de suas memórias dos shows com o grupo.
                         </p>
                     </div>
 
@@ -168,15 +148,18 @@
                         <p>
                             <img class="css" src="img/Mark.png" width="150px;" height="130px;"> Mark Evans (2 de março de 1956)é um baixista australiano, mais conhecido como um dos primeiros baixistas do AC/DC, onde participou de cinco discos entre 1975
                             e 1977. Mark saiu da banda por desentendimentos com o guitarrista Angus Young.
-                            <br> Em 2011, Mark lançou o livro: Dirty Deeds: My Life Inside / Outside of AC / DC, que conta os bastidores das gravações com o AC/DC, além de suas memórias dos shows com o grupo.
+                            <br /> Em 2011, Mark lançou o livro: Dirty Deeds: My Life Inside / Outside of AC / DC, que conta os bastidores das gravações com o AC/DC, além de suas memórias dos shows com o grupo.
                         </p>
                     </div>
 
-                    <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
             </section>
+
+            <footer>
+                <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
     <script type="text/javascript" src="js/Country.js"></script>
 </body>

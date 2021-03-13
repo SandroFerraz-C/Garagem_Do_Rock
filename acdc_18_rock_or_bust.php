@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_acdc.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -49,97 +31,96 @@
             <p>
                 Em 2015, a banda fez uma turnê mundial para promover o disco - Rock or Bust e comemorou o aniversário de 40 anos da banda. Malcolm Young foi substituido por seu sobrinho, Stevie Young.
             </p>
-            <br>
+            <br />
 
             <p>
                 O album atingil certificação:
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Albuns Vendidos</td>
-                        </tr>
+            <div class="tabela">
+                <table border="1px" width="45%">
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Albuns Vendidos</td>
+                    </tr>
 
 
+                    <tr>
+                        <td width="15%"> 3X Platina</td>
+                        <td> + 600.000 (Alemanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 500.000 (EUA.)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 3X Platina</td>
+                        <td> + 300.000 (França)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 100.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 80.000 (Canadá)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 4X Platina</td>
+                        <td> + 80.000 (Suíça)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 70.000 (Austrália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 50.000 (Itália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 3X Platina</td>
+                        <td> + 40.000 (Áustria)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 40.000 (Espanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 20.000 (Suécia)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 20.000 (Polônia)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 15.000 (Bélgica)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 10.000 (Dinamarca)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 7.500 (Nova Zelândia)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 2.000 (Hungria)</td>
+                    </tr>
 
-                        <tr>
-                            <td width="15%"> 3X Platina</td>
-                            <td> + 600.000 (Alemanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 500.000 (EUA.)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> 3X Platina</td>
-                            <td> + 300.000 (França)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 100.000 (Reino Unido)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 80.000 (Canadá)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> 4X Platina</td>
-                            <td> + 80.000 (Suíça)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 70.000 (Austrália)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 50.000 (Itália)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> 3X Platina</td>
-                            <td> + 40.000 (Áustria)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 40.000 (Espanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 20.000 (Suécia)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 20.000 (Polônia)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 15.000 (Bélgica)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 10.000 (Dinamarca)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 7.500 (Nova Zelândia)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 2.000 (Hungria)</td>
-                        </tr>
-
-                    </table>
-                </div>
+                </table>
+            </div>
             </p>
             <br />
 
             <p>Gênero(s):
-                <ul>
-                    <li>Hard rock</li>
-                    <li>Blues</li>
-                    <li>Rock</li>
-                    <li>Rock and Roll</li>
-                </ul>
+            <ul>
+                <li>Hard rock</li>
+                <li>Blues</li>
+                <li>Rock</li>
+                <li>Rock and Roll</li>
+            </ul>
             </p>
             <br />
 
@@ -152,19 +133,21 @@
             <section class="disco">
                 <table id="demo-table">
 
-                    <iframe src="https://open.spotify.com/embed/playlist/23frezzAJ1i2K2S0bjY3VI" width="100%" height="650" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> </section>
+                    <iframe src="https://open.spotify.com/embed/playlist/23frezzAJ1i2K2S0bjY3VI" width="100%" height="650" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+            </section>
             <br /><br />
 
-            <h3>Créditos</h3>
-            <ul>
-                <li><a href="#" onMouseOver="mostraLayer('divBJ18');" onMouseOut="escondeLayer('divBJ18');">Brian Johnson</a> – Vocal.</li>
-                <li><a href="#" onMouseOver="mostraLayer('divAY18');" onMouseOut="escondeLayer('divAY18');">Angus Young</a> – Guitarra solo.</li>
-                <li><a href="#" onMouseOver="mostraLayer('divSY18');" onMouseOut="escondeLayer('divSY18');">Stevie Young</a> – Guitarra rítmica e Vocal de apoio.</li>
-                <li><a href="#" onMouseOver="mostraLayer('divCW18');" onMouseOut="escondeLayer('divCW18');">Cliff Williams</a> – Baixo e Vocal de apoio.</li>
-                <li><a href="#" onMouseOver="mostraLayer('divPR18');" onMouseOut="escondeLayer('divPR18');">Phil Rudd</a> – Bateria.</li>
-
-            </ul>
-            <br>
+            <nav>
+                <h3>Créditos</h3>
+                <ul>
+                    <li><a href="#" onMouseOver="mostraLayer('divBJ18');" onMouseOut="escondeLayer('divBJ18');">Brian Johnson</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divAY18');" onMouseOut="escondeLayer('divAY18');">Angus Young</a> – Guitarra solo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSY18');" onMouseOut="escondeLayer('divSY18');">Stevie Young</a> – Guitarra rítmica e Vocal de apoio.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divCW18');" onMouseOut="escondeLayer('divCW18');">Cliff Williams</a> – Baixo e Vocal de apoio.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPR18');" onMouseOut="escondeLayer('divPR18');">Phil Rudd</a> – Bateria.</li>
+                </ul>
+            </nav>
+            <br />
 
 
             <div id="divBJ18" name="nm_divBJ18">
@@ -178,8 +161,8 @@
             <div id="divAY18" name="nm_divAY18">
                 <p>
                     <img class="css" src="img/angus.jpg" width="150px;" height="130px;"> Angus McKinnon Young (31 de março de 1955) é um guitarrista e compositor, conhecido por ser guitarrista solo, compositor, líder e co-fundador da banda AC/DC.
-                    <br> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
-                    <br> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                    <br /> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
+                    <br /> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
                 </p>
             </div>
 
@@ -210,13 +193,15 @@
                     <br /><br />
                 </p>
             </div>
-            <br>
-
-            <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
-            <a href="index.php"><button>Home</button></a>
 
             </div>
         </section>
+
+        <footer>
+            <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
+            <a href="index.php"><button>Home</button></a>
+        </footer>
+
     </main>
     <script type="text/javascript" src="js/Country.js"></script>
 </body>

@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_aerosmith.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -67,8 +49,10 @@
                 <table border="1px" width="45%">
                     <tr>
                         <td width="15%" height="10%">Nivel</td>
-                        <td width="15%">Data</td>
+                        <td width="15%">Álbuns Vendidos</td>
                     </tr>
+
+
                     <tr>
                         <td width="15%"> Ouro</td>
                         <td> + 500.000 (EUA.)</td>
@@ -90,17 +74,19 @@
 
                     <iframe src="https://open.spotify.com/embed/playlist/236eoQhGOr7pnTJUocgsug" width="98%" height="550" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
-                    <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divST8');" onMouseOut="escondeLayer('divST8');">Steven Tyler</a> – Vocais, Gaita, Percussão e Teclado.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJP8');" onMouseOut="escondeLayer('divJP8');">Joe Perry</a> – Guitarra, Percussão, Vocais e Back vocais. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTH8');" onMouseOut="escondeLayer('divTH8');">Tom Hamilton</a> – Baixo. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJK8');" onMouseOut="escondeLayer('divJK8');">Joey Kramer</a> – Bateria.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divBW8');" onMouseOut="escondeLayer('divBW8');">Brad Whitford</a> – Guitarra e Guitarra-base.</li>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divST8');" onMouseOut="escondeLayer('divST8');">Steven Tyler</a> – Vocais, Gaita, Percussão e Teclado.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divJP8');" onMouseOut="escondeLayer('divJP8');">Joe Perry</a> – Guitarra, Percussão, Vocais e Back vocais. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTH8');" onMouseOut="escondeLayer('divTH8');">Tom Hamilton</a> – Baixo. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divJK8');" onMouseOut="escondeLayer('divJK8');">Joey Kramer</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBW8');" onMouseOut="escondeLayer('divBW8');">Brad Whitford</a> – Guitarra e Guitarra-base.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divST8" name="nm_divST8">
@@ -158,21 +144,19 @@
                         </p>
                         <br />
                     </div>
-                    <br>
-
-                    <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
-                </table>
+
             </section>
 
+            <footer>
+                <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do html que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_bon_jovi.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
     <main>
@@ -107,15 +90,17 @@
                     <iframe src="https://open.spotify.com/embed/playlist/33AagG7vZJDH6l0zfH0ZDQ" width="100%" height="590" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ02');" onMouseOut="escondeLayer('divBJ02');">Jon Bon Jovi</a> – Vocal principal.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS02');" onMouseOut="escondeLayer('divRS02');">Richie Sambora</a> – Guitarras principais e Vocais de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divAJ02');" onMouseOut="escondeLayer('divAJ02');">Alec John Such</a> – Baixo e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDB02');" onMouseOut="escondeLayer('divDB02');">David Bryan</a> – Teclado e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTT02');" onMouseOut="escondeLayer('divTT02');">Tico Torres</a> – Bateria, Percussão e Backing vocals.</li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBJ02');" onMouseOut="escondeLayer('divBJ02');">Jon Bon Jovi</a> – Vocal principal.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRS02');" onMouseOut="escondeLayer('divRS02');">Richie Sambora</a> – Guitarras principais e Vocais de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divAJ02');" onMouseOut="escondeLayer('divAJ02');">Alec John Such</a> – Baixo e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDB02');" onMouseOut="escondeLayer('divDB02');">David Bryan</a> – Teclado e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTT02');" onMouseOut="escondeLayer('divTT02');">Tico Torres</a> – Bateria, Percussão e Backing vocals.</li>
+                        </ul>
+                    </nav>
                     <br /><br />
 
 
@@ -137,7 +122,6 @@
                             <br />
                             Antes de aparecer na banda Bon Jovi, participou de uma audição para tocar nos Kiss, mas, por achar que a banda não se adequava às suas
                             expectativas como músico, pois possuíam influências e gêneros diferentes, não entrou na banda.
-
                         </p>
                     </div>
 
@@ -176,15 +160,19 @@
                         </p>
                     </div>
 
-                    <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
+
             </section>
+
+            <footer>
+                <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
+
     <script type="text/javascript" src="js/Country.js"></script>
+
 </body>
 
 </html>

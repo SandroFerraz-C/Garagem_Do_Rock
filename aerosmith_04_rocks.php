@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_aerosmith.css">
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
-
     <main>
         <section class="content-section">
 
@@ -49,7 +31,7 @@
                 diamantes, um para cada um de nós. Vimos aquele disco como uma joia, a culminação de toda a nossa angústia, raiva, entusiasmo e alegria
                 como rock and roll que quebrou. "
             </p>
-            <br><br>
+            <br /><br />
 
             <p>
                 O album atingil certificação:
@@ -61,6 +43,8 @@
                         <td width="15%" height="10%">Nivel</td>
                         <td width="15%">Data</td>
                     </tr>
+
+
                     <tr>
                         <td width="15%">Ouro </td>
                         <td>21 de Março de 1976</td>
@@ -98,16 +82,19 @@
                 <table id="demo-table">
 
                     <iframe src="https://open.spotify.com/embed/playlist/3pcRBjyNLN6YB7TLljaXZ9" width="100%" height="550" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-                    <h3>Créditos</h3>
 
-                    <li><a href="#" onMouseOver="mostraLayer('divST4');" onMouseOut="escondeLayer('divST4');">Steven Tyler</a> – Gaita, Piano e Vocais.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJP4');" onMouseOut="escondeLayer('divJP4');">Joe Perry</a> – Guitarra solo, Backing vocal e Baixo em "Sick As A Dog".</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divBW4');" onMouseOut="escondeLayer('divBW4');">Brad Whitford</a> – Guitarra base e Guitarra solo em "Sick As a Dog".</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTH4');" onMouseOut="escondeLayer('divTH4');">Tom Hamilton</a> – Baixo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJK4');" onMouseOut="escondeLayer('divJK4');">Joey Kramer</a> – Percussão e Bateria.</li>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    </ul>
-                    <br>
+                        <li><a href="#" onMouseOver="mostraLayer('divST4');" onMouseOut="escondeLayer('divST4');">Steven Tyler</a> – Gaita, Piano e Vocais.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divJP4');" onMouseOut="escondeLayer('divJP4');">Joe Perry</a> – Guitarra solo, Backing vocal e Baixo em "Sick As A Dog".</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divBW4');" onMouseOut="escondeLayer('divBW4');">Brad Whitford</a> – Guitarra base e Guitarra solo em "Sick As a Dog".</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divTH4');" onMouseOut="escondeLayer('divTH4');">Tom Hamilton</a> – Baixo.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divJK4');" onMouseOut="escondeLayer('divJK4');">Joey Kramer</a> – Percussão e Bateria.</li>
+                        </ul>
+
+                    </nav>
+                    <br />
 
 
                     <div id="divST4" name="nm_divST4">
@@ -165,20 +152,18 @@
                             professora de Bart, Sra. Krabappel. :D
                         </p>
                     </div>
-                    <br>
-
-                    <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

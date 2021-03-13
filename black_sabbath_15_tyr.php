@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -62,16 +45,18 @@
                     </h1>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divTI15');" onMouseOut="escondeLayer('divTI15');">Tony Iommi</a> – Guitarra.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTM15');" onMouseOut="escondeLayer('divTM15');">Tony Martin</a> – Vocais. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divNM15');" onMouseOut="escondeLayer('divNM15');">Neil Murray</a> – Baixo . </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divCP15');" onMouseOut="escondeLayer('divCP15');">Cozy Powell</a> – Bateria.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGN15');" onMouseOut="escondeLayer('divGN15');">Geoff Nicholls</a> – Teclados. </li>
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI15');" onMouseOut="escondeLayer('divTI15');">Tony Iommi</a> – Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTM15');" onMouseOut="escondeLayer('divTM15');">Tony Martin</a> – Vocais. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divNM15');" onMouseOut="escondeLayer('divNM15');">Neil Murray</a> – Baixo . </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divCP15');" onMouseOut="escondeLayer('divCP15');">Cozy Powell</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGN15');" onMouseOut="escondeLayer('divGN15');">Geoff Nicholls</a> – Teclados. </li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divTI15" name="nm_divTI15">
@@ -112,7 +97,6 @@
                             baterista britânico. Ficou em 31° lugar na lista dos "50 melhores bateristas de hard rock e metal de todos os tempos" do site
                             Loudwire
                             <br />
-
                             Muito solicitado em gravações de pop e rock, Cozy Powell foi uma lenda no estilo pesado de tocar bateria, tocando ao lado de
                             nomes como Rainbow, Whitesnake, Mickie Most, Black Sabbath, Keith Emerson, Greg Lake (Emerson, Lake & Powell), Michael Schenker
                             Group, ou mesmo no seu trabalho solo, como o single "Dance with the Devil", que foi seu maior hit no Reino Unido, em 1974.
@@ -129,20 +113,18 @@
                         </p>
                     </div>
 
-                    <br>
-
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
+
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

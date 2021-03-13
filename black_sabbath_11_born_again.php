@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -32,10 +15,10 @@
 
             <p>
                 Após a saída de Ronnie James Dio, e Vinny Appice da banda, Tony Iommi e Geezer Butler viram-se novamente sem vocalista e baterista.
-                O escolhido para substituir Dio foi Ian Gillan, do <a href="deep_purple.php" target="blank">Deep Purple</a>, um dos maiores 
+                O escolhido para substituir Dio foi Ian Gillan, do <a href="deep_purple.php" target="blank">Deep Purple</a>, um dos maiores
                 vocalistas da época, embora David Coverdale, do Whitesnake, fosse a primeira opção. Gillan tinha acabado de sair de sua banda solo,
-                 para uma reunião do Deep Purple (que viria a acontecer só alguns anos depois) e estava livre para qualquer oferta. Bill Ward 
-                 voltou e assumiu novamente a bateria.
+                para uma reunião do Deep Purple (que viria a acontecer só alguns anos depois) e estava livre para qualquer oferta. Bill Ward
+                voltou e assumiu novamente a bateria.
             </p>
 
             <p>
@@ -64,15 +47,17 @@
                     <iframe src="https://open.spotify.com/embed/playlist/2BrBKvgYUQuTO5EXa63259" width="100%" height="550" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divTI11');" onMouseOut="escondeLayer('divTI11');">Tony Iommi</a> – Guitarra e Flauta.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divIG11');" onMouseOut="escondeLayer('divIG11');">Ian Gillan</a> – Vocais. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGB11');" onMouseOut="escondeLayer('divGB11');">Geezer Butler</a> – Baixo . </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath11');" onMouseOut="escondeLayer('divBW_black_sabbath11');">Bill Ward</a> – Bateria.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGN11');" onMouseOut="escondeLayer('divGN11');">Geoff Nicholls</a> – Teclados. </li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI11');" onMouseOut="escondeLayer('divTI11');">Tony Iommi</a> – Guitarra e Flauta.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divIG11');" onMouseOut="escondeLayer('divIG11');">Ian Gillan</a> – Vocais. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGB11');" onMouseOut="escondeLayer('divGB11');">Geezer Butler</a> – Baixo . </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath11');" onMouseOut="escondeLayer('divBW_black_sabbath11');">Bill Ward</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGN11');" onMouseOut="escondeLayer('divGN11');">Geoff Nicholls</a> – Teclados. </li>
+                        </ul>
+                    </nav>
                     <br /><br />
 
 
@@ -132,18 +117,17 @@
                         </p>
                     </div>
 
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

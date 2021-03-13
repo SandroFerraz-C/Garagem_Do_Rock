@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_barao_vermelho.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -50,15 +34,16 @@
                     <iframe src="https://open.spotify.com/embed/playlist/5RpOe7atx0kk1lkz0YvTGs" width="100%" height="640" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divRF05');" onMouseOut="escondeLayer('divRF05');">Roberto Frejat</a> – Vocal e Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMB05');" onMouseOut="escondeLayer('divMB05');">Maurício Barros</a> – Teclados e Piano. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDE05');" onMouseOut="escondeLayer('divDE05');">Dé</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGG05');" onMouseOut="escondeLayer('divGG05');">Guto Goffi</a> – Bateria e Percussão. </li>
-
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divRF05');" onMouseOut="escondeLayer('divRF05');">Roberto Frejat</a> – Vocal e Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divMB05');" onMouseOut="escondeLayer('divMB05');">Maurício Barros</a> – Teclados e Piano. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDE05');" onMouseOut="escondeLayer('divDE05');">Dé</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGG05');" onMouseOut="escondeLayer('divGG05');">Guto Goffi</a> – Bateria e Percussão. </li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -105,20 +90,18 @@
                             <br /><br />
                         </p>
                     </div>
-                    <br />
-
-                    <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

@@ -1,25 +1,9 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
+
     <main>
         <section class="content-section">
 
@@ -59,7 +43,6 @@
                         <td width="15%" height="10%">País</td>
                         <td width="15%">Certificação</td>
                         <td width="15%">Vendas</td>
-
                     </tr>
 
                     <tr>
@@ -109,14 +92,16 @@
                     <iframe src="https://open.spotify.com/embed/playlist/6N3roEOwmcO9Aq8aVMHXyn" width="100%" height="700" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divTI19');" onMouseOut="escondeLayer('divTI19');">Tony Iommi</a> – Guitarra.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divOO19');" onMouseOut="escondeLayer('divOO19');">Ozzy Osbourne</a> – Vocais e harmônica em Damaged Soul.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGB19');" onMouseOut="escondeLayer('divGB19');">Geezer Butler</a> – Baixo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divBWILK19');" onMouseOut="escondeLayer('divBWILK19');">Brad Wilk</a> – Bateria.</li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI19');" onMouseOut="escondeLayer('divTI19');">Tony Iommi</a> – Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divOO19');" onMouseOut="escondeLayer('divOO19');">Ozzy Osbourne</a> – Vocais e harmônica em Damaged Soul.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGB19');" onMouseOut="escondeLayer('divGB19');">Geezer Butler</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBWILK19');" onMouseOut="escondeLayer('divBWILK19');">Brad Wilk</a> – Bateria.</li>
+                        </ul>
+                    </nav>
                     <br /><br />
 
 
@@ -155,27 +140,26 @@
                     <div id="divBWILK19" name="nm_divBWILK19">
                         <p>
                             <img class="css" src="img/Black Sabbath/bwilk.jpg" width="150px;" height="130px;">
-                            Bradley J. "Brad" Wilk é um baterista norte-americano, e atualmente faz parte do Prophets of Rage. 
+                            Bradley J. "Brad" Wilk é um baterista norte-americano, e atualmente faz parte do Prophets of Rage.
                             Também participou de grupos como The Smashing Pumpkins e Black Sabbath.
                             <br />
                             Ficou em 8° lugar na lista dos "50 melhores bateristas de hard rock e metal de todos os tempos" do site Loudwire.
-                             Em lista  da revista Rolling Stone, Ward ficou na posição #42 dos "100 Maiores Bateristas de Todos os Tempos.
+                            Em lista da revista Rolling Stone, Ward ficou na posição #42 dos "100 Maiores Bateristas de Todos os Tempos.
                         </p>
                     </div>
-                    
-
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
+
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

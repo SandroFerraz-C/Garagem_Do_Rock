@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
 
 <html lang="pt-br">
 
@@ -17,23 +16,18 @@
     <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
     <link href="css/css_loja.css" rel="stylesheet" />
 
-
-
 </head>
 
 <body>
-    <br><br>
+
     <div id="Principal">
-        <!-- inicio principal -->
+
         <main>
-
-
             <nav>
                 <a class="loja" href="historia_angra.php">Historia da Banda</a>
-
                 <a class="vote" href="curiosidades_angra.php">Curiosidades do Angra</a>
-
             </nav>
+
             <section class="content-section">
 
                 <h1>Albuns</h1>
@@ -58,21 +52,19 @@
                     <a href="angra_09_secret_gargen.php"><img class="hv" src="img/angra/10_Secret_Garden.jpg" height="310px;" width="360px;"></a>
 
                     <a href="angra_10_omini.php"><img class="hv" src="img/angra/11_Ømni.jpg" height="310px;" width="360px;"></a>
-
                 </div>
-
             </section>
+
             <div class="botao_acdc">
-<br />
+                <br />
                 <button><a href="index.php">Home</a></button>
             </div>
         </main>
-        <br><br>
+        <br /><br />
 
         <footer id="rodape">
             <?php include_once("rodape.php"); ?>
         </footer>
-
 
         </section>
     </div>

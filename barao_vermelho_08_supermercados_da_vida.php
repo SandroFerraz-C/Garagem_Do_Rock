@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_barao_vermelho.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -31,8 +15,8 @@
 
             <p>
                 O disco marca a estréia do baixista Rodrigo Santos no lugar de Dadi. Rodrigo estava desempregado em decorrência da dissolução
-                 da banda de Lobão, que havia optado por carreira solo. Então Guto entrou em contato com Rodrigo Santos e oficializou a vinda 
-                 do novo baixista.
+                da banda de Lobão, que havia optado por carreira solo. Então Guto entrou em contato com Rodrigo Santos e oficializou a vinda
+                do novo baixista.
             </p>
 
             <p>
@@ -53,16 +37,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/1vNRZnmup1KhNaIxh8mw1A" width="100%" height="630" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divRF08');" onMouseOut="escondeLayer('divRF08');">Roberto Frejat</a> – Voz e Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divFM08');" onMouseOut="escondeLayer('divFM08');">Fernando Magalhães</a> – Guitarra e Violão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS08');" onMouseOut="escondeLayer('divRS08');">Rodrigo Santos</a> – Baixo. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGG08');" onMouseOut="escondeLayer('divGG08');">Guto Goffi</a> – Bateria e Percussão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divPNH08');" onMouseOut="escondeLayer('divPNH08');">Peninha</a> – Percussão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMB08');" onMouseOut="escondeLayer('divMB08');">Maurício Barros</a> – (Como Convidado) Teclados, Órgão e Piano. </li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divRF08');" onMouseOut="escondeLayer('divRF08');">Roberto Frejat</a> – Voz e Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFM08');" onMouseOut="escondeLayer('divFM08');">Fernando Magalhães</a> – Guitarra e Violão. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRS08');" onMouseOut="escondeLayer('divRS08');">Rodrigo Santos</a> – Baixo. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGG08');" onMouseOut="escondeLayer('divGG08');">Guto Goffi</a> – Bateria e Percussão. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divPNH08');" onMouseOut="escondeLayer('divPNH08');">Peninha</a> – Percussão. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divMB08');" onMouseOut="escondeLayer('divMB08');">Maurício Barros</a> – (Como Convidado) Teclados, Órgão e Piano. </li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -130,17 +116,16 @@
                             <br /><br /><br />
                         </p>
                     </div>
-                    <br />
-
-                    <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
 

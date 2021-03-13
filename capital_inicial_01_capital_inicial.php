@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_capital_inicial.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-
     <main>
         <section class="content-section">
 
@@ -45,6 +27,7 @@
                         <td width="15%">Álbuns Vendidos</td>
                     </tr>
 
+
                     <tr>
                         <td width="15%"> Platina </td>
                         <td>+ 250.000 (Brasil)</td>
@@ -60,25 +43,25 @@
             <p>Produção: Bozo Barretti.</p>
             <br /><br />
 
-
             <section class="disco">
                 <table id="demo-table">
 
                     <iframe src="https://open.spotify.com/embed/playlist/6ovbrAhd24fy1kLmIPaaSs" width="100%" height="640" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br />
 
-                    <h3>Créditos</h3>
-                    
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divDOP01');" onMouseOut="escondeLayer('divDOP01');">Dinho Ouro Preto</a> – Voz.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divLJ01');" onMouseOut="escondeLayer('divLJ01');">Loro Jones</a> – Guitarra e Violão.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divFL01');" onMouseOut="escondeLayer('divFL01');">Flávio Lemos</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divFEL01');" onMouseOut="escondeLayer('divFEL01');">Fê Lemos</a> – Bateria.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divBB01');" onMouseOut="escondeLayer('divBB01');">Bozzo Barretti</a> – Teclados e Pianos (Como Convidado).</li>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divDOP01');" onMouseOut="escondeLayer('divDOP01');">Dinho Ouro Preto</a> – Voz.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divLJ01');" onMouseOut="escondeLayer('divLJ01');">Loro Jones</a> – Guitarra e Violão.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFL01');" onMouseOut="escondeLayer('divFL01');">Flávio Lemos</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFEL01');" onMouseOut="escondeLayer('divFEL01');">Fê Lemos</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBB01');" onMouseOut="escondeLayer('divBB01');">Bozzo Barretti</a> – Teclados e Pianos (Como Convidado).</li>
+
+                        </ul>
+                    </nav>
                     <br />
-
 
                     <div id="divDOP01" name="nm_divDOP01">
                         <p>
@@ -88,7 +71,6 @@
                             Ouro Preto e meio irmão do também músico Dado Villa-Lobos.
                             <br /><br /><br />
                     </div>
-
 
                     <div id="divLJ01" name="nm_divLJ01">
                         <p>
@@ -130,18 +112,18 @@
                         </p>
                     </div>
 
-                    <a href="capital_inicial.php"><button>Voltar para Albuns do Capital Inicial</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
+
             </section>
 
+            <footer>
+                <a href="capital_inicial.php"><button>Voltar para Albuns do Capital Inicial</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

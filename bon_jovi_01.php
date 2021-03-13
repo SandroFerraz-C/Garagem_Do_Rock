@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_bon_jovi.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
     <main>
@@ -43,7 +26,8 @@
             <p>
                 A banda abriu para <a href="zz_top.php" target="blank">ZZ Top</a> no Madison Square Garden (antes do álbum ser lançado), e para o
                 <a href="scorpions.php" target="blank">Scorpions</a> e o <a href="kizz.php" target="blank">Kiss</a> na Europa, além de concertos no Japão.
-            </p><br />
+            </p>
+            <br />
 
             <p>
                 O album atingil certificação:
@@ -56,7 +40,7 @@
                         <td width="15%">Álbuns Vendidos</td>
                     </tr>
 
-                
+
                     <tr>
                         <td width="15%">Platina </td>
                         <td> + 1.000.000 ( EUA.)</td>
@@ -64,7 +48,8 @@
                     <tr>
                         <td width="15%">Prata </td>
                         <td> + 60.000 (Reino Unido)</td>
-                    </tr><tr>
+                    </tr>
+                    <tr>
                         <td width="15%">Ouro </td>
                         <td> + 50.000 (Canadá)</td>
                     </tr>
@@ -95,14 +80,16 @@
                     <iframe src="https://open.spotify.com/embed/playlist/7fKGgXS9Je0PFDRCkCOdSy" width="100%" height="550" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ01');" onMouseOut="escondeLayer('divBJ01');">Jon Bon Jovi</a> – Vocais e Guitarra.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS01');" onMouseOut="escondeLayer('divRS01');">Richie Sambora</a> – Guitarra principal e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divAJ01');" onMouseOut="escondeLayer('divAJ01');">Alec John Such</a> – Baixo e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDB01');" onMouseOut="escondeLayer('divDB01');">David Bryan</a> – Teclado e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTT01');" onMouseOut="escondeLayer('divTT01');">Tico Torres</a> – Bateria. </li>
-                    </ul>
+                    <nav>
+                        <h3>Créditos</h3>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBJ01');" onMouseOut="escondeLayer('divBJ01');">Jon Bon Jovi</a> – Vocais e Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRS01');" onMouseOut="escondeLayer('divRS01');">Richie Sambora</a> – Guitarra principal e Vocal de apoio. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divAJ01');" onMouseOut="escondeLayer('divAJ01');">Alec John Such</a> – Baixo e Vocal de apoio. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDB01');" onMouseOut="escondeLayer('divDB01');">David Bryan</a> – Teclado e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTT01');" onMouseOut="escondeLayer('divTT01');">Tico Torres</a> – Bateria. </li>
+                        </ul>
+                    </nav>
                     <br /><br />
 
 
@@ -124,7 +111,6 @@
                             <br />
                             Antes de aparecer na banda Bon Jovi, participou de uma audição para tocar nos Kiss, mas, por achar que a banda não se adequava às suas
                             expectativas como músico, pois possuíam influências e gêneros diferentes, não entrou na banda.
-
                         </p>
                     </div>
 
@@ -148,7 +134,6 @@
                             Ele é um símbolo dos teclados, é considerado uns dos melhores tecladistas de bandas de rock; David Bryan toca teclado,
                             piano, trompete e acordeon. Conheceu Jon quando tinha 16 anos.
                             <br /><br />
-
                         </p>
                     </div>
 
@@ -163,19 +148,18 @@
                             <br /><br />
                         </p>
                     </div>
-                   
-                    <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

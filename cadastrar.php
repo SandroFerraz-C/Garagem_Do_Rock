@@ -73,7 +73,4 @@ $u = new Usuario;
         ?>
 </body>
 
-
-
-
 </html>

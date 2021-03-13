@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_barao_vermelho.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -24,7 +8,7 @@
         <section class="content-section">
 
             <h1>Carne Crua (1994)</h1>
-            
+
 
             <p>
                 Carne Crua é o nono álbum da banda Barão Vermelho, lançado em 1994.
@@ -43,14 +27,17 @@
                     <iframe src="https://open.spotify.com/embed/playlist/29GQpj87UYPGJqOxf9tBlR" width="100%" height="640" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divRF09');" onMouseOut="escondeLayer('divRF09');">Roberto Frejat</a> – Voz, Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divFM09');" onMouseOut="escondeLayer('divFM09');">Fernando Magalhães</a> – Guitarra e Vocal. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS09');" onMouseOut="escondeLayer('divRS09');">Rodrigo Santos</a> – Baixo e Vocal. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGG09');" onMouseOut="escondeLayer('divGG09');">Guto Goffi</a> – Bateria. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divPNH09');" onMouseOut="escondeLayer('divPNH09');">Peninha</a> – Percussão. </li>
-                    </ul>
+                    <nav>
+                        <h3>Créditos</h3>
+
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divRF09');" onMouseOut="escondeLayer('divRF09');">Roberto Frejat</a> – Voz, Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFM09');" onMouseOut="escondeLayer('divFM09');">Fernando Magalhães</a> – Guitarra e Vocal. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRS09');" onMouseOut="escondeLayer('divRS09');">Rodrigo Santos</a> – Baixo e Vocal. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGG09');" onMouseOut="escondeLayer('divGG09');">Guto Goffi</a> – Bateria. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divPNH09');" onMouseOut="escondeLayer('divPNH09');">Peninha</a> – Percussão. </li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -105,20 +92,18 @@
                             <br /><br />
                         </p>
                     </div>
-                    <br />
-
-                    <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

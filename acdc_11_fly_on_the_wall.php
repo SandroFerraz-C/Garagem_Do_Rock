@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_acdc.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -34,8 +18,7 @@
             </p>
 
             <p>
-                A turnê de - Fly on the Wall foi marcada por má publicidade quando o serial killer Richard Ramirez foi preso. Ramirez, apelidado de "Night Stalker" pela imprensa, disse à polícia que "Night Prowler" (do álbum - <a href="acdc_07_highway_to_hell.html"
-                    target="blank">Highway to Hell</a> de 1979) o levou a cometer assassinato. A polícia também afirmou que Ramirez estava usando uma camiseta do AC/DC e deixou um chapéu com temática da banda em uma das cenas do crime.
+                A turnê de - Fly on the Wall foi marcada por má publicidade quando o serial killer Richard Ramirez foi preso. Ramirez, apelidado de "Night Stalker" pela imprensa, disse à polícia que "Night Prowler" (do álbum - <a href="acdc_07_highway_to_hell.html" target="blank">Highway to Hell</a> de 1979) o levou a cometer assassinato. A polícia também afirmou que Ramirez estava usando uma camiseta do AC/DC e deixou um chapéu com temática da banda em uma das cenas do crime.
             </p>
 
             <p>
@@ -48,56 +31,55 @@
                 A banda sustentou que a música não tinha uma conotação assassina de Ramírez, sendo na verdade sobre um garoto se esgueirando no quarto de sua namorada à noite enquanto seus pais estão dormindo. Em uma entrevista de 2000 para o documentário MuchMoreMusic
                 The Story of AC/DC, Angus diz ironicamente: "Não consigo me lembrar da última missa negra que participei".
             </p>
-            <br>
+            <br />
 
             <p>
                 O album atingil certificação:
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Albuns Vendidos</td>
-                        </tr>
+            <div class="tabela">
+                <table border="1px" width="45%">
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Albuns Vendidos</td>
+                    </tr>
 
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 1.000.000 (EUA.)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 250.000 (Alemanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 3X Platina</td>
+                        <td> + 210.000 (Austrália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Prata</td>
+                        <td> + 60.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 50.000 (Espanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 25.000 (Suíça)</td>
+                    </tr>
 
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 1.000.000 (EUA.)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 250.000 (Alemanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> 3X Platina</td>
-                            <td> + 210.000 (Austrália)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Prata</td>
-                            <td> + 60.000 (Reino Unido)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 50.000 (Espanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 25.000 (Suíça)</td>
-                        </tr>
-
-                    </table>
-                </div>
+                </table>
+            </div>
             </p>
             <br />
 
             <p>Gênero(s):
-                <ul>
-                    <li>Hard rock</li>
-                    <li>Blues</li>
-                    <li>Rock</li>
-                    <li>Rock and Roll</li>
-                </ul>
+            <ul>
+                <li>Hard rock</li>
+                <li>Blues</li>
+                <li>Rock</li>
+                <li>Rock and Roll</li>
+            </ul>
             </p>
             <br />
 
@@ -105,7 +87,7 @@
             <p>Duração do album: 40 min. 20 seg. </p>
             <p>Gravadora(s): Albert Productions, Atlantic Records.</p>
             <p>Produção: Angus Young e Malcolm Young.</p>
-            <br>
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -113,16 +95,17 @@
                     <iframe src="https://open.spotify.com/embed/playlist/0p2zaRA6weDU8z1fJTIdGX" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ11');" onMouseOut="escondeLayer('divBJ11');">Brian Johnson</a> – Vocais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divAY11');" onMouseOut="escondeLayer('divAY11');">Angus Young</a> – Guitarra solo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMY11');" onMouseOut="escondeLayer('divMY11');">Malcolm Young</a> – Guitarra rítmica.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divCW11');" onMouseOut="escondeLayer('divCW11');">Cliff Williams</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divSW11');" onMouseOut="escondeLayer('divSW11');">Simon Wright</a> – Bateria.</li>
-
-                    </ul>
-                    <br>
+                    <nav>
+                        <h3>Créditos</h3>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBJ11');" onMouseOut="escondeLayer('divBJ11');">Brian Johnson</a> – Vocais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divAY11');" onMouseOut="escondeLayer('divAY11');">Angus Young</a> – Guitarra solo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divMY11');" onMouseOut="escondeLayer('divMY11');">Malcolm Young</a> – Guitarra rítmica.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divCW11');" onMouseOut="escondeLayer('divCW11');">Cliff Williams</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divSW11');" onMouseOut="escondeLayer('divSW11');">Simon Wright</a> – Bateria.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
                     <div id="divBJ11" name="nm_divBJ11">
                         <p>
@@ -135,8 +118,8 @@
                     <div id="divAY11" name="nm_divAY11">
                         <p>
                             <img class="css" src="img/angus.jpg" width="150px;" height="130px;"> Angus McKinnon Young (31 de março de 1955) é um guitarrista e compositor, conhecido por ser guitarrista solo, compositor, líder e co-fundador da banda AC/DC.
-                            <br> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
-                            <br> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                            <br /> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
+                            <br /> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
                         </p>
                     </div>
 
@@ -144,7 +127,7 @@
                         <p>
                             <img class="css" src="img/Malcolm.jpg" width="150px;" height="130px;"> Malcolm Mitchell Young (6 de janeiro de 1953 — 18 de novembro de 2017) foi um guitarrista e compositor escocês naturalizado australiano e fundador, junto
                             com seu irmão mais novo Angus Young, do AC/DC, da qual era o guitarrista rítmico, vocalista de apoio e compositor.
-                            <br> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
+                            <br /> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
                         </p>
                     </div>
 
@@ -165,11 +148,14 @@
                         </p>
                     </div>
 
-                    <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
             </section>
+
+            <footer>
+                <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
     <script type="text/javascript" src="js/Country.js"></script>
 

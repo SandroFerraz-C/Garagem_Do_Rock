@@ -1,14 +1,11 @@
 <html lang="utf-8">
 
 <head>
-
     <link href="icoon/style.css" rel="stylesheet">
-
 </head>
 
-
-
 <div id="cabecalho_meio" class="fundo_azul">
+
     <h1>Loja da Garagem</h1>
 
     <section class="busca">

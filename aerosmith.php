@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
 
 <html lang="pt-br">
 
@@ -17,26 +16,25 @@
     <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
     <link href="css/css_loja.css" rel="stylesheet" />
     <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 </head>
 
 <body>
-    <br><br>
-    <div id="Principal">
-        <!-- inicio principal -->
-        <main>
 
+    <div id="Principal">
+
+        <main>
 
             <nav>
                 <a class="loja" href="historia_aerosmith.php">Historia da Banda</a>
-
                 <a class="vote" href="curiosidades_aerosmith.php">Curiosidades do Aerosmith</a>
             </nav>
+
             <section class="content-section">
 
                 <h1>Albuns</h1>
+
                 <div class="albuns_aerosmith">
 
                     <a href="aerosmith_01_aerosmith.php"> <img class="hv" src="img/aerosmith/aerosmith_01.jpg" height="310px;" width="360px;" alt=""> </a>
@@ -70,15 +68,14 @@
                     <a href="aerosmith_15_music_from_another_dimension.php"><img class="hv" src="img/aerosmith/Music from Another Dimension!_15.jpg" height="310px;" width="360px;"></a>
 
                 </div>
-
             </section>
             <br />
-            <div class="botao_acdc">
 
+            <div class="botao_acdc">
                 <button><a href="index.php">Home</a></button>
             </div>
         </main>
-        <br><br>
+        <br /><br />
 
         <div class="Principal">
             <footer id="rodape">

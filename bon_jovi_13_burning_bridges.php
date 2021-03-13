@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_bon_jovi.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
     <main>
@@ -61,15 +45,17 @@
                     <iframe src="https://open.spotify.com/embed/playlist/4HxI9MMhSUtGVjZSPYfzf9" width="100%" height="540" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ13');" onMouseOut="escondeLayer('divBJ13');">Jon Bon Jovi</a> – Vocal principal, Guitarras adicionais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJS13');" onMouseOut="escondeLayer('divJS13');">John Shanks</a> – Guitarras principais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divHM13');" onMouseOut="escondeLayer('divHM13');">Hugh McDonald</a> – (Como convidado) Baixo e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDB13');" onMouseOut="escondeLayer('divDB13');">David Bryan</a> – Teclado.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTT13');" onMouseOut="escondeLayer('divTT13');">Tico Torres</a> – Bateria.</li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBJ13');" onMouseOut="escondeLayer('divBJ13');">Jon Bon Jovi</a> – Vocal principal, Guitarras adicionais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divJS13');" onMouseOut="escondeLayer('divJS13');">John Shanks</a> – Guitarras principais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divHM13');" onMouseOut="escondeLayer('divHM13');">Hugh McDonald</a> – (Como convidado) Baixo e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDB13');" onMouseOut="escondeLayer('divDB13');">David Bryan</a> – Teclado.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTT13');" onMouseOut="escondeLayer('divTT13');">Tico Torres</a> – Bateria.</li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -128,20 +114,19 @@
                             <br /><br />
                         </p>
                     </div>
-                    <br />
-
-                    <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
+
             </section>
 
+            <footer>
+                <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

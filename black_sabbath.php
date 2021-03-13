@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
 
 <html lang="pt-br">
 
@@ -16,23 +15,19 @@
 
     <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
     <link href="css/css_loja.css" rel="stylesheet" />
-
-
 </head>
 
 <body>
-    <br><br>
-    <div id="Principal">
-        <!-- inicio principal -->
-        <main>
 
+    <div id="Principal">
+
+        <main>
 
             <nav>
                 <a class="loja" href="historia_black_sabbath.php">Historia da Banda</a>
-
                 <a class="vote" href="curiosidades_Black_sabbath.php">Curiosidades do Black Sabbath</a>
-
             </nav>
+
             <section class="content-section">
 
                 <h1>Albuns</h1>
@@ -76,24 +71,21 @@
                     <a href="black_sabbath_18_forbidden.php"><img class="hv" src="img/Black Sabbath/18_f.jpg" height="310px;" width="360px;"></a>
 
 -->
-
                     <a href="black_sabbath_19_13.php"><img class="hv" src="img/Black Sabbath/19_13.jpg" height="310px;" width="360px;"></a>
-
-
                 </div>
 
             </section>
-            <div class="botao_acdc">
 
+            <div class="botao_acdc">
                 <button><a href="index.php">Home</a></button>
             </div>
+
         </main>
-        <br><br>
+        <br /><br />
 
         <footer id="rodape">
             <?php include_once("rodape.php"); ?>
         </footer>
-
 
         </section>
     </div>

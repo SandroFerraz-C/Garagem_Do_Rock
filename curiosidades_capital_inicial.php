@@ -1,49 +1,20 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-
-
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
-    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-
-
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link href="css/css_loja.css" rel="stylesheet" />
-
-</head>
+<?php
+include_once("header_curiosidades.php");
+?>
 
 <body>
 
     <section id="cabecalho">
-        <!-- inico topo-->
         <?php include_once("cabecalho.php"); ?>
     </section>
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre Capital Inicial</h1>
-        <br><br>
+        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
-
             <div class="botao_acdc">
-
-
 
                 <button class="btn1" data-toggle="collapse" data-target="#demo1">Curiosidade 01</button>
 
@@ -53,7 +24,6 @@
                 </div>
                 <br /><br />
 
-
                 <button class="btn2" data-toggle="collapse" data-target="#demo2">Curiosidade 02</button>
 
                 <div id="demo2" class="collapse">
@@ -62,7 +32,6 @@
                 </div>
                 <br /><br />
 
-
                 <button class="btn3" data-toggle="collapse" data-target="#demo3">Curiosidade 03</button>
 
                 <div id="demo3" class="collapse">
@@ -70,7 +39,6 @@
                     <p> - A gravação do CD Ao Vivo foi feita "de um fôlego só", sem repetição de músicas, em um show realizado no verão de 1996, na cidade de Santos (SP). </p>
                 </div>
                 <br /><br />
-
 
                 <button class="btn4" data-toggle="collapse" data-target="#demo4">Curiosidade 04</button>
 
@@ -118,7 +86,6 @@
                         Museu de Arte Moderna, no Rio de Janeiro (6/12/11).</p>
                 </div>
                 <br /> <br />
-
 
                 <button class="btn9" data-toggle="collapse" data-target="#demo9">Curiosidade 09</button>
 
@@ -251,11 +218,14 @@
         </section>
 
         <div class="fotoac">
+
             <h2>Albun de Fotos do Capital Inicial</h2>
+
             <p class="ay_hj">Dinho Ouro Preto</p>
             <p class="ay_antes">Dinho Ouro Preto</p>
             <p class="bj_hj">Fê Lemos</p>
             <p class="bj_antes">Fê Lemos</p>
+
             <img src="img/capital inicial/dinho_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/capital inicial/dinho_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
@@ -263,12 +233,11 @@
             <p class="ay_antes">Loro Jones</p>
             <p class="bj_hj">Yves Passarell</p>
             <p class="bj_antes">Yves Passarell</p>
+
             <img src="img/capital inicial/fe_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/capital inicial/fe_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/capital inicial/lj_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/capital inicial/lj_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-
 
             <img src="img/capital inicial/yp_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/capital inicial/yp_antes.png" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
@@ -286,33 +255,12 @@
             <img src="img/capital inicial/12.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/capital inicial/13.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
-
         </div>
 
         </section>
 
-        <footer id="rodape">
-            <?php include_once("rodape.php"); ?>
-        </footer>
-
-
     </div>
 
-    <script language="javascript">
-        function aumenta(obj) {
-            obj.height = obj.height * 1.1;
-            obj.width = obj.width * 1.1;
-        }
-
-        function diminui(obj) {
-            obj.height = obj.height / 1.1;
-            obj.width = obj.width / 1.1;
-        }
-    </script>
-
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-</body>
-
-</html>
+    <footer id="rodape">
+        <?php include_once("footer_curiosidades.php"); ?>
+    </footer>

@@ -1,25 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -67,17 +50,18 @@
                     </h1>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divTI14');" onMouseOut="escondeLayer('divTI14');">Tony Iommi</a> – Guitarra.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTM14');" onMouseOut="escondeLayer('divTM14');">Tony Martin</a> – Vocais. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divLC14');" onMouseOut="escondeLayer('divLC14');">Laurence Cottle</a> – Baixo (Como Convidado). </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divCP14');" onMouseOut="escondeLayer('divCP14');">Cozy Powell</a> – Bateria e Percussão.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGN14');" onMouseOut="escondeLayer('divGN14');">Geoff Nicholls</a> – Teclados. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divBM14');" onMouseOut="escondeLayer('divBM14');">Brian May</a> – Participação especial - Guitarra solo na faixa "When Death Calls". </li>
-
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI14');" onMouseOut="escondeLayer('divTI14');">Tony Iommi</a> – Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTM14');" onMouseOut="escondeLayer('divTM14');">Tony Martin</a> – Vocais. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divLC14');" onMouseOut="escondeLayer('divLC14');">Laurence Cottle</a> – Baixo (Como Convidado). </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divCP14');" onMouseOut="escondeLayer('divCP14');">Cozy Powell</a> – Bateria e Percussão.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGN14');" onMouseOut="escondeLayer('divGN14');">Geoff Nicholls</a> – Teclados. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBM14');" onMouseOut="escondeLayer('divBM14');">Brian May</a> – Participação especial - Guitarra solo na faixa "When Death Calls". </li>
+                        </ul>
+                    </nav>
                     <br /><br />
 
 
@@ -144,22 +128,20 @@
                             guitarrista e compositor da banda britânica de rock Queen. Também construiu uma guitarra elétrica conhecida como Red Special.
                             Algumas de suas composições para o grupo são "We Will Rock You", "Tie Your Mother Down", "The Show Must Go On", "I Want It All",
                             "Who Wants to Live Forever" e "Hammer To Fall".
-
                         </p>
                     </div>
-
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

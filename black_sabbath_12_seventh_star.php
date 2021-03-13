@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -28,7 +10,7 @@
             <h1>Seventh Star (1986)</h1>
 
             <p>
-               - Seventh Star é o décimo segundo álbum do Black Sabbath.
+                - Seventh Star é o décimo segundo álbum do Black Sabbath.
             </p>
 
             <p>
@@ -61,18 +43,20 @@
             <section class="disco">
                 <table id="demo-table">
 
-                    <iframe src="https://open.spotify.com/embed/playlist/50uzOQPDqGadepdopBl3vb" width="98%" height="550" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <iframe src="https://open.spotify.com/embed/playlist/50uzOQPDqGadepdopBl3vb" width="100%" height="550" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divTI12');" onMouseOut="escondeLayer('divTI12');">Tony Iommi</a> – Guitarra.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGH12');" onMouseOut="escondeLayer('divGH12');">Glenn Hughes</a> – Vocais.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDS12');" onMouseOut="escondeLayer('divDS12');">Dave Spitz</a> – Baixo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divES12');" onMouseOut="escondeLayer('divES12');">Eric Singer</a> – Bateria.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGN12');" onMouseOut="escondeLayer('divGN12');">Geoff Nicholls</a> – Teclados.</li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI12');" onMouseOut="escondeLayer('divTI12');">Tony Iommi</a> – Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGH12');" onMouseOut="escondeLayer('divGH12');">Glenn Hughes</a> – Vocais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDS12');" onMouseOut="escondeLayer('divDS12');">Dave Spitz</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divES12');" onMouseOut="escondeLayer('divES12');">Eric Singer</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGN12');" onMouseOut="escondeLayer('divGN12');">Geoff Nicholls</a> – Teclados.</li>
+                        </ul>
+                    </nav>
                     <br /><br />
 
 
@@ -93,16 +77,16 @@
                             Deep Purple, Black Sabbath e por sua carreira solo.
                             <br />
                             Em 2016, Hughes foi introduzido no
-                             Rock and Roll Hall of Fame como um membro do Deep Purple.
-                             <br /><br /><br />
+                            Rock and Roll Hall of Fame como um membro do Deep Purple.
+                            <br /><br /><br />
                         </p>
                     </div>
 
                     <div id="divDS12" name="nm_divDS12">
                         <p>
                             <img class="css" src="img/Black Sabbath/ds.jpg" width="150px;" height="130px;">
-                            Dave Spitz é um músico americano mais conhecido por ter tocado baixo para o grupo de heavy metal Black Sabbath de 
-                            1985 a 1987. Dave também ajudou a descobrir Ray Gillen, o vocalista que se juntou ao Black Sabbath no meio da 
+                            Dave Spitz é um músico americano mais conhecido por ter tocado baixo para o grupo de heavy metal Black Sabbath de
+                            1985 a 1987. Dave também ajudou a descobrir Ray Gillen, o vocalista que se juntou ao Black Sabbath no meio da
                             turnê em 1986, após a saída repentina de Glenn Hughes.
                             <br /><br /><br />
                         </p>
@@ -130,18 +114,17 @@
                         </p>
                     </div>
 
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

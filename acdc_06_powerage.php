@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_acdc.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -30,7 +13,7 @@
             </p>
 
             <p>
-                Foi o primeiro álbum do AC / DC a apresentar Cliff Williams no baixo, e também foi o primeiro álbum do AC/DC a não ter uma faixa-título (Como "Powerage" além do álbum - <a href="acdc_01_high_voltage.html" target="blank">High Voltage</a>                exclusivo da Austrália). - Powerage foi relançado em 2003 como parte da série AC/DC Remasters.
+                Foi o primeiro álbum do AC / DC a apresentar Cliff Williams no baixo, e também foi o primeiro álbum do AC/DC a não ter uma faixa-título (Como "Powerage" além do álbum - <a href="acdc_01_high_voltage.html" target="blank">High Voltage</a> exclusivo da Austrália). - Powerage foi relançado em 2003 como parte da série AC/DC Remasters.
             </p>
 
             <p>
@@ -46,17 +29,17 @@
                 <a href="#" onMouseOver="mostraLayer('divEddie06');" onMouseOut="escondeLayer('divEddie06');"> Eddie Van Halen</a>,
                 <a href="#" onMouseOver="mostraLayer('divGene06');" onMouseOut="escondeLayer('divGene06');"> Gene Simmons</a>,
                 <a href="#" onMouseOver="mostraLayer('divRon06');" onMouseOut="escondeLayer('divRon06');"> Ron Wood</a>, afirmam sua paixão pelo AC/DC, tendo como em especial o álbum - Powerage.
-                <br/> É o primeiro trabalho com o baixista
+                <br /> É o primeiro trabalho com o baixista
                 <a href="#" onMouseOver="mostraLayer('divCliff06');" onMouseOut="escondeLayer('divCliff06');"> Cliff Williams</a>, que entrou substituindo
                 <a href="#" onMouseOver="mostraLayer('divMark06');" onMouseOut="escondeLayer('divMark06');"> Mark Evans</a>.
-                <br/> Anos depois, Evans afirmou que parte do álbum contém linhas de baixo tocadas por ele.
+                <br /> Anos depois, Evans afirmou que parte do álbum contém linhas de baixo tocadas por ele.
             </p>
 
             <div id="divSlash06" name="nm_divSlash06">
                 <p>
                     <img class="css" src="img/slash.jpg" width="150px;" height="130px;">Saul Hudson, "Slash", é um guitarrista anglo-americano mundialmente famoso como integrante da formação clássica da banda <a href="guns_n_roses.php">Guns N' Roses</a>,
                     com quem alcançou sucesso mundial.
-                    <br> Em sua carreira posterior, Slash integrou algumas outras bandas de diversos estilos, bem sucedidas em sua maioria.
+                    <br /> Em sua carreira posterior, Slash integrou algumas outras bandas de diversos estilos, bem sucedidas em sua maioria.
                     <br /><br /><br />
                 </p>
             </div>
@@ -64,7 +47,7 @@
             <div id="divKeith06" name="nm_divKeith06">
                 <p>
                     <img class="css" src="img/keith.jpg" width="150px;" height="130px;"> Keith Richards é um cantor, músico, compositor e ator britânico, considerado um dos grandes nomes do rock do século XX.
-                    <br> Richards é mais conhecido como integrante do The Rolling Stones e é considerado um dos mais influentes guitarristas da história, sendo eleito o #4° maior guitarrista de todos os tempos pela revista americana Rolling Stone.
+                    <br /> Richards é mais conhecido como integrante do The Rolling Stones e é considerado um dos mais influentes guitarristas da história, sendo eleito o #4° maior guitarrista de todos os tempos pela revista americana Rolling Stone.
                     <br /><br />
                 </p>
             </div>
@@ -82,7 +65,7 @@
             <div id="divGene06" name="nm_divGene06">
                 <p>
                     <img class="css" src="img/gene.jpg" width="150px;" height="130px;"> Gene Simmons, "Chaim Witz", é o vocalista, baixista e fundador da banda <a href="kiss.php">Kiss</a>.
-                    <br/> Simmons é mais conhecido pelo seu apelido "The Demon". Junto com o também vocalista Paul Stanley, Simmons é o único membro remanescente da formação original do Kiss, e participou de todos os álbuns da banda.
+                    <br /> Simmons é mais conhecido pelo seu apelido "The Demon". Junto com o também vocalista Paul Stanley, Simmons é o único membro remanescente da formação original do Kiss, e participou de todos os álbuns da banda.
                 </p>
 
                 <p> Foi eleito o 50° melhor baixista de todos os tempos pela equipe da Loudwire e o 29° melhor vocalista de heavy metal e hard rock de todos os tempos pela revista Hit Parader.
@@ -93,7 +76,7 @@
             <div id="divRon06" name="nm_divRon06">
                 <p>
                     <img class="css" src="img/ron.jpg" width="150px;" height="130px;"> Ronald David Wood, "Ron Wood", é um guitarrista, compositor, multi-instrumentista, artista, autor e celebridade de rádio de rock and roll britânico.
-                    <br/> Mais conhecido como ex-integrante dos The Faces, e integrante atualmente do <a href="the_rolling_stones">The Rolling Stones</a>.
+                    <br /> Mais conhecido como ex-integrante dos The Faces, e integrante atualmente do <a href="the_rolling_stones">The Rolling Stones</a>.
                     <br /><br /><br />
                 </p>
             </div>
@@ -110,69 +93,68 @@
                 <p>
                     <img class="css" src="img/Mark.png" width="150px;" height="130px;"> Mark Evans (2 de março de 1956)é um baixista australiano, mais conhecido como um dos primeiros baixistas do AC/DC, onde participou de cinco discos entre 1975 e 1977.
                     Mark saiu da banda por desentendimentos com o guitarrista Angus Young.
-                    <br> Em 2011, Mark lançou o livro: Dirty Deeds: My Life Inside / Outside of AC / DC, que conta os bastidores das gravações com o AC/DC, além de suas memórias dos shows com o grupo.
+                    <br /> Em 2011, Mark lançou o livro: Dirty Deeds: My Life Inside / Outside of AC / DC, que conta os bastidores das gravações com o AC/DC, além de suas memórias dos shows com o grupo.
                 </p>
             </div>
-            <br><br>
+            <br /><br />
 
             <p>
                 O album atingil certificação:
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Albuns Vendidos</td>
-                        </tr>
+            <div class="tabela">
+                <table border="1px" width="45%">
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Albuns Vendidos</td>
+                    </tr>
 
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 1.000.000 (EUA.)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 250.000 (Alemanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 3X Platina</td>
+                        <td> + 210.000 (Austrália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 100.000 (França)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 100.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 50.000 (Espanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro</td>
+                        <td> + 25.000 (Suíça)</td>
+                    </tr>
 
-                        <tr>
-                            <td width="15%"> Platina</td>
-                            <td> + 1.000.000 (EUA.)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 250.000 (Alemanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> 3X Platina</td>
-                            <td> + 210.000 (Austrália)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 100.000 (França)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 100.000 (Reino Unido)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 50.000 (Espanha)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro</td>
-                            <td> + 25.000 (Suíça)</td>
-                        </tr>
-
-                    </table>
-                </div>
+                </table>
+            </div>
             </p>
             <br />
 
             <p>Gênero(s):
-                <ul>
-                    <li>Hard rock</li>
-                    <li>Blues</li>
-                    <li>Rock</li>
-                    <li>Rock and Roll</li>
-                </ul>
+            <ul>
+                <li>Hard rock</li>
+                <li>Blues</li>
+                <li>Rock</li>
+                <li>Rock and Roll</li>
+            </ul>
             </p>
 
             <p>Duração do album: 39 minutos e 47 segundos</p>
             <p>Gravadora(s): Albert Productions</p>
             <p>Produção: Harry Vanda e George Young</p>
-            <br>
+            <br />
 
             <section class="disco">
 
@@ -180,32 +162,34 @@
                     <iframe src="https://open.spotify.com/embed/playlist/1FZkXn55TxjnJxjVisrNFa" width="100%" height="530" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBS06');" onMouseOut="escondeLayer('divBS06');">Bon Scott</a> – Vocais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divAY06');" onMouseOut="escondeLayer('divAY06');">Angus Young</a> – Guitarra.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMY06');" onMouseOut="escondeLayer('divMY06');">Malcolm Young</a> – Guitarra rítmica e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divCliff06');" onMouseOut="escondeLayer('divCliff06');">Cliff Williams</a> – Baixo e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divPR06');" onMouseOut="escondeLayer('divPR06');">Phil Rudd</a> – Bateria.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divHV06');" onMouseOut="escondeLayer('divHV06');">Harry Vanda</a> – Produtor.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGY06');" onMouseOut="escondeLayer('divGY06');">George Young</a> – Produtor.</li>
-                    </ul>
-                    <br><br>
+                    <nav>
+                        <h3>Créditos</h3>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBS06');" onMouseOut="escondeLayer('divBS06');">Bon Scott</a> – Vocais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divAY06');" onMouseOut="escondeLayer('divAY06');">Angus Young</a> – Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divMY06');" onMouseOut="escondeLayer('divMY06');">Malcolm Young</a> – Guitarra rítmica e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divCliff06');" onMouseOut="escondeLayer('divCliff06');">Cliff Williams</a> – Baixo e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divPR06');" onMouseOut="escondeLayer('divPR06');">Phil Rudd</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divHV06');" onMouseOut="escondeLayer('divHV06');">Harry Vanda</a> – Produtor.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGY06');" onMouseOut="escondeLayer('divGY06');">George Young</a> – Produtor.</li>
+                        </ul>
+                    </nav>
+                    <br /><br />
 
                     <div id="divBS06" name="nm_divBS06">
                         <p>
                             <img class="css" src="img/Bon.jpg" width="150px;" height="130px;"> Ronald Belford Scott ( 9 de julho de 1946 — 19 de fevereiro de 1980) foi um cantor e compositor australiano nascido na Escócia. Ele ficou mundialmente conhecido
                             por ser vocalista e compositor da banda de rock australiana AC/DC de 1974 a 1980.
                             <br />
-                            <br> Em 2006, a revista Hit Parader colocou Scott como o quinto melhor vocalista de heavy metal de todos os tempos.
+                            <br /> Em 2006, a revista Hit Parader colocou Scott como o quinto melhor vocalista de heavy metal de todos os tempos.
                         </p>
                     </div>
 
                     <div id="divAY06" name="nm_divAY06">
                         <p>
                             <img class="css" src="img/angus.jpg" width="150px;" height="130px;"> Angus McKinnon Young (31 de março de 1955) é um guitarrista e compositor, conhecido por ser guitarrista solo, compositor, líder e co-fundador da banda AC/DC.
-                            <br> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
-                            <br> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                            <br /> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
+                            <br /> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
                         </p>
                     </div>
 
@@ -213,7 +197,7 @@
                         <p>
                             <img class="css" src="img/Malcolm.jpg" width="150px;" height="130px;"> Malcolm Mitchell Young (6 de janeiro de 1953 — 18 de novembro de 2017) foi um guitarrista e compositor escocês naturalizado australiano e fundador, junto
                             com seu irmão mais novo Angus Young, do AC/DC, da qual era o guitarrista rítmico, vocalista de apoio e compositor.
-                            <br> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
+                            <br /> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
                         </p>
                     </div>
 
@@ -245,14 +229,19 @@
                         <p>
                             <img class="css" src="img/george.jpeg" width="150px;" height="130px;"> Alfred Redburn Young ( 6 de novembro de 1946 - 22 de outubro de 2017) foi um músico australiano de rock, compositor e produtor musical, mais conhecido como
                             integrante da banda The Easybeats, o co-autor de sucessos internacionais, tais como "Friday on My Mind" e "Love Is in the Air", e por sua produção da banda de hard rock AC/DC.
-                            <br /><br /> </p>
+                            <br /><br />
+                        </p>
 
 
                     </div>
-                    <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
-                    <a href="index.php"><button>Home</button></a>
+
             </section>
 
+            <footer>
+                <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+ 
     </main>
 
     <script type="text/javascript" src="js/Country.js"></script>

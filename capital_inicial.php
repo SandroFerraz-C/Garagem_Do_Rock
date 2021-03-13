@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
 
 <html lang="pt-br">
 
@@ -17,29 +16,22 @@
     <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
     <link href="css/css_loja.css" rel="stylesheet" />
     <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
-
-
 </head>
 
 <body>
-    <br><br>
-    <div id="Principal">
-        <!-- inicio principal -->
-        <main>
 
+    <div id="Principal">
+        <main>
 
             <nav>
                 <a class="loja" href="historia_capital_inicial.php">Historia da Banda</a>
-
                 <a class="vote" href="curiosidades_capital_inicial.php">Curiosidades do Capital Inicial</a>
-
             </nav>
+
             <section class="content-section">
 
-                <h1>Albuns</h1>
+                <h1>Álbuns</h1>
 
                 <div class="albuns_acdc">
 
@@ -74,17 +66,18 @@
                 </div>
 
             </section>
+
             <div class="botao_acdc">
-<br />
+                <br />
+
                 <button><a href="index.php">Home</a></button>
             </div>
         </main>
-        <br><br>
+        <br /><br />
 
         <footer id="rodape">
             <?php include_once("rodape.php"); ?>
         </footer>
-
 
         </section>
     </div>

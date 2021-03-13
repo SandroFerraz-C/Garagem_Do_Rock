@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_bon_jovi.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
     <main>
@@ -76,6 +60,7 @@
                         <td width="15%">Álbuns Vendidos</td>
                     </tr>
 
+
                     <tr>
                         <td width="15%">12X Platina </td>
                         <td> + 12.000.000 (EUA.)</td>
@@ -122,15 +107,17 @@
 
                     <iframe src="https://open.spotify.com/embed/playlist/4gpL90W4oG1B2zwsXjyf2n" width="100%" height="590" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> <br /><br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ03');" onMouseOut="escondeLayer('divBJ03');">Jon Bon Jovi</a> – Vocal principal e Guitarra.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS03');" onMouseOut="escondeLayer('divRS03');">Richie Sambora</a> – Guitarras principais e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divAJ03');" onMouseOut="escondeLayer('divAJ03');">Alec John Such</a> – Baixo e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDB03');" onMouseOut="escondeLayer('divDB03');">David Bryan</a> – Teclado e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTT03');" onMouseOut="escondeLayer('divTT03');">Tico Torres</a> – Bateria.</li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBJ03');" onMouseOut="escondeLayer('divBJ03');">Jon Bon Jovi</a> – Vocal principal e Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRS03');" onMouseOut="escondeLayer('divRS03');">Richie Sambora</a> – Guitarras principais e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divAJ03');" onMouseOut="escondeLayer('divAJ03');">Alec John Such</a> – Baixo e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDB03');" onMouseOut="escondeLayer('divDB03');">David Bryan</a> – Teclado e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTT03');" onMouseOut="escondeLayer('divTT03');">Tico Torres</a> – Bateria.</li>
+                        </ul>
+                    </nav>
                     <br />
 
                     <div id="divBJ03" name="nm_divBJ03">
@@ -151,7 +138,6 @@
                             <br />
                             Antes de aparecer na banda Bon Jovi, participou de uma audição para tocar nos Kiss, mas, por achar que a banda não se adequava às suas
                             expectativas como músico, pois possuíam influências e gêneros diferentes, não entrou na banda.
-
                         </p>
                     </div>
 
@@ -189,19 +175,20 @@
                             <br /><br />
                         </p>
                     </div>
-                    <br />
-
-                    <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
+
             </section>
 
+            <footer>
+                <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
+
 </body>
 
 </html>

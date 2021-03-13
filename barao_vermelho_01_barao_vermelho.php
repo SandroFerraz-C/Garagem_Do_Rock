@@ -1,25 +1,8 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_barao_vermelho.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -27,7 +10,7 @@
             <h1>Barão Vermelho (1982)</h1>
 
             <p>
-               - Barão Vermelho é o álbum de estreia da banda de rock brasileiro Barão Vermelho, lançado em 1982.
+                - Barão Vermelho é o álbum de estreia da banda de rock brasileiro Barão Vermelho, lançado em 1982.
             </p>
 
             <p>
@@ -51,14 +34,16 @@
                     <iframe src="https://open.spotify.com/embed/playlist/6XqY3ZgKd9XqXMwvhowkCi" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divCZZ01');" onMouseOut="escondeLayer('divCZZ01');">Cazuza</a> – Vocal.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRF01');" onMouseOut="escondeLayer('divRF01');">Roberto Frejat</a> – Guitarra e Violão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMB01');" onMouseOut="escondeLayer('divMB01');">Maurício Barros</a> – Teclados e Piano. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDE01');" onMouseOut="escondeLayer('divDE01');">Dé</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGG01');" onMouseOut="escondeLayer('divGG01');">Guto Goffi</a> – Bateria e Percussão. </li>
-                    </ul>
+                    <nav>
+                        <h3>Créditos</h3>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divCZZ01');" onMouseOut="escondeLayer('divCZZ01');">Cazuza</a> – Vocal.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRF01');" onMouseOut="escondeLayer('divRF01');">Roberto Frejat</a> – Guitarra e Violão. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divMB01');" onMouseOut="escondeLayer('divMB01');">Maurício Barros</a> – Teclados e Piano. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDE01');" onMouseOut="escondeLayer('divDE01');">Dé</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGG01');" onMouseOut="escondeLayer('divGG01');">Guto Goffi</a> – Bateria e Percussão. </li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -85,7 +70,7 @@
                     <div id="divMB01" name="nm_divMB01">
                         <p>
                             <img class="css" src="img/barao vermelho/mb.jpg" width="150px;" height="130px;">
-                            Maurício Carvalho de Barros, "Maurício Barros"  é um tecladista
+                            Maurício Carvalho de Barros, "Maurício Barros" é um tecladista
                             brasileiro e membro fundador da banda Barão Vermelho.
                             <br />
                             No final da década de 1980, foi vocalista e tecladista da banda Buana 4, chegando a gravar um LP e música em trilha
@@ -101,7 +86,7 @@
                             integrantes originais do Barão Vermelho até 1990.
                             <br />
                             Participou da banda Telefone Gol. Em 2011, juntou-se a Toni Platão, Dado Villa-Lobos e Charles Gavin para formar o
-                            supergrupo Panamericana, que toca sucessos do rock sul-americano.                           
+                            supergrupo Panamericana, que toca sucessos do rock sul-americano.
                         </p>
                     </div>
 
@@ -115,20 +100,18 @@
                             <br /><br />
                         </p>
                     </div>
-                    <br>
-
-                    <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

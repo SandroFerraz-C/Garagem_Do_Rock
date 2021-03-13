@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -27,11 +10,9 @@
             <h1>Dehumanizer (1992)</h1>
 
 
-
             <p>
                 - Dehumanizer é o décimo sexto álbum do Black Sabbath.
             </p>
-
 
             <p>
                 Foi o primeiro álbum de estúdio do Sabbath em mais de uma década com o vocalista Ronnie James Dio e o baterista Vinny Appice,
@@ -64,19 +45,21 @@
             <section class="disco">
                 <table id="demo-table">
 
-                    <iframe src="https://open.spotify.com/embed/playlist/2iRyrxOAqCQsCSozTgVthS" width="98%" height="650" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <iframe src="https://open.spotify.com/embed/playlist/2iRyrxOAqCQsCSozTgVthS" width="100%" height="650" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divTI16');" onMouseOut="escondeLayer('divTI16');">Tony Iommi</a> – Guitarra.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRJD16');" onMouseOut="escondeLayer('divRJD16');">Ronnie James Dio</a> – Vocais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGB16');" onMouseOut="escondeLayer('divGB16');">Geezer Butler</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divVA16');" onMouseOut="escondeLayer('divVA16');">Vinny Appice</a> – Bateria.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGN16');" onMouseOut="escondeLayer('divGN16');">Geoff Nicholls</a> – Teclados. </li>
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI16');" onMouseOut="escondeLayer('divTI16');">Tony Iommi</a> – Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRJD16');" onMouseOut="escondeLayer('divRJD16');">Ronnie James Dio</a> – Vocais.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGB16');" onMouseOut="escondeLayer('divGB16');">Geezer Butler</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divVA16');" onMouseOut="escondeLayer('divVA16');">Vinny Appice</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGN16');" onMouseOut="escondeLayer('divGN16');">Geoff Nicholls</a> – Teclados. </li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divTI16" name="nm_divTI16">
@@ -92,7 +75,7 @@
                     <div id="divRJD16" name="nm_divRJD16">
                         <p>
                             <img class="css" src="img/Black Sabbath/rjd.jpg" width="150px;" height="130px;">
-                            Ronnie James Dio, nome artístico de Ronald James Padavona ( 10 de julho de 1942 —  16 de maio de 2010),
+                            Ronnie James Dio, nome artístico de Ronald James Padavona ( 10 de julho de 1942 — 16 de maio de 2010),
                             foi um músico norte-americano, produtor e compositor de heavy metal.
                             <br />É considerado um dos melhores vocalistas de todos os tempos pelo seu enorme talento e voz marcante.
                             Também é conhecido por ter introduzido a mão chifrada, símbolo do rock.
@@ -133,18 +116,18 @@
                         </p>
                     </div>
 
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
+
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

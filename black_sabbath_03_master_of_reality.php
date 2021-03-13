@@ -1,56 +1,39 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
 
             <h1>Master of Reality (1971)</h1>
-           
+
             <p>
                 - Master of Reality é o terceiro álbum do Black Sabbath.
             </p>
 
             <p>
-            Ele alcançou a posição de número #5 na UK Albums Chart e número #8 na Billboard 200 dos EUA. Recebido negativamente pela crítica 
-            no lançamento, o álbum é hoje considerado um dos maiores álbuns de heavy metal de todos os tempos. Foi certificado com dupla 
-            platina depois de ter vendido mais de dois milhões de cópias.
+                Ele alcançou a posição de número #5 na UK Albums Chart e número #8 na Billboard 200 dos EUA. Recebido negativamente pela crítica
+                no lançamento, o álbum é hoje considerado um dos maiores álbuns de heavy metal de todos os tempos. Foi certificado com dupla
+                platina depois de ter vendido mais de dois milhões de cópias.
             </p>
-          
+
             <p>
-            Durante as sessões de gravação do álbum, Osbourne trouxe a Iommi um grande baseado que fez o guitarrista tossir incontrolavelmente.
-             Iommi estava gravando partes do violão na época, e seu ataque de tosse foi capturado em uma fita. Um fragmento da tosse de 
-             Iommi foi mais tarde adicionado pelo produtor Bain como a introdução de "Sweet Leaf", uma canção que era reconhecidamente uma
-              ode ao uso da maconha. Iommi relembra "Todos nós tocamos 'Sweet Leaf' enquanto estávamos chapados."
+                Durante as sessões de gravação do álbum, Osbourne trouxe a Iommi um grande baseado que fez o guitarrista tossir incontrolavelmente.
+                Iommi estava gravando partes do violão na época, e seu ataque de tosse foi capturado em uma fita. Um fragmento da tosse de
+                Iommi foi mais tarde adicionado pelo produtor Bain como a introdução de "Sweet Leaf", uma canção que era reconhecidamente uma
+                ode ao uso da maconha. Iommi relembra "Todos nós tocamos 'Sweet Leaf' enquanto estávamos chapados."
             </p>
 
             <p>
                 Nota-se que o disco possui uma mudança: o guitarrista Tony Iommi toca a guitarra afinada um tom e meio abaixo do tradicional,
-                 e Geezer Butler também toca o baixo na mesma afinação, o dó sustenido (C#).
+                e Geezer Butler também toca o baixo na mesma afinação, o dó sustenido (C#).
             </p>
-           
+
 
             <p>
-                O álbum foi certificado de dupla platina nos Estados Unidos após vender mais de 2 milhões de cópias. Em 2017, foi eleito o 
+                O álbum foi certificado de dupla platina nos Estados Unidos após vender mais de 2 milhões de cópias. Em 2017, foi eleito o
                 #34º melhor álbum de metal de todos os tempos pela revista <a href="https://www.rollingstone.com/music/music-album-reviews/master-of-reality-102188/" target="blank">Rolling Stone</a>.
             </p>
             <br />
@@ -58,28 +41,29 @@
             <p>
                 O album atingil certificação:
 
+            <div class="tabela">
+                <table border="1px" width="45%">
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Álbuns Vendidos</td>
+                    </tr>
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Álbuns Vendidos</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Ouro</td>
-                            <td> + 100.000 (Reino Unido)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">2X Platina</td>
-                            <td> + 2.000.000 (EUA.)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%">Platina</td>
-                            <td> + 100.000 (Canadá)</td>
-                        </tr>
 
-                    </table>
-                </div>
+                    <tr>
+                        <td width="15%">Ouro</td>
+                        <td> + 100.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">2X Platina</td>
+                        <td> + 2.000.000 (EUA.)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%">Platina</td>
+                        <td> + 100.000 (Canadá)</td>
+                    </tr>
+
+                </table>
+            </div>
             </p>
             <br />
 
@@ -95,16 +79,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/5UmwZYljlNddN9bdp5KABL" width="100%" height="500" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divTI3');" onMouseOut="escondeLayer('divTI3');">Tony Iommi</a> – Guitarra, Flauta e piano em "Solitude".</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGB3');" onMouseOut="escondeLayer('divGB3');">Geezer Butler</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divOO3');" onMouseOut="escondeLayer('divOO3');">Ozzy Osbourne</a> – Vocais . </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath3');" onMouseOut="escondeLayer('divBW_black_sabbath3');">Bill Ward</a> – Bateria.</li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI3');" onMouseOut="escondeLayer('divTI3');">Tony Iommi</a> – Guitarra, Flauta e piano em "Solitude".</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGB3');" onMouseOut="escondeLayer('divGB3');">Geezer Butler</a> – Baixo. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divOO3');" onMouseOut="escondeLayer('divOO3');">Ozzy Osbourne</a> – Vocais . </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath3');" onMouseOut="escondeLayer('divBW_black_sabbath3');">Bill Ward</a> – Bateria.</li>
+                        </ul>
+                    </nav>
                     <br />
-        
+
                     <div id="divTI3" name="nm_divTI3">
                         <p>
                             <img class="css" src="img/Black Sabbath/ti.jpg" width="150px;" height="130px;">
@@ -148,18 +134,17 @@
                         </p>
                     </div>
 
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

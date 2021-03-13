@@ -6,11 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <title>Loja da Garagem</title>
-    
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="css/css_loja.css" rel="stylesheet" />
-
-
 </head>
 
 <body>
@@ -19,7 +17,6 @@
 
     <nav class="pag" aria-label="Page navigation example">
         <ul class="pagination justify-content-center">
-
             <li class="page-item"><a class="page-link" href="index_texteLogin.php">Home</a></li>
 
             <li class="page-item"><a class="page-link" href="classic.php">1</a></li>

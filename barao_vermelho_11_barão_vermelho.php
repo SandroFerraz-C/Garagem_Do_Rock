@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_barao_vermelho.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
 
@@ -43,16 +27,17 @@
                     <iframe src="https://open.spotify.com/embed/playlist/0hXLC1Wcnm46pcwtPVfGsp" width="100%" height="640" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divRF11');" onMouseOut="escondeLayer('divRF11');"> Roberto Frejat </a> – Voz e Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divFM11');" onMouseOut="escondeLayer('divFM11');"> Fernando Magalhães </a> – Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRS11');" onMouseOut="escondeLayer('divRS11');"> Rodrigo Santos </a> – Baixo. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGG11');" onMouseOut="escondeLayer('divGG11');"> Guto Goffi </a> – Bateria. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divPNH11');" onMouseOut="escondeLayer('divPNH11');"> Peninha </a> – Percussão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMB11');" onMouseOut="escondeLayer('divMB11');"> Maurício Barros </a> – Teclados. </li>
-
-                    </ul>
+                    <nav>
+                        <h3>Créditos</h3>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divRF11');" onMouseOut="escondeLayer('divRF11');"> Roberto Frejat </a> – Voz e Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFM11');" onMouseOut="escondeLayer('divFM11');"> Fernando Magalhães </a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRS11');" onMouseOut="escondeLayer('divRS11');"> Rodrigo Santos </a> – Baixo. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGG11');" onMouseOut="escondeLayer('divGG11');"> Guto Goffi </a> – Bateria. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divPNH11');" onMouseOut="escondeLayer('divPNH11');"> Peninha </a> – Percussão. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divMB11');" onMouseOut="escondeLayer('divMB11');"> Maurício Barros </a> – Teclados. </li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -120,18 +105,17 @@
                         </p>
                     </div>
 
-                    <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
             </section>
 
+            <footer>
+                <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

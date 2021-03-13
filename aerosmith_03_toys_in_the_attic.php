@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_aerosmith.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -69,16 +51,18 @@
                 <table id="demo-table">
 
                     <iframe src="https://open.spotify.com/embed/playlist/6XbnTTmTtqATcfyTGN3RlC" width="100%" height="550" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-                    <h3>Créditos</h3>
 
-                    <li><a href="#" onMouseOver="mostraLayer('divST3');" onMouseOut="escondeLayer('divST3');">Steven Tyler</a> – Vocais, Gaita, Teclado e Percussão.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJP3');" onMouseOut="escondeLayer('divJP3');">Joe Perry</a> – Guitarra Solo, Percussão, violão e Background Vocals.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divBW3');" onMouseOut="escondeLayer('divBW3');">Brad Whitford</a> – Guitara Base.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTH3');" onMouseOut="escondeLayer('divTH3');">Tom Hamilton</a> – Baixo </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJK3');" onMouseOut="escondeLayer('divJK3');">Joey Kramer</a> – Bateria e Percussão.</li>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    </ul>
-                    <br>
+                        <li><a href="#" onMouseOver="mostraLayer('divST3');" onMouseOut="escondeLayer('divST3');">Steven Tyler</a> – Vocais, Gaita, Teclado e Percussão.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divJP3');" onMouseOut="escondeLayer('divJP3');">Joe Perry</a> – Guitarra Solo, Percussão, violão e Background Vocals.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divBW3');" onMouseOut="escondeLayer('divBW3');">Brad Whitford</a> – Guitara Base.</li>
+                        <li><a href="#" onMouseOver="mostraLayer('divTH3');" onMouseOut="escondeLayer('divTH3');">Tom Hamilton</a> – Baixo </li>
+                        <li><a href="#" onMouseOver="mostraLayer('divJK3');" onMouseOut="escondeLayer('divJK3');">Joey Kramer</a> – Bateria e Percussão.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divST3" name="nm_divST3">
@@ -136,20 +120,18 @@
                             professora de Bart, Sra. Krabappel. :D
                         </p>
                     </div>
-                    <br>
-
-                    <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

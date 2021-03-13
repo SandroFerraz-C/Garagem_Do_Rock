@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_aerosmith.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -101,21 +83,22 @@
                     <iframe src="https://open.spotify.com/embed/playlist/2QlScItmGanMIqEL82S7Yk" width="100%" height="590" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divST10');" onMouseOut="escondeLayer('divST10');">Steven Tyler</a> – Vocais, Percussão e Teclado.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJP10');" onMouseOut="escondeLayer('divJP10');">Joe Perry</a> – Guitarra, Vocais e Background vocais. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTH10');" onMouseOut="escondeLayer('divTH10');">Tom Hamilton</a> – Baixo. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJK10');" onMouseOut="escondeLayer('divJK10');">Joey Kramer</a> – Bateria.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divBW10');" onMouseOut="escondeLayer('divBW10');">Brad Whitford</a> – Guitarra e Guitarra-base.</li>
-
-                    </ul>
-                    <br>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divST10');" onMouseOut="escondeLayer('divST10');">Steven Tyler</a> – Vocais, Percussão e Teclado.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divJP10');" onMouseOut="escondeLayer('divJP10');">Joe Perry</a> – Guitarra, Vocais e Background vocais. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTH10');" onMouseOut="escondeLayer('divTH10');">Tom Hamilton</a> – Baixo. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divJK10');" onMouseOut="escondeLayer('divJK10');">Joey Kramer</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBW10');" onMouseOut="escondeLayer('divBW10');">Brad Whitford</a> – Guitarra e Guitarra-base.</li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divST10" name="nm_divST10">
-                     <p>
+                        <p>
                             <img class="css" src="img/aerosmith/st.jpg" width="150px;" height="130px;">
                             Steven Tyler ( 26 de março de 1948) é um cantor, compositor e multi-instrumentista Americano, conhecido por seu trabalho como
                             vocalista da banda Aerosmith, na qual também toca gaita, piano e, ocasionalmente, percussão.
@@ -125,7 +108,7 @@
                     </div>
 
                     <div id="divJP10" name="nm_divJP10">
-                     <p>
+                        <p>
                             <img class="css" src="img/aerosmith/jp.jpg" width="150px;" height="130px;">
                             Joseph Anthony Perry (Lawrence, 10 de setembro de 1950) é o guitarrista principal da banda
                             Aerosmith.
@@ -137,7 +120,7 @@
                     </div>
 
                     <div id="divJK10" name="nm_divJK10">
-                     <p>
+                        <p>
                             <img class="css" src="img/aerosmith/jk.jpeg" width="150px;" height="130px;"> Joey Kramer ( 21 de Junho de 1950) é um músico norte-americano
                             conhecido por seu trabalho como baterista da banda de hard rock Aerosmith; Joey é o único baterista que o Aerosmith já
                             teve e faz parte da banda desde sua formação, em 1970.
@@ -169,20 +152,18 @@
                         </p>
                         <br />
                     </div>
-                    <br>
-
-                    <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
-                    <a href="index_texteLogin.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

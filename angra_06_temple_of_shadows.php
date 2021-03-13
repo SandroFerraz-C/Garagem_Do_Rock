@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_angra.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -31,7 +13,7 @@
             <p>
                 - Temple of Shadows é o setimo álbum da banda brasileira de power metal Angra.
             </p>
-           
+
 
             <p>
                 O álbum é conceitual, pois conta a história fictícia de um cavaleiro conhecido como "The Shadow Hunter" (O Caçador da Sombra) que se
@@ -40,7 +22,7 @@
                 Durante sua saga, ele passa por conflitos que o fazem refletir sobre a guerra santa da qual participa e os ideais da Igreja Católica,
                 colocando sua devoção a prova.
             </p>
-           
+
 
             <p>
                 O álbum foi bem recebido pela crítica especializada, o Akihisa Ozawa da Burn! deu 91 pontos pelo álbum, algo raro na revista, o álbum
@@ -65,6 +47,7 @@
                         <td width="15%">Albuns Vendidos</td>
                     </tr>
 
+
                     <tr>
                         <td width="15%"> Ouro</td>
                         <td> + 20.000 (Brasil)</td>
@@ -77,6 +60,7 @@
             </div>
             </p>
             <br />
+
             <p>Duração do album: 66 min. 31 seg.</p>
             <p>Gravadora(s): Paradoxx Music.</p>
             <p>Produção: Dennis Ward. </p>
@@ -89,15 +73,17 @@
                     <iframe src="https://open.spotify.com/embed/playlist/5WyIIP2HOe3kqYua0ecTOt" width="100%" height="750" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divEF6');" onMouseOut="escondeLayer('divEF6');">Edu Falaschi</a> – Vocal.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRB6');" onMouseOut="escondeLayer('divRB6');">Rafael Bittencourt</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divKL6');" onMouseOut="escondeLayer('divKL6');">Kiko Loureiro</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divFA6');" onMouseOut="escondeLayer('divFA6');">Felipe Andreoli</a> – Baixo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divAP6');" onMouseOut="escondeLayer('divAP6');">Aquiles Priester</a> – Bateria.</li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divEF6');" onMouseOut="escondeLayer('divEF6');">Edu Falaschi</a> – Vocal.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divRB6');" onMouseOut="escondeLayer('divRB6');">Rafael Bittencourt</a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divKL6');" onMouseOut="escondeLayer('divKL6');">Kiko Loureiro</a> – Guitarra. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divFA6');" onMouseOut="escondeLayer('divFA6');">Felipe Andreoli</a> – Baixo.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divAP6');" onMouseOut="escondeLayer('divAP6');">Aquiles Priester</a> – Bateria.</li>
+                        </ul>
+                    </nav>
                     <br />
 
 
@@ -108,7 +94,6 @@
                             musical de renome internacional. Após integrar os grupos Angra, Mitrium, Venus, Symbols e Almah, o músico atualmente está em
                             carreira solo tocando os clássicos de sua época de Angra.
                             <br />
-
                             Edu Falaschi também ministra workshops de técnicas vocais e faz palestras corporativas pelo Brasil.
                         </p>
                     </div>
@@ -159,20 +144,18 @@
                             Iniciou sua vida musical estudando piano clássico durante quatro anos, mas depois de ouvir sons do Rush, Deep Purple, Led Zeppelin etc, Ricardo se decidiu pela bateria, aos 13 anos de idade.
                         </p>
                     </div>
-                    <br>
-
-                    <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
             </section>
 
+            <footer>
+                <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

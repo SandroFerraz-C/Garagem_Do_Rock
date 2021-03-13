@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
@@ -73,7 +55,7 @@
                 <table border="1px" width="45%">
                     <tr>
                         <td width="15%" height="10%">Nivel</td>
-                        <td width="15%">Data</td>
+                        <td width="15%">Álbuns Vendidos</td>
                     </tr>
 
 
@@ -107,14 +89,16 @@
                     <iframe src="https://open.spotify.com/embed/playlist/54QHiY0KKGD59bRC9MiTZ1" width="100%%" height="500" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divTI5');" onMouseOut="escondeLayer('divTI5');">Tony Iommi</a> – Guitarra e Piano.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGB5');" onMouseOut="escondeLayer('divGB5');">Geezer Butler</a> – Baixo. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divOO5');" onMouseOut="escondeLayer('divOO5');">Ozzy Osbourne</a> – Vocais. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath5');" onMouseOut="escondeLayer('divBW_black_sabbath5');">Bill Ward</a> – Bateria.</li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI5');" onMouseOut="escondeLayer('divTI5');">Tony Iommi</a> – Guitarra e Piano.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGB5');" onMouseOut="escondeLayer('divGB5');">Geezer Butler</a> – Baixo. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divOO5');" onMouseOut="escondeLayer('divOO5');">Ozzy Osbourne</a> – Vocais. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBW_black_sabbath5');" onMouseOut="escondeLayer('divBW_black_sabbath5');">Bill Ward</a> – Bateria.</li>
+                        </ul>
+                    </nav>
                     <br /><br />
 
 
@@ -161,18 +145,17 @@
                         </p>
                     </div>
 
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

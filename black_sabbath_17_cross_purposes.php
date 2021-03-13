@@ -1,53 +1,23 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_black_sabbath.css">
-
-
-    <!--
-    <link rel="stylesheet" type="text/css" href="css/ti.css">
-    <link rel="stylesheet" type="text/css" href="css/tm.css">
-    <link rel="stylesheet" type="text/css" href="css/gb.css">
-    <link rel="stylesheet" type="text/css" href="css/br.css">
-    <link rel="stylesheet" type="text/css" href="css/gn.css">
--->
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
 
             <h1>Cross Purposes (1994)</h1>
-            <br />
 
             <p>
                 Cross Purposes é o décimo sétimo álbum de estúdio da banda Black Sabbath.
             </p>
-            <br />
 
             <p>
                 Contando novamente com Tony Martin nos vocais, o álbum é o penúltimo daquela encarnação da banda. Com um som bastante vigoroso e algumas
                 músicas marcantes, o disco acabou possibilitando um vídeo e um álbum ao vivo da turnê. Este foi o único álbum de estúdio do Black Sabbath
                 com o baterista Bobby Rondinelli (ex-Rainbow, ex-Blue Öyster Cult).
             </p>
-            <br />
 
             <p>
                 Em julho de 2014, a revista Guitar World classificou Cross Purposes como número 6 em sua lista "Superunknown: 50 Iconic Albums That Defined 1994"
@@ -67,16 +37,20 @@
                         Black Sabbath! Estamos trabalhando para resolvermos esse problema o quanto antes,.,. <br />
                         Nossas sincera desculpas!
                     </h1>
-                    <br /><br /><br />
+                    <br /><br />
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divTI17');" onMouseOut="escondeLayer('divTI17');"> Tony Iommi </a> – Guitarra.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTM17');" onMouseOut="escondeLayer('divTM17');"> Tony Martin </a> – Vocais. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGB17');" onMouseOut="escondeLayer('divGB17');"> Geezer Butler </a> – Baixo . </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divBR17');" onMouseOut="escondeLayer('divBR17');"> Bobby Rondinelli</a> – Bateria.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divGN17');" onMouseOut="escondeLayer('divGN17');"> Geoff Nicholls </a> – Teclados. </li>
-                    </ul>
-                    <br>
+                    <nav>
+                        <h3>Créditos</h3>
+
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divTI17');" onMouseOut="escondeLayer('divTI17');"> Tony Iommi </a> – Guitarra.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTM17');" onMouseOut="escondeLayer('divTM17');"> Tony Martin </a> – Vocais. </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGB17');" onMouseOut="escondeLayer('divGB17');"> Geezer Butler </a> – Baixo . </li>
+                            <li><a href="#" onMouseOver="mostraLayer('divBR17');" onMouseOut="escondeLayer('divBR17');"> Bobby Rondinelli</a> – Bateria.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divGN17');" onMouseOut="escondeLayer('divGN17');"> Geoff Nicholls </a> – Teclados. </li>
+                        </ul>
+                    </nav>
+                    <br />
 
 
                     <div id="divTI17" name="nm_divTI17">
@@ -95,7 +69,6 @@
                             <img class="css" src="img/Black Sabbath/tm.jpg" width="150px;" height="130px;">
                             Anthony Philip Harford "Tony Martin" (Birmingham, 19 de abril de 1957), é um músico e vocalista britânico de heavy metal.
                             <br />
-
                             Já fez parte de diversas bandas e projectos musicais, sendo notória sua passagem pelo Black Sabbath, onde permaneceu
                             quase dez anos no total (vocalista com maior permanencia depois de Ozzy Osbourne).
                         </p>
@@ -112,14 +85,14 @@
                         </p>
                     </div>
 
-
                     <div id="divBR17" name="nm_divBR17">
                         <p>
                             <img class="css" src="img/Black Sabbath/br.jpg" width="150px;" height="130px;">
                             Robert Rondinelli, mais conhecido como Bobby Rondinelli (27 de julho de 1955, Brooklyn, Nova York), é um baterista americano, mais
                             conhecido por ter integrado as bandas de hard rock e heavy metal Rainbow, Black Sabbath, Blue Öyster Cult, Quiet Riot, e Rondinelli.
                             <br />
-                            Ficou em 42° lugar na lista dos "50 melhores bateristas de hard rock e metal de todos os tempos" do site Loudwire. </p>
+                            Ficou em 42° lugar na lista dos "50 melhores bateristas de hard rock e metal de todos os tempos" do site Loudwire.
+                        </p>
                     </div>
 
                     <div id="divGN17" name="nm_divGN17">
@@ -132,20 +105,18 @@
                         </p>
                     </div>
 
-                    <br>
-
-                    <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
                     </div>
+
             </section>
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

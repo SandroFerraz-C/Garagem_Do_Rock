@@ -1,35 +1,18 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_bon_jovi.css">
-
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
     <main>
         <section class="content-section">
 
             <h1>This House Is Not for Sale (2016)</h1>
-            
+
 
             <p>
                 - This House Is Not for Sale é o décimo quarto álbum da banda estadunidense de rock Bon Jovi. Ele foi lançado em 4 de novembro
                 de 2016, pela Island Records.
             </p>
-            
 
             <p>
                 É o primeiro álbum de estúdio deles com Phil X na guitarra principal, que substituiu o antigo membro Richie Sambora em 2013.
@@ -44,12 +27,11 @@
             </p>
 
             <p>
-            A capa do álbum apresenta uma imagem em preto e branco do fotógrafo Jerry Uelsmann e retrata uma casa ancorada por raízes profundas.
-             Jon Bon Jovi se inspirou na imagem quando a viu vários anos antes da gravação do álbum. Segundo Bon Jovi, foi a inspiração para a 
-             faixa-título do álbum e disse sobre a imagem: "Aquela foto contou a nossa história ... agora é a capa do nosso álbum".
+                A capa do álbum apresenta uma imagem em preto e branco do fotógrafo Jerry Uelsmann e retrata uma casa ancorada por raízes profundas.
+                Jon Bon Jovi se inspirou na imagem quando a viu vários anos antes da gravação do álbum. Segundo Bon Jovi, foi a inspiração para a
+                faixa-título do álbum e disse sobre a imagem: "Aquela foto contou a nossa história ... agora é a capa do nosso álbum".
             </p>
             <br />
-
 
             <p>
                 O album atingil certificação:
@@ -91,17 +73,18 @@
                     <iframe src="https://open.spotify.com/embed/playlist/5UcULpYIyrRDjrd5XJswcH" width="100%" height="690" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     <br /><br />
 
-                    <h3>Créditos</h3>
+                    <nav>
+                        <h3>Créditos</h3>
 
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ14');" onMouseOut="escondeLayer('divBJ14');">Jon Bon Jovi</a> – Vocal principal.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJS14');" onMouseOut="escondeLayer('divJS14');">John Shanks</a> – Guitarras principais e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divHM14');" onMouseOut="escondeLayer('divHM14');">Hugh McDonald</a> – Baixo e Vocal de apoio.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divDB14');" onMouseOut="escondeLayer('divDB14');">David Bryan</a> – Teclado.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTT14');" onMouseOut="escondeLayer('divTT14');">Tico Torres</a> – Bateria.</li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" onMouseOver="mostraLayer('divBJ14');" onMouseOut="escondeLayer('divBJ14');">Jon Bon Jovi</a> – Vocal principal.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divJS14');" onMouseOut="escondeLayer('divJS14');">John Shanks</a> – Guitarras principais e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divHM14');" onMouseOut="escondeLayer('divHM14');">Hugh McDonald</a> – Baixo e Vocal de apoio.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divDB14');" onMouseOut="escondeLayer('divDB14');">David Bryan</a> – Teclado.</li>
+                            <li><a href="#" onMouseOver="mostraLayer('divTT14');" onMouseOut="escondeLayer('divTT14');">Tico Torres</a> – Bateria.</li>
+                        </ul>
+                    </nav>
                     <br />
-
 
                     <div id="divBJ14" name="nm_divBJ14">
                         <p>
@@ -158,20 +141,19 @@
                             <br /><br />
                         </p>
                     </div>
-                    <br />
-
-                    <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
-                    <a href="index.php"><button>Home</button></a>
 
                     </div>
+
             </section>
 
+            <footer>
+                <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 
