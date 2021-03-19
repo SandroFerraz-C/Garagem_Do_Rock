@@ -220,7 +220,9 @@ include_once("header_curiosidades.php");
         </section>
 
         <div class="fotoac">
-            <h2>Albun de Fotos do Barão Vermelho</h2>
+           
+        <h2>Álbun de Fotos do Barão Vermelho</h2>
+
             <p class="ay_hj">Cazuza</p>
             <p class="ay_antes">Cazuza</p>
             <p class="bj_hj">Frejat</p>
@@ -271,7 +273,6 @@ include_once("header_curiosidades.php");
 
         </div>
 
-        </section>
     </div>
 
     <footer id="rodape">

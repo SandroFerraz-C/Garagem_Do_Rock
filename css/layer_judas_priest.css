@@ -3,15 +3,16 @@
 #divGT01,
 #divIH01,
 #divSP01 {
+    font-size: 17px;
     position: absolute;
-    top: 299%;
-    left: 40%;
+    top: 325%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -20,15 +21,16 @@
 #divGT02,
 #divIH02,
 #divLB02 {
+    font-size: 17px;
     position: absolute;
-    top: 253%;
-    left: 40%;
+    top: 280%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -37,15 +39,16 @@
 #divGT03,
 #divIH03,
 #divLB03 {
+    font-size: 17px;
     position: absolute;
-    top: 278%;
-    left: 40%;
+    top: 310%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -54,15 +57,16 @@
 #divGT04,
 #divIH04,
 #divLB04 {
+    font-size: 17px;
     position: absolute;
-    top: 274%;
-    left: 40%;
+    top: 305%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -71,15 +75,16 @@
 #divGT05,
 #divIH05,
 #divDH05 {
+    font-size: 17px;
     position: absolute;
-    top: 251%;
-    left: 40%;
+    top: 280%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -88,15 +93,16 @@
 #divGT06,
 #divIH06,
 #divDH06 {
+    font-size: 17px;
     position: absolute;
-    top: 273%;
-    left: 40%;
+    top: 302%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -105,15 +111,16 @@
 #divGT07,
 #divIH07,
 #divDH07 {
+    font-size: 17px;
     position: absolute;
-    top: 283%;
-    left: 40%;
+    top: 310%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -122,15 +129,16 @@
 #divGT08,
 #divIH08,
 #divDH08 {
+    font-size: 17px;
     position: absolute;
-    top: 259%;
-    left: 40%;
+    top: 290%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -139,15 +147,16 @@
 #divGT09,
 #divIH09,
 #divST09 {
+    font-size: 17px;
     position: absolute;
-    top: 309%;
-    left: 40%;
+    top: 340%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -156,15 +165,16 @@
 #divGT10,
 #divIH10,
 #divST10 {
+    font-size: 17px;
     position: absolute;
-    top: 233%;
-    left: 40%;
+    top: 252%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -173,15 +183,16 @@
 #divGT11,
 #divIH11,
 #divST11 {
+    font-size: 17px;
     position: absolute;
-    top: 358%;
-    left: 40%;
+    top: 385%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -190,15 +201,16 @@
 #divGT12,
 #divIH12,
 #divST12 {
+    font-size: 17px;
     position: absolute;
-    top: 298%;
-    left: 40%;
+    top: 320%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -207,15 +219,16 @@
 #divGT13,
 #divIH13,
 #divST13 {
+    font-size: 17px;
     position: absolute;
-    top: 289%;
-    left: 40%;
+    top: 312%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 

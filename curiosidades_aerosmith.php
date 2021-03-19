@@ -17,7 +17,6 @@ include_once("header_curiosidades.php");
 
             <div class="botao_acdc">
 
-
                 <button class="btn1" data-toggle="collapse" data-target="#demo1">Curiosidade 01</button>
 
                 <div id="demo1" class="collapse">
@@ -214,14 +213,14 @@ include_once("header_curiosidades.php");
             <br />
 
             <div class="albuns_acdc">
-                <a href="aerosmith.php"><button>Voltar para Albuns do Aerosmith</button></a>
+                <a href="aerosmith.php"><button>Voltar para os álbuns do Aerosmith</button></a>
             </div>
 
         </section>
 
         <div class="fotoac">
 
-            <h2>Albun de Fotos do Aerosmith</h2>
+            <h2>Álbum de Fotos do Aerosmith</h2>
 
             <p class="ay_hj">Steven Tyler</p>
             <p class="ay_antes">Steven Tyler</p>
@@ -261,8 +260,6 @@ include_once("header_curiosidades.php");
             <img src="img/aerosmith/10.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
         </div>
-
-        </section>
 
     </div>
 

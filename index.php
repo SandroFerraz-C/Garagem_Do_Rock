@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
 <html lang="pt-br">
 
 <head>

@@ -13,7 +13,6 @@
     <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
 
-
 </head>
 
 <body>
@@ -68,17 +67,16 @@
                 a ouro nos Estados Unidos (mais de 500,000 cópias vendidas) e também foi lançado no Reino Unido. A banda abriu para
                 <a href="zz_top.php" target="blank">ZZ Top</a> no Madison Square Garden (antes do álbum ser lançado), e para os
                 <a href="scorpions.php" target="blank">Scorpions</a> e os <a href="kiss.php" target="blank">Kiss</a> na Europa, além de shows no Japão.
-            </p>
+            </p><br />
 
-            <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="bon_jovi.php"><button>Voltar para os álbuns do Bon Jovi</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
         </div>
-
-
 
     </main>
 
 </body>
-
 
 </html>

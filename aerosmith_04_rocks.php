@@ -9,12 +9,9 @@ include_once("header.php");
             <h1>Rocks (1976)</h1>
 
 
-            <p>
-                - Rocks é o quarto álbum do Aerosmith. É um dos álbuns mais aclamados pelo público, e foi lançado em 3 de maio de 1976.
-            </p>
+            <p>- Rocks é o quarto álbum do Aerosmith. É um dos álbuns mais aclamados pelo público, e foi lançado em 3 de maio de 1976.</p>
 
-            <p>
-                O Álbum foi classificada como número #176 na
+            <p>O Álbum foi classificada como número #176 na
                 <a href="https://www.rollingstone.com/music/music-lists/best-grateful-dead-albums-the-rest-1091571/live-dead-1969-1091572" target="blank">Rolling Stone</a>
                 lista dos 500 Maiores Álbuns de Todos os Tempos. Ele influenciou muitos artistas de hard rock e heavy metal, incluindo
                 <a href="guns_n_roses.php" target="blank">>Guns N' Roses</a>,
@@ -23,18 +20,14 @@ include_once("header.php");
                 dois dos quais alcançaram o Top #40 ( "Back in the Saddle" e "Last Child"). O álbum foi um dos primeiros a vender platina quando
                 foi lançado e, desde então, ganhou platina quádrupla.
             </p>
-            <br />
 
-            <p>
-                Em sua autobiografia, - Rocks -, Joe Perry afirma que o objetivo principal de Rocks "era nos reidentificar como a banda de garagem
+            <p>Em sua autobiografia, - Rocks -, Joe Perry afirma que o objetivo principal de Rocks "era nos reidentificar como a banda de garagem
                 definitiva da América, com guitarras violentas, vocais violentos, uma produção de tirar o fôlego ... A capa mostrava cinco
                 diamantes, um para cada um de nós. Vimos aquele disco como uma joia, a culminação de toda a nossa angústia, raiva, entusiasmo e alegria
-                como rock and roll que quebrou. "
-            </p>
+                como rock and roll que quebrou."</p>
             <br /><br />
 
-            <p>
-                O album atingil certificação:
+            <p>O álbum atingil certificação:</p>
 
 
             <div class="tabela">
@@ -68,11 +61,10 @@ include_once("header.php");
 
                 </table>
             </div>
-            </p>
             <br />
 
 
-            <p>Duração do album: 34 min. 31 seg.</p>
+            <p>Duração do álbum: 34 min. 31 seg.</p>
             <p>Gravadora(s): Columbia Records.</p>
             <p>Produção: Aerosmith e Jack Douglas </p>
             <br />
@@ -80,86 +72,84 @@ include_once("header.php");
 
             <section class="disco">
                 <table id="demo-table">
-
                     <iframe src="https://open.spotify.com/embed/playlist/3pcRBjyNLN6YB7TLljaXZ9" width="100%" height="550" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-                    <nav>
-                        <h3>Créditos</h3>
-
-                        <li><a href="#" onMouseOver="mostraLayer('divST4');" onMouseOut="escondeLayer('divST4');">Steven Tyler</a> – Gaita, Piano e Vocais.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJP4');" onMouseOut="escondeLayer('divJP4');">Joe Perry</a> – Guitarra solo, Backing vocal e Baixo em "Sick As A Dog".</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divBW4');" onMouseOut="escondeLayer('divBW4');">Brad Whitford</a> – Guitarra base e Guitarra solo em "Sick As a Dog".</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTH4');" onMouseOut="escondeLayer('divTH4');">Tom Hamilton</a> – Baixo.</li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJK4');" onMouseOut="escondeLayer('divJK4');">Joey Kramer</a> – Percussão e Bateria.</li>
-                        </ul>
-
-                    </nav>
-                    <br />
-
-
-                    <div id="divST4" name="nm_divST4">
-                        <p>
-                            <img class="css" src="img/aerosmith/st.jpg" width="150px;" height="130px;">
-                            Steven Tyler ( 26 de março de 1948) é um cantor, compositor e multi-instrumentista Americano, conhecido por seu trabalho como
-                            vocalista da banda Aerosmith, na qual também toca gaita, piano e, ocasionalmente, percussão.
-                            Conhecido por suas acrobacias sobre o palco, durante suas performances enérgicas, nas quais se veste com roupas coloridas e
-                            brilhantes e utiliza seu tradicional microfone adornado com lenços também coloridos.
-                        </p>
-                    </div>
-
-                    <div id="divJP4" name="nm_divJP4">
-                        <p>
-                            <img class="css" src="img/aerosmith/jp.jpg" width="150px;" height="130px;">
-                            Joseph Anthony Perry (Lawrence, 10 de setembro de 1950) é o guitarrista principal da banda estadunidense de hard rock
-                            Aerosmith.
-                            <br />
-                            Foi considerado o 84º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone e, em
-                            2001, entrou para o Rock and Roll Hall of Fame com o resto do Aerosmith.
-                            <br /><br />
-                        </p>
-                    </div>
-
-                    <div id="divBW4" name="nm_divBW4">
-                        <p>
-                            <img class="css" src="img/aerosmith/bw.jpg" width="150px;" height="130px;">Bradley Ernest Whitford "Brad Whitford" ( 23 de fevereiro de 1952 )
-                            é o guitarrista base do Aerosmith, ao lado de Joe Perry.
-                        </p>
-
-                        <p>
-                            Brad entrou no Aerosmith aos 19 anos, substituindo Ray Tabano, e desde então reveza com Joe nas bases e nos solos de guitarra da banda
-                        </p>
-                        <br />
-                    </div>
-
-                    <div id="divTH4" name="nm_divTH4">
-                        <p>
-                            <img class="css" src="img/aerosmith/th.jpg" width="150px;" height="130px;"> Tom Hamilton ( 31 de dezembro de 1951 ) é um
-                            músico norte-americano, conhecido por ser o baixista do grupo Aerosmith. Tom é o único baixista que o Aerosmith já teve e
-                            faz parte da banda desde sua formação, em 1970.
-                            <br />
-                            Ele co-escreveu regularmente canções para o Aerosmith, incluindo dois dos maiores sucessos da banda: "Sweet Emotion" (1975)
-                            e "Janie's Got a Gun" (1989).
-                        </p>
-                    </div>
-
-                    <div id="divJK4" name="nm_divJK4">
-                        <p>
-                            <img class="css" src="img/aerosmith/jk.jpeg" width="150px;" height="130px;"> Joey Kramer ( 21 de Junho de 1950) é um músico norte-americano
-                            conhecido por seu trabalho como baterista da banda de hard rock Aerosmith; Joey é o único baterista que o Aerosmith já
-                            teve e faz parte da banda desde sua formação, em 1970.
-                            <br />
-                            Ele fez uma aparição especial na 22ª temporada de Os Simpsons, no episódio "The Ned-Liest Catch", como ex-parceiro da
-                            professora de Bart, Sra. Krabappel. :D
-                        </p>
-                    </div>
-
-                    </div>
+                </table>
             </section>
 
+            <nav>
+                <h3>Créditos</h3>
+
+                <li><a href="#" onMouseOver="mostraLayer('divST4');" onMouseOut="escondeLayer('divST4');">Steven Tyler</a> – Gaita, Piano e Vocais.</li>
+                <li><a href="#" onMouseOver="mostraLayer('divJP4');" onMouseOut="escondeLayer('divJP4');">Joe Perry</a> – Guitarra solo, Backing vocal e Baixo em "Sick As A Dog".</li>
+                <li><a href="#" onMouseOver="mostraLayer('divBW4');" onMouseOut="escondeLayer('divBW4');">Brad Whitford</a> – Guitarra base e Guitarra solo em "Sick As a Dog".</li>
+                <li><a href="#" onMouseOver="mostraLayer('divTH4');" onMouseOut="escondeLayer('divTH4');">Tom Hamilton</a> – Baixo.</li>
+                <li><a href="#" onMouseOver="mostraLayer('divJK4');" onMouseOut="escondeLayer('divJK4');">Joey Kramer</a> – Percussão e Bateria.</li>
+                </ul>
+            </nav>
+
+
+            <div id="divST4" name="nm_divST4">
+                <p>
+                    <img class="css" src="img/aerosmith/st.jpg" width="150px;" height="130px;">
+                    Steven Tyler ( 26 de março de 1948) é um cantor, compositor e multi-instrumentista Americano, conhecido por seu trabalho como
+                    vocalista da banda Aerosmith, na qual também toca gaita, piano e, ocasionalmente, percussão.
+                    Conhecido por suas acrobacias sobre o palco, durante suas performances enérgicas, nas quais se veste com roupas coloridas e
+                    brilhantes e utiliza seu tradicional microfone adornado com lenços também coloridos.
+                </p>
+            </div>
+
+            <div id="divJP4" name="nm_divJP4">
+                <p>
+                    <img class="css" src="img/aerosmith/jp.jpg" width="150px;" height="130px;">
+                    Joseph Anthony Perry (Lawrence, 10 de setembro de 1950) é o guitarrista principal da banda estadunidense de hard rock
+                    Aerosmith.
+                    <br />
+                    Foi considerado o 84º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone e, em
+                    2001, entrou para o Rock and Roll Hall of Fame com o resto do Aerosmith.
+                    <br /><br />
+                </p>
+            </div>
+
+            <div id="divBW4" name="nm_divBW4">
+                <p>
+                    <img class="css" src="img/aerosmith/bw.jpg" width="150px;" height="130px;">Bradley Ernest Whitford "Brad Whitford" ( 23 de fevereiro de 1952 )
+                    é o guitarrista base do Aerosmith, ao lado de Joe Perry.
+                </p>
+
+                <p>
+                    Brad entrou no Aerosmith aos 19 anos, substituindo Ray Tabano, e desde então reveza com Joe nas bases e nos solos de guitarra da banda
+                </p>
+                <br />
+            </div>
+
+            <div id="divTH4" name="nm_divTH4">
+                <p>
+                    <img class="css" src="img/aerosmith/th.jpg" width="150px;" height="130px;"> Tom Hamilton ( 31 de dezembro de 1951 ) é um
+                    músico norte-americano, conhecido por ser o baixista do grupo Aerosmith. Tom é o único baixista que o Aerosmith já teve e
+                    faz parte da banda desde sua formação, em 1970.
+                    <br />
+                    Ele co-escreveu regularmente canções para o Aerosmith, incluindo dois dos maiores sucessos da banda: "Sweet Emotion" (1975)
+                    e "Janie's Got a Gun" (1989).
+                </p>
+            </div>
+
+            <div id="divJK4" name="nm_divJK4">
+                <p>
+                    <img class="css" src="img/aerosmith/jk.jpeg" width="150px;" height="130px;"> Joey Kramer ( 21 de Junho de 1950) é um músico norte-americano
+                    conhecido por seu trabalho como baterista da banda de hard rock Aerosmith; Joey é o único baterista que o Aerosmith já
+                    teve e faz parte da banda desde sua formação, em 1970.
+                    <br />
+                    Ele fez uma aparição especial na 22ª temporada de Os Simpsons, no episódio "The Ned-Liest Catch", como ex-parceiro da
+                    professora de Bart, Sra. Krabappel. :D
+                </p>
+            </div>
+
             <footer>
-                <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
+                <a href="aerosmith.php"><button>Voltar para os álbuns do AEROSMITH</button></a>
                 <a href="index.php"><button>Home</button></a>
             </footer>
+
+        </section>
 
     </main>
 

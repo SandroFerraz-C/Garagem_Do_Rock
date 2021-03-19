@@ -13,7 +13,6 @@
     <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
 
-
 </head>
 
 <body>
@@ -58,18 +57,18 @@
             <p>
                 Assim, o Angra voltou às atividades no ano de 2001 com o lançamento mundial do disco - <a href="angra_05_rebirth.php" target="blank">Rebirth</a>
                 no mês de outubro. O nome do álbum, que significa renascimento em português, remete à nova fase vivida pela banda a partir
-                do primeiro semestre daquele ano e foi gravado no Brasil e na Alemanha pelo produtor Dennis Ward.</p>
+                do primeiro semestre daquele ano e foi gravado no Brasil e na Alemanha pelo produtor Dennis Ward.
+            </p><br />
 
+            <footer>
+                <a href="angra.php"><button>Voltar para os álbuns do ANGRA</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
 
-            <a href="angra.php"><button>Voltar para Albuns do ANGRA</button></a>
-            <a href="index.php"><button>Home</button></a>
         </div>
-
-
 
     </main>
 
 </body>
-
 
 </html>

@@ -14,8 +14,6 @@
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
     <link rel="stylesheet" type="text/css" href="css/layer_led_zeppelin.css">
 
-
-
 </head>
 
 <body>
@@ -61,7 +59,6 @@
                 está entre as obras mais populares e influentes do rock e ajudou a consolidar a popularidade do grupo.
             </p>
 
-
             <p>
                 Em seu primeiro ano, o Led Zeppelin completou quatro turnês nos Estados Unidos e no Reino Unido, e também lançou dois Álbuns,
                 - Led Zeppelin I e - Led Zeppelin II. O segundo Gravado quase inteiramente na estrada em vários estúdios norte-americanos, teve sucesso
@@ -99,13 +96,17 @@
                 música. O crítico de rock Mikal Gilmore disse: "Led Zeppelin — talentoso, complexo, ávido, bonito e perigoso — fez um dos corpos
                 mais duradouros da composição e interpretação na música do século XX, apesar de tudo o que tinham para dominar, incluindo a si
                 mesmos".
-            </p>
-            <br />
+            </p><br />
 
-            <a href="led_zeppelin.php"><button>Voltar para Albuns do Led Zeppelin</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="led_zeppelin.php"><button>Voltar para os álbuns do Led Zeppelin</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
         </div>
+
     </main>
+
     <script type="text/javascript" src="js/Country.js"></script>
 
 </body>

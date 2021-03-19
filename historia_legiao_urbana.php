@@ -14,8 +14,6 @@
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
     <link rel="stylesheet" type="text/css" href="css/layer_legiao_urbana.css">
 
-
-
 </head>
 
 <body>
@@ -65,7 +63,6 @@
                 <a href="os_paralamas_do_sucesso.php" target="blank"> Os Paralamas do Sucesso </a>.
             </p>
 
-
             <p>
                 Entre outubro de 2015 e dezembro de 2016, Dado Villa-Lobos e Marcelo Bonfá, os dois integrantes remanescentes do grupo, apresentaram
                 juntamente a André Frateschi nos vocais principais e diversos músicos convidados a turnê Legião Urbana XXX Anos, que consistiu na
@@ -100,13 +97,17 @@
                 uma ligação movida pelos pais de Renato, através da qual foi anunciado que os dois perderam o direito de dizerem publicamente que
                 participaram da Legião Urbana. Este direito foi recuperado permanentemente em 27 de março de 2015, dia em que Renato faria 55 anos
                 se estivesse vivo.
-            </p>
-            <br />
+            </p><br />
 
-            <a href="legiao_urbana.php"><button>Voltar para Albuns do Legião Urbana</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="legiao_urbana.php"><button>Voltar para os álbuns do Legião Urbana</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
         </div>
+
     </main>
+
     <script type="text/javascript" src="js/Country.js"></script>
 
 </body>

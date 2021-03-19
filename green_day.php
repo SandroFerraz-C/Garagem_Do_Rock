@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
 
 <html lang="pt-br">
 
@@ -12,34 +11,26 @@
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
 
-    <!-- Latest compiled and minified CSS -->
-
     <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
     <link href="css/css_loja.css" rel="stylesheet" />
     <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
-
 
 </head>
 
 <body>
-    <br><br>
     <div id="Principal">
-        <!-- inicio principal -->
-        <main>
 
+        <main>
 
             <nav>
                 <a class="loja" href="historia_green_day.php">Historia da Banda</a>
-
                 <a class="vote" href="curiosidades_green_day.php">Curiosidades do Green Day</a>
-
             </nav>
+
             <section class="content-section">
 
-                <h1>Albuns</h1>
+                <h1>Álbuns</h1>
 
                 <div class="albuns_acdc">
 
@@ -69,14 +60,15 @@
 
                     <a href="green_day_13_father_of_all_motherfuckers.php"><img class="hv" src="img/green day/13_father_of_all_motherfuckers.jpg" height="310px;" width="360px;"></a>
 
-                    
                 </div>
-                
+
             </section>
+
             <div class="botao_acdc">
                 <br />
                 <button><a href="index.php">Home</a></button>
             </div>
+
         </main>
         <br><br>
 
@@ -84,8 +76,6 @@
             <?php include_once("rodape.php"); ?>
         </footer>
 
-
-        </section>
     </div>
 </body>
 

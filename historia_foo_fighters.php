@@ -13,7 +13,6 @@
     <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
 
-
 </head>
 
 <body>
@@ -66,14 +65,17 @@
                 Junto com esse álbum, foi lançada uma carta, na qual Dave Grohl fala muito sobre um possível hiato ou fim da banda. Grohl anunciou
                 que a banda passaria a maior parte de 2017 gravando seu nono álbum de estúdio. Em 1 de junho de 2017 a banda lança seu novo single Run.
                 Em 23 de agosto é lançado o segundo single de Concrete and Gold, The Sky Is a Neighborhood.
+            </p><br />
 
-            </p>
-            <br />
+            <footer>
+                <a href="foo_fighters.php"><button>Voltar para os álbuns do Foo Fighters</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
 
-            <a href="foo_fighters.php"><button>Voltar para Albuns do Foo Fighters</button></a>
-            <a href="index.php"><button>Home</button></a>
         </div>
+
     </main>
+
 </body>
 
 </html>

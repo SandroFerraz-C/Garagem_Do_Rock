@@ -9,13 +9,10 @@ include_once("header.php");
 
             <h1>Power Up (2020)</h1>
 
-            <p>
-                - Power Up (por vezes abreviado para PWR/UP e estilizado como PWRϟUP ) é o Décimo-Setimo álbum do AC/DC, lançado em 13 de Novembro 2020,
-                através a Columbia Records e Sony Music Austrália.
-            </p>
+            <p>- Power Up (por vezes abreviado para PWR/UP e estilizado como PWRϟUP ) é o Décimo-Setimo álbum do AC/DC, lançado em 13 de Novembro 2020,
+                através a Columbia Records e Sony Music Austrália.</p>
 
-            <p>
-                - Power Up marca o retorno do vocalista Brian Johnson, do baterista Phil Rudd e do baixista Cliff Williams, todos os quais deixaram o
+            <p>- Power Up marca o retorno do vocalista Brian Johnson, do baterista Phil Rudd e do baixista Cliff Williams, todos os quais deixaram o
                 AC/DC antes, durante ou depois da turnê de aberturade seu álbum anterior -
                 <a href="acdc_18_rock_or_bust.html" target="blank">Rock or Bust</a> de (2014).
                 Este é também o primeiro álbum da banda desde a morte do co-fundador e guitarrista base Malcolm Young em 2017 e serve como uma
@@ -23,8 +20,7 @@ include_once("header.php");
                 um em 21 países.
             </p>
 
-            <p>
-                Após uma série de provocações enigmáticas no <a href="https://pwrup.acdc.com" target="blank">site da banda</a>, o título do álbum
+            <p>Após uma série de provocações enigmáticas no <a href="https://pwrup.acdc.com" target="blank">site da banda</a>, o título do álbum
                 foi revelado como - Power Up em 7 de outubro de 2020;
                 <br />
                 Também após uma série de teasers nos dias anteriores, o áudio da música para o primeiro single da banda, "Shot in the Dark", foi
@@ -34,8 +30,7 @@ include_once("header.php");
                 antes da estreia mundial da música completa.
             </p>
 
-            <p>
-                Na Austrália, - Power Up estreou em número #1 nas paradas ARIA e, no processo, AC/DC se tornou a primeira banda a ter um álbum
+            <p>Na Austrália, - Power Up estreou em número #1 nas paradas ARIA e, no processo, AC/DC se tornou a primeira banda a ter um álbum
                 australiano número #1 em cada uma das cinco décadas (1980 a 2020). O álbum registrou 21.535 vendas em sua primeira semana,
                 superando o resto dos 15 primeiros álbuns juntos. Em 12 de dezembro, ele passou quatro semanas no número #1, tornando-se o álbum
                 com mais tempo sendo o número #1 na Austrália em 2020.
@@ -54,14 +49,13 @@ include_once("header.php");
             </p>
             <br />
 
-            <p>
-                O album atingil certificação:
+            <p>O álbum atingil certificação:</p>
 
             <div class="tabela">
                 <table border="1px" width="45%">
                     <tr>
                         <td width="15%" height="10%">Nivel</td>
-                        <td width="15%">Albuns Vendidos</td>
+                        <td width="15%">Álbuns Vendidos</td>
                     </tr>
 
 
@@ -100,7 +94,6 @@ include_once("header.php");
 
                 </table>
             </div>
-            </p>
             <br />
 
             <p>Gênero(s):
@@ -113,7 +106,7 @@ include_once("header.php");
             </p>
             <br />
 
-            <p>Duração do album: 41 min. 07 seg.</p>
+            <p>Duração do álbum: 41 min. 07 seg.</p>
             <p>Gravadora(s): Sony Music / Columbia Records.</p>
             <p>Produção: Brendan O’Brien. </p>
             <br /><br />
@@ -121,11 +114,9 @@ include_once("header.php");
 
             <section class="disco">
                 <table id="demo-table">
-
                     <iframe src="https://open.spotify.com/embed/playlist/3voluA7zoJbmCarEFcEDpC" width="100%" height="700" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                 </table>
             </section>
-            <br /><br />
 
             <nav>
                 <h3>Créditos</h3>
@@ -183,13 +174,12 @@ include_once("header.php");
                 </p>
             </div>
 
-            </div>
-        </section>
+            <footer>
+                <a href="acdc.php"><button>Voltar para os álbuns do AC/DC</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
 
-        <footer>
-            <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
-            <a href="index.php"><button>Home</button></a>
-        </footer>
+        </section>
 
     </main>
     <script type="text/javascript" src="js/Country.js"></script>

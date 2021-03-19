@@ -13,7 +13,6 @@
     <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
 
-
 </head>
 
 <body>
@@ -80,18 +79,17 @@
                 Após uma turnê de 2 anos, no dia 12 de janeiro de 2007, a banda faz seu último show no Rio de Janeiro, antes de nova parada
                 "de férias" - a segunda na década. Seus integrantes passaram a dedicar-se a projetos solo. Antes da segunda parada, a banda
                 lançou um livro sobre sua carreira e o DVD com o histórico show no Rock in Rio I.
-            </p>
+            </p><br />
 
+            <footer>
+                <a href="barao_vermelho.php"><button>Voltar para os álbuns do Barão Vermelho</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
 
-            <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
-            <a href="index.php"><button>Home</button></a>
         </div>
-
-
 
     </main>
 
 </body>
-
 
 </html>

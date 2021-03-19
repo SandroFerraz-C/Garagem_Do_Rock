@@ -13,7 +13,6 @@
     <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
 
-
 </head>
 
 <body>
@@ -56,25 +55,25 @@
             </p>
 
             <p>
-                O álbum de estreia homônimo do grupo foi gravado na Inglaterra em fevereiro de 1972 com o produtor Glyn Johns. Johns ficou 
-                impressionado com o canto harmônico da banda, e ele foi creditado por moldar a banda em "uma banda de country-rock com aquelas 
-                harmonias agudas". Lançado em 1 de junho de 1972, Eagles foi um grande sucesso, rendendo três singles no Top 40. O primeiro 
-                single e faixa principal, " Take It Easy ", foi uma canção escrita por Frey com seu então vizinho e roqueiro country Jackson 
-                Browne. Browne escreveu a primeira estrofe da música, mas ficou paralisada na segunda estrofe após a linha "Estou parado em uma 
-                esquina emWinslow, Arizona. "Frey completou o verso, e Browne continuou para terminar a música. A canção alcançou o número #12 
+                O álbum de estreia homônimo do grupo foi gravado na Inglaterra em fevereiro de 1972 com o produtor Glyn Johns. Johns ficou
+                impressionado com o canto harmônico da banda, e ele foi creditado por moldar a banda em "uma banda de country-rock com aquelas
+                harmonias agudas". Lançado em 1 de junho de 1972, Eagles foi um grande sucesso, rendendo três singles no Top 40. O primeiro
+                single e faixa principal, " Take It Easy ", foi uma canção escrita por Frey com seu então vizinho e roqueiro country Jackson
+                Browne. Browne escreveu a primeira estrofe da música, mas ficou paralisada na segunda estrofe após a linha "Estou parado em uma
+                esquina emWinslow, Arizona. "Frey completou o verso, e Browne continuou para terminar a música. A canção alcançou o número #12
                 na Billboard Hot 100 e impulsionou os Eagles ao estrelato. O single foi seguido pelo blues" Witchy Woman " e a balada de soft
-                 country rock " Peaceful Easy Feeling ", alcançando o número #9 e número #22,
-            </p>
+                country rock " Peaceful Easy Feeling ", alcançando o número #9 e número #22.
+            </p><br />
 
-            <a href="eagles.php"><button>Voltar para Albuns do Eagles</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="eagles.php"><button>Voltar para os álbuns do Eagles</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
         </div>
-
-
 
     </main>
 
 </body>
-
 
 </html>

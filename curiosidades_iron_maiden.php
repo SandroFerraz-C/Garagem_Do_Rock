@@ -276,42 +276,42 @@ include_once("header_curiosidades.php");
             <div class="albuns_acdc">
                 <a href="iron_maiden.php"><button>Voltar para Albuns do Iron Maiden</button></a>
             </div>
-       
+
         </section>
 
         <div class="fotoac">
-           
-            <h2>Albun de Fotos</h2>
-           
+
+            <h2>Álbum de Fotos</h2>
+
             <p class="ay_hj">Bruce Dickinson </p>
             <p class="ay_antes">Bruce Dickinson </p>
             <p class="bj_hj">Steve Harris </p>
             <p class="bj_antes">Steve Harris </p>
-            
+
             <img src="img/iron maiden/bd_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/iron maiden/bd_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
             <p class="ay_hj">Dave Murray </p>
             <p class="ay_antes">Dave Murray </p>
-            
+
             <img src="img/iron maiden/sh_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/iron maiden/sh_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            
+
             <p class="bj_hj">Adrian Smith </p>
             <p class="bj_antes">Adrian Smith </p>
-            
+
             <img src="img/iron maiden/dm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/iron maiden/dm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            
+
             <p class="ay_hj">Nicko McBrain </p>
             <p class="ay_antes">Nicko McBrain </p>
 
             <img src="img/iron maiden/as_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/iron maiden/as_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            
+
             <p class="bj_hj">Janick Gers </p>
             <p class="bj_antes">Janick Gers </p>
-            
+
             <img src="img/iron maiden/nm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/iron maiden/nm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/iron maiden/jg_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
@@ -324,11 +324,11 @@ include_once("header_curiosidades.php");
             <img src="img/iron maiden/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/iron maiden/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/iron maiden/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-        
+
         </div>
 
-        </section>
+    </div>
 
-        <footer id="rodape">
-            <?php include_once("footer_curiosidades.php"); ?>
-        </footer>
+    <footer id="rodape">
+        <?php include_once("footer_curiosidades.php"); ?>
+    </footer>

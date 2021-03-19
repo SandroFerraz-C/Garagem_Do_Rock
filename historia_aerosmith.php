@@ -13,11 +13,11 @@
     <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
 
-
 </head>
 
 <body>
     <main>
+
         <div class="content-section">
 
             <h1>História do Aerosmith</h1>
@@ -56,18 +56,18 @@
                 primeiro single "Love is Your Name", e o álbum - We're All Somebody from Somewhere foi lançado em julho de 2016. Enquanto isso,
                 Joe Perry trabalha com o supergrupo Hollywood Vampires (composto por Alice Cooper, Johnny Depp, entre outros), que lançaram seu
                 álbum de estreia em setembro de 2015, tocando na edição brasileira do Rock in Rio 2 e na #58.ª edição da premiação Grammy Awards em 15 de
-                fevereiro de 2016</p>
+                fevereiro de 2016.
+            </p><br />
 
+            <footer>
+                <a href="aerosmith.php"><button>Voltar para os álbuns do AEROSMITH</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
 
-            <a href="aerosmith.php"><button>Voltar para Albuns do AEROSMITH</button></a>
-            <a href="index.php"><button>Home</button></a>
         </div>
-
-
 
     </main>
 
 </body>
-
 
 </html>

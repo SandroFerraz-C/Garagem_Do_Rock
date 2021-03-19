@@ -14,8 +14,6 @@
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
     <link rel="stylesheet" type="text/css" href="css/layer_linkin_park.css">
 
-
-
 </head>
 
 <body>
@@ -60,7 +58,6 @@
                 <img class="css" src="img/linkin park/cb.jpeg" width="150px;" height="130px;">
             </div>
 
-
             <p>
                 Formado em 1996, 0 Linkin Park alcançou fama internacional com o seu álbum de estreia, - Hybrid Theory (2000), que foi certificado
                 como diamante pela RIAA em 2005 e multi-platina em vários outros países, se tornado um dos álbuns mais vendidos de todos os tempos.
@@ -74,7 +71,6 @@
                 eletrônico e orientado para a música pop.
             </p>
 
-
             <p>
                 O Linkin Park está entre as bandas mais bem sucedidas do século XXI e de todos os tempos, tendo vendido mais de 70 milhões de álbuns
                 em todo o mundo. Eles ganharam dois Grammy Awards, seis American Music Awards, quatro MTV Video Music Awards e três World Music Awards.
@@ -82,8 +78,6 @@
                 foi votada como o maior artista dos anos 2000 em uma pesquisa realizada pela VH1. Em 2014, a banda foi declarada como "a maior banda de
                 rock do mundo" pela Kerrang!.
             </p>
-
-
 
             <p>
                 A banda se tornou a primeira banda de rock a atingir mais de um bilhão de visualizações no YouTube. A banda também se tornou
@@ -95,29 +89,33 @@
             <p>
                 Atualmente, o Linkin Park encontra-se em um hiato (pausa) indefinido após o vocalista de longa data Chester Bennington cometer
                 suicídio em 20 de julho de 2017; Sua morte foi considerada suicídio por enforcamento. Shinoda confirmou a morte de Bennington
-                 no Twitter, escrevendo, "Chocado e com o coração partido, mas é verdade. Uma declaração oficial sairá assim que tivermos uma".
+                no Twitter, escrevendo, "Chocado e com o coração partido, mas é verdade. Uma declaração oficial sairá assim que tivermos uma".
                 A banda lançou um videoclipe para seu single - Talking to Myself no início daquele dia.
             </p>
-            
-            <p> Um dia após a morte de Bennington, a banda cancelou a parte norte-americana de sua One More Light World Tour. Na manhã de 24 de 
-                julho, o Linkin Park lançou um comunicado oficial em seu site como um tributo a Bennington. Em 28 de julho, Shinoda anunciou que as 
-                doações feitas à instituição de caridade Music for Relief da banda seriam redirecionadas para o One More Light Fund, que havia sido 
-                criado em memória de Bennington. Em 4 de agosto, quando a banda estava inicialmente programada para tocar no Good Morning America, a 
+
+            <p> Um dia após a morte de Bennington, a banda cancelou a parte norte-americana de sua One More Light World Tour. Na manhã de 24 de
+                julho, o Linkin Park lançou um comunicado oficial em seu site como um tributo a Bennington. Em 28 de julho, Shinoda anunciou que as
+                doações feitas à instituição de caridade Music for Relief da banda seriam redirecionadas para o One More Light Fund, que havia sido
+                criado em memória de Bennington. Em 4 de agosto, quando a banda estava inicialmente programada para tocar no Good Morning America, a
                 filha de 12 anos de Chris Cornell, Toni (que também era afilhada de Bennington) apareceu com o OneRepublic para apresentar - Hallelujah
-                 como um tributo a Bennington e seu pai. Bennington já havia cantado a música no funeral de Cornell, que também morreu de suicídio por 
-                 enforcamento dois meses antes. 
+                como um tributo a Bennington e seu pai. Bennington já havia cantado a música no funeral de Cornell, que também morreu de suicídio por
+                enforcamento dois meses antes.
             </p>
-            
+
             <p>
                 Os outros membros da banda ainda não decidiram se querem continuar com um novo vocalista. Em 28 de
                 abril de 2020, o baixista Dave Farrell revelou que a banda está trabalhando em novas músicas.
-            </p>
-            <br />
+            </p><br />
 
-            <a href="linkin_park.php"><button>Voltar para Albuns do Linkin Park</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="linkin_park.php"><button>Voltar para os álbuns do Linkin Park</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
         </div>
+
     </main>
+
     <script type="text/javascript" src="js/Country.js"></script>
 
 </body>

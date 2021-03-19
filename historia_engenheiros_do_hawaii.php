@@ -13,7 +13,6 @@
     <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
 
-
 </head>
 
 <body>
@@ -73,13 +72,17 @@
                 Também lançou 5 livros: "Meu Pequeno Gremista e Pra Ser Sincero"- "123 Variações Sobre Um Mesmo Tema" no final de 2009, "Mapas do Acaso" -
                 "45 Variações Sobre Um Mesmo Tema" em fevereiro de 2011, "Nas Entrelinhas do Horizonte" em abril de 2012 e "Seis Segundos de Atenção"
                 em agosto de 2013.
-            </p>
-            <br />
+            </p><br />
 
-            <a href="engenheiros_do_Hawaii.php"><button>Voltar para Albuns do Engenheiros do Hawaii</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="engenheiros_do_Hawaii.php"><button>Voltar para os álbuns do Engenheiros do Hawaii</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
         </div>
+
     </main>
+
 </body>
 
 </html>

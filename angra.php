@@ -3,7 +3,6 @@
 <html lang="pt-br">
 
 <head>
-
     <title>Garage Of Rock!!</title>
 
     <meta charset="utf-8">
@@ -11,18 +10,15 @@
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
 
-    <!-- Latest compiled and minified CSS -->
-
     <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
     <link href="css/css_loja.css" rel="stylesheet" />
-
 </head>
 
 <body>
 
     <div id="Principal">
-
         <main>
+
             <nav>
                 <a class="loja" href="historia_angra.php">Historia da Banda</a>
                 <a class="vote" href="curiosidades_angra.php">Curiosidades do Angra</a>
@@ -30,7 +26,7 @@
 
             <section class="content-section">
 
-                <h1>Albuns</h1>
+                <h1>Álbuns</h1>
 
                 <div class="albuns_angra">
                     <a href="angra_01_angels_cry.php"> <img class="hv" src="img/angra/01_Angels Cry.jpg" height="310px;" width="360px;" alt=""> </a>
@@ -59,6 +55,7 @@
                 <br />
                 <button><a href="index.php">Home</a></button>
             </div>
+
         </main>
         <br /><br />
 
@@ -66,8 +63,9 @@
             <?php include_once("rodape.php"); ?>
         </footer>
 
-        </section>
+
     </div>
+
 </body>
 
 </html>

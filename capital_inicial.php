@@ -3,15 +3,12 @@
 <html lang="pt-br">
 
 <head>
-
     <title>Garage Of Rock!!</title>
 
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
 
     <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
     <link href="css/css_loja.css" rel="stylesheet" />
@@ -69,9 +66,9 @@
 
             <div class="botao_acdc">
                 <br />
-
                 <button><a href="index.php">Home</a></button>
             </div>
+
         </main>
         <br /><br />
 
@@ -79,8 +76,8 @@
             <?php include_once("rodape.php"); ?>
         </footer>
 
-        </section>
     </div>
+
 </body>
 
 </html>

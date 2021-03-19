@@ -1,50 +1,20 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_green_day.css">
-
-
-    <!--
-    <link rel="stylesheet" type="text/css" href="css/ti.css">
-    <link rel="stylesheet" type="text/css" href="css/tm.css">
-    <link rel="stylesheet" type="text/css" href="css/lc.css">
-    <link rel="stylesheet" type="text/css" href="css/cp.css">
-    <link rel="stylesheet" type="text/css" href="css/gn.css">
-    <link rel="stylesheet" type="text/css" href="css/bm.css">
--->
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
 
             <h1>Kerplunk (1991)</h1>
-            <br />
 
             <p>
-                "Kerplunk" é o segundo álbum de estúdio do Green Day, lançado em 17 de dezembro de 1991 pela - Lookout! Registros.
+                - Kerplunk é o segundo álbum de estúdio do Green Day, lançado em 17 de dezembro de 1991 pela - Lookout! Registros.
             </p>
-            <br />
 
             <p>
-                "Kerplunk" foi o último lançamento independente do Green Day pelo selo Lookout! Records, e também foi o primeiro álbum a apresentar
+                - Kerplunk foi o último lançamento independente do Green Day pelo selo Lookout! Records, e também foi o primeiro álbum a apresentar
                 Tré Cool na bateria. O álbum vendeu 10.000 cópias no primeiro dia e se tornou o lançamento mais vendido da Lookout! Records. Após
                 a estreia do álbum na Califórnia, e receber muita aprovação do crítico - 924 Gilman Street, a banda embalou em um Motorhome apertado
                 e rumou para o leste. O Green Day desenvolveu uma base de fãs na costa leste por meio dos esforços do
@@ -55,7 +25,6 @@
                 oficialmente apenas 12 faixas, mas as versões lançadas em CD e a fita cassete também incluem as 4 faixas do EP - Sweet Children.
                 Uma dessas faixas é um cover de "My Generation" do - The Who.
             </p>
-            <br />
 
             <p>
                 Em agosto de 2005, o Green Day retirou o álbum - assim como todos os outros materiais lançados pelo Lookout! Recordes - devido a
@@ -66,7 +35,6 @@
                 2017, para coincidir com a segunda compilação da banda, Greatest Hits: God's Favorite Band, um videoclipe foi lançado para "2000 Light Years
                 Away". Em novembro de 2013, Kerplunk vendeu mais de 1.000.000 de cópias nos Estados Unidos e mais de 4.000.000 de cópias em todo o mundo.
             </p>
-            <br />
 
             <p>
                 - Kerplunk foi banido de certas lojas por causa da arte da capa. A capa apresenta uma foto quase toda branca (com um pouco de verde
@@ -75,88 +43,86 @@
             </p>
             <br />
 
-            <p>
-                O album atingil certificação:
+            <p>O álbum atingil certificação:</p>
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Albuns Vendidos</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Platina </td>
-                            <td> + 1.000.000 (EUA.)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 100.000 (Reino Unido)</td>
-                        </tr>
-
-                    </table>
-                </div>
+            <div class="tabela">
+                <table border="1px" width="45%">
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Álbuns Vendidos</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina </td>
+                        <td> + 1.000.000 (EUA.)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 100.000 (Reino Unido)</td>
+                    </tr>
+                </table>
+            </div>
             </p>
             <br /><br />
 
-            <p>Duração do album: 33 min. 58 seg.</p>
+            <p>Duração do álbum: 33 min. 58 seg.</p>
             <p>Gravadora(s): Lookout!.</p>
             <p>Produção: Andy Ernst, Green Day e John Kiffmeyer.</p>
             <br /><br />
 
-
             <section class="disco">
                 <table id="demo-table">
-
                     <iframe src="https://open.spotify.com/embed/playlist/5xFJcWa4FwmYapFEoyJ2GE" width="100%" height="690" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-                    <br /><br /><br />
-
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ02');" onMouseOut="escondeLayer('divBJ02');"> Billie Joe Armstrong </a> – Vocal e Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMD02');" onMouseOut="escondeLayer('divMD02');"> Mike Dirnt </a> – Baixo e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTC02');" onMouseOut="escondeLayer('divTC02');"> Tré Cool </a> – Bateria, Vocal principal e Guitarra em "Dominated Love Slave". </li>
-                    </ul>
-
-                    <div id="divBJ02" name="nm_divBJ02">
-                        <p>
-                            <img class="css" src="img/green day/bj.jpg" width="150px;" height="130px;">
-                            Billie Joe Armstrong ( 17 de fevereiro de 1972) é um cantor, compositor, músico e produtor musical americano.
-                            Armstrong é o vocalista, principal compositor e guitarrista da banda Green Day, que co-fundou com Mike Dirnt.
-                            Ele também é guitarrista e vocalista da banda de punk rock - Pinhead Gunpowder.
-                        </p>
-                    </div>
-
-                    <div id="divMD02" name="nm_divMD02">
-                        <p>
-                            <img class="css" src="img/green day/md.jpg" width="150px;" height="130px;">
-                            Michael Ryan Pritchard ( 4 de maio de 1972), mais conhecido como Mike Dirnt, é um músico, cantor
-                            e compositor americano. Ele é mais conhecido como co-fundador, baixista, vocalista de apoio e vocalista principal ocasionalmente.
-                            Seu nome artístico é originalmente um apelido já que ele tocava constantemente - ( Baixo / Guitarra "Imaginario" ) e fazia um barulho
-                            "dirnt, dirnt, dirnt" enquanto fingia tocar as cordas.
-                        </p>
-                    </div>
-
-                    <div id="divTC02" name="nm_divTC02">
-                        <p>
-                            <img class="css" src="img/green day/tc.jpg" width="150px;" height="130px;">
-                            Frank Edwin Wright III ( 9 de dezembro de 1972), mais conhecido pelo seu nome artístico Tre Cool, é um músico alemão-americano,
-                            e mais conhecido como o baterista do Green Day. Ele substituiu o ex-baterista da banda, John Kiffmeyer, em 1990, quando
-                            Kiffmeyer sentiu que deveria se concentrar na faculdade.
-                        </p>
-                    </div>
-                    <br /><br /><br />
-
-                    <a href="green_day.php"><button>Voltar para Albuns do Green Day</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
-                    </div>
+                </table>
             </section>
 
+            <nav>
+                <h3>Crédito:</h3>
+                <ul>
+                    <li><a href="#" onMouseOver="mostraLayer('divBJ02');" onMouseOut="escondeLayer('divBJ02');">Billie Joes Armstrong</a> – Vocal e Guitarra. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divMD02');" onMouseOut="escondeLayer('divMD02');">Mike Dirnt</a> – Baixo e Vocal de apoio. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divTC02');" onMouseOut="escondeLayer('divTC02');">Tré Cool</a> – Bateria, Vocal principal e Guitarra em "Dominated Love Slave". </li>
+                </ul>
+            </nav>
+
+            <div id="divBJ02" name="nm_divBJ02">
+                <p>
+                    <img class="css" src="img/green day/bj.jpg" width="150px;" height="130px;">
+                    Billie Joe Armstrong ( 17 de fevereiro de 1972) é um cantor, compositor, músico e produtor musical americano.
+                    Armstrong é o vocalista, principal compositor e guitarrista da banda Green Day, que co-fundou com Mike Dirnt.
+                    Ele também é guitarrista e vocalista da banda de punk rock - Pinhead Gunpowder.
+                </p><br /><br />
+            </div>
+
+            <div id="divMD02" name="nm_divMD02">
+                <p>
+                    <img class="css" src="img/green day/md.jpg" width="150px;" height="130px;">
+                    Michael Ryan Pritchard ( 4 de maio de 1972), mais conhecido como Mike Dirnt, é um músico, cantor
+                    e compositor americano. Ele é mais conhecido como co-fundador, baixista, vocalista de apoio e vocalista principal ocasionalmente.
+                    Seu nome artístico é originalmente um apelido já que ele tocava constantemente - ( Baixo / Guitarra "Imaginario" ) e fazia um barulho
+                    "dirnt, dirnt, dirnt" enquanto fingia tocar as cordas.
+                </p>
+            </div>
+
+            <div id="divTC02" name="nm_divTC02">
+                <p>
+                    <img class="css" src="img/green day/tc.jpg" width="150px;" height="130px;">
+                    Frank Edwin Wright III ( 9 de dezembro de 1972), mais conhecido pelo seu nome artístico Tre Cool, é um músico alemão-americano,
+                    e mais conhecido como o baterista do Green Day. Ele substituiu o ex-baterista da banda, John Kiffmeyer, em 1990, quando
+                    Kiffmeyer sentiu que deveria se concentrar na faculdade.
+                </p><br /><br />
+            </div>
+            <br /><br />
+
+            <footer>
+            <a href="green_day.php"><button>Voltar para os álbuns do Green Day</button></a>
+            <a href="index.php"><button>Home</button></a>
+            </footer>
+
+        </section>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

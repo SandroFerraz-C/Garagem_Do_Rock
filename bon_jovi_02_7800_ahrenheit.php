@@ -49,8 +49,7 @@ include_once("header.php");
             </p>
             <br /><br />
 
-            <p>
-                O album atingil certificação:
+            <p>O álbum atingil certificação:</p>
 
             <div class="tabela">
                 <table border="1px" width="45%">
@@ -75,10 +74,9 @@ include_once("header.php");
 
                 </table>
             </div>
-            </p>
             <br />
 
-            <p>Duração do album: 47 min. 10 seg.</p>
+            <p>Duração do álbum: 47 min. 10 seg.</p>
             <p>Gravadora(s): Mercury (Estados Unidos) e Vertigo (União Europeia).</p>
             <p>Produção: Lance Quinn. </p>
             <br />
@@ -86,88 +84,83 @@ include_once("header.php");
 
             <section class="disco">
                 <table id="demo-table">
-
                     <iframe src="https://open.spotify.com/embed/playlist/33AagG7vZJDH6l0zfH0ZDQ" width="100%" height="590" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-                    <br /><br />
-
-                    <nav>
-                        <h3>Créditos</h3>
-
-                        <ul>
-                            <li><a href="#" onMouseOver="mostraLayer('divBJ02');" onMouseOut="escondeLayer('divBJ02');">Jon Bon Jovi</a> – Vocal principal.</li>
-                            <li><a href="#" onMouseOver="mostraLayer('divRS02');" onMouseOut="escondeLayer('divRS02');">Richie Sambora</a> – Guitarras principais e Vocais de apoio.</li>
-                            <li><a href="#" onMouseOver="mostraLayer('divAJ02');" onMouseOut="escondeLayer('divAJ02');">Alec John Such</a> – Baixo e Vocal de apoio.</li>
-                            <li><a href="#" onMouseOver="mostraLayer('divDB02');" onMouseOut="escondeLayer('divDB02');">David Bryan</a> – Teclado e Vocal de apoio.</li>
-                            <li><a href="#" onMouseOver="mostraLayer('divTT02');" onMouseOut="escondeLayer('divTT02');">Tico Torres</a> – Bateria, Percussão e Backing vocals.</li>
-                        </ul>
-                    </nav>
-                    <br /><br />
-
-
-                    <div id="divBJ02" name="nm_divBJ02">
-                        <p>
-                            <img class="css" src="img/bon jovi/bj.jpg" width="150px;" height="130px;">
-                            É o líder da banda Bon Jovi, que mantém algumas características do estilo hard rock dos anos 80 até hoje, mas assimilou influências dos
-                            variados estilos surgidos no rock e heavy metal. A banda Bon Jovi já vendeu mais de 130 milhões de
-                            álbuns em todo o mundo. A banda Bon Jovi ao passar dos anos veio a se tornar uma das bandas mais bem sucedidas da história do rock,
-                            quando se trata de turnês pelo mundo.
-                        </p>
-                    </div>
-
-                    <div id="divRS02" name="nm_divRS02">
-                        <p>
-                            <img class="css" src="img/bon jovi/rs.jpg" width="150px;" height="130px;">
-                            Richard "Richie" é um guitarrista, cantor e compositor norte-americano, conhecido
-                            por ter sido, até 2013, o guitarrista solo da banda de hard-rock Bon Jovi.
-                            <br />
-                            Antes de aparecer na banda Bon Jovi, participou de uma audição para tocar nos Kiss, mas, por achar que a banda não se adequava às suas
-                            expectativas como músico, pois possuíam influências e gêneros diferentes, não entrou na banda.
-                        </p>
-                    </div>
-
-                    <div id="divAJ02" name="nm_divAJ02">
-                        <p>
-                            <img class="css" src="img/bon jovi/aj.jpg" width="150px;" height="130px;">
-                            Alexander John Such. Alec foi baixista e membro oficial da banda Bon Jovi de 1982 a 1994.
-                            <br />
-                            De origem humilde, Alec trabalhou como engraxate quando adolescente, e, com o dinheiro que juntou, comprou seu primeiro
-                            baixo elétrico. Aprendeu a tocar ouvindo discos em sua casa, e logo depois começou a participar de bandas de rua.
-                            <br /><br />
-                        </p>
-                    </div>
-
-                    <div id="divDB02" name="nm_divDB02">
-                        <p>
-                            <img class="css" src="img/bon jovi/db.jpg" width="150px;" height="130px;">
-                            David Bryan Rashbaum é um multi-instrumentista e compositor estadunidense, mais conhecido
-                            como o tecladista da banda Bon Jovi.
-                            <br />
-                            Ele é um símbolo dos teclados, é considerado uns dos melhores tecladistas de bandas de rock; David Bryan toca teclado,
-                            piano, trompete e acordeon. Conheceu Jon quando tinha 16 anos.
-                            <br /><br />
-                        </p>
-                    </div>
-
-                    <div id="divTT02" name="nm_divTT02">
-                        <p>
-                            <img class="css" src="img/bon jovi/tt.jpg" width="150px;" height="130px;">
-                            Hector Samuel Juan "Tico" Torres é um músico cubano-americano, mais conhecido como
-                            o baterista da banda Bon Jovi.
-                            <br />
-                            Tico também é dono de uma linha de roupas para bebês chamada Rock Star Baby; Além de roupas para bebês, a Rock Star Baby também
-                            produz métodos de aprendizado e desenhos. Além disto, ele também tem licença de piloto de aeronave.
-                            <br /><br />
-                        </p>
-                    </div>
-
-                    </div>
-
+                </table>
             </section>
 
+            <nav>
+                <h3>Créditos</h3>
+
+                <ul>
+                    <li><a href="#" onMouseOver="mostraLayer('divBJ02');" onMouseOut="escondeLayer('divBJ02');">Jon Bon Jovi</a> – Vocal principal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divRS02');" onMouseOut="escondeLayer('divRS02');">Richie Sambora</a> – Guitarras principais e Vocais de apoio.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divAJ02');" onMouseOut="escondeLayer('divAJ02');">Alec John Such</a> – Baixo e Vocal de apoio.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDB02');" onMouseOut="escondeLayer('divDB02');">David Bryan</a> – Teclado e Vocal de apoio.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divTT02');" onMouseOut="escondeLayer('divTT02');">Tico Torres</a> – Bateria, Percussão e Backing vocals.</li>
+                </ul>
+            </nav>
+
+            <div id="divBJ02" name="nm_divBJ02">
+                <p>
+                    <img class="css" src="img/bon jovi/bj.jpg" width="150px;" height="130px;">
+                    É o líder da banda Bon Jovi, que mantém algumas características do estilo hard rock dos anos 80 até hoje, mas assimilou influências dos
+                    variados estilos surgidos no rock e heavy metal. A banda Bon Jovi já vendeu mais de 130 milhões de
+                    álbuns em todo o mundo. A banda Bon Jovi ao passar dos anos veio a se tornar uma das bandas mais bem sucedidas da história do rock,
+                    quando se trata de turnês pelo mundo.
+                </p>
+            </div>
+
+            <div id="divRS02" name="nm_divRS02">
+                <p>
+                    <img class="css" src="img/bon jovi/rs.jpg" width="150px;" height="130px;">
+                    Richard "Richie" é um guitarrista, cantor e compositor norte-americano, conhecido
+                    por ter sido, até 2013, o guitarrista solo da banda de hard-rock Bon Jovi.
+                    <br />
+                    Antes de aparecer na banda Bon Jovi, participou de uma audição para tocar nos Kiss, mas, por achar que a banda não se adequava às suas
+                    expectativas como músico, pois possuíam influências e gêneros diferentes, não entrou na banda.
+                </p>
+            </div>
+
+            <div id="divAJ02" name="nm_divAJ02">
+                <p>
+                    <img class="css" src="img/bon jovi/aj.jpg" width="150px;" height="130px;">
+                    Alexander John Such. Alec foi baixista e membro oficial da banda Bon Jovi de 1982 a 1994.
+                    <br />
+                    De origem humilde, Alec trabalhou como engraxate quando adolescente, e, com o dinheiro que juntou, comprou seu primeiro
+                    baixo elétrico. Aprendeu a tocar ouvindo discos em sua casa, e logo depois começou a participar de bandas de rua.
+                    <br /><br />
+                </p>
+            </div>
+
+            <div id="divDB02" name="nm_divDB02">
+                <p>
+                    <img class="css" src="img/bon jovi/db.jpg" width="150px;" height="130px;">
+                    David Bryan Rashbaum é um multi-instrumentista e compositor estadunidense, mais conhecido
+                    como o tecladista da banda Bon Jovi.
+                    <br />
+                    Ele é um símbolo dos teclados, é considerado uns dos melhores tecladistas de bandas de rock; David Bryan toca teclado,
+                    piano, trompete e acordeon. Conheceu Jon quando tinha 16 anos.
+                    <br /><br />
+                </p>
+            </div>
+
+            <div id="divTT02" name="nm_divTT02">
+                <p>
+                    <img class="css" src="img/bon jovi/tt.jpg" width="150px;" height="130px;">
+                    Hector Samuel Juan "Tico" Torres é um músico cubano-americano, mais conhecido como
+                    o baterista da banda Bon Jovi.
+                    <br />
+                    Tico também é dono de uma linha de roupas para bebês chamada Rock Star Baby; Além de roupas para bebês, a Rock Star Baby também
+                    produz métodos de aprendizado e desenhos. Além disto, ele também tem licença de piloto de aeronave.
+                    <br /><br />
+                </p>
+            </div>
+
             <footer>
-                <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
+                <a href="bon_jovi.php"><button>Voltar para os álbuns do Bon Jovi</button></a>
                 <a href="index.php"><button>Home</button></a>
             </footer>
+        </section>
 
     </main>
 

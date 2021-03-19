@@ -16,7 +16,6 @@ include_once("header_curiosidades.php");
 
             <div class="botao_acdc">
 
-
                 <button class="btn1" data-toggle="collapse" data-target="#demo1">Curiosidade 01</button>
 
                 <div id="demo1" class="collapse">
@@ -30,7 +29,7 @@ include_once("header_curiosidades.php");
 
                 <div id="demo2" class="collapse">
                     <br />
-                    <p> - o nome definitivo da banda surgiu em Hamburgo, na Alemanha, quando a banda excursionava, ainda com o nome Earth. A idéia da mudança
+                    <p> - O nome definitivo da banda surgiu em Hamburgo, na Alemanha, quando a banda excursionava, ainda com o nome Earth. A idéia da mudança
                         surgiu, inicialmente, pelo fato de haverem descoberto que já havia outra banda que utilizava este nome, já com um determinado
                         reconhecimento. Aí ficou o impasse... - Que nome daremos à banda ? ... os rapazes estavam um tanto que desanimados, e um dia,
                         enquanto andavam pelas ruas de Hamburgo, notaram que um cinema estava com uma enorme fila. Procuraram saber que filme era aquele que
@@ -226,12 +225,14 @@ include_once("header_curiosidades.php");
             <br />
 
             <div class="albuns_acdc">
-                <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
+                <a href="black_sabbath.php"><button>Voltar para os álbuns do Black Sabbath</button></a>
             </div>
         </section>
 
         <div class="fotoac">
-            <h2>Albun de Fotos do Black Sabbath</h2>
+
+            <h2>Álbum de Fotos do Black Sabbath</h2>
+
             <p class="ay_hj">Ozzy Osbourne</p>
             <p class="ay_antes">Ozzy Osbourne</p>
             <p class="bj_hj">Tony Iommi </p>
@@ -276,8 +277,6 @@ include_once("header_curiosidades.php");
             <img src="img/Black Sabbath/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
         </div>
-
-        </section>
 
     </div>
 

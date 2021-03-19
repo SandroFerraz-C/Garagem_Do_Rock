@@ -22,7 +22,12 @@
     <link rel="stylesheet" type="text/css" href="css/layer_capital_inicial.css">
     <link rel="stylesheet" type="text/css" href="css/layer_deep_purple.css">
     <link rel="stylesheet" type="text/css" href="css/layer_eagles.css">
-
-
-
+    <link rel="stylesheet" type="text/css" href="css/layer_engenheiros_do_hawaii.css">
+    <link rel="stylesheet" type="text/css" href="css/layer_foo_fighters.css">
+    <link rel="stylesheet" type="text/css" href="css/layer_green_day.css">
+    <link rel="stylesheet" type="text/css" href="css/layer_guns_n_roses.css">
+    <link rel="stylesheet" type="text/css" href="css/layer_iron_maiden.css">
+    <link rel="stylesheet" type="text/css" href="css/layer_judas_priest.css">
+    <link rel="stylesheet" type="text/css" href="css/layer_kiss.css">
+   
 </head>

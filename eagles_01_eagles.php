@@ -32,8 +32,7 @@ include_once("header.php");
                 em "uma banda de country-rock com aquelas harmonias agudas".</p>
             <br /><br />
 
-            <p>
-                O album atingil certificação:
+            <p>O album atingil certificação:</p>
 
             <div class="tabela">
                 <table border="1px" width="45%">
@@ -43,77 +42,77 @@ include_once("header.php");
                     </tr>
 
                     <tr>
+                        <td width="15%"> Platina </td>
+                        <td> + 1.000.000 (EUA)</td>
+                    </tr>
+                    <tr>
                         <td width="15%"> Prata </td>
                         <td> + 60.000 (Reino Unido)</td>
                     </tr>
-                    <tr>
-                        <td width="15%"> Platina </td>
-                        <td> + 1.000.000 (Estados Unidos)</td>
-                    </tr>
-
                 </table>
             </div>
-            </p>
             <br /><br />
 
-            <p>Duração do album: 37 min. 19 seg.</p>
+            <p>Duração do álbum: 37 min. 19 seg.</p>
             <p>Gravadora(s): Asylum Records.</p>
             <p>Produção: Glyn Johns.</p>
             <br /><br />
 
             <section class="disco">
                 <table id="demo-table">
-
                     <iframe src="https://open.spotify.com/embed/playlist/3sOU7AuF387SbLGE6syR3N" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-                    <br /><br />
-
-                    <nav>
-                        <h3>Créditos</h3>
-
-                        <ul>
-                            <li><a href="#" onMouseOver="mostraLayer('divGF01');" onMouseOut="escondeLayer('divGF01');">Glenn Frey</a> – Vocal e Guitarras.</li>
-                            <li><a href="#" onMouseOver="mostraLayer('divDH01');" onMouseOut="escondeLayer('divDH01');">Don Henley</a> – Voz e Baterial.</li>
-                            <li><a href="#" onMouseOver="mostraLayer('divBL01');" onMouseOut="escondeLayer('divBL01');">Bernie Leadon</a> – Vocal, Guitarras e Banjo.</li>
-                            <li><a href="#" onMouseOver="mostraLayer('divRM01');" onMouseOut="escondeLayer('divRM01');">Randy Meisner</a> – Vocla e Baixo.</li>
-                        </ul>
-
-                    </nav>
-                    <br />
-
-                    <div id="divGF01" name="nm_divGF01">
-                        <p><img class="css" src="img/eagles/gf.jpg" width="150px;" height="130px;">
-                            Glenn Lewis Frey ( 6 de novembro de 1948 - 18 de janeiro de 2016) foi um cantor, compositor, ator e membro fundador da
-                            banda de rock Eagles. Frey foi o co-vocalista e vocalista dos Eagles, papéis que passou a dividir com o colega Don Henley,
-                            com quem escreveu a maior parte do material dos Eagles.</p>
-                    </div>
-
-                    <div id="divDH01" name="nm_divDH01">
-                        <p><img class="css" src="img/eagles/dh.png" width="150px;" height="130px;">
-                            Donald Hugh Henley ( 22 de julho de 1947) é um músico, cantor, compositor, produtor musical americano e membro fundador
-                            dos Eagles. Ele foi o baterista e co-vocalista dos Eagles de 1971 até a separação da banda em 1980, e reprisou essas funções
-                            nas reuniões do grupo desde 1994.</p>
-                    </div>
-
-                    <div id="divBL01" name="nm_divBL01">
-                        <p><img class="css" src="img/eagles/bl.jpg" width="150px;" height="130px;">
-                            Bernie Leadon ( Nascido em 19 de julho de 1947) é um músico, compositor e membro fundador dos Eagles. Antes dos Eagles,
-                            ele foi membro de três bandas de country rock pioneiras e altamente influentes: Hearts & Flowers , Dillard & Clark e
-                            Flying Burrito Brothers .</p>
-                    </div>
-
-                    <div id="divRM01" name="nm_divRM01">
-                        <p><img class="css" src="img/eagles/rm.jpg" width="150px;" height="130px;">
-                            Randall Herman Meisner ( 8 de março de 1946) é um músico americano aposentado, cantor, compositor e membro fundador dos
-                            Eagles. Ao longo de sua carreira musical profissional, o papel principal de Meisner foi o de baixista e vocalista de alta
-                            harmonia de apoio.</p>
-                    </div>
-                    <br />
-
-                    <a href="eagles.php"><button>Voltar para Albuns do Eagles</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
-                    </div>
+                </table>
             </section>
+
+            <nav>
+                <h3>Créditos</h3>
+                <ul>
+                    <li><a href="#" onMouseOver="mostraLayer('divGF01');" onMouseOut="escondeLayer('divGF01');">Glenn Frey</a> – Vocal e Guitarras.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDH01');" onMouseOut="escondeLayer('divDH01');">Don Henley</a> – Voz e Baterial.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divBL01');" onMouseOut="escondeLayer('divBL01');">Bernie Leadon</a> – Vocal, Guitarras e Banjo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divRM01');" onMouseOut="escondeLayer('divRM01');">Randy Meisner</a> – Vocla e Baixo.</li>
+                </ul>
+            </nav>
+
+            <div id="divGF01" name="nm_divGF01">
+                <p><img class="css" src="img/eagles/gf.jpg" width="150px;" height="130px;">
+                    Glenn Lewis Frey ( 6 de novembro de 1948 - 18 de janeiro de 2016) foi um cantor, compositor, ator e membro fundador da
+                    banda de rock Eagles. Frey foi o co-vocalista e vocalista dos Eagles, papéis que passou a dividir com o colega Don Henley,
+                    com quem escreveu a maior parte do material dos Eagles.</p>
+                <br /><br />
+            </div>
+
+            <div id="divDH01" name="nm_divDH01">
+                <p><img class="css" src="img/eagles/dh.png" width="150px;" height="130px;">
+                    Donald Hugh Henley ( 22 de julho de 1947) é um músico, cantor, compositor, produtor musical americano e membro fundador
+                    dos Eagles. Ele foi o baterista e co-vocalista dos Eagles de 1971 até a separação da banda em 1980, e reprisou essas funções
+                    nas reuniões do grupo desde 1994.</p>
+                <br /><br />
+            </div>
+
+            <div id="divBL01" name="nm_divBL01">
+                <p><img class="css" src="img/eagles/bl.jpg" width="150px;" height="130px;">
+                    Bernie Leadon ( Nascido em 19 de julho de 1947) é um músico, compositor e membro fundador dos Eagles. Antes dos Eagles,
+                    ele foi membro de três bandas de country rock pioneiras e altamente influentes: Hearts & Flowers , Dillard & Clark e
+                    Flying Burrito Brothers.</p>
+                <br /><br />
+            </div>
+
+            <div id="divRM01" name="nm_divRM01">
+                <p><img class="css" src="img/eagles/rm.jpg" width="150px;" height="130px;">
+                    Randall Herman Meisner ( 8 de março de 1946) é um músico americano aposentado, cantor, compositor e membro fundador dos
+                    Eagles. Ao longo de sua carreira musical profissional, o papel principal de Meisner foi o de baixista e vocalista de alta
+                    harmonia de apoio.</p>
+                <br /><br />
+            </div>
+            <br />
+
+            <footer>
+                <a href="eagles.php"><button>Voltar para os álbuns do Eagles</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
+        </section>
 
     </main>
 

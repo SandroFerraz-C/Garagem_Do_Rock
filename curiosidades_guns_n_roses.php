@@ -477,7 +477,7 @@ include_once("header_curiosidades.php");
 
         <div class="fotoac">
 
-            <h2>Albun de Fotos</h2>
+            <h2>Álbum de Fotos</h2>
 
             <p class="ay_hj">Axl Rose </p>
             <p class="ay_antes">Axl Rose </p>
@@ -579,8 +579,8 @@ include_once("header_curiosidades.php");
 
         </div>
 
-        </section>
+    </div>
 
-        <footer id="rodape">
-            <?php include_once("footer_curiosidades.php"); ?>
-        </footer>
+    <footer id="rodape">
+        <?php include_once("footer_curiosidades.php"); ?>
+    </footer>

@@ -232,13 +232,14 @@ include_once("header_curiosidades.php");
             <br /><br />
 
             <div class="albuns_acdc">
-                <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
+                <a href="acdc.php"><button>Voltar para os álbuns do AC/DC</button></a>
             </div>
 
         </section>
 
         <div class="fotoac">
-            <h2>Albun de Fotos do AC / DC</h2>
+
+            <h2>Álbum de Fotos do AC / DC</h2>
             <p class="ay_hj">Anguns Young</p>
             <p class="ay_antes">Anguns Young</p>
             <p class="bj_hj">Brian Johnson</p>
@@ -285,7 +286,6 @@ include_once("header_curiosidades.php");
 
         </div>
 
-        </section>
     </div>
 
     <footer id="rodape">

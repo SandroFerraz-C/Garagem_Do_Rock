@@ -3,15 +3,16 @@
 #divIS01,
 #divDM01,
 #divSA01 {
+    font-size: 17px;
     position: absolute;
-    top: 328%;
-    left: 40%;
+    top: 360%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -20,15 +21,16 @@
 #divIS02,
 #divDM02,
 #divSA02 {
+    font-size: 17px;
     position: absolute;
-    top: 266%;
-    left: 40%;
+    top: 297%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -38,15 +40,16 @@
 #divDM03,
 #divMS03,
 #divDR03 {
+    font-size: 17px;
     position: absolute;
-    top: 388%;
-    left: 40%;
+    top: 420%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -56,15 +59,16 @@
 #divDM04,
 #divMS04,
 #divDR04 {
+    font-size: 17px;
     position: absolute;
-    top: 355%;
-    left: 40%;
+    top: 392%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -74,15 +78,16 @@
 #divDM05,
 #divMS05,
 #divDR05 {
+    font-size: 17px;
     position: absolute;
-    top: 355%;
-    left: 40%;
+    top: 392%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -92,15 +97,16 @@
 #divTS06,
 #divFF06,
 #divDR06 {
+    font-size: 17px;
     position: absolute;
-    top: 357%;
-    left: 40%;
+    top: 392%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 

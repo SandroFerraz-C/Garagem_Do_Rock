@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="pt-br">
 
 <head>
@@ -10,8 +9,6 @@
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
 
     <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
     <link href="css/css_loja.css" rel="stylesheet" />
@@ -30,7 +27,7 @@
 
             <section class="content-section">
 
-                <h1>Albuns</h1>
+                <h1>Álbuns</h1>
 
                 <div class="albuns_black_sabbath">
 
@@ -72,6 +69,7 @@
 
 -->
                     <a href="black_sabbath_19_13.php"><img class="hv" src="img/Black Sabbath/19_13.jpg" height="310px;" width="360px;"></a>
+
                 </div>
 
             </section>
@@ -87,7 +85,6 @@
             <?php include_once("rodape.php"); ?>
         </footer>
 
-        </section>
     </div>
 </body>
 

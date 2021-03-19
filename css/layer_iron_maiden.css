@@ -3,15 +3,16 @@
 #divDM01,
 #divCB01,
 #divDS01 {
+    font-size: 17px;
     position: absolute;
-    top: 238%;
-    left: 40%;
+    top: 268%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -20,15 +21,16 @@
 #divDM02,
 #divCB02,
 #divAS02 {
+    font-size: 17px;
     position: absolute;
-    top: 250%;
-    left: 40%;
+    top: 280%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -37,15 +39,16 @@
 #divDM03,
 #divCB03,
 #divAS03 {
+    font-size: 17px;
     position: absolute;
-    top: 284%;
-    left: 40%;
+    top: 305%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -54,15 +57,16 @@
 #divDM04,
 #divCB04,
 #divAS04 {
+    font-size: 17px;
     position: absolute;
-    top: 242%;
-    left: 40%;
+    top: 273%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -71,15 +75,16 @@
 #divDM05,
 #divNM05,
 #divAS05 {
+    font-size: 17px;
     position: absolute;
-    top: 251%;
-    left: 40%;
+    top: 280%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -88,15 +93,16 @@
 #divDM06,
 #divNM06,
 #divAS06 {
+    font-size: 17px;
     position: absolute;
-    top: 263%;
-    left: 40%;
+    top: 290%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -106,15 +112,16 @@
 #divNM07,
 #divAS07,
 #divMK07 {
+    font-size: 17px;
     position: absolute;
-    top: 259%;
-    left: 40%;
+    top: 285%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -124,15 +131,16 @@
 #divNM08,
 #divJG08,
 #divMK08 {
+    font-size: 17px;
     position: absolute;
-    top: 265%;
-    left: 40%;
+    top: 290%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -142,15 +150,16 @@
 #divNM09,
 #divJG09,
 #divMK09 {
+    font-size: 17px;
     position: absolute;
-    top: 286%;
-    left: 40%;
+    top: 315%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -160,15 +169,16 @@
 #divNM10,
 #divJG10,
 #divMK10 {
+    font-size: 17px;
     position: absolute;
-    top: 231%;
-    left: 40%;
+    top: 255%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -178,15 +188,16 @@
 #divNM11,
 #divJG11,
 #divMK11 {
+    font-size: 17px;
     position: absolute;
-    top: 225%;
-    left: 40%;
+    top: 245%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -197,15 +208,36 @@
 #divJG12,
 #divAS12,
 #divMK12 {
+    font-size: 17px;
     position: absolute;
-    top: 431%;
-    left: 40%;
+    top: 322%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
+    height: auto;
+}
+
+#divBD12-1,
+#divSH12-1,
+#divDM12-1,
+#divNM12-1,
+#divJG12-1,
+#divAS12-1,
+#divMK12-1 {
+    font-size: 17px;
+    position: absolute;
+    top: 462%;
+    left: 42%;
+    border: solid 1px #696969;
+    width: 50%;
+    height: 44%;
+    display: none;
+    background-color: #D3D3D3;
+    padding: .5%;
     height: auto;
 }
 
@@ -215,15 +247,16 @@
 #divNM13,
 #divJG13,
 #divAS13 {
+    font-size: 17px;
     position: absolute;
-    top: 279%;
-    left: 40%;
+    top: 315%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -233,15 +266,16 @@
 #divNM14,
 #divJG14,
 #divAS14 {
+    font-size: 17px;
     position: absolute;
-    top: 282%;
-    left: 40%;
+    top: 315%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -251,15 +285,16 @@
 #divNM15,
 #divJG15,
 #divAS15 {
+    font-size: 17px;
     position: absolute;
-    top: 310%;
-    left: 40%;
+    top: 347%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -269,15 +304,16 @@
 #divNM16,
 #divJG16,
 #divAS16 {
+    font-size: 17px;
     position: absolute;
-    top: 300%;
-    left: 40%;
+    top: 335%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 

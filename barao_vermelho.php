@@ -3,7 +3,6 @@
 <html lang="pt-br">
 
 <head>
-
     <title>Garage Of Rock!!</title>
 
     <meta charset="utf-8">
@@ -11,18 +10,16 @@
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
 
-    <!-- Latest compiled and minified CSS -->
-
     <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
     <link href="css/css_loja.css" rel="stylesheet" />
     <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
 </head>
 
 <body>
+
     <div id="Principal">
-        ]
+
         <main>
 
             <nav>
@@ -32,7 +29,7 @@
 
             <section class="content-section">
 
-                <h1>Albuns</h1>
+                <h1>Álbuns</h1>
 
                 <div class="albuns_acdc">
 
@@ -61,13 +58,12 @@
                     <a href="barao_vermelho_12_viva.php"> <img class="hv" src="img/barao vermelho/13_viva.jpg" height="310px;" width="360px;" alt=""> </a>
 
                 </div>
+
             </section>
 
             <div class="botao_acdc">
                 <br />
-
                 <button><a href="index.php">Home</a></button>
-
             </div>
 
         </main>
@@ -77,8 +73,8 @@
             <?php include_once("rodape.php"); ?>
         </footer>
 
-        </section>
     </div>
+
 </body>
 
 </html>

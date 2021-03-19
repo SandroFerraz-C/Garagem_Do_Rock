@@ -11,8 +11,6 @@
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
 
-    <!-- Latest compiled and minified CSS -->
-
     <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
     <link href="css/css_loja.css" rel="stylesheet" />
     <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
@@ -31,7 +29,7 @@
 
             <section class="content-section">
 
-                <h1>Albuns</h1>
+                <h1>Álbuns</h1>
 
                 <div class="albuns_acdc">
 
@@ -64,7 +62,9 @@
                     <a href="bon_jovi_14_this_house_is_not_for_sale.php"> <img class="hv" src="img/bon jovi/14_thinfs.jpg" height="310px;" width="360px;" alt=""> </a>
 
                     <a href="bon_jovi_15_bon_jovi_2020.php"><img class="hv" src="img/bon jovi/15_bon_jovi_2020.jpg" height="310px;" width="360px;" alt=""></a>
+
                 </div>
+
             </section>
 
             <div class="botao_acdc">
@@ -78,8 +78,8 @@
             <?php include_once("rodape.php"); ?>
         </footer>
 
-        </section>
     </div>
+
 </body>
 
 </html>

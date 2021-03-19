@@ -2,15 +2,16 @@
 #divDH01,
 #divBL01,
 #divRM01 {
+    font-size: 17px;
     position: absolute;
-    top: 283%;
-    left: 40%;
+    top: 310%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -18,15 +19,16 @@
 #divDH02,
 #divBL02,
 #divRM02 {
+    font-size: 17px;
     position: absolute;
-    top: 274%;
-    left: 40%;
+    top: 303%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -35,15 +37,16 @@
 #divBL03,
 #divRM03,
 #divDF03 {
+    font-size: 17px;
     position: absolute;
-    top: 245%;
-    left: 40%;
+    top: 273%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -52,15 +55,16 @@
 #divBL04,
 #divRM04,
 #divDF04 {
+    font-size: 17px;
     position: absolute;
-    top: 265%;
-    left: 40%;
+    top: 295%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -69,15 +73,16 @@
 #divJW05,
 #divRM05,
 #divDF05 {
+    font-size: 17px;
     position: absolute;
-    top: 297%;
-    left: 40%;
+    top: 332%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -86,15 +91,16 @@
 #divJW06,
 #divTBS06,
 #divDF06 {
+    font-size: 17px;
     position: absolute;
-    top: 267%;
-    left: 40%;
+    top: 292%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -102,15 +108,16 @@
 #divDH07,
 #divJW07,
 #divTBS07 {
+    font-size: 17px;
     position: absolute;
-    top: 448%;
-    left: 40%;
+    top: 488%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
@@ -119,16 +126,21 @@
 #divJW08,
 #divTBS08,
 #divVG08 {
+    font-size: 17px;
     position: absolute;
-    top: 383%;
-    left: 40%;
+    top: 403%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
+}
+
+ul {
+    list-style: none;
 }
 
 .css {

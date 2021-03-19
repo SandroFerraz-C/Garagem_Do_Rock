@@ -13,7 +13,6 @@
     <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
 
-
 </head>
 
 <body>
@@ -36,7 +35,6 @@
                 A banda não possuía ninguém no vocal. Pretorius teve de voltar para a África do Sul para cumprir o serviço militar, então Renato se
                 tornou guitarrista e cantor, enquanto que o irmão de Fê, Flávio Lemos, assumiu o baixo. A banda logo se tornou uma das mais populares de
                 Brasília, e um dos seus maiores fãs era Dinho Ouro Preto, um velho amigo de Renato que comparecia a todos os shows.
-            </p>
             </p>
 
             <p>
@@ -80,17 +78,17 @@
                 No dia 25 de maio de 2018, a banda lançou em todas rádios do país o mais novo single "Não me olhe assim", primeiro trabalho divulgado do
                 novo álbum intitulado - <a href="capital_inicial_15_sonora.php" target="blank">Sonora</a> produzido por Lucas Silveira da banda Fresno.
                 Em junho, o Capital Inicial iniciou a nova turnê - Sonora - começando pelo Rio de Janeiro - RJ.
-            </p>
+            </p><br />
 
-            <a href="capital_inicial.php"><button>Voltar para Albuns do Capital Inicial</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="capital_inicial.php"><button>Voltar para os álbuns do Capital Inicial</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
         </div>
-
-
 
     </main>
 
 </body>
-
 
 </html>

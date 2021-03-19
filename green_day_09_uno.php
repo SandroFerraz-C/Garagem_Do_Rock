@@ -1,47 +1,17 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_green_day.css">
-
-
-    <!--
-    <link rel="stylesheet" type="text/css" href="css/ti.css">
-    <link rel="stylesheet" type="text/css" href="css/tm.css">
-    <link rel="stylesheet" type="text/css" href="css/lc.css">
-    <link rel="stylesheet" type="text/css" href="css/cp.css">
-    <link rel="stylesheet" type="text/css" href="css/gn.css">
-    <link rel="stylesheet" type="text/css" href="css/bm.css">
--->
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
 
             <h1>¡Uno! (2012)</h1>
-            <br />
 
             <p>
-                "¡Uno!" é o nono álbum do Green Day, lançado em 21 de setembro de 2012, pela Reprise Records.
+                - ¡Uno! é o nono álbum do Green Day, lançado em 21 de setembro de 2012, pela Reprise Records.
             </p>
-            <br />
 
             <p>
                 - ¡Uno! é o primeiro da trilogia (¡Uno!, ¡Dos! , ¡Tré!), lançada entre Setembro e Dezembro de 2012. O Green Day gravou o álbum a
@@ -49,9 +19,8 @@
             </p>
 
             <p>
-            O Green Day declarou em uma entrevista que cada álbum da trilogia ¡Uno!, ¡Dos! e ¡Tré! tem um rosto dos membros da banda em sua capa.
+                O Green Day declarou em uma entrevista que cada álbum da trilogia ¡Uno!, ¡Dos! e ¡Tré! tem um rosto dos membros da banda em sua capa.
             </p>
-            <br />
 
             <p>
                 O álbum e sua lista de faixas foram revelados em um vídeo do YouTube no canal oficial da banda, que consiste em 12 músicas. O
@@ -62,7 +31,6 @@
                 críticos de música. O álbum estreou na #2° posição na Billboard 200 dos EUA, com vendas na primeira semana de 139 mil cópias. O
                 álbum também alcançou o top #10 das paradas em vários outros países.
             </p>
-            <br />
 
             <p>
                 Em entrevista à - Rolling Stone, Armstrong afirmou que o tema de seu novo disco seria diferente de - 21st Century Breakdown e
@@ -73,91 +41,88 @@
             </p>
             <br /><br />
 
-            <p>
-                O album atingil certificação:
-                <br /><br />
+            <p>O álbum atingil certificação:</p>
 
-                <div class="tabela">
-                    <table border="1px" width="45%">
+            <div class="tabela">
+                <table border="1px" width="45%">
 
-                        <tr>
-                            <td width="15%" height="10%">Nivel</td>
-                            <td width="15%">Albuns Vendidos</td>
-                        </tr>
+                    <tr>
+                        <td width="15%" height="10%">Nivel</td>
+                        <td width="15%">Álbuns Vendidos</td>
+                    </tr>
 
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 100.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Ouro </td>
+                        <td> + 40.000 (Canadá)</td>
+                    </tr>
 
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 100.000 (Reino Unido)</td>
-                        </tr>
-                        <tr>
-                            <td width="15%"> Ouro </td>
-                            <td> + 40.000 (Canadá)</td>
-                        </tr>
-
-                    </table>
-                </div>
-            </p>
+                </table>
+            </div>
             <br /><br />
 
-            <p>Duração do album: 41 min. 44 seg.</p>
+            <p>Duração do álbum: 41 min. 44 seg.</p>
             <p>Gravadora(s): Warner Bros. Records.</p>
             <p>Produção: Rob Cavallo e Green Day.</p>
             <br /><br />
 
-
             <section class="disco">
                 <table id="demo-table">
-
-                <iframe src="https://open.spotify.com/embed/playlist/2uy4JliQKvXTrTKG9KWIom" width="100%" height="690" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>                    <br /><br /><br />
-
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divBJ09');" onMouseOut="escondeLayer('divBJ09');"> Billie Joe Armstrong</a> – Vocal e Guitarra. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divMD09');" onMouseOut="escondeLayer('divMD09');"> Mike Dirnt</a> – Baixo e Vocal de apoio. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divTC09');" onMouseOut="escondeLayer('divTC09');"> Tré Cool</a> – Bateria, Vocal principal e Guitarra em "Dominated Love Slave". </li>
-                    </ul>
-
-                    <div id="divBJ09" name="nm_divBJ09">
-                        <p>
-                            <img class="css" src="img/green day/bj.jpg" width="150px;" height="130px;">
-                            Billie Joe Armstrong ( 17 de fevereiro de 1972) é um cantor, compositor, músico e produtor musical americano.
-                            Armstrong é o vocalista, principal compositor e guitarrista da banda Green Day, que co-fundou com Mike Dirnt.
-                            Ele também é guitarrista e vocalista da banda de punk rock - Pinhead Gunpowder.
-                        </p>
-                    </div>
-
-                    <div id="divMD09" name="nm_divMD09">
-                        <p>
-                            <img class="css" src="img/green day/md.jpg" width="150px;" height="130px;">
-                            Michael Ryan Pritchard ( 4 de maio de 1972), mais conhecido como Mike Dirnt, é um músico, cantor
-                            e compositor americano. Ele é mais conhecido como co-fundador, baixista, vocalista de apoio e vocalista principal ocasionalmente.
-                            Seu nome artístico é originalmente um apelido já que ele tocava constantemente - ( Baixo / Guitarra "Imaginario" ) e fazia um barulho
-                            "dirnt, dirnt, dirnt" enquanto fingia tocar as cordas.
-                        </p>
-                    </div>
-
-                    <div id="divTC09" name="nm_divTC09">
-                        <p>
-                            <img class="css" src="img/green day/tc.jpg" width="150px;" height="130px;">
-                            Frank Edwin Wright III ( 9 de dezembro de 1972), mais conhecido pelo seu nome artístico Tre Cool, é um músico alemão-americano,
-                            e mais conhecido como o baterista do Green Day. Ele substituiu o ex-baterista da banda, John Kiffmeyer, em 1990, quando
-                            Kiffmeyer sentiu que deveria se concentrar na faculdade.
-                        </p>
-                    </div>
-                    <br /><br />
-
-                    <a href="green_day.php"><button>Voltar para Albuns do Green Day</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
-                    </div>
+                    <iframe src="https://open.spotify.com/embed/playlist/2uy4JliQKvXTrTKG9KWIom" width="100%" height="690" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> <br /><br /><br />
+                </table>
             </section>
 
+            <nav>
+                <h3>Crédito:</h3>
+                <ul>
+                    <li><a href="#" onMouseOver="mostraLayer('divBJ09');" onMouseOut="escondeLayer('divBJ09');">Billie Joe Armstrong</a> – Vocal e Guitarra. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divMD09');" onMouseOut="escondeLayer('divMD09');">Mike Dirnt</a> – Baixo e Vocal de apoio. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divTC09');" onMouseOut="escondeLayer('divTC09');">Tré Cool</a> – Bateria. </li>
+                </ul>
+            </nav>
+
+            <div id="divBJ09" name="nm_divBJ09">
+                <p>
+                    <img class="css" src="img/green day/bj.jpg" width="150px;" height="130px;">
+                    Billie Joe Armstrong ( 17 de fevereiro de 1972) é um cantor, compositor, músico e produtor musical americano.
+                    Armstrong é o vocalista, principal compositor e guitarrista da banda Green Day, que co-fundou com Mike Dirnt.
+                    Ele também é guitarrista e vocalista da banda de punk rock - Pinhead Gunpowder.
+                </p><br /><br />
+            </div>
+
+            <div id="divMD09" name="nm_divMD09">
+                <p>
+                    <img class="css" src="img/green day/md.jpg" width="150px;" height="130px;">
+                    Michael Ryan Pritchard ( 4 de maio de 1972), mais conhecido como Mike Dirnt, é um músico, cantor
+                    e compositor americano. Ele é mais conhecido como co-fundador, baixista, vocalista de apoio e vocalista principal ocasionalmente.
+                    Seu nome artístico é originalmente um apelido já que ele tocava constantemente - ( Baixo / Guitarra "Imaginario" ) e fazia um barulho
+                    "dirnt, dirnt, dirnt" enquanto fingia tocar as cordas.
+                </p>
+            </div>
+
+            <div id="divTC09" name="nm_divTC09">
+                <p>
+                    <img class="css" src="img/green day/tc.jpg" width="150px;" height="130px;">
+                    Frank Edwin Wright III ( 9 de dezembro de 1972), mais conhecido pelo seu nome artístico Tre Cool, é um músico alemão-americano,
+                    e mais conhecido como o baterista do Green Day. Ele substituiu o ex-baterista da banda, John Kiffmeyer, em 1990, quando
+                    Kiffmeyer sentiu que deveria se concentrar na faculdade.
+                </p><br /><br />
+            </div>
+            <br /><br />
+
+            <footer>
+                <a href="green_day.php"><button>Voltar para os álbuns do Green Day</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
+        </section>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

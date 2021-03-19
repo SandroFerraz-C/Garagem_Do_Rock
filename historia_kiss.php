@@ -14,8 +14,6 @@
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
     <link rel="stylesheet" type="text/css" href="css/layer_kiss.css">
 
-
-
 </head>
 
 <body>
@@ -35,17 +33,12 @@
             </p>
 
             <div id="divPS" name="nm_divPS">
-
                 <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
-
             </div>
 
             <div id="divGS" name="nm_divGS">
-
                 <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
-
             </div>
-
 
             <p>
                 Constitui um dos maiores impactos culturais da década de 1970, valendo-se de roupas e, sobretudo, maquiagens nunca antes vistas,
@@ -64,21 +57,15 @@
             </p>
 
             <div id="divAF" name="nm_divAF">
-
                 <img class="css" src="img/kiss/af.jpg" width="150px;" height="130px;">
-
             </div>
 
             <div id="divPC" name="nm_divPC">
-
                 <img class="css" src="img/kiss/pc.jpg" width="150px;" height="130px;">
-
             </div>
 
             <div id="divTJ" name="nm_divTJ">
-
                 <img class="css" src="img/kiss/pgap.jpg" width="150px;" height="130px;">
-
             </div>
 
             <p>
@@ -132,15 +119,20 @@
                 <br /><br />
 
                 Em 2012, o vocalista do Aerosmith, Steven Tyler, criticou o Kiss, chamando-os de "banda de rock 'n roll dos quadrinhos",
-                 contando que seus roadies ( Roadie é um técnico de espetáculo musical. Um especialista normalmente em determinado instrumento; ) 
-                 se envolveram em uma briga com os do Kiss quando ambas as bandas faziam turnê juntas em 1976, e que desde então odeia a banda.
+                contando que seus roadies ( Roadie é um técnico de espetáculo musical. Um especialista normalmente em determinado instrumento; )
+                se envolveram em uma briga com os do Kiss quando ambas as bandas faziam turnê juntas em 1976, e que desde então odeia a banda.
             </p>
             <br />
 
-            <a href="kiss.php"><button>Voltar para Albuns do Kiss</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="kiss.php"><button>Voltar para os álbuns do Kiss</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
         </div>
+
     </main>
+
     <script type="text/javascript" src="js/Country.js"></script>
 
 </body>

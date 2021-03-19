@@ -10,37 +10,29 @@ include_once("header.php");
             <h1>ROCK OR BUST (2014)</h1>
 
 
-            <p>
-                - Rock ou Bust é o Décimo-Sexto álbum do AC/DC, lançado em 28 de novembro de 2014.
-            </p>
+            <p>- Rock ou Bust é o Décimo-Sexto álbum do AC/DC, lançado em 28 de novembro de 2014.</p>
 
-            <p>
-                O baterista Phil Rudd não pôde participar da turnê de abertura depois de ser condenado à prisão domiciliar, sendo substituído por Chris Slade. O vocalista principal Brian Johnson foi forçado a deixar a banda após a quinta etapa da turnê como resultado
+            <p>O baterista Phil Rudd não pôde participar da turnê de abertura depois de ser condenado à prisão domiciliar, sendo substituído por Chris Slade. O vocalista principal Brian Johnson foi forçado a deixar a banda após a quinta etapa da turnê como resultado
                 de perda de audição, com o vocalista original do <a href="guns_n_roses.php" target="blank">Guns N 'Roses</a>, Axl Rose, tomando seu lugar como vocalista em março de 2016, completando as datas restantes. O baixista Cliff
                 Williams deixou a banda após a turnê, aposentando-se da música. Em 30 de setembro de 2020, após dois anos de rumores, o AC/DC confirmou oficialmente que Johnson, Rudd e Williams haviam retornado à banda e que eles estão trabalhando em
-                um novo álbum de estúdio, - <a href="acdc_19_power_up.php" target="blank">Power Up</a>, que foi lançado em 13 de novembro de 2020.
-            </p>
+                um novo álbum de estúdio, - <a href="acdc_19_power_up.php" target="blank">Power Up</a>, que foi lançado em 13 de novembro de 2020.</p>
 
-            <p>
-                Em todo o mundo, Rock or Bust vendeu um total de 2,8 milhões de cópias entre novembro e dezembro em 2014;
+            <p>Em todo o mundo, Rock or Bust vendeu um total de 2,8 milhões de cópias entre novembro e dezembro em 2014;
                 <br /> Após seu lançamento, - Rock or Bust se tornou o sexto álbum de estúdio mais encomendado de 2014 na Amazon UK. Nos Estados Unidos, o álbum vendeu 172.000 cópias em sua primeira semana de lançamento e estreou em #3° na Billboard 200.
                 Em janeiro de 2015, vendeu 500.000 cópias nos Estados Unidos levando a uma certificação Ouro, o 22º álbum da banda a alcançar tal status. No Canadá, ele estreou em #1° na Canadian Albums Chart, vendendo 31.000 cópias em sua primeira semana
                 de lançamento.
             </p>
 
-            <p>
-                Em 2015, a banda fez uma turnê mundial para promover o disco - Rock or Bust e comemorou o aniversário de 40 anos da banda. Malcolm Young foi substituido por seu sobrinho, Stevie Young.
-            </p>
+            <p>Em 2015, a banda fez uma turnê mundial para promover o disco - Rock or Bust e comemorou o aniversário de 40 anos da banda. Malcolm Young foi substituido por seu sobrinho, Stevie Young.</p>
             <br />
 
-            <p>
-                O album atingil certificação:
+            <p>O álbum atingil certificação:</p>
 
             <div class="tabela">
                 <table border="1px" width="45%">
                     <tr>
                         <td width="15%" height="10%">Nivel</td>
-                        <td width="15%">Albuns Vendidos</td>
+                        <td width="15%">Álbuns Vendidos</td>
                     </tr>
 
 
@@ -111,7 +103,6 @@ include_once("header.php");
 
                 </table>
             </div>
-            </p>
             <br />
 
             <p>Gênero(s):
@@ -124,7 +115,7 @@ include_once("header.php");
             </p>
             <br />
 
-            <p>Duração do album: 35 min. 01 seg.</p>
+            <p>Duração do álbum: 35 min. 01 seg.</p>
             <p>Gravadora(s): Albert Music / Columbia Records.</p>
             <p>Produção: Brendan O’Brien. </p>
             <br /><br />
@@ -132,10 +123,10 @@ include_once("header.php");
 
             <section class="disco">
                 <table id="demo-table">
-
                     <iframe src="https://open.spotify.com/embed/playlist/23frezzAJ1i2K2S0bjY3VI" width="100%" height="650" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                </table>]
             </section>
-            <br /><br />
+
 
             <nav>
                 <h3>Créditos</h3>
@@ -194,13 +185,12 @@ include_once("header.php");
                 </p>
             </div>
 
-            </div>
-        </section>
+            <footer>
+                <a href="acdc.php"><button>Voltar para os álbuns do AC/DC</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
 
-        <footer>
-            <a href="acdc.php"><button>Voltar para Albuns do AC/DC</button></a>
-            <a href="index.php"><button>Home</button></a>
-        </footer>
+        </section>
 
     </main>
     <script type="text/javascript" src="js/Country.js"></script>

@@ -244,7 +244,7 @@ include_once("header_curiosidades.php");
 
         <div class="fotoac">
 
-            <h2>Albun de Fotos</h2>
+            <h2>Álbum de Fotos</h2>
 
             <p class="ay_hj">Ian Gillan</p>
             <p class="ay_antes">Ian Gillan</p>
@@ -289,8 +289,6 @@ include_once("header_curiosidades.php");
             <img src="img/deep purple/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
         </div>
-
-        </section>
 
     </div>
 

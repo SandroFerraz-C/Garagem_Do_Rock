@@ -16,7 +16,6 @@ include_once("header_curiosidades.php");
 
             <div class="botao_acdc">
 
-
                 <button class="btn1" data-toggle="collapse" data-target="#demo1">Curiosidade 01</button>
 
                 <div id="demo1" class="collapse">
@@ -229,7 +228,9 @@ include_once("header_curiosidades.php");
         </section>
 
         <div class="fotoac">
-            <h2>Albun de Fotos do Angra</h2>
+
+            <h2>Álbum de Fotos do Angra</h2>
+
             <p class="ay_hj">Rafael Bittencourt</p>
             <p class="ay_antes">Rafael Bittencourt</p>
             <p class="bj_hj">Felipe Andreoli</p>
@@ -271,9 +272,8 @@ include_once("header_curiosidades.php");
 
         </div>
 
-        </section>
     </div>
-    
+
     <footer id="rodape">
         <?php include_once("footer_curiosidades.php"); ?>
     </footer>

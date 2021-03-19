@@ -14,8 +14,6 @@
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
     <link rel="stylesheet" type="text/css" href="css/layer_judas_priest.css">
 
-
-
 </head>
 
 <body>
@@ -36,15 +34,11 @@
             </p>
 
             <div id="divKKD" name="nm_divKKD">
-
                 <img class="css" src="img/judas priest/kkd.jpg" width="150px;" height="130px;">
-
             </div>
 
             <div id="divIH" name="nm_divIH">
-
                 <img class="css" src="img/judas priest/ih.jpg" width="150px;" height="130px;">
-
             </div>
 
 
@@ -99,13 +93,17 @@
                 Destacam-se a inclusão no Hall da Fama da revista Kerrang! em 2007 e os prêmios Revolver Golden Gods em 2010 e o Golden Gods Icon, ambos
                 concedidos pela revista Metal Hammer. Em 2006, junto a Queen, Kiss e Def Leppard, foram os primeiros artistas a ser induzidos ao VH1
                 Rock Honors, cerimônia que honra as bandas que exerceram influência no rock.
-            </p>
-            <br />
+            </p><br />
 
-            <a href="judas_priest.php"><button>Voltar para Albuns do Judas Priest</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="judas_priest.php"><button>Voltar para os álbuns do Judas Priest</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
         </div>
+
     </main>
+
     <script type="text/javascript" src="js/Country.js"></script>
 
 </body>

@@ -14,8 +14,6 @@
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
     <link rel="stylesheet" type="text/css" href="css/layer_iron_maiden.css">
 
-
-
 </head>
 
 <body>
@@ -32,9 +30,7 @@
             </p>
 
             <div id="divSH" name="nm_divSH">
-
                 <img class="css" src="img/iron maiden/sh.jpg" width="150px;" height="130px;">
-
             </div>
 
             <p>
@@ -52,15 +48,11 @@
             </p>
 
             <div id="divBD" name="nm_divBD">
-
                 <img class="css" src="img/iron maiden/bd.jpg" width="150px;" height="130px;">
-
             </div>
 
             <div id="divAS" name="nm_divAS">
-
                 <img class="css" src="img/iron maiden/as.jpg" width="150px;" height="130px;">
-
             </div>
 
             <p>
@@ -72,9 +64,7 @@
             </p>
 
             <div id="divED" name="nm_divED">
-
                 <img class="css" src="img/iron maiden/ed.jpg" width="150px;" height="130px;">
-
             </div>
 
             <p>
@@ -122,13 +112,17 @@
                 <br />
                 O desenvolvimento contrasta com o material anterior da banda, que o AllMusic afirma ter sido "claramente derivado de elementos
                 do punk rock", embora Harris negue firmemente.
-            </p>
-            <br />
+            </p><br />
 
-            <a href="iron_maiden.php"><button>Voltar para Albuns do Iron Maiden</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="iron_maiden.php"><button>Voltar para os álbuns do Iron Maiden</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
         </div>
+
     </main>
+
     <script type="text/javascript" src="js/Country.js"></script>
 
 </body>

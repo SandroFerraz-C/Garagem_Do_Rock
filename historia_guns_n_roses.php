@@ -14,8 +14,6 @@
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
     <link rel="stylesheet" type="text/css" href="css/layer_guns_n_roses.css">
 
-
-
 </head>
 
 <body>
@@ -34,27 +32,22 @@
                 <a href="#" onMouseOver="mostraLayer('divDM');" onMouseOut="escondeLayer('divDM');">Duff McKagan</a>
                 são os únicos remanescentes da formação clássica
             </p>
+
             <!--W. Axl Rose. Ficou conhecido como vocalista da banda de hard rock Guns N' Roses, com quem atingiu 
                     popularidade, sucesso e reconhecimento no final dos anos 80 e início dos anos 90.
                     <br />
                      Foi anunciado como vocalista convidado da banda AC/DC enquanto  Brian Johnson cuidava da sua saúde. -->
 
             <div id="divAR" name="nm_divAR">
-
                 <img class="css" src="img/guns n roses/ar.jpg" width="150px;" height="130px;">
-
             </div>
 
             <div id="divS" name="nm_divS">
-
                 <img class="css" src="img/guns n roses/s.jpg" width="150px;" height="130px;">
-
             </div>
 
             <div id="divDM" name="nm_divDM">
-
                 <img class="css" src="img/guns n roses/dm.jpg" width="150px;" height="130px;">
-
             </div>
 
             <p>
@@ -106,10 +99,11 @@
                 requisitados da emissora. O segundo single, "Sweet Child o' Mine", foi ainda mais bem-sucedido, e quando o terceiro, "Paradise City", foi
                 lançado, o álbum já tinha alcançado o topo das paradas.
             </p>
+
             <div id="divDG" name="nm_divDG">
                 <p>
                     <img class="css" src="img/guns n roses/dg.jpg" width="150px;" height="130px;">
-                    David Lawrence Geffen é um magnata dos negócios, produtor, executivo de filmagens e filantropo norte-americano. Geffen criou 
+                    David Lawrence Geffen é um magnata dos negócios, produtor, executivo de filmagens e filantropo norte-americano. Geffen criou
                     ou co-criou a Asylum Records em 1970, Geffen Records em 1980, DGC Records em 1990, e DreamWorks SKG em 1994.
                 </p>
             </div>
@@ -129,13 +123,17 @@
                 Em 14 de abril de 2012, os ex-integrantes da banda Slash, Duff McKagan, Gilby Clarke, Steven Adler e Matt Sorum se reuniram no
                 Rock and Roll Hall of Fame. O grupo tocou "Mr. Brownstone", "Sweet Child o' Mine", e "Paradise City" com Alter Bridge e Myles Kennedy
                 (vocalista da banda de Slash) suprindo a ausência de Axl.
-            </p>
-            <br />
+            </p><br />
 
-            <a href="guns_n_roses.php"><button>Voltar para Albuns do Guns N' Roses</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="guns_n_roses.php"><button>Voltar para os álbuns do Guns N' Roses</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
         </div>
+
     </main>
+
     <script type="text/javascript" src="js/Country.js"></script>
 
 </body>

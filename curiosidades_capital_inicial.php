@@ -219,7 +219,7 @@ include_once("header_curiosidades.php");
 
         <div class="fotoac">
 
-            <h2>Albun de Fotos do Capital Inicial</h2>
+            <h2>Álbum de Fotos do Capital Inicial</h2>
 
             <p class="ay_hj">Dinho Ouro Preto</p>
             <p class="ay_antes">Dinho Ouro Preto</p>
@@ -256,8 +256,6 @@ include_once("header_curiosidades.php");
             <img src="img/capital inicial/13.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
         </div>
-
-        </section>
 
     </div>
 

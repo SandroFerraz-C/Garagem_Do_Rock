@@ -270,6 +270,10 @@
 
 /**/
 
+ul {
+    list-style: none;
+}
+
 .css {
     float: left;
     margin-top: 1%;

@@ -254,13 +254,14 @@ include_once("header_curiosidades.php");
         </section>
 
         <div class="fotoac">
-            <h2>Albun de Fotos</h2>
-           
+
+            <h2>Álbum de Fotos</h2>
+
             <p class="ay_hj">Dave Grohl </p>
             <p class="ay_antes">Dave Grohl </p>
             <p class="bj_hj">Nate Mendel </p>
             <p class="bj_antes">Nate Mendel </p>
-           
+
             <img src="img/foo fighters/dg_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/foo fighters/dg_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
@@ -268,7 +269,7 @@ include_once("header_curiosidades.php");
             <p class="ay_antes">Taylor Hawkins </p>
             <p class="bj_hj">Chris Shiflett</p>
             <p class="bj_antes">Chris Shiflett</p>
-           
+
             <img src="img/foo fighters/nm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/foo fighters/nm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
             <img src="img/foo fighters/th_hj.png" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
@@ -296,8 +297,8 @@ include_once("header_curiosidades.php");
 
         </div>
 
-        </section>
+    </div>
 
-        <footer id="rodape">
-            <?php include_once("footer_curiosidades.php"); ?>
-        </footer>
+    <footer id="rodape">
+        <?php include_once("footer_curiosidades.php"); ?>
+    </footer>

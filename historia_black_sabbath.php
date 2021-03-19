@@ -13,7 +13,6 @@
     <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
 
-
 </head>
 
 <body>
@@ -60,18 +59,17 @@
                 principais pioneiros do heavy metal. O primeiro registro que a banda assinou foi com a Fontana Records e, mais tarde, com a
                 Vertigo. No dia 13 de fevereiro de 1970, foi publicado o álbum de estreia da banda, intitulado simplesmente de
                 - <a href="black_sabbath_01_black_sabbath.php" target="blank">Black Sabbath</a>.
-            </p>
+            </p><br />
 
+            <footer>
+                <a href="black_sabbath.php"><button>Voltar para os álbuns do Black Sabbath</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
 
-            <a href="black_sabbath.php"><button>Voltar para Albuns do Black Sabbath</button></a>
-            <a href="index.php"><button>Home</button></a>
         </div>
-
-
 
     </main>
 
 </body>
-
 
 </html>

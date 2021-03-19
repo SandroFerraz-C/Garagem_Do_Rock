@@ -1,161 +1,172 @@
 #divHG01,
 #divCM01,
 #divMP01 {
+    font-size: 17px;
     position: absolute;
-    top: 215%;
-    left: 40%;
+    top: 235%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
 #divHG02,
 #divCM02,
 #divAL02 {
+    font-size: 17px;
     position: absolute;
-    top: 282%;
-    left: 40%;
+    top: 315%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
 #divHG03,
 #divCM03,
 #divAL03 {
+    font-size: 17px;
     position: absolute;
-    top: 253%;
-    left: 40%;
+    top: 275%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
 #divHG04,
 #divCM04,
 #divAL04 {
+    font-size: 17px;
     position: absolute;
-    top: 228%;
-    left: 40%;
+    top: 251%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
 #divHG05,
 #divCM05,
 #divAL05 {
+    font-size: 17px;
     position: absolute;
-    top: 220%;
-    left: 40%;
+    top: 243%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
 #divHG06,
 #divCM06,
 #divAL06 {
+    font-size: 17px;
     position: absolute;
-    top: 235%;
-    left: 40%;
+    top: 253%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
 #divHG07,
 #divCM07,
 #divFD07 {
+    font-size: 17px;
     position: absolute;
-    top: 224%;
-    left: 40%;
+    top: 248%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
 #divHG08,
 #divLG08,
 #divAF08 {
+    font-size: 17px;
     position: absolute;
-    top: 248%;
-    left: 40%;
+    top: 266%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
 #divHG09,
 #divLG09,
 #divAF09 {
+    font-size: 17px;
     position: absolute;
-    top: 194%;
-    left: 40%;
+    top: 214%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
 #divHG10 {
+    font-size: 17px;
     position: absolute;
-    top: 260%;
-    left: 40%;
+    top: 280%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 
 #divHG11 {
+    font-size: 17px;
     position: absolute;
-    top: 187%;
-    left: 40%;
+    top: 202%;
+    left: 42%;
     border: solid 1px #696969;
     width: 50%;
     height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding: 1%;
+    padding: .5%;
     height: auto;
 }
 

@@ -224,7 +224,9 @@ include_once("header_curiosidades.php");
         </section>
 
         <div class="fotoac">
-            <h2>Albun de Fotos do Bon Jovi</h2>
+
+            <h2>Álbum de Fotos do Bon Jovi</h2>
+
             <p class="ay_hj">Bon Jovi</p>
             <p class="ay_antes">Bon Jovi</p>
             <p class="bj_hj">Richie Sambora </p>
@@ -269,8 +271,6 @@ include_once("header_curiosidades.php");
             <img src="img/bon jovi/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
 
         </div>
-
-        </section>
 
     </div>
 

@@ -13,7 +13,6 @@
     <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
     <link rel="stylesheet" type="text/css" href="css/hv_america.css">
 
-
 </head>
 
 <body>
@@ -52,57 +51,60 @@
             <p>
                 Nesse período, os membros da banda fariam suas próprias carreiras e plantariam as bases para os futuros desenvolvimentos do Deep Purple.
                 Por ordem de saída:
-
-            <ul>
-                <li>Ian Gillan - Depois de um breve período de reclusão em que vendeu motos e tentou ter um hotel, foi resgatado para os
-                    palcos por Roger Glover e sentiu-se animado o suficiente para criar sua própria banda, a Ian Gillan Band. Numa espécie de
-                    jazz-rock, seguiu até o início dos anos 80. Em 1982, dissolveu a banda, para no ano seguinte gravar um disco com o
-                    Black Sabbath: - <a href="black_sabbath_11_born_again.php" target="blank">Born Again</a>.
-                </li>
-                <br />
-
-                <li>
-                    Roger Glover - Inicialmente, permaneceu próximo à Purple Records e foi quem mais teve contato com todos os galhos da gigantesca
-                    árvore genealógica do Deep Purple. Dois anos depois, conseguiu juntar no mesmo palco os melhores músicos da Inglaterra
-                    (muitos deles membros ou ex-membros do Deep Purple, ou seus colegas em outras bandas), no musical Butterfly Ball. Foi a primeira
-                    aparição pública de Ian Gillan após o fim do Deep Purple, substituindo Ronnie James Dio (que cantava no Rainbow de Blackmore e passaria
-                    depois pelo Black Sabbath). Produziu outras bandas, gravou dois discos solo e voltou a tocar baixo no Rainbow de Blackmore.
-                </li>
-                <br />
-
-                <li>
-                    Ritchie Blackmore - Com o Rainbow, teve uma das bandas de hard rock de maior sucesso do final dos anos 70 e início dos anos 80,
-                    apontando o holofote para músicos como Joe Lynn Turner e Don Airey, que anos mais tarde participariam do Deep Purple. Roger
-                    Glover chegou a tocar com ele.
-                </li>
-                <br />
-
-                <li>
-                    David Coverdale - Após dois discos solo, formou o Whitesnake e invadiu as paradas de FM dos anos 80. Na banda, tocou com Jon
-                    Lord e Ian Paice. De quando em quando, reúne o Whitesnake para turnês.
-                </li>
-                <br />
-
-                <li>
-                    Jon Lord - Teve uma carreira solo interessante, misturando suas várias influências musicais (clássico, rock e jazz). Compôs
-                    trilhas sonoras de filmes com Tony Ashton e os dois se juntaram a Paice para o projeto Paice, Ashton e Lord. Mais tarde,
-                    uniu-se a Coverdale no Whitesnake. Depois de lutar contra um câncer, Lord veio a falecer em 16 de julho de 2012.
-                </li>
-                <br />
-
-                <li>
-                    Ian Paice - Tocou com diversos músicos, inclusive com Gary Moore, além de Paice, Ashton e Lord e Whitesnake.
-                </li>
-                <br />
-
-                <li>
-                    Glenn Hughes - Reuniu o Trapeze, gravou vários discos solo, tocou com Gary Moore e Pat Thrall, lutou consigo mesmo para se
-                    livrar das drogas, cantou no Black Sabbath e mais recentemente gravou dois discos com o também ex-Deep Purple Joe Lynn Turner:
-                    o Hughes-Turner Project (HTP).
-                </li>
-            </ul>
             </p>
+
+            <section>
+                <ul>
+                    <li>Ian Gillan - Depois de um breve período de reclusão em que vendeu motos e tentou ter um hotel, foi resgatado para os
+                        palcos por Roger Glover e sentiu-se animado o suficiente para criar sua própria banda, a Ian Gillan Band. Numa espécie de
+                        jazz-rock, seguiu até o início dos anos 80. Em 1982, dissolveu a banda, para no ano seguinte gravar um disco com o
+                        Black Sabbath: - <a href="black_sabbath_11_born_again.php" target="blank">Born Again</a>.
+                    </li>
+                    <br />
+
+                    <li>
+                        Roger Glover - Inicialmente, permaneceu próximo à Purple Records e foi quem mais teve contato com todos os galhos da gigantesca
+                        árvore genealógica do Deep Purple. Dois anos depois, conseguiu juntar no mesmo palco os melhores músicos da Inglaterra
+                        (muitos deles membros ou ex-membros do Deep Purple, ou seus colegas em outras bandas), no musical Butterfly Ball. Foi a primeira
+                        aparição pública de Ian Gillan após o fim do Deep Purple, substituindo Ronnie James Dio (que cantava no Rainbow de Blackmore e passaria
+                        depois pelo Black Sabbath). Produziu outras bandas, gravou dois discos solo e voltou a tocar baixo no Rainbow de Blackmore.
+                    </li>
+                    <br />
+
+                    <li>
+                        Ritchie Blackmore - Com o Rainbow, teve uma das bandas de hard rock de maior sucesso do final dos anos 70 e início dos anos 80,
+                        apontando o holofote para músicos como Joe Lynn Turner e Don Airey, que anos mais tarde participariam do Deep Purple. Roger
+                        Glover chegou a tocar com ele.
+                    </li>
+                    <br />
+
+                    <li>
+                        David Coverdale - Após dois discos solo, formou o Whitesnake e invadiu as paradas de FM dos anos 80. Na banda, tocou com Jon
+                        Lord e Ian Paice. De quando em quando, reúne o Whitesnake para turnês.
+                    </li>
+                    <br />
+
+                    <li>
+                        Jon Lord - Teve uma carreira solo interessante, misturando suas várias influências musicais (clássico, rock e jazz). Compôs
+                        trilhas sonoras de filmes com Tony Ashton e os dois se juntaram a Paice para o projeto Paice, Ashton e Lord. Mais tarde,
+                        uniu-se a Coverdale no Whitesnake. Depois de lutar contra um câncer, Lord veio a falecer em 16 de julho de 2012.
+                    </li>
+                    <br />
+
+                    <li>
+                        Ian Paice - Tocou com diversos músicos, inclusive com Gary Moore, além de Paice, Ashton e Lord e Whitesnake.
+                    </li>
+                    <br />
+
+                    <li>
+                        Glenn Hughes - Reuniu o Trapeze, gravou vários discos solo, tocou com Gary Moore e Pat Thrall, lutou consigo mesmo para se
+                        livrar das drogas, cantou no Black Sabbath e mais recentemente gravou dois discos com o também ex-Deep Purple Joe Lynn Turner:
+                        o Hughes-Turner Project (HTP).
+                    </li>
+                </ul>
+            </section>
             <br />
+
             <p>
                 A marca da banda sempre foi a mistura de guitarra e teclado, com riffs simples e fortes e solos vigorosos.
                 O Deep Purple ficou na 22ª posição na lista dos "Maiores Artistas de Hard Rock" do canal de TV VH1, recebeu
@@ -116,14 +118,17 @@
                 clássico "Smoke on the Water", um dos maiores sucessos da banda, como o maior riff de todos os tempos na
                 história do rock, na frente de outros clássicos como "Whole Lotta Love" do Led Zeppelin, "My Generation" do
                 The Who, "Born To Be Wild" do Steppenwolf e "Iron Man" do Black Sabbath.
-            </p>
+            </p><br />
 
-            <a href="deep_purple.php"><button>Voltar para Albuns do Deep Purple</button></a>
-            <a href="index.php"><button>Home</button></a>
+            <footer>
+                <a href="deep_purple.php"><button>Voltar para os álbuns do Deep Purple</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
         </div>
+
     </main>
 
 </body>
-
 
 </html>
