@@ -1,9 +1,12 @@
-#divHG01,
-#divCM01,
-#divMP01 {
+#divHUMBERTO_GESSINGER,
+#divCARLOS_MALTZ,
+#divMARCELO_PITZ,
+#divAUGUSTO_LICKS,
+#divFERNANDO_DELUQUI,
+#divLUCIANO_GRANJA,
+#divADAL_FONSECA {
     font-size: 17px;
     position: absolute;
-    top: 235%;
     left: 42%;
     border: solid 1px #696969;
     width: 50%;
@@ -14,160 +17,14 @@
     height: auto;
 }
 
-#divHG02,
-#divCM02,
-#divAL02 {
-    font-size: 17px;
-    position: absolute;
-    top: 315%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divHG03,
-#divCM03,
-#divAL03 {
-    font-size: 17px;
-    position: absolute;
-    top: 275%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divHG04,
-#divCM04,
-#divAL04 {
-    font-size: 17px;
-    position: absolute;
-    top: 251%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divHG05,
-#divCM05,
-#divAL05 {
-    font-size: 17px;
-    position: absolute;
-    top: 243%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divHG06,
-#divCM06,
-#divAL06 {
-    font-size: 17px;
-    position: absolute;
-    top: 253%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divHG07,
-#divCM07,
-#divFD07 {
-    font-size: 17px;
-    position: absolute;
-    top: 248%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divHG08,
-#divLG08,
-#divAF08 {
-    font-size: 17px;
-    position: absolute;
-    top: 266%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divHG09,
-#divLG09,
-#divAF09 {
-    font-size: 17px;
-    position: absolute;
-    top: 214%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divHG10 {
-    font-size: 17px;
-    position: absolute;
-    top: 280%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divHG11 {
-    font-size: 17px;
-    position: absolute;
-    top: 202%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
+#divHUMBERTO_GESSINGER img,
+#divCARLOS_MALTZ img,
+#divMARCELO_PITZ img,
+#divAUGUSTO_LICKS img,
+#divFERNANDO_DELUQUI img,
+#divLUCIANO_GRANJA img,
+#divADAL_FONSECA img {
+    margin-bottom: 2%;
 }
 
 .css {

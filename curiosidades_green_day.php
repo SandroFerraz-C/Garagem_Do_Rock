@@ -10,7 +10,6 @@ include_once("header_curiosidades.php");
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre o Green Day</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -206,66 +205,40 @@ include_once("header_curiosidades.php");
                     <p>- Em janeiro de 2010, o Green Day doou 100.000 doláres à cruz vermelha para auxiliar as vítimas do terremoto do Haiti</p>
                 </div>
             </div>
-            <br /> <br />
 
-            <nav>
-                <button class="btn23" data-toggle="collapse" data-target="#demo23">Fontes</button>
-
-                <div id="demo23" class="collapse">
-                    <br />
-
-                    <ul>
-
-                        <li> - Leia mais em: <a href="https://www.letras.com.br/green-day/curiosidades#:~:text=Armstrong%20ganhou%20sua%20primeira%20guitarra,adotivos%20s%C3%A3o%2C%20hoje%2C%20divorciados">
-                                Letras.com.br - As letras das músicas em sua vida</a> ©2021 - Orgulhosamente, uma produção Petaxxon.</li>
-
-                </div>
-            </nav>
-            <br /><br />
-
-
-            <div class="albuns_acdc">
-                <a href="green_day.php"><button>Voltar para Albuns do Green Day</button></a>
-            </div>
         </section>
 
         <div class="fotoac">
 
             <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Billie Joe </p>
-            <p class="ay_antes">Billie Joe </p>
-            <p class="bj_hj">Mike Dirnt </p>
-            <p class="bj_antes">Mike Dirnt </p>
-
-            <img src="img/green day/bj_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/bj_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Tré Cool </p>
-            <p class="ay_antes">Tré Cool </p>
-
-            <img src="img/green day/md_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/md_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/tc_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/tc_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <img src="img/green day/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/09.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/10.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/11.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/13.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/14.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/green day/15.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_green" src="img/green day/bj_hj.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_2_green" src="img/green day/bj_antes.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_3_green" src="img/green day/md_hj.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_4_green" src="img/green day/md_antes.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_5_green" src="img/green day/tc_hj.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_6_green" src="img/green day/tc_antes.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_7_green" src="img/green day/01.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_8_green" src="img/green day/02.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_9_green" src="img/green day/03.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_10_green" src="img/green day/04.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_11_green" src="img/green day/05.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_12_green" src="img/green day/06.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_13_green" src="img/green day/07.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_14_green" src="img/green day/08.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_15_green" src="img/green day/09.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_16_green" src="img/green day/10.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_17_green" src="img/green day/11.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_18_green" src="img/green day/13.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_19_green" src="img/green day/14.jpg" alt="Foto dos integrantes da banda Green Day">
+            <img id="foto_20_green" src="img/green day/15.jpg" alt="Foto dos integrantes da banda Green Day">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="green_day.php"><button>Voltar para Albuns do Green Day</button></a>
     </div>
 
     <footer id="rodape">

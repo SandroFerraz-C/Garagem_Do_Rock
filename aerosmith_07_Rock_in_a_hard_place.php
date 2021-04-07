@@ -17,17 +17,19 @@ include_once("header.php");
 
             <p>Anteriormente, o Aerosmith lançou seis álbuns de estúdio na década de 1970. Mas, com o fim da década, surgiram vários problemas.
                 O guitarrista Joe Perry deixou a banda em 1979 após incidentes na turnê - World Series of Rock - em Cleveland, Ohio e foi
-                substituído por Jimmy Crespo. Enquanto isso, o abuso de drogas de Steven Tyler aumentou. Depois de gravar o single
+                substituído por Jimmy Crespo.
+            </p>
+
+            <p> Enquanto isso, o abuso de drogas de Steven Tyler aumentou. Depois de gravar o single
                 "Lightning Strikes", o guitarrista Brad Whitford também deixou o Aerosmith em 1981 e foi substituído por Rick Dufay quando a
                 gravação do álbum foi finalmente concluída.</p>
 
             <p>"O disco não é uma merda", escreveu o baterista Joey Kramer em sua autobiografia de 2009, - Hit Hard: Uma história de atingir o fundo do poço no topo -.
                 "Há algumas coisas realmente boas nele. Mas não é um álbum do Aerosmith de verdade porque sou apenas eu, Steven e Tom [Hamilton] -
                 com um guitarrista de substituição ... E Jimmy Crespo fazendo o trabalho de guitarra."</p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
-
 
             <div class="tabela">
                 <table border="1px" width="45%">
@@ -44,13 +46,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 38 min. 57 seg.</p>
             <p>Gravadora(s): Columbia Records.</p>
             <p>Produção: Aerosmith e Gary Lions </p>
-            <br /><br />
-
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -58,60 +59,57 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divSTEVEN_TYLER" name="nm_divSTEVEN_TYLER">
+                    <p>
+                        <img class="css" src="img/aerosmith/st.jpg" width="150px;" height="130px;">
+                        Steven Tyler ( 26 de março de 1948) é um cantor, compositor e multi-instrumentista Americano, conhecido por seu trabalho como
+                        vocalista da banda Aerosmith, na qual também toca gaita, piano e, ocasionalmente, percussão.
+                        Conhecido por suas acrobacias sobre o palco, durante suas performances enérgicas, nas quais se veste com roupas coloridas e
+                        brilhantes e utiliza seu tradicional microfone adornado com lenços também coloridos.
+                    </p>
+                </div>
 
+                <div id="divJIMMY_CRESPO" name="nm_divJIMMY_CRESPO">
+                    <p>
+                        <img class="css" src="img/aerosmith/jc.jpg" width="150px;" height="130px;">
+                        James "Jimmy" Crespo Jr. (Nova Iorque, 5 de julho de 1954) é um guitarrista estadunidense que foi guitarrista principal
+                        da banda Aerosmith entre os anos de 1979 a 1984. Atualmente, Jimmy Crespo mora em Las Vegas, onde toca com a banda Sin City Sinners.
+                    </p>
+                </div>
+
+                <div id="divTOM_HAMILTON" name="nm_divTOM_HAMILTON">
+                    <p>
+                        <img class="css" src="img/aerosmith/th.jpg" width="150px;" height="130px;"> Tom Hamilton ( 31 de dezembro de 1951 ) é um
+                        músico norte-americano, conhecido por ser o baixista do grupo Aerosmith. Tom é o único baixista que o Aerosmith já teve e
+                        faz parte da banda desde sua formação, em 1970.
+                        <br />
+                        Ele co-escreveu regularmente canções para o Aerosmith, incluindo dois dos maiores sucessos da banda: "Sweet Emotion" (1975)
+                        e "Janie's Got a Gun" (1989).
+                    </p>
+                </div>
+
+                <div id="divJOEY_KRAMER" name="nm_divJOEY_KRAMER">
+                    <p>
+                        <img class="css" src="img/aerosmith/jk.jpeg" width="150px;" height="130px;"> Joey Kramer ( 21 de Junho de 1950) é um músico norte-americano
+                        conhecido por seu trabalho como baterista da banda de hard rock Aerosmith; Joey é o único baterista que o Aerosmith já
+                        teve e faz parte da banda desde sua formação, em 1970.
+                        <br />
+                        Ele fez uma aparição especial na 22ª temporada de Os Simpsons, no episódio "The Ned-Liest Catch", como ex-parceiro da
+                        professora de Bart, Sra. Krabappel. :D
+                    </p>
+                </div>
+            </section>
 
             <nav>
                 <h3>Créditos</h3>
-
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divST7');" onMouseOut="escondeLayer('divST7');">Steven Tyler</a> – Gaita, Percussão, Teclado e Vocais.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJC7');" onMouseOut="escondeLayer('divJC7');">Jimmy Crespo</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTH7');" onMouseOut="escondeLayer('divTH7');">Tom Hamilton</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJK7');" onMouseOut="escondeLayer('divJK7');">Joey Kramer</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSTEVEN_TYLER');" onMouseOut="escondeLayer('divSTEVEN_TYLER');">Steven Tyler</a> – Vocais.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJIMMY_CRESPO');" onMouseOut="escondeLayer('divJIMMY_CRESPO');">Jimmy Crespo</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divTOM_HAMILTON');" onMouseOut="escondeLayer('divTOM_HAMILTON');">Tom Hamilton</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOEY_KRAMER');" onMouseOut="escondeLayer('divJOEY_KRAMER');">Joey Kramer</a> – Bateria.</li>
                 </ul>
             </nav>
-
-
-            <div id="divST7" name="nm_divST7">
-                <p>
-                    <img class="css" src="img/aerosmith/st.jpg" width="150px;" height="130px;">
-                    Steven Tyler ( 26 de março de 1948) é um cantor, compositor e multi-instrumentista Americano, conhecido por seu trabalho como
-                    vocalista da banda Aerosmith, na qual também toca gaita, piano e, ocasionalmente, percussão.
-                    Conhecido por suas acrobacias sobre o palco, durante suas performances enérgicas, nas quais se veste com roupas coloridas e
-                    brilhantes e utiliza seu tradicional microfone adornado com lenços também coloridos.
-                </p>
-            </div>
-
-            <div id="divJC7" name="nm_divJC7">
-                <p>
-                    <img class="css" src="img/aerosmith/jc.jpg" width="150px;" height="130px;">
-                    James "Jimmy" Crespo Jr. (Nova Iorque, 5 de julho de 1954) é um guitarrista estadunidense que foi guitarrista principal
-                    da banda Aerosmith entre os anos de 1979 a 1984. Atualmente, Jimmy Crespo mora em Las Vegas, onde toca com a banda Sin City Sinners.
-                    <br /><br /><br />
-                </p>
-            </div>
-
-            <div id="divTH7" name="nm_divTH7">
-                <p>
-                    <img class="css" src="img/aerosmith/th.jpg" width="150px;" height="130px;"> Tom Hamilton ( 31 de dezembro de 1951 ) é um
-                    músico norte-americano, conhecido por ser o baixista do grupo Aerosmith. Tom é o único baixista que o Aerosmith já teve e
-                    faz parte da banda desde sua formação, em 1970.
-                    <br />
-                    Ele co-escreveu regularmente canções para o Aerosmith, incluindo dois dos maiores sucessos da banda: "Sweet Emotion" (1975)
-                    e "Janie's Got a Gun" (1989).
-                </p>
-            </div>
-
-            <div id="divJK7" name="nm_divJK7">
-                <p>
-                    <img class="css" src="img/aerosmith/jk.jpeg" width="150px;" height="130px;"> Joey Kramer ( 21 de Junho de 1950) é um músico norte-americano
-                    conhecido por seu trabalho como baterista da banda de hard rock Aerosmith; Joey é o único baterista que o Aerosmith já
-                    teve e faz parte da banda desde sua formação, em 1970.
-                    <br />
-                    Ele fez uma aparição especial na 22ª temporada de Os Simpsons, no episódio "The Ned-Liest Catch", como ex-parceiro da
-                    professora de Bart, Sra. Krabappel. :D
-                </p>
-            </div>
 
             <footer>
                 <a href="aerosmith.php"><button>Voltar para os álbuns do AEROSMITH</button></a>

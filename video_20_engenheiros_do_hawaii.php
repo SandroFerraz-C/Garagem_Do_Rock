@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Loja da Garagem</title>
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <title>Engenheiros do Hawaii</title>
     <link href="css/css_loja.css" rel="stylesheet" />
-
 </head>
 
 <body>
-    <iframe width="1060" height="445" src="https://www.youtube.com/embed/pRfeuzs2QSY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video_iframe" src="https://www.youtube.com/embed/pRfeuzs2QSY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 
 </html>

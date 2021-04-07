@@ -20,7 +20,7 @@ include_once("header.php");
                 banda no primeiro patamar do rock nacional.</p>
             <br />
 
-            <p>O album atingil certificação:</p>
+            <p>O álbum atingil certificação:</p>
 
             <div class="tabela">
                 <table border="1px" width="45%">
@@ -49,44 +49,43 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divROBERTO_FREJAT" name="nm_divROBERTO_FREJAT">
+                    <p><img class="css" src="img/barao vermelho/rf.jpg" width="150px;" height="130px;">
+                        Roberto Frejat é um cantor, compositor, produtor e guitarrista brasileiro,
+                        notório por ser o principal parceiro de Cazuza em composições da banda Barão Vermelho e também na carreira solo do
+                        amigo, além de compor com/para outros artistas do cenário musical brasileiro.
+                    </p>
+                </div>
+
+                <div id="divDE" name="nm_divDE">
+                    <p><img class="css" src="img/barao vermelho/de.jpg" width="150px;" height="130px;">
+                        André Palmeira Cunha, ou simplesmente "Dé", é um compositor e baixista brasileiro, sendo um dos
+                        integrantes originais do Barão Vermelho até 1990.
+                        <br />
+                        Participou da banda Telefone Gol. Em 2011, juntou-se a Toni Platão, Dado Villa-Lobos e Charles Gavin para formar o
+                        supergrupo Panamericana, que toca sucessos do rock sul-americano.
+                    </p>
+                </div>
+
+                <div id="divGUTO_GOFFI" name="nm_divGUTO_GOFFI">
+                    <p><img class="css" src="img/barao vermelho/gg.jpg" width="150px;" height="130px;">
+                        Flávio Augusto Goffi Marquesini, "Guto Goffi", é um baterista brasileiro.
+                        <br />
+                        Começou a tocar bateria em 1978. Em 1982, fundou o Barão Vermelho, com o tecladista Maurício Barros. Permaneceu na
+                        banda em todas as suas formações. Com a saída de Cazuza, passou a atuar também como letrista e, mais tarde, produtor.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
-
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divRF06');" onMouseOut="escondeLayer('divRF06');">Roberto Frejat</a> – Vocal e Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDE06');" onMouseOut="escondeLayer('divDE06');">Dé</a> – Baixo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGG06');" onMouseOut="escondeLayer('divGG06');">Guto Goffi</a> – Bateria e Percussão. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divROBERTO_FREJAT');" onMouseOut="escondeLayer('divROBERTO_FREJAT');">Roberto Frejat</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDE');" onMouseOut="escondeLayer('divDE');">Dé</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGUTO_GOFFI');" onMouseOut="escondeLayer('divGUTO_GOFFI');">Guto Goffi</a> – Bateria.</li>
                 </ul>
             </nav>
-
-
-            <div id="divRF06" name="nm_divRF06">
-                <p><img class="css" src="img/barao vermelho/rf.jpg" width="150px;" height="130px;">
-                    Roberto Frejat é um cantor, compositor, produtor e guitarrista brasileiro,
-                    notório por ser o principal parceiro de Cazuza em composições da banda Barão Vermelho e também na carreira solo do
-                    amigo, além de compor com/para outros artistas do cenário musical brasileiro.
-                </p><br /><br /><br />
-            </div>
-
-            <div id="divDE06" name="nm_divDE06">
-                <p><img class="css" src="img/barao vermelho/de.jpg" width="150px;" height="130px;">
-                    André Palmeira Cunha, ou simplesmente "Dé", é um compositor e baixista brasileiro, sendo um dos
-                    integrantes originais do Barão Vermelho até 1990.
-                    <br />
-                    Participou da banda Telefone Gol. Em 2011, juntou-se a Toni Platão, Dado Villa-Lobos e Charles Gavin para formar o
-                    supergrupo Panamericana, que toca sucessos do rock sul-americano.
-                </p>
-            </div>
-
-            <div id="divGG06" name="nm_divGG06">
-                <p><img class="css" src="img/barao vermelho/gg.jpg" width="150px;" height="130px;">
-                    Flávio Augusto Goffi Marquesini, "Guto Goffi", é um baterista brasileiro.
-                    <br />
-                    Começou a tocar bateria em 1978. Em 1982, fundou o Barão Vermelho, com o tecladista Maurício Barros. Permaneceu na
-                    banda em todas as suas formações. Com a saída de Cazuza, passou a atuar também como letrista e, mais tarde, produtor.
-                </p> <br /><br />
-            </div>
-
 
             <footer>
                 <a href="barao_vermelho.php"><button>Voltar para os álbuns do Barão Vermelho</button></a>

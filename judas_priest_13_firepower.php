@@ -41,30 +41,19 @@ include_once("header.php");
                 uma melodia vocal para acompanhá-la, eu entrando em mim maravilhoso mundo do Thesaurus de Rogete tentando criar uma nova letra e uma nova
                 ideia. E é isso que temos feito há quatro décadas".
             </p>
-            <br /><br />
-
+            <br />
             <p>Duração do álbum: 58 min. 10 seg.</p>
             <p>Gravadora(s): Epic Records.</p>
             <p>Produção: Tom Allon e Andy Sneap.</p>
-            <br /><br />
-
+            <br />
             <section class="disco">
                 <table id="demo-table">
                     <iframe src="https://open.spotify.com/embed/playlist/1M1sGrhsMbOvz6Tn8Gfs63" width="100%" height="800" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                 </table>
             </section>
 
-            <nav>
-                <h3>Crédito:</h3>
-                <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divRH13');" onMouseOut="escondeLayer('divRH13');">Rob Halford</a> – Vocal. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRF13');" onMouseOut="escondeLayer('divRF13');">Richie Faulkner </a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGT13');" onMouseOut="escondeLayer('divGT13');">Glenn Tipton</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divIH13');" onMouseOut="escondeLayer('divIH13');">Ian Hill</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divST13');" onMouseOut="escondeLayer('divST13');">Scott Travis</a> – Bateria. </li>
-                </ul>
-
-                <div id="divRH13" name="nm_divRH13">
+            <section>
+                <div id="divROB_HALFORD" name="nm_divROB_HALFORD">
                     <p>
                         <img class="css" src="img/judas priest/rh.jpg" width="150px;" height="130px;">
                         Robert John Arthur Halford é um cantor e compositor inglês. Ele é mais conhecido como o vocalista da banda de
@@ -74,16 +63,16 @@ include_once("header.php");
                     </p>
                 </div>
 
-                <div id="divRF13" name="nm_divRF13">
+                <div id="divRICHIE_FAULKNER" name="nm_divRICHIE_FAULKNER">
                     <p>
                         <img class="css" src="img/judas priest/rf.jpg" width="150px;" height="130px;">
                         Richard Ian Faulkner ( 1° de janeiro de 1980) é um guitarrista britânico. No início de sua carreira tocou em bandas
                         como Dirty Deeds, Voodoo Six, Ace Mafia e Lauren Harris Band, e no dia 20 de abril de 2011 foi apontado como
                         sucessor de K.K. Downing do Judas Priest.
-                    </p><br /><br />
+                    </p>
                 </div>
 
-                <div id="divGT13" name="nm_divGT13">
+                <div id="divGLENN_TIPTON" name="nm_divGLENN_TIPTON">
                     <p>
                         <img class="css" src="img/judas priest/gt.jpg" width="150px;" height="130px;">
                         Glenn Tipton é um músico inglês. Muito conhecido por seu estilo de tocar complexo e solos influenciadores, ele é
@@ -95,7 +84,7 @@ include_once("header.php");
                     </p>
                 </div>
 
-                <div id="divIH13" name="nm_divIH13">
+                <div id="divIAN_HILL" name="nm_divIAN_HILL">
                     <p>
                         <img class="css" src="img/judas priest/ih.jpg" width="150px;" height="130px;">
                         Ian Frank Hill é um músico inglês, mais conhecido como baixista da banda de heavy metal Judas Priest.
@@ -106,7 +95,7 @@ include_once("header.php");
                     </p>
                 </div>
 
-                <div id="divST13" name="nm_divST13">
+                <div id="divSCOTT_TRAVIS" name="nm_divSCOTT_TRAVIS">
                     <p>
                         <img class="css" src="img/judas priest/st.jpg" width="150px;" height="130px;">
                         Mark Scott Travis é um músico de rock americano, mais conhecido como baterista da banda Judas Priest.
@@ -116,12 +105,23 @@ include_once("header.php");
                         Ele finalmente decidiu esperar no fundo da arena para entregar à banda uma fita de sua apresentação.
                     </p>
                 </div>
-                <br /><br />
+            </section>
 
-                <footer>
-                    <a href="judas_priest.php"><button>Voltar para os álbuns do Judas Priest</button></a>
-                    <a href="index.php"><button>Home</button></a>
-                </footer>
+            <nav>
+                <h3>Crédito:</h3>
+                <ul>
+                    <li><a href="#" onMouseOver="mostraLayer('divROB_HALFORD');" onMouseOut="escondeLayer('divROB_HALFORD');">Rob Halford</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divRICHIE_FAULKNER');" onMouseOut="escondeLayer('divRICHIE_FAULKNER');">Richie Faulkner </a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGLENN_TIPTON');" onMouseOut="escondeLayer('divGLENN_TIPTON');">Glenn Tipton</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divIAN_HILL');" onMouseOut="escondeLayer('divIAN_HILL');">Ian Hill</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSCOTT_TRAVIS');" onMouseOut="escondeLayer('divSCOTT_TRAVIS');">Scott Travis </a> – Bateria.</li>
+                </ul>
+            </nav>
+
+            <footer>
+                <a href="judas_priest.php"><button>Voltar para os álbuns do Judas Priest</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
 
         </section>
 

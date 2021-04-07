@@ -28,7 +28,7 @@ include_once("header.php");
                 com a Capitol Records por Grohl conhecer o presidente Gary Gersh desde que ele era da gravadora do Nirvana. A fita se tornou o primeiro
                 álbum do Foo Fighters, também intitulado Foo Fighters.
             </p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -53,12 +53,12 @@ include_once("header.php");
                     </tr>
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 44 min. 01 seg.</p>
             <p>Gravadora(s): Roswell e Capitol Records.</p>
             <p>Produção: Foo Fighters e Barrett Jones.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -66,31 +66,31 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divDAVE_GROHL" name="nm_divDAVE_GROHL">
+                    <p>
+                        <img class="css" src="img/foo fighters/dg.jpg" width="150px;" height="130px;">
+                        David Eric Grohl ( 14 de janeiro de 1969) é um músico e compositor norte-americano.
+                        É o fundador, vocalista e guitarrista da banda Foo Fighters. E também ex-baterista
+                        das bandas - Nirvana. Por ser extremamente reconhecido inicialmente como baterista
+                        do Nirvana (antes do Foo Fighters), foi considerado o 27º maior baterista de todos
+                        os tempos pela revista Rolling Stone.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divDG01');" onMouseOut="escondeLayer('divDG01');">Dave Grohl</a> – Vocal, Guitarra, Violão, Baixo, Teclado e Bateria. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDAVE_GROHL');" onMouseOut="escondeLayer('divDAVE_GROHL');">Dave Grohl</a> – Vocal, Guitarra, Violão, Baixo, Teclado e Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divDG01" name="nm_divDG01">
-                <p>
-                    <img class="css" src="img/foo fighters/dg.jpg" width="150px;" height="130px;">
-                    David Eric Grohl ( 14 de janeiro de 1969) é um músico e compositor norte-americano.
-                    É o fundador, vocalista e guitarrista da banda Foo Fighters. E também ex-baterista
-                    das bandas - Nirvana. Por ser extremamente reconhecido inicialmente como baterista
-                    do Nirvana (antes do Foo Fighters), foi considerado o 27º maior baterista de todos
-                    os tempos pela revista Rolling Stone.
-                </p>
-                <br />
-            </div>
-            <br /><br /><br />
 
             <footer>
                 <a href="foo_fighters.php"><button>Voltar para os álbuns do Foo Fighters</button></a>
                 <a href="index.php"><button>Home</button></a>
             </footer>
-            
+
         </section>
 
     </main>

@@ -2,17 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>História do Aerosmith</title>
 
-    <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_america.css">
-
+    <link rel="stylesheet" type="text/css" href="css/historia_ac_dc.css">
 </head>
 
 <body>
@@ -29,9 +25,12 @@
             </p>
 
             <p>
-                formação da banda se completou com a entrada do guitarrista Ray Tabano e do baterista Joey Kramer. Ray era um velho amigo de Steven,
+                A formação da banda se completou com a entrada do guitarrista Ray Tabano e do baterista Joey Kramer. Ray era um velho amigo de Steven,
                 e Joe vinha da mesma cidade dos dois, tendo, inclusive, estudado na mesma escola que Steven. Pouco tempo depois, Ray foi substituído por
-                Brad Whitford e, assim, surgiu a formação clássica do Aerosmith. Joey sugeriu o nome "Aerosmith", que, segundo ele, não tem nenhum
+                Brad Whitford e, assim, surgiu a formação clássica do Aerosmith.
+            </p>
+
+            <p>Joey sugeriu o nome "Aerosmith", que, segundo ele, não tem nenhum
                 significado especial: era apenas uma palavra que ele gostava de escrever nos seus cadernos da escola. (é dito também que o nome foi
                 inspirado pelo 3º álbum de Harry Nilsson, Aerial Ballet). Desde do início da banda até os dias atuais, Steven, Tom e Joey Kramer são os
                 3 membros da banda que nunca deixaram o grupo e que até hoje permanecem como seus integrantes.
@@ -53,7 +52,10 @@
 
             <p>
                 Em 31 de março de 2015, Steven Tyler anuncia que está trabalhando em seu primeiro álbum solo de country. Em maio, é lançado seu
-                primeiro single "Love is Your Name", e o álbum - We're All Somebody from Somewhere foi lançado em julho de 2016. Enquanto isso,
+                primeiro single "Love is Your Name", e o álbum - We're All Somebody from Somewhere foi lançado em julho de 2016.
+            </p>
+
+            <p>Enquanto isso,
                 Joe Perry trabalha com o supergrupo Hollywood Vampires (composto por Alice Cooper, Johnny Depp, entre outros), que lançaram seu
                 álbum de estreia em setembro de 2015, tocando na edição brasileira do Rock in Rio 2 e na #58.ª edição da premiação Grammy Awards em 15 de
                 fevereiro de 2016.

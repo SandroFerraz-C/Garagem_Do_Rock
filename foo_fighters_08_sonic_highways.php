@@ -48,7 +48,7 @@ include_once("header.php");
                 que une os EUA de costa a costa". Philip Cosores da Consequence of Sound afirmou que "o álbum funciona mais como um bônus, algo que pode
                 aumentar a diversão da série ou simplesmente informar ainda mais a experiência".
             </p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -82,12 +82,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 42 min. 03 seg.</p>
             <p>Gravadora(s): Roswell e RCA Records.</p>
             <p>Produção: Foo Fighters e Butch Vig.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -95,68 +95,69 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divDAVE_GROHL" name="nm_divDAVE_GROHL">
+                    <p>
+                        <img class="css" src="img/foo fighters/dg.jpg" width="150px;" height="130px;">
+                        David Eric Grohl ( 14 de janeiro de 1969) é um músico e compositor norte-americano.
+                        É o fundador, vocalista e guitarrista da banda Foo Fighters. E também ex-baterista
+                        das bandas - Nirvana. Por ser extremamente reconhecido inicialmente como baterista
+                        do Nirvana (antes do Foo Fighters), foi considerado o 27º maior baterista de todos
+                        os tempos pela revista Rolling Stone.
+                    </p>
+                </div>
+
+                <div id="divTAYLOR_HAWKINS" name="nm_divTAYLOR_HAWKINS">
+                    <p>
+                        <img class="css" src="img/foo fighters/th.jpg" width="150px;" height="130px;">
+                        Oliver Taylor Hawkins ( 17 de fevereiro de 1972) é um músico americano, mais conhecido como baterista da
+                        banda de rock Foo Fighters. Antes de entrar para a banda em 1997, ele era o baterista turnê de Alanis Morissette,
+                        bem como o baterista da banda Sylvia.
+                    </p>
+                </div>
+
+                <div id="divNATE_MENDEL" name="nm_divNATE_MENDEL">
+                    <p>
+                        <img class="css" src="img/foo fighters/nm.jpg" width="150px;" height="130px;">
+                        Nate Mendel ( Washington, 2 de dezembro de 1968) é um músico Americano, conhecido por tocar baixo na banda de rock
+                        alternativo Foo Fighters. Também é conhecido por ser o baixista da banda Sunny Day Real Estate.
+                        <br />
+                        Seu primeiro instrumento foi o violino. Aos 13 anos, Mendel começou a se interessar por rock e se juntar a uma banda,
+                        um amigo que tocava violão sugeriu que ele tocasse baixo.
+                    </p>
+                </div>
+
+                <div id="divCHRIS_SHIFLETT" name="nm_divCHRIS_SHIFLETT">
+                    <p>
+                        <img class="css" src="img/foo fighters/cs.jpg" width="150px;" height="130px;">
+                        Christopher Aubrey Shiflett ( 6 de maio de 1971). Ele é mais conhecido como guitarrista da banda de rock Foo Fighters.
+                        Anteriormente, ele foi membro das bandas de punk rock:
+                        <br /> - No Use for a Name (1995–1999)
+                        <br /> - Me First and the Gimme Gimmes (2000–2019).
+                    </p>
+                </div>
+
+                <div id="divPAT_SMEAR" name="nm_divPAT_SMEAR">
+                    <p>
+                        <img class="css" src="img/foo fighters/ps.jpg" width="150px;" height="130px;">
+                        Georg Albert Ruthenberg (Los Angeles, 5 de agosto de 1959) mais conhecido como Pat Smear, é um músico Americano.
+                        Fez parte da banda de punk rock - The Germs e tocou com o - Nirvana em algumas apresentações entre 1993 e 1994, participando
+                        inclusive do - MTV Unplugged in New York e do álbum ao vivo - From the Muddy Banks of the Wishkah. Hoje em dia é um dos
+                        membros da banda - Foo Fighters, sendo o terceiro guitarrista.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divDG08');" onMouseOut="escondeLayer('divDG08');">Dave Grohl</a> – Vocal, Guitarra, Percussão e Bateria. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTH08');" onMouseOut="escondeLayer('divTH08');">Taylor Hawkins</a> – Vocal de apoio e Bateria. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divNM08');" onMouseOut="escondeLayer('divNM08');">Nate Mendel</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divCS08');" onMouseOut="escondeLayer('divCS08');">Chris Shiflett</a> – Guitarra Solo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divPS08');" onMouseOut="escondeLayer('divPS08');">Pat Smear</a> – Guitarra base, Guitarra solo, Guitarra Barítono. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDAVE_GROHL');" onMouseOut="escondeLayer('divDAVE_GROHL');">Dave Grohl</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divTAYLOR_HAWKINS');" onMouseOut="escondeLayer('divTAYLOR_HAWKINS');">Taylor Hawkins</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divNATE_MENDEL');" onMouseOut="escondeLayer('divNATE_MENDEL');">Nate Mendel</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divCHRIS_SHIFLETT');" onMouseOut="escondeLayer('divCHRIS_SHIFLETT');">Chris Shiflett</a> – Guitarra Solo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPAT_SMEAR');" onMouseOut="escondeLayer('divPAT_SMEAR');">Pat Smear</a> – Guitarra Base.</li>
                 </ul>
             </nav>
-
-            <div id="divDG08" name="nm_divDG08">
-                <p>
-                    <img class="css" src="img/foo fighters/dg.jpg" width="150px;" height="130px;">
-                    David Eric Grohl ( 14 de janeiro de 1969) é um músico e compositor norte-americano.
-                    É o fundador, vocalista e guitarrista da banda Foo Fighters. E também ex-baterista
-                    das bandas - Nirvana. Por ser extremamente reconhecido inicialmente como baterista
-                    do Nirvana (antes do Foo Fighters), foi considerado o 27º maior baterista de todos
-                    os tempos pela revista Rolling Stone.
-                </p><br />
-            </div>
-
-            <div id="divTH08" name="nm_divTH08">
-                <p>
-                    <img class="css" src="img/foo fighters/th.jpg" width="150px;" height="130px;">
-                    Oliver Taylor Hawkins ( 17 de fevereiro de 1972) é um músico americano, mais conhecido como baterista da
-                    banda de rock Foo Fighters. Antes de entrar para a banda em 1997, ele era o baterista turnê de Alanis Morissette,
-                    bem como o baterista da banda Sylvia.
-                </p><br /><br />
-            </div>
-
-            <div id="divNM08" name="nm_divNM08">
-                <p>
-                    <img class="css" src="img/foo fighters/nm.jpg" width="150px;" height="130px;">
-                    Nate Mendel ( Washington, 2 de dezembro de 1968) é um músico Americano, conhecido por tocar baixo na banda de rock
-                    alternativo Foo Fighters. Também é conhecido por ser o baixista da banda Sunny Day Real Estate.
-                    <br />
-                    Seu primeiro instrumento foi o violino. Aos 13 anos, Mendel começou a se interessar por rock e se juntar a uma banda,
-                    um amigo que tocava violão sugeriu que ele tocasse baixo.
-                </p>
-            </div>
-
-            <div id="divCS08" name="nm_divCS08">
-                <p>
-                    <img class="css" src="img/foo fighters/cs.jpg" width="150px;" height="130px;">
-                    Christopher Aubrey Shiflett ( 6 de maio de 1971). Ele é mais conhecido como guitarrista da banda de rock Foo Fighters.
-                    Anteriormente, ele foi membro das bandas de punk rock:
-                    <br /> - No Use for a Name (1995–1999)
-                    <br /> - Me First and the Gimme Gimmes (2000–2019).
-                </p><br /><br />
-            </div>
-
-            <div id="divPS08" name="nm_divPS08">
-                <p>
-                    <img class="css" src="img/foo fighters/ps.jpg" width="150px;" height="130px;">
-                    Georg Albert Ruthenberg (Los Angeles, 5 de agosto de 1959) mais conhecido como Pat Smear, é um músico Americano.
-                    Fez parte da banda de punk rock - The Germs e tocou com o - Nirvana em algumas apresentações entre 1993 e 1994, participando
-                    inclusive do - MTV Unplugged in New York e do álbum ao vivo - From the Muddy Banks of the Wishkah. Hoje em dia é um dos
-                    membros da banda - Foo Fighters, sendo o terceiro guitarrista.
-                </p>
-            </div>
-            <br />
 
             <footer>
                 <a href="foo_fighters.php"><button>Voltar para os álbuns do Foo Fighters</button></a>

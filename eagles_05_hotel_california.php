@@ -24,8 +24,7 @@ include_once("header.php");
                 mundo, tornando-o o álbum mais vendido da banda depois de They Greatest Hits (1971–1975). Foi classificado como um dos melhores
                 álbuns de todos os tempos. Em 2003 e 2012, foi classificada como número #37 na Rolling Stone's lista de 'Os 500 Maiores Álbuns de
                 Todos os Tempos'.</p>
-            <br /><br />
-
+            <br />
             <p>O álbum atingil certificação:</p>
 
             <div class="tabela">
@@ -98,12 +97,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 43 min. 15 seg.</p>
             <p>Gravadora(s): Asylum Records.</p>
             <p>Produção: Bill Szymczyk.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -111,63 +110,66 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divGLENN_FREY" name="nm_divGLENN_FREY">
+                    <p><img class="css" src="img/eagles/gf.jpg" width="150px;" height="130px;">
+                        Glenn Lewis Frey ( 6 de novembro de 1948 - 18 de janeiro de 2016) foi um cantor, compositor, ator e membro fundador da
+                        banda de rock Eagles. Frey foi o co-vocalista e vocalista dos Eagles, papéis que passou a dividir com o colega Don Henley,
+                        com quem escreveu a maior parte do material dos Eagles.
+                    </p>
+                </div>
+
+                <div id="divDON_HENLEY" name="nm_divDON_HENLEY">
+                    <p><img class="css" src="img/eagles/dh.png" width="150px;" height="130px;">
+                        Donald Hugh Henley ( 22 de julho de 1947) é um músico, cantor, compositor, produtor musical americano e membro fundador
+                        dos Eagles. Ele foi o baterista e co-vocalista dos Eagles de 1971 até a separação da banda em 1980, e reprisou essas funções
+                        nas reuniões do grupo desde 1994.
+                    </p>
+                </div>
+
+                <div id="divJOE_WALSH" name="nm_divJOE_WALSH">
+                    <p><img class="css" src="img/eagles/jw.png" width="150px;" height="130px;">
+                        Joseph Fidler Walsh (20 de novembro de 1947), é um guitarrista, cantor e compositor. Em uma carreira de mais de 50
+                        anos, ele foi membro de três bandas de rock de sucesso: James Gang, Eagles e Ringo Starr & His All-Starr Band.
+                        Walsh também fez parte da banda Herbs da Nova Zelândia.
+                    </p>
+                </div>
+
+                <div id="divRANDY_MEISNER" name="nm_divRANDY_MEISNER">
+                    <p><img class="css" src="img/eagles/rm.jpg" width="150px;" height="130px;">
+                        Randall Herman Meisner ( 8 de março de 1946) é um músico americano aposentado, cantor, compositor e membro fundador dos
+                        Eagles. Ao longo de sua carreira musical profissional, o papel principal de Meisner foi o de baixista e vocalista de alta
+                        harmonia de apoio.
+                    </p>
+                </div>
+
+                <div id="divDON_FELDER" name="nm_divDON_FELDER">
+                    <p>
+                        <img class="css" src="img/eagles/df.jpg" width="150px;" height="130px;">
+                        Donald William Felder é um músico, cantor e compositor americano, mais conhecido por seu trabalho como guitarrista principal dos
+                        Eagles de 1974 até seu término da banda em 2001. Felder foi introduzido no Musicians Hall of Fame and Museum em 2016.
+
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divGF05');" onMouseOut="escondeLayer('divGF05');">Glenn Frey</a> – Vocais, Guitarras e Teclado. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDH05');" onMouseOut="escondeLayer('divDH05');">Don Henley</a> – Voz, Bateria e Percussão. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJW05');" onMouseOut="escondeLayer('divJW05');">Joe Walsh</a> – Guitarra, Teclado, Backing vocals e Lead vocals. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRM05');" onMouseOut="escondeLayer('divRM05');">Randy Meisner</a> – Vocla e Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDF05');" onMouseOut="escondeLayer('divDF05');">Don Felder</a> – Guitarra Backing vocals. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGLENN_FREY');" onMouseOut="escondeLayer('divGLENN_FREY');">Glenn Frey</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDON_HENLEY');" onMouseOut="escondeLayer('divDON_HENLEY');">Don Henley</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOE_WALSH');" onMouseOut="escondeLayer('divJOE_WALSH');">Joe Walsh</a> – Teclado.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divRANDY_MEISNER');" onMouseOut="escondeLayer('divRANDY_MEISNER');">Randy Meisner</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDON_FELDER');" onMouseOut="escondeLayer('divDON_FELDER');">Don Felder</a> – Guitarra.</li>
                 </ul>
             </nav>
-
-            <div id="divGF05" name="nm_divGF05">
-                <p><img class="css" src="img/eagles/gf.jpg" width="150px;" height="130px;">
-                    Glenn Lewis Frey ( 6 de novembro de 1948 - 18 de janeiro de 2016) foi um cantor, compositor, ator e membro fundador da
-                    banda de rock Eagles. Frey foi o co-vocalista e vocalista dos Eagles, papéis que passou a dividir com o colega Don Henley,
-                    com quem escreveu a maior parte do material dos Eagles.</p>
-                <br /><br />
-            </div>
-
-            <div id="divDH05" name="nm_divDH05">
-                <p><img class="css" src="img/eagles/dh.png" width="150px;" height="130px;">
-                    Donald Hugh Henley ( 22 de julho de 1947) é um músico, cantor, compositor, produtor musical americano e membro fundador
-                    dos Eagles. Ele foi o baterista e co-vocalista dos Eagles de 1971 até a separação da banda em 1980, e reprisou essas funções
-                    nas reuniões do grupo desde 1994.</p>
-                <br /><br />
-            </div>
-
-            <div id="divJW05" name="nm_divJW05">
-                <p><img class="css" src="img/eagles/jw.png" width="150px;" height="130px;">
-                    Joseph Fidler Walsh (20 de novembro de 1947), é um guitarrista, cantor e compositor. Em uma carreira de mais de 50
-                    anos, ele foi membro de três bandas de rock de sucesso: James Gang, Eagles e Ringo Starr & His All-Starr Band.
-                    Walsh também fez parte da banda Herbs da Nova Zelândia.</p>
-                <br /><br />
-            </div>
-
-            <div id="divRM05" name="nm_divRM05">
-                <p><img class="css" src="img/eagles/rm.jpg" width="150px;" height="130px;">
-                    Randall Herman Meisner ( 8 de março de 1946) é um músico americano aposentado, cantor, compositor e membro fundador dos
-                    Eagles. Ao longo de sua carreira musical profissional, o papel principal de Meisner foi o de baixista e vocalista de alta
-                    harmonia de apoio.</p>
-                <br /><br />
-            </div>
-
-            <div id="divDF05" name="nm_divDF05">
-                <p>
-                    <img class="css" src="img/eagles/df.jpg" width="150px;" height="130px;">
-                    Donald William Felder é um músico, cantor e compositor americano, mais conhecido por seu trabalho como guitarrista principal dos
-                    Eagles de 1974 até seu término da banda em 2001. Felder foi introduzido no Musicians Hall of Fame and Museum em 2016.
-                </p>
-                <br /><br />
-            </div>
 
             <footer>
                 <a href="eagles.php"><button>Voltar para os álbuns do Eagles</button></a>
                 <a href="index.php"><button>Home</button></a>
             </footer>
-            < </section>
+
+        </section>
 
     </main>
 

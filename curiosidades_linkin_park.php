@@ -11,7 +11,6 @@ include_once("header_curiosidades.php");
     <div class="curiosidade_acdc">
 
         <h1>Curiosidades sobre o Linkin Park</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -194,72 +193,40 @@ include_once("header_curiosidades.php");
                         - One Step Closer, - Crawling e Numb.</p>
                 </div>
             </div>
-            <br /> <br />
 
-            <nav>
-                <button class="btn23" data-toggle="collapse" data-target="#demo23">Fontes</button>
-
-                <div id="demo23" class="collapse">
-                    <br />
-
-                    <ul>
-                        <li> - Leia mais em: <a href="https://www.letras.com.br/linkin-park/curiosidades">letras.com.br </a> ©2021</li>
-                    </ul>
-                </div>
-            </nav>
-            <br /><br />
-
-            <div class="albuns_acdc">
-                <a href="linkin`park.php"><button>Voltar para Albuns do Linkin Park</button></a>
-            </div>
         </section>
 
         <div class="fotoac">
 
             <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Chester Bennington </p>
-            <p class="ay_antes">Chester Bennington </p>
-            <p class="bj_hj">Mike Shinoda </p>
-            <p class="bj_antes">Mike Shinoda </p>
-
-            <img src="img/linkin park/cb_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/cb_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Brad Delson </p>
-            <p class="ay_antes">Brad Delson </p>
-
-            <img src="img/linkin park/ms_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/ms_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Dave Farrell </p>
-            <p class="bj_antes">Dave Farrell </p>
-
-            <img src="img/linkin park/bd_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/bd_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/df_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/df_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Joe Hahn</p>
-            <p class="ay_antes">Joe Hahn</p>
-            <p class="bj_hj">Rob Bourdon </p>
-            <p class="bj_antes">Rob Bourdon </p>
-
-            <img src="img/linkin park/jh_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/jh_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/rb_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/rb_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/linkin park/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_linkin" src="img/linkin park/cb_hj.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_2_linkin" src="img/linkin park/cb_antes.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_3_linkin" src="img/linkin park/ms_hj.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_4_linkin" src="img/linkin park/ms_antes.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_5_linkin" src="img/linkin park/bd_hj.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_6_linkin" src="img/linkin park/bd_antes.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_7_linkin" src="img/linkin park/df_hj.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_8_linkin" src="img/linkin park/df_antes.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_9_linkin" src="img/linkin park/jh_hj.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_10_linkin" src="img/linkin park/jh_antes.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_11_linkin" src="img/linkin park/rb_hj.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_12_linkin" src="img/linkin park/rb_antes.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_13_linkin" src="img/linkin park/01.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_14_linkin" src="img/linkin park/02.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_15_linkin" src="img/linkin park/03.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_16_linkin" src="img/linkin park/04.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_17_linkin" src="img/linkin park/05.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_18_linkin" src="img/linkin park/06.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_19_linkin" src="img/linkin park/07.jpg" alt="Foto dos integrantes da banda Linkin Park">
+            <img id="foto_20_linkin" src="img/linkin park/08.jpg" alt="Foto dos integrantes da banda Linkin Park">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="linkin`park.php"><button>Voltar para Albuns do Linkin Park</button></a>
     </div>
 
     <footer id="rodape">

@@ -32,12 +32,12 @@ include_once("header.php");
                 como marcando o início da era "desmascarada" que duraria pela próxima década. Stanley afirmou em algumas entrevistas que sentiu
                 que o álbum vendeu bem principalmente devido ao hype em torno do desmascaramento da banda.
             </p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 41 min. 27 seg.</p>
             <p>Gravadora(s): Mercúrio Records.</p>
             <p>Produção: Michael James Jackson, Gene Simmons e Paul Stanley.</p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -60,7 +60,7 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -68,57 +68,58 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divPAUL_STANLEY" name="nm_divPAUL_STANLEY">
+                    <p>
+                        <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
+                        Paul Stanley é um cantor, compositor e pintor americano, mais conhecido por ser o co-fundador, vocalista,
+                        guitarrista rítmico e co-vocalista ddo Kiss. Ele é o escritor ou co-escritor de muitos dos maiores sucessos da banda.
+                        Stanley estabeleceu o personagem Starchild e é conhecido por sua voz distinta e abrangente.
+                    </p>
+                </div>
+
+                <div id="divVINNIE_CINCENT" name="nm_divVINNIE_CINCENT">
+                    <p>
+                        <img class="css" src="img/kiss/vv.jpg" width="150px;" height="130px;">
+                        Vincent John Cusano, "Vinnie Vincent", é um guitarrista e compositor americano. Ele é um ex-membro do Kiss de
+                        1982 até meados de 1984, durante a transição da banda de seu período de maquiagem. Vincent
+                        foi o último membro a usar uma configuração única de maquiagem / figurino, como o personagem do Guerreiro Ankh,
+                        até que ele e a banda foram mostrados pela primeira vez sem a maquiagem durante uma entrevista na MTV em setembro
+                        de 1983.
+                    </p>
+                </div>
+
+                <div id="divGENE_SIMMONS" name="nm_divGENE_SIMMONS">
+                    <p>
+                        <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
+                        Gene Klein, conhecido profissionalmente como Gene Simmons, é um músico, cantor, compositor, produtor musical,
+                        empresário, ator, autor e personalidade da televisão americana. Também conhecido por seu personagem de palco,
+                        The Demon, ele é o baixista e co-vocalista do Kiss, a banda de rock que ele co-fundou com Paul Stanley no início dos
+                        anos 1970.
+                    </p>
+                </div>
+
+                <div id="divERIC_CARR" name="nm_divERIC_CARR">
+                    <p>
+                        <img class="css" src="img/kiss/ecarr.jpg" width="150px;" height="130px;">
+                        Paul Charles Caravello, "Eric Carr", foi um músico e multi-instrumentista
+                        que foi baterista da banda de rock Kiss de 1980 a 1991. Caravello foi escolhido como o novo baterista
+                        do Kiss após a saída de Peter Criss, quando escolheu o nome artístico de "Eric Carr". Ele permaneceu como membro
+                        do Kiss até sua morte de câncer no coração em 24 de novembro de 1991, aos 41 anos.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divPS11');" onMouseOut="escondeLayer('divPS11');">Paul Stanley</a> – Vocal e Guitarra Base. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divVV11');" onMouseOut="escondeLayer('divVV11');">Vinnie Vincent</a> – Guitarra Principal. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGS11');" onMouseOut="escondeLayer('divGS11');">Gene Simmons</a> – Vocal e Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divEC11');" onMouseOut="escondeLayer('divEC11');">Eric Carr</a> – Bateria. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPAUL_STANLEY');" onMouseOut="escondeLayer('divPAUL_STANLEY');">Paul Stanley</a> – Vocal e Guitarra Base.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divVINNIE_CINCENT');" onMouseOut="escondeLayer('divVINNIE_CINCENT');">Vinnie Vincent</a> – Guitarra Principal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGENE_SIMMONS');" onMouseOut="escondeLayer('divGENE_SIMMONS');">Gene Simmons</a> – Vocal e Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divERIC_CARR');" onMouseOut="escondeLayer('divERIC_CARR');">Eric Carr</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divPS11" name="nm_divPS11">
-                <p>
-                    <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
-                    Paul Stanley é um cantor, compositor e pintor americano, mais conhecido por ser o co-fundador, vocalista,
-                    guitarrista rítmico e co-vocalista ddo Kiss. Ele é o escritor ou co-escritor de muitos dos maiores sucessos da banda.
-                    Stanley estabeleceu o personagem Starchild e é conhecido por sua voz distinta e abrangente.
-                </p><br /><br />
-            </div>
-
-            <div id="divVV11" name="nm_divVV11">
-                <p>
-                    <img class="css" src="img/kiss/vv.jpg" width="150px;" height="130px;">
-                    Vincent John Cusano, "Vinnie Vincent", é um guitarrista e compositor americano. Ele é um ex-membro do Kiss de
-                    1982 até meados de 1984, durante a transição da banda de seu período de maquiagem. Vincent
-                    foi o último membro a usar uma configuração única de maquiagem / figurino, como o personagem do Guerreiro Ankh,
-                    até que ele e a banda foram mostrados pela primeira vez sem a maquiagem durante uma entrevista na MTV em setembro
-                    de 1983.
-                </p>
-            </div>
-
-            <div id="divGS11" name="nm_divGS11">
-                <p>
-                    <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
-                    Gene Klein, conhecido profissionalmente como Gene Simmons, é um músico, cantor, compositor, produtor musical,
-                    empresário, ator, autor e personalidade da televisão americana. Também conhecido por seu personagem de palco,
-                    The Demon, ele é o baixista e co-vocalista do Kiss, a banda de rock que ele co-fundou com Paul Stanley no início dos
-                    anos 1970.
-                </p><br />
-            </div>
-
-            <div id="divEC11" name="nm_divEC11">
-                <p>
-                    <img class="css" src="img/kiss/ecarr.jpg" width="150px;" height="130px;">
-                    Paul Charles Caravello, Eric Carr, foi um músico e multi-instrumentista
-                    que foi baterista da banda de rock Kiss de 1980 a 1991. Caravello foi escolhido como o novo baterista
-                    do Kiss após a saída de Peter Criss, quando escolheu o nome artístico de "Eric Carr". Ele permaneceu como membro
-                    do Kiss até sua morte de câncer no coração em 24 de novembro de 1991, aos 41 anos.
-                </p><br />
-            </div>
-            <br /><br />
-
+            
             <footer>
                 <a href="kiss.php"><button>Voltar para os álbuns do Kiss</button></a>
                 <a href="index.php"><button>Home</button></a>

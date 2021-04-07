@@ -38,12 +38,12 @@ include_once("header.php");
 
             <p>Carlos: "Fascista não é fazer citações pretensamente intelectuais, mas deixar de fazer por julgar que as pessoas não vão entender. Isso é
                 intelectual e elitista"...</p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 44 min. 04 seg.</p>
             <p>Gravadora(s): BMG.</p>
             <p>Produção: Reinaldo Barriga.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -51,45 +51,46 @@ include_once("header.php");
                 </table>
             </section>
 
-            <nav>
-                <h3>Créditos</h3>
-                <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divHG02');" onMouseOut="escondeLayer('divHG02');">Humberto Gessinger</a> – Vocais, Baixo e Guitarras. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divCM02');" onMouseOut="escondeLayer('divCM02');">Carlos Maltz</a> – Bateria e Percussão. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divAL02');" onMouseOut="escondeLayer('divAL02');">Augusto Licks</a> – Guitarra. </li>
-                </ul>
-
-                <div id="divHG02" name="nm_divHG02">
+            <section>
+                <div id="divHUMBERTO_GESSINGER" name="nm_divHUMBERTO_GESSINGER">
                     <p><img class="css" src="img/engenheiros do hawaii/hg.jpg" width="150px;" height="130px;">
                         Humberto Gessinger (Porto Alegre, 24 de dezembro de 1963) é um vocalista, baixista, pianista, gaitista, violonista,
                         acordeonista e escritor brasileiro. Era o vocalista e líder da banda Engenheiros do Hawaii, fez turnê ao lado do
                         violonista Duca Leindecker no projeto Pouca Vogal. Seu estilo musical é predominantemente o Rock, mas possui
-                        referencias musicais gaúchas.</p>
-                    <br />
+                        referencias musicais gaúchas.
+                    </p>
                 </div>
 
-                <div id="divCM02" name="nm_divCM02">
+                <div id="divCARLOS_MALTZ" name="nm_divCARLOS_MALTZ">
                     <p><img class="css" src="img/engenheiros do hawaii/cm.jpg" width="150px;" height="130px;">
                         Carlos Maltz (Porto Alegre, 24 de outubro de 1962) é um baterista, astrólogo, psicólogo e escritor brasileiro.
-                        Foi baterista da banda Engenheiros do Hawaii.</p>
-                    <br /><br /><br /><br />
+                        Foi baterista da banda Engenheiros do Hawaii.
+                    </p>
                 </div>
 
-                <div id="divAL02" name="nm_divAL02">
+                <div id="divAUGUSTO_LICKS" name="nm_divAUGUSTO_LICKS">
                     <p><img class="css" src="img/engenheiros do hawaii/al.jpg" width="150px;" height="130px;">
                         Augusto Moacir Licks ( 28 de maio de 1956 ), mais conhecido como Augusto Licks é um jornalista e guitarrista brasileiro.
                         <br />
                         Durante parte de sua carreira, foi guitarrista do cantor gaúcho Nei Lisboa, um dos grandes nomes da chamada Música
                         Popular Gaúcha. Em 1987, entrou para o grupo Engenheiros do Hawaii, a convite do vocalista Humberto Gessinger.
                     </p>
-                    <br />
                 </div>
-                <br /><br />
+            </section>
 
-                <footer>
-                    <a href="engenheiros_do_hawaii.php"><button>Voltar para os álbuns dos Engenheiros do Hawaii</button></a>
-                    <a href="index.php"><button>Home</button></a>
-                </footer>
+            <nav>
+                <h3>Créditos</h3>
+                <ul>
+                    <li><a href="#" onMouseOver="mostraLayer('divHUMBERTO_GESSINGER');" onMouseOut="escondeLayer('divHUMBERTO_GESSINGER');">Humberto Gessinger</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divCARLOS_MALTZ');" onMouseOut="escondeLayer('divCARLOS_MALTZ');">Carlos Maltz</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divAUGUSTO_LICKS');" onMouseOut="escondeLayer('divAUGUSTO_LICKS');">Augusto Licks</a> – Guitarra.</li>
+                </ul>
+            </nav>
+
+            <footer>
+                <a href="engenheiros_do_hawaii.php"><button>Voltar para os álbuns dos Engenheiros do Hawaii</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
 
         </section>
 

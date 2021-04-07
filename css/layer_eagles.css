@@ -1,10 +1,13 @@
-#divGF01,
-#divDH01,
-#divBL01,
-#divRM01 {
+#divGLENN_FREY,
+#divDON_HENLEY,
+#divBERNIE_LEADON,
+#divRANDY_MEISNER,
+#divDON_FELDER,
+#divJOE_WALSH,
+#divTIMOTHY_SCHMIT,
+#divVINCE_GILL {
     font-size: 17px;
     position: absolute;
-    top: 310%;
     left: 42%;
     border: solid 1px #696969;
     width: 50%;
@@ -15,128 +18,15 @@
     height: auto;
 }
 
-#divGF02,
-#divDH02,
-#divBL02,
-#divRM02 {
-    font-size: 17px;
-    position: absolute;
-    top: 303%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divGF03,
-#divDH03,
-#divBL03,
-#divRM03,
-#divDF03 {
-    font-size: 17px;
-    position: absolute;
-    top: 273%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divGF04,
-#divDH04,
-#divBL04,
-#divRM04,
-#divDF04 {
-    font-size: 17px;
-    position: absolute;
-    top: 295%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divGF05,
-#divDH05,
-#divJW05,
-#divRM05,
-#divDF05 {
-    font-size: 17px;
-    position: absolute;
-    top: 332%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divGF06,
-#divDH06,
-#divJW06,
-#divTBS06,
-#divDF06 {
-    font-size: 17px;
-    position: absolute;
-    top: 292%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divGF07,
-#divDH07,
-#divJW07,
-#divTBS07 {
-    font-size: 17px;
-    position: absolute;
-    top: 488%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divGF08,
-#divDH08,
-#divJW08,
-#divTBS08,
-#divVG08 {
-    font-size: 17px;
-    position: absolute;
-    top: 403%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
+#divGLENN_FREY img,
+#divDON_HENLEY img,
+#divBERNIE_LEADON img,
+#divRANDY_MEISNER img,
+#divDON_FELDER img,
+#divJOE_WALSH img,
+#divTIMOTHY_SCHMIT img,
+#divVINCE_GILL img {
+    margin-bottom: 2%;
 }
 
 ul {

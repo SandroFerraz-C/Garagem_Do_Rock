@@ -2,17 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>História do Barão Vermelho</title>
 
-    <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_america.css">
-
+    <link rel="stylesheet" type="text/css" href="css/historia_ac_dc.css">
 </head>
 
 <body>
@@ -23,7 +19,7 @@
 
             <p>
                 Barão Vermelho é uma banda de rock brasileiro fundada em 1981, na cidade do Rio de Janeiro, Brasil. Juntamente com
-                <a href="legiao_urbana.php" target="blank">Legião Urbana</a>, <a href="paralamas_so_sucesso.php" target="blank">Paralamas do Sucesso</a>
+                <a href="legiao_urbana.php" target="blank">Legião Urbana</a>, <a href="paralamas_do_sucesso.php" target="blank">Paralamas do Sucesso</a>
                 e os <a href="titas.php" target="blank">Titãs</a>, é considerada uma das quatro bandas brasileiras mais influentes fundadas na década
                 de 1980.
             </p>

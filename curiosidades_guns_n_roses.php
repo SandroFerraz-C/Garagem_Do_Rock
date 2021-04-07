@@ -10,7 +10,6 @@ include_once("header_curiosidades.php");
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre o Guns N' Roses</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -451,134 +450,66 @@ include_once("header_curiosidades.php");
                     <p>- Estranged, é o segundo video clip mais caro da historia da industria musical, cerca de 4 milhões de Dollares.</p>
                 </div>
             </div>
-            <br /> <br />
 
-            <nav>
-                <button class="btn47" data-toggle="collapse" data-target="#demo47">Fontes</button>
-
-                <div id="demo47" class="collapse">
-                    <br />
-
-                    <ul>
-                        <li> - Leia mais em: <a href="https://www.rocknaveia.com.br/20-curiosidades-sobre-guns-n-roses/">
-                                Rock na Veia</a> ©2021.</li>
-
-                        <li> - Leia mais em: <a href="https://www.letras.com.br/guns-n-roses/curiosidades">
-                                Letras.com.br</a> ©2021 - Orgulhosamente, uma produção Petaxxon.</li>
-                    </ul>
-                </div>
-            </nav>
-            <br /><br />
-
-            <div class="albuns_acdc">
-                <a href="guns_n_roses.php"><button>Voltar para Albuns do Guns N' Roses</button></a>
-            </div>
         </section>
 
         <div class="fotoac">
 
             <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Axl Rose </p>
-            <p class="ay_antes">Axl Rose </p>
-            <p class="bj_hj">Slash </p>
-            <p class="bj_antes">Slash </p>
+            <img id="foto_1_guns" src="img/guns n roses/ar_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_2_guns" src="img/guns n roses/ar_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_3_guns" src="img/guns n roses/sls_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_4_guns" src="img/guns n roses/sls_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_5_guns" src="img/guns n roses/dm_hj.jpeg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_6_guns" src="img/guns n roses/dm_antes.png" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_7_guns" src="img/guns n roses/rf_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_8_guns" src="img/guns n roses/rf_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_9_guns" src="img/guns n roses/dz_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_10_guns" src="img/guns n roses/dz_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_11_guns" src="img/guns n roses/ff_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_12_guns" src="img/guns n roses/ff_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_13_guns" src="img/guns n roses/mr_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_14_guns" src="img/guns n roses/mr_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_15_guns" src="img/guns n roses/robinf_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_16_guns" src="img/guns n roses/robinf_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_17_guns" src="img/guns n roses/bumb_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_18_guns" src="img/guns n roses/bumb_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_19_guns" src="img/guns n roses/dja_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_20_guns" src="img/guns n roses/dja_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_21_guns" src="img/guns n roses/is_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_21_guns" src="img/guns n roses/is_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_22_guns" src="img/guns n roses/ts_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
 
-            <img src="img/guns n roses/ar_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/ar_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Duff McKagan </p>
-            <p class="ay_antes">Duff McKagan </p>
-
-            <img src="img/guns n roses/sls_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/sls_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Richard Fortus </p>
-            <p class="bj_antes">Richard Fortus </p>
-
-            <img src="img/guns n roses/dm_hj.jpeg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/dm_antes.png" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Dizzy Reed </p>
-            <p class="ay_antes">Dizzy Reed </p>
-
-            <img src="img/guns n roses/rf_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/rf_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Frank Ferrer </p>
-            <p class="bj_antes">Frank Ferrer </p>
-
-            <img src="img/guns n roses/dz_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/dz_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Melissa Reese </p>
-            <p class="ay_antes">Melissa Reese </p>
-
-            <img src="img/guns n roses/ff_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/ff_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Robin Finck </p>
-            <p class="bj_antes">Robin Finck </p>
-
-            <img src="img/guns n roses/mr_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/mr_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Bumblefoot</p>
-            <p class="ay_antes">Bumblefoot</p>
-
-            <img src="img/guns n roses/robinf_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/robinf_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">DJ. Ashba</p>
-            <p class="bj_antes">DJ. Ashba</p>
-
-            <img src="img/guns n roses/bumb_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/bumb_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Izzy Stradlin</p>
-            <p class="ay_antes">Izzy Stradlin</p>
-
-            <img src="img/guns n roses/dja_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/dja_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Tommy Stinson</p>
-            <p class="bj_antes">Tommy Stinson</p>
-
-            <img src="img/guns n roses/is_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/is_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Chris Pitman</p>
-            <p class="ay_antes">Chris Pitman</p>
-
-            <img src="img/guns n roses/ts_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/ts_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Steve Adler</p>
-            <p class="bj_antes">Steve Adler</p>
-
-            <img src="img/guns n roses/cp_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/cp_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/sa_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/sa_antes.jpeg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/01.jpeg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/09.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/11.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/12.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/13.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/14.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/15.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/16.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/guns n roses/17.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            
+            <img id="foto_23_guns" src="img/guns n roses/ts_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_24_guns" src="img/guns n roses/cp_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_25_guns" src="img/guns n roses/cp_antes.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_26_guns" src="img/guns n roses/sa_hj.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_27_guns" src="img/guns n roses/sa_antes.jpeg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_28_guns" src="img/guns n roses/01.jpeg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_29_guns" src="img/guns n roses/02.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_30_guns" src="img/guns n roses/03.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_31_guns" src="img/guns n roses/04.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_32_guns" src="img/guns n roses/05.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_33_guns" src="img/guns n roses/06.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_34_guns" src="img/guns n roses/07.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_35_guns" src="img/guns n roses/08.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_36_guns" src="img/guns n roses/09.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_37_guns" src="img/guns n roses/11.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_38_guns" src="img/guns n roses/12.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_39_guns" src="img/guns n roses/13.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_40_guns" src="img/guns n roses/14.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_41_guns" src="img/guns n roses/15.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_42_guns" src="img/guns n roses/16.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
+            <img id="foto_43_guns" src="img/guns n roses/17.jpg" alt="Foto dos integrantes da banda Guns N' Roses">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="guns_n_roses.php"><button>Voltar para Albuns do Guns N' Roses</button></a>
     </div>
 
     <footer id="rodape">

@@ -40,7 +40,7 @@ include_once("header.php");
                 Slash afirmou que a maior parte das músicas do álbum foi composta num violão em algumas noites em sua casa (a Walnut House),
                 após muitos meses de inatividade.
             </p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -114,12 +114,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 33 min. 31 seg.</p>
             <p>Gravadora(s): Geffen Records.</p>
             <p>Produção: Guns N' Roses e Mike Clink.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -127,77 +127,78 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divAXL_ROSE" name="nm_divAXL_ROSE">
+                    <p>
+                        <img class="css" src="img/guns n roses/ar.jpg" width="150px;" height="130px;">
+                        W. Axl Rose, é um cantor, compositor e multi-instrumentista norte-americano. Mais conhecido como vocalista da banda
+                        de hard rock Guns N' Roses, com quem alcançou sucesso mundial.
+                        <br />
+                        Foi anunciado como vocalista convidado da banda AC/DC enquanto Brian Johnson cuidava da sua saúde.
+                    </p>
+                </div>
+
+                <div id="divSLASH" name="nm_divSLASH">
+                    <p>
+                        <img class="css" src="img/guns n roses/s.jpg" width="150px;" height="130px;">
+                        Saul Hudson, conhecido pelo seu nome artístico Slash, é um guitarrista anglo-americano mundialmente famoso como integrante
+                        da formação clássica da banda Guns N' Roses, com quem alcançou sucesso mundial. Em 2021 iniciou uma carreira solo lançando três discos
+                        e realizou três turnês mundial.
+                        <br />
+                        Em 2016 voltou para os Guns N" Roses apóis 18 anos afastado da banda.
+                    </p>
+                </div>
+
+                <div id="divIZZI_STRADLIN" name="nm_divIZZI_STRADLIN">
+                    <p>
+                        <img class="css" src="img/guns n roses/is.jpg" width="150px;" height="130px;">
+                        Jeffrey Dean Isbell, conhecido pelo seu nome artístico Izzy Stradlin, é um músico e compositor estadunidense. Ele é
+                        mais conhecido como co-fundador e ex-guitarrista base por durante seis anos da banda Guns N' Roses, que a deixou no
+                        auge de sua fama em 1991. Após a sua saída, Stradlin lançou dez álbuns solo, os seis últimos de forma independente.
+                    </p>
+                </div>
+
+                <div id="divDUFF_MCKAGAN" name="nm_divDUFF_MCKAGAN">
+                    <p>
+                        <img class="css" src="img/guns n roses/dm.jpg" width="150px;" height="130px;">
+                        Michael Andrew McKagan, "Duff McKagan" é um músico estadunidense. Ele é mais
+                        conhecido por ser membro fundador e baixista por quase 30 anos da banda de hard rock Guns N' Roses, com quem alcançou
+                        sucesso mundial e também que deixou no auge de sua fama em 1997. Durante seus últimos anos com a banda, ele lançou um
+                        álbum solo, Believe in Me (1993).
+                    </p>
+                </div>
+
+                <div id="divMATT_SORUM" name="nm_divMATT_SORUM">
+                    <p>
+                        <img class="css" src="img/guns n roses/ms.jpg" width="150px;" height="130px;">
+                        Matt Sorum ( Califórnia, 19 de novembro de 1960) é um baterista americano conhecido por seus trabalhos com - The Cult, - Guns N' Roses e
+                        - Velvet Revolver.
+                        <br />
+                        Foi introduzido no Rock and Roll Hall of Fame como membro do - Guns N' Roses em 2012.
+                    </p>
+                </div>
+
+                <div id="DIZZY_REED" name="nm_DIZZY_REED">
+                    <p>
+                        <img class="css" src="img/guns n roses/dr.jpg" width="150px;" height="130px;">
+                        Darren Dizzy Reed é um multi-instrumentista norte-americano. Ele é o tecladista que atua na banda Guns N' Roses desde 1990.
+                        <br />
+                        Começou a sua carreira no show da banda Guns N' Roses no Brasil no grande festival Rock in Rio de 1991.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divAR03');" onMouseOut="escondeLayer('divAR03');">Axl Rose</a> – Vocal Principa. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divSLS03');" onMouseOut="escondeLayer('divSLS03');">Slash</a> – Guitarra solo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divIS03');" onMouseOut="escondeLayer('divIS03');">Izzy Stradlin</a> – Guitarra rítimica. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDM03');" onMouseOut="escondeLayer('divDM03');">Duff McKagan</a> – Guitarra rítimica. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divMS03');" onMouseOut="escondeLayer('divMS03');">Matt Sorum</a> – Bateria. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDR03');" onMouseOut="escondeLayer('divDR03');">Dizzy Reed</a> – Teclado e Vocal de apoio. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divAXL_ROSE');" onMouseOut="escondeLayer('divAXL_ROSE');">Axl Rose</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSLASH');" onMouseOut="escondeLayer('divSLASH');">Slash</a> – Guitarra solo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divIZZI_STRADLIN');" onMouseOut="escondeLayer('divIZZI_STRADLIN');">Izzy Stradlin</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDUFF_MCKAGAN');" onMouseOut="escondeLayer('divDUFF_MCKAGAN');">Duff McKagan</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divMATT_SORUM');" onMouseOut="escondeLayer('divMATT_SORUM');">Matt Sorum</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('DIZZY_REED');" onMouseOut="escondeLayer('DIZZY_REED');">Dizzy Reed</a> – Teclado.</li>
                 </ul>
             </nav>
-
-            <div id="divAR03" name="nm_divAR03">
-                <p>
-                    <img class="css" src="img/guns n roses/ar.jpg" width="150px;" height="130px;">
-                    W. Axl Rose, é um cantor, compositor e multi-instrumentista norte-americano. Mais conhecido como vocalista da banda
-                    de hard rock Guns N' Roses, com quem alcançou sucesso mundial.
-                    <br />
-                    Foi anunciado como vocalista convidado da banda AC/DC enquanto Brian Johnson cuidava da sua saúde.
-                </p><br /><br />
-            </div>
-
-            <div id="divSLS03" name="nm_divSLS03">
-                <p>
-                    <img class="css" src="img/guns n roses/s.jpg" width="150px;" height="130px;">
-                    Saul Hudson, conhecido pelo seu nome artístico Slash, é um guitarrista anglo-americano mundialmente famoso como integrante
-                    da formação clássica da banda Guns N' Roses, com quem alcançou sucesso mundial. Em 2021 iniciou uma carreira solo lançando três discos
-                    e realizou três turnês mundial.
-                    <br />
-                    Em 2016 voltou para os Guns N" Roses apóis 18 anos afastado da banda.
-                </p>
-            </div>
-
-            <div id="divIS03" name="nm_divIS03">
-                <p>
-                    <img class="css" src="img/guns n roses/is.jpg" width="150px;" height="130px;">
-                    Jeffrey Dean Isbell, conhecido pelo seu nome artístico Izzy Stradlin, é um músico e compositor estadunidense. Ele é
-                    mais conhecido como co-fundador e ex-guitarrista base por durante seis anos da banda Guns N' Roses, que a deixou no
-                    auge de sua fama em 1991. Após a sua saída, Stradlin lançou dez álbuns solo, os seis últimos de forma independente.
-                </p><br />
-            </div>
-
-            <div id="divDM03" name="nm_divDM03">
-                <p>
-                    <img class="css" src="img/guns n roses/dm.jpg" width="150px;" height="130px;">
-                    Michael Andrew McKagan, "Duff McKagan" é um músico estadunidense. Ele é mais
-                    conhecido por ser membro fundador e baixista por quase 30 anos da banda de hard rock Guns N' Roses, com quem alcançou
-                    sucesso mundial e também que deixou no auge de sua fama em 1997. Durante seus últimos anos com a banda, ele lançou um
-                    álbum solo, Believe in Me (1993).
-                </p><br />
-            </div>
-
-            <div id="divMS03" name="nm_divMS03">
-                <p>
-                    <img class="css" src="img/guns n roses/ms.jpg" width="150px;" height="130px;">
-                    Matt Sorum ( Califórnia, 19 de novembro de 1960) é um baterista americano conhecido por seus trabalhos com - The Cult, - Guns N' Roses e
-                    - Velvet Revolver.
-                    <br />
-                    Foi introduzido no Rock and Roll Hall of Fame como membro do - Guns N' Roses em 2012.
-                </p><br /><br />
-            </div>
-
-            <div id="divDR03" name="nm_divDR03">
-                <p>
-                    <img class="css" src="img/guns n roses/dr.jpg" width="150px;" height="130px;">
-                    Darren Dizzy Reed é um multi-instrumentista norte-americano. Ele é o tecladista que atua na banda Guns N' Roses desde 1990.
-                    <br />
-                    Começou a sua carreira no show da banda Guns N' Roses no Brasil no grande festival Rock in Rio de 1991.
-                </p><br /><br /><br />
-            </div>
-            <br />
 
             <footer>
                 <a href="guns_n_roses.php"><button>Voltar para os álbuns do Guns N' Roses</button></a>

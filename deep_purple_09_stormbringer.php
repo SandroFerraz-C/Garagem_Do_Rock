@@ -28,12 +28,12 @@ include_once("header.php");
             <p>De acordo com Glenn Hughes, o jargão arrastado que é falado por Coverdale no início da faixa-título pouco
                 antes do primeiro verso é o mesmo diálogo invertido que a personagem de Linda Blair profere no filme O
                 Exorcista, quando é questionada pelo sacerdote.</p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 36 min. 31 seg.</p>
             <p>Gravadora(s): EMI / Purple.</p>
             <p>Produção: Martin Birch & Deep Purple.</p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -63,7 +63,7 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -71,55 +71,61 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divDAVID_COVERDALE" name="nm_divDAVID_COVERDALE">
+                    <p><img class="css" src="img/deep purple/dc.jpg" width="150px;" height="130px;">
+                        David Coverdale ( Inglaterra, 22 de setembro de 1951) é um cantor e compositor inglês.
+
+                        David Coverdale ficou conhecido por substituir o vocalista Ian Gillan na banda Deep Purple,
+                        em meados dos anos 70. Após o termino da banda em 1976, lançou seu projeto
+                        solo em 1977, fundando o Whitesnake, grupo de hard rock/heavy metal.
+                    </p>
+                </div>
+
+                <div id="divRITCHIE_BLACKMORE" name="nm_divRITCHIE_BLACKMORE">
+                    <p><img class="css" src="img/deep purple/rb.jpg" width="150px;" height="130px;">
+                        Richard 'Ritchie' Hugh Blackmore (Weston-Super-Mare, 14 de abril de 1945) é um guitarrista e compositor inglês,
+                        conhecido por tocar guitarra nas bandas Deep Purple e Rainbow. Atualmente é o guitarrista da banda de folk rock
+                        Blackmore's Night. Foi considerado o 50.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                    </p>
+                </div>
+
+                <div id="divGLENN_HUGHES" name="nm_divGLENN_HUGHES">
+                    <p><img class="css" src="img/deep purple/gh.jpg" width="150px;" height="130px;">
+                        Glenn Hughes (Cannock, Inglaterra, 21 de agosto de 1951) é um músico inglês conhecido pelos seus trabalhos
+                        em bandas como Trapeze, Deep Purple, Black Sabbath e por sua carreira solo.
+                        <br />
+                        Deixou a escola aos 15 anos para tocar guitarra em uma banda local antes de mudar para o baixo e começar a cantar.
+                    </p>
+                </div>
+
+                <div id="divJOHN_LORD" name="nm_divJOHN_LORD">
+                    <p><img class="css" src="img/deep purple/jl.jpg" width="150px;" height="130px;">
+                        John Douglas Lord, mais conhecido como Jon Lord (Leicester, 9 de junho de 1941 — Londres, 16 de julho de 2012), foi um
+                        compositor, pianista e organista inglês, mais conhecido por ter integrado as bandas Deep Purple e também foi o pioneiro
+                        na fusão do rock com música clássica.
+                    </p>
+                </div>
+
+                <div id="divIAN_PAICE" name="nm_divIAN_PAICE">
+                    <p><img class="css" src="img/deep purple/ip.jpg" width="150px;" height="130px;">
+                        Ian Anderson Paice (nascido em 29 de junho de 1948, Nottingham) é um baterista britânico, famoso por sua participação
+                        na banda Deep Purple, na qual ele é o último integrante da formação original. Seu primeiro contato com a música foi ao
+                        tocar violino, mas aos 15 anos de idade, escolheu a bateria como instrumento.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divDC09');" onMouseOut="escondeLayer('divDC09');">David Coverdale</a> – Vocal. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRB09');" onMouseOut="escondeLayer('divRB09');">Ritchie Blackmore</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGH09');" onMouseOut="escondeLayer('divGH09');">Glenn Hughes</a> – Baixo e Vocal de Apoio. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJL09');" onMouseOut="escondeLayer('divJL09');">Jon Lord</a> – Órgão, Teclados e Vocal de apoio. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divIP09');" onMouseOut="escondeLayer('divIP09');">Ian Paice</a> – Bateria. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDAVID_COVERDALE');" onMouseOut="escondeLayer('divDAVID_COVERDALE');">David Coverdale</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divRITCHIE_BLACKMORE');" onMouseOut="escondeLayer('divRITCHIE_BLACKMORE');">Ritchie Blackmore</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGLENN_HUGHES');" onMouseOut="escondeLayer('divGLENN_HUGHES');">Glenn Hughes</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOHN_LORD');" onMouseOut="escondeLayer('divJOHN_LORD');">Jon Lord</a> – Teclados.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divIAN_PAICE');" onMouseOut="escondeLayer('divIAN_PAICE');">Ian Paice</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divDC09" name="nm_divDC09">
-                <p><img class="css" src="img/deep purple/dc.jpg" width="150px;" height="130px;">
-                    David Coverdale ( Inglaterra, 22 de setembro de 1951) é um cantor e compositor inglês.
-
-                    David Coverdale ficou conhecido por substituir o vocalista Ian Gillan na banda Deep Purple,
-                    em meados dos anos 70. Após o termino da banda em 1976, lançou seu projeto
-                    solo em 1977, fundando o Whitesnake, grupo de hard rock/heavy metal.<br /><br /></p>
-            </div>
-
-            <div id="divRB09" name="nm_divRB09">
-                <p><img class="css" src="img/deep purple/rb.jpg" width="150px;" height="130px;">
-                    Richard 'Ritchie' Hugh Blackmore (Weston-Super-Mare, 14 de abril de 1945) é um guitarrista e compositor inglês,
-                    conhecido por tocar guitarra nas bandas Deep Purple e Rainbow. Atualmente é o guitarrista da banda de folk rock
-                    Blackmore's Night. Foi considerado o 50.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.<br /><br /></p>
-            </div>
-
-            <div id="divGH09" name="nm_divGH09">
-                <p><img class="css" src="img/deep purple/gh.jpg" width="150px;" height="130px;">
-                    Glenn Hughes (Cannock, Inglaterra, 21 de agosto de 1951) é um músico inglês conhecido pelos seus trabalhos
-                    em bandas como Trapeze, Deep Purple, Black Sabbath e por sua carreira solo.
-                    <br />
-                    Deixou a escola aos 15 anos para tocar guitarra em uma banda local antes de mudar para o baixo e começar a cantar.<br /><br /><br />
-                </p>
-            </div>
-
-            <div id="divJL09" name="nm_divJL09">
-                <p><img class="css" src="img/deep purple/jl.jpg" width="150px;" height="130px;">
-                    John Douglas Lord, mais conhecido como Jon Lord (Leicester, 9 de junho de 1941 — Londres, 16 de julho de 2012), foi um
-                    compositor, pianista e organista inglês, mais conhecido por ter integrado as bandas Deep Purple e também foi o pioneiro
-                    na fusão do rock com música clássica.<br /><br /><br /></p>
-            </div>
-
-            <div id="divIP09" name="nm_divIP09">
-                <p><img class="css" src="img/deep purple/ip.jpg" width="150px;" height="130px;">
-                    Ian Anderson Paice (nascido em 29 de junho de 1948, Nottingham) é um baterista britânico, famoso por sua participação
-                    na banda Deep Purple, na qual ele é o último integrante da formação original. Seu primeiro contato com a música foi ao
-                    tocar violino, mas aos 15 anos de idade, escolheu a bateria como instrumento.<br /><br /></p>
-            </div>
 
             <footer>
                 <a href="deep_purple.php"><button>Voltar para os álbuns do Deep Purple</button></a>

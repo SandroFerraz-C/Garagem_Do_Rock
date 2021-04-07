@@ -35,13 +35,13 @@ include_once("header.php");
                 Este disco também foi gravado em inglês, porém arquivada pela BMG e nunca foi lançada oficialmente, mas uma versão com qualidade
                 baixa vazou na internet.
             </p>
-            <br /><br />
+            <br />
 
 
             <p>Duração do álbum: 45 min. 00 seg.</p>
             <p>Gravadora(s): BMG.</p>
             <p>Produção: Greg Ladanyi.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -49,46 +49,44 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divHUMBERTO_GESSINGER" name="nm_divHUMBERTO_GESSINGER">
+                    <p>
+                        <img class="css" src="img/engenheiros do hawaii/hg.jpg" width="150px;" height="130px;">
+                        Humberto Gessinger (Porto Alegre, 24 de dezembro de 1963) é um vocalista, baixista, pianista, gaitista, violonista,
+                        acordeonista e escritor brasileiro. Era o vocalista e líder da banda Engenheiros do Hawaii, fez turnê ao lado do
+                        violonista Duca Leindecker no projeto Pouca Vogal. Seu estilo musical é predominantemente o Rock, mas possui
+                        referencias musicais gaúchas.
+                    </p>
+                </div>
+
+                <div id="divFERNANDO_DELUQUI" name="nm_divFERNANDO_DELUQUI">
+                    <p>
+                        <img class="css" src="img/engenheiros do hawaii/fd.jpg" width="150px;" height="130px;">
+                        Fernando Deluqui - 25 de março de 1962 (idade 58 anos), São Paulo, é um musico reconhecido principalmente pelos seus
+                        trabalhos nos Grupos musicais: RPM (Desde 1984) e Engenheiros do Hawaii (1995 – 1996).
+                    </p>
+                </div>
+
+                <div id="divCARLOS_MALTZ" name="nm_divCARLOS_MALTZ">
+                    <p>
+                        <img class="css" src="img/engenheiros do hawaii/cm.jpg" width="150px;" height="130px;">
+                        Carlos Maltz (Porto Alegre, 24 de outubro de 1962) é um baterista, astrólogo, psicólogo e escritor brasileiro.
+                        Foi baterista da banda Engenheiros do Hawaii.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divHG07');" onMouseOut="escondeLayer('divHG07');"> Humberto Gessinger</a> – Vocais, Baixo e Violão. </li>
-                    <li><a href="#"> Ricardo Horn</a> – Guitarra, Violão, Viola, Bandolim e Vocais. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divFD07');" onMouseOut="escondeLayer('divFD07');"> Fernando Deluqui</a> – Guitarra e Vocais. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divCM07');" onMouseOut="escondeLayer('divCM07');"> Carlos Maltz</a> – Bateria e Percussão. </li>
-                    <li><a href="#"> Paolo Casarin</a> – Teclados, Piano, Acordeon e Vocais. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divHUMBERTO_GESSINGER');" onMouseOut="escondeLayer('divHUMBERTO_GESSINGER');"> Humberto Gessinger</a> – Vocal.</li>
+                    <li><a href="#"> Ricardo Horn</a> – Viola.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divFERNANDO_DELUQUI');" onMouseOut="escondeLayer('divFERNANDO_DELUQUI');"> Fernando Deluqui</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divCARLOS_MALTZ');" onMouseOut="escondeLayer('divCARLOS_MALTZ');"> Carlos Maltz</a> – Bateria.</li>
+                    <li><a href="#"> Paolo Casarin</a> – Teclados.</li>
                 </ul>
             </nav>
-
-            <div id="divHG07" name="nm_divHG07">
-                <p>
-                    <img class="css" src="img/engenheiros do hawaii/hg.jpg" width="150px;" height="130px;">
-                    Humberto Gessinger (Porto Alegre, 24 de dezembro de 1963) é um vocalista, baixista, pianista, gaitista, violonista,
-                    acordeonista e escritor brasileiro. Era o vocalista e líder da banda Engenheiros do Hawaii, fez turnê ao lado do
-                    violonista Duca Leindecker no projeto Pouca Vogal. Seu estilo musical é predominantemente o Rock, mas possui
-                    referencias musicais gaúchas.
-                </p>
-                <br />
-            </div>
-
-            <div id="divFD07" name="nm_divFD07">
-                <p>
-                    <img class="css" src="img/engenheiros do hawaii/fd.jpg" width="150px;" height="130px;">
-                    Fernando Deluqui - 25 de março de 1962 (idade 58 anos), São Paulo, é um musico reconhecido principalmente pelos seus
-                    trabalhos nos Grupos musicais: RPM (Desde 1984) e Engenheiros do Hawaii (1995 – 1996).
-                </p>
-                <br /><br /><br />
-            </div>
-
-            <div id="divCM07" name="nm_divCM07">
-                <p>
-                    <img class="css" src="img/engenheiros do hawaii/cm.jpg" width="150px;" height="130px;">
-                    Carlos Maltz (Porto Alegre, 24 de outubro de 1962) é um baterista, astrólogo, psicólogo e escritor brasileiro.
-                    Foi baterista da banda Engenheiros do Hawaii.
-                </p>
-                <br /><br /> <br /><br />
-            </div>
-            <br /> <br />
 
             <footer>
                 <a href="engenheiros_do_hawaii.php"><button>Voltar para os álbuns dos Engenheiros do Hawaii</button></a>

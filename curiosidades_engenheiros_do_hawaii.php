@@ -11,7 +11,6 @@ include_once("header_curiosidades.php");
     <div class="curiosidade_acdc">
 
         <h1>Curiosidades sobre os Engenheiros do Hawaii</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -224,84 +223,40 @@ include_once("header_curiosidades.php");
                     <p>- Na canção "3 Minutos", aos exatos 3:00, pode-se ouvir Humberto repetindo a palavra "Minuano" várias vezes, tocando-a ao contrário.</p>
                 </div>
             </div>
-            <br /> <br />
-
-            <button class="btn23" data-toggle="collapse" data-target="#demo23">Fontes</button>
-
-            <nav>
-                <div id="demo23" class="collapse">
-                    <br />
-
-                    <ul>
-
-                        <li> - Leia mais em: <a href="https://www.gazetadopovo.com.br/caderno-g/musica/show-na-urss-apoio-a-brizola-5-curiosidades-sobre-os-engenheiros-do-hawaii-5yk4on32q8169ubsrt9fweq4w/">
-                                Gazeta do Povo</a> Copyright © 2021, Gazeta do Povo. Todos os direitos reservados.
-                        </li>
-                        <br />
-
-                        <li> - Leia mais em: <a href="https://www.letras.com.br/engenheiros-do-hawaii/curiosidades"> Letras.com.br</a> ©2021 - Orgulhosamente, uma produção Petaxxon.
-                        </li>
-                        <br />
-
-                        <li> - Leia mais em: <a href="https://www.acidadeon.com/campinas/onlist/NOT,1,1,1249673,9+curiosidades+sobre+Humberto+Gessinger+que+toca+na+regiao+no+dia+24.aspx"> Empresa Paulista de Notícias Ltda</a> ACidade ON © copyright 2019.
-                        </li>
-                        <br />
-
-                        <li> - Leia mais em: <a href="https://www.facebook.com/FaClubEnghawpe/posts/490828700993313/"> Fã Club Engenheiros Do Hawaii - Pernambuco</a>.
-                        </li>
-                    </ul>
-
-                </div>
-            </nav>
-            <br /><br />
-
-            <div class="albuns_acdc">
-                <a href="engenheiros_do_hawaii.php"><button>Voltar para Albuns do Engenheiros do Hawaii</button></a>
-            </div>
+            
         </section>
 
         <div class="fotoac">
 
             <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Humberto Gessinger </p>
-            <p class="ay_antes">Humberto Gessinger </p>
-            <p class="bj_hj">Augusto Licks </p>
-            <p class="bj_antes">Augusto Licks </p>
-
-            <img src="img/engenheiros do hawaii/hg_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/hg_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Pedro Augusto </p>
-            <p class="ay_antes">Pedro Augusto </p>
-            <p class="bj_hj">Fernando Aranha</p>
-            <p class="bj_antes">Fernando Aranha</p>
-
-            <img src="img/engenheiros do hawaii/al_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/al_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/pa_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/pa_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/fa_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/fa_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Gláucio Ayala </p>
-            <p class="ay_antes">Gláucio Ayala </p>
-
-            <img src="img/engenheiros do hawaii/ga_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/ga_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/09.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/10.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/engenheiros do hawaii/11.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_engenheiros" src="img/engenheiros do hawaii/hg_hj.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_2_engenheiros" src="img/engenheiros do hawaii/hg_antes.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_3_engenheiros" src="img/engenheiros do hawaii/al_hj.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_4_engenheiros" src="img/engenheiros do hawaii/al_antes.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_5_engenheiros" src="img/engenheiros do hawaii/pa_hj.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_6_engenheiros" src="img/engenheiros do hawaii/pa_antes.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_7_engenheiros" src="img/engenheiros do hawaii/fa_hj.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_8_engenheiros" src="img/engenheiros do hawaii/fa_antes.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_9_engenheiros" src="img/engenheiros do hawaii/ga_hj.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_10_engenheiros" src="img/engenheiros do hawaii/ga_antes.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_11_engenheiros" src="img/engenheiros do hawaii/01.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_12_engenheiros" src="img/engenheiros do hawaii/02.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_13_engenheiros" src="img/engenheiros do hawaii/03.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_14_engenheiros" src="img/engenheiros do hawaii/04.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_15_engenheiros" src="img/engenheiros do hawaii/05.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_16_engenheiros" src="img/engenheiros do hawaii/06.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_17_engenheiros" src="img/engenheiros do hawaii/08.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_18_engenheiros" src="img/engenheiros do hawaii/09.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_19_engenheiros" src="img/engenheiros do hawaii/10.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
+            <img id="foto_20_engenheiros" src="img/engenheiros do hawaii/11.jpg" alt="Foto dos integrantes da banda Engenheiros do Hawaii">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="engenheiros_do_hawaii.php"><button>Voltar para Albuns do Engenheiros do Hawaii</button></a>
     </div>
 
     <footer id="rodape">

@@ -26,12 +26,12 @@ include_once("header.php");
                 gravada por Paul Rodgers e a banda de Kenney Jones The Law, mas eles também não a lançaram. A versão original de Turner pode ser
                 encontrada nos bootleg Demos '88-91 ' e na versão The Law no bootleg The Law II . Turner regravou a música para seu álbum Eat Up and Wait
                 (1998).</p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 46 min. 51 seg.</p>
             <p>Gravadora(s): RCA.</p>
             <p>Produção: Roger Glover.</p>
-            <br /><br />
+            <br />
 
             <p>O album atingil certificação:</p>
 
@@ -48,7 +48,7 @@ include_once("header.php");
                     </tr>
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -56,56 +56,60 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divJOE_TURNER" name="nm_divJOE_TURNER">
+                    <p><img class="css" src="img/deep purple/jlt.jpg" width="150px;" height="130px;">
+                        Joe Lynn Turner ( 2 de agosto de 1951) é um cantor, guitarrista, compositor e produtor americano. Ele é conhecido por
+                        seu trabalho nas bandas de hard rock Rainbow, Yngwie J. Malmsteen e Deep Purple.
+                        <br />
+                        Em 2007, Turner também apareceu como headliner com o vocalista do AC / DC Brian Johnson na turnê Classic Rock Cares charity.
+                    </p>
+                </div>
+
+                <div id="divRITCHIE_BLACKMORE" name="nm_divRITCHIE_BLACKMORE">
+                    <p><img class="css" src="img/deep purple/rb.jpg" width="150px;" height="130px;">
+                        Richard 'Ritchie' Hugh Blackmore (Weston-Super-Mare, 14 de abril de 1945) é um guitarrista e compositor inglês,
+                        conhecido por tocar guitarra nas bandas Deep Purple e Rainbow. Atualmente é o guitarrista da banda de folk rock
+                        Blackmore's Night. Foi considerado o 50.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                    </p>
+                </div>
+
+                <div id="divROGER_GLOVER" name="nm_divROGER_GLOVER">
+                    <p><img class="css" src="img/deep purple/rg.jpg" width="150px;" height="130px;">
+                        Roger David Glover é um músico, compositor e produtor musical.<br />
+                        Depois de passar quatro anos com o Deep Purple, onde a banda viu seus lançamentos mais bem sucedidos, Glover, juntamente com Gillan, abandonou a banda no verão de 1973.
+                        <br />
+                        Ao longo da década de 1970, Glover passou a produzir bandas como <strong>Judas Priest</strong>, <strong>Nazareth</strong>, <strong>Elf</strong>, <strong>Ian Gillan Band</strong>, e <strong>David Coverdale</strong>.
+                    </p>
+                </div>
+
+                <div id="divJOHN_LORD" name="nm_divJOHN_LORD">
+                    <p><img class="css" src="img/deep purple/jl.jpg" width="150px;" height="130px;">
+                        John Douglas Lord, mais conhecido como Jon Lord (Leicester, 9 de junho de 1941 — Londres, 16 de julho de 2013), foi um
+                        compositor, pianista e organista inglês, mais conhecido por ter integrado as bandas Deep Purple e também foi o pioneiro
+                        na fusão do rock com música clássica.
+                    </p>
+                </div>
+
+                <div id="divIAN_PAICE" name="nm_divIAN_PAICE">
+                    <p><img class="css" src="img/deep purple/ip.jpg" width="150px;" height="130px;">
+                        Ian Anderson Paice (nascido em 29 de junho de 1948, Nottingham) é um baterista britânico, famoso por sua participação
+                        na banda Deep Purple, na qual ele é o último integrante da formação original. Seu primeiro contato com a música foi ao
+                        tocar violino, mas aos 15 anos de idade, escolheu a bateria como instrumento.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divJLT13');" onMouseOut="escondeLayer('divJLT13');">Joe Lynn Turner</a> – Vocal. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRB13');" onMouseOut="escondeLayer('divRB13');">Ritchie Blackmore</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRG13');" onMouseOut="escondeLayer('divRG13');">Roger Glover</a> – Baixo e Vocal de Apoio. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJL13');" onMouseOut="escondeLayer('divJL13');">Jon Lord</a> – Órgão, Teclados e Vocal de apoio. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divIP13');" onMouseOut="escondeLayer('divIP13');">Ian Paice</a> – Bateria. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOE_TURNER');" onMouseOut="escondeLayer('divJOE_TURNER');">Joe Lynn Turner</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divRITCHIE_BLACKMORE');" onMouseOut="escondeLayer('divRITCHIE_BLACKMORE');">Ritchie Blackmore</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divROGER_GLOVER');" onMouseOut="escondeLayer('divROGER_GLOVER');">Roger Glover</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOHN_LORD');" onMouseOut="escondeLayer('divJOHN_LORD');">Jon Lord</a> – Teclados.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divIAN_PAICE');" onMouseOut="escondeLayer('divIAN_PAICE');">Ian Paice</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divJLT13" name="nm_divJLT13">
-                <p><img class="css" src="img/deep purple/jlt.jpg" width="150px;" height="130px;">
-                    Joe Lynn Turner ( 2 de agosto de 1951) é um cantor, guitarrista, compositor e produtor americano. Ele é conhecido por
-                    seu trabalho nas bandas de hard rock Rainbow, Yngwie J. Malmsteen e Deep Purple.
-                    <br />
-                    Em 2007, Turner também apareceu como headliner com o vocalista do AC / DC Brian Johnson na turnê Classic Rock Cares charity.
-                </p>
-            </div>
-
-            <div id="divRB13" name="nm_divRB13">
-                <p><img class="css" src="img/deep purple/rb.jpg" width="150px;" height="130px;">
-                    Richard 'Ritchie' Hugh Blackmore (Weston-Super-Mare, 14 de abril de 1945) é um guitarrista e compositor inglês,
-                    conhecido por tocar guitarra nas bandas Deep Purple e Rainbow. Atualmente é o guitarrista da banda de folk rock
-                    Blackmore's Night. Foi considerado o 50.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.<br /><br /></p>
-            </div>
-
-            <div id="divRG13" name="nm_divRG13">
-                <p><img class="css" src="img/deep purple/rg.jpg" width="150px;" height="130px;">
-                    Roger David Glover é um músico, compositor e produtor musical.<br />
-                    Depois de passar quatro anos com o Deep Purple, onde a banda viu seus lançamentos mais bem sucedidos, Glover, juntamente com Gillan, abandonou a banda no verão de 1973.
-                    <br />
-                    Ao longo da década de 1970, Glover passou a produzir bandas como <strong>Judas Priest</strong>, <strong>Nazareth</strong>, <strong>Elf</strong>, <strong>Ian Gillan Band</strong>, e <strong>David Coverdale</strong>.
-                </p>
-            </div>
-
-            <div id="divJL13" name="nm_divJL13">
-                <p><img class="css" src="img/deep purple/jl.jpg" width="150px;" height="130px;">
-                    John Douglas Lord, mais conhecido como Jon Lord (Leicester, 9 de junho de 1941 — Londres, 16 de julho de 2013), foi um
-                    compositor, pianista e organista inglês, mais conhecido por ter integrado as bandas Deep Purple e também foi o pioneiro
-                    na fusão do rock com música clássica.<br /><br /><br /></p>
-            </div>
-
-            <div id="divIP13" name="nm_divIP13">
-                <p><img class="css" src="img/deep purple/ip.jpg" width="150px;" height="130px;">
-                    Ian Anderson Paice (nascido em 29 de junho de 1948, Nottingham) é um baterista britânico, famoso por sua participação
-                    na banda Deep Purple, na qual ele é o último integrante da formação original. Seu primeiro contato com a música foi ao
-                    tocar violino, mas aos 15 anos de idade, escolheu a bateria como instrumento.<br /><br /></p>
-            </div>
-            <br />
 
             <footer>
                 <a href="deep_purple.php"><button>Voltar para os álbuns do Deep Purple</button></a>

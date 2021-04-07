@@ -2,17 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>História do Deep Purple</title>
 
-    <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_america.css">
-
+    <link rel="stylesheet" type="text/css" href="css/historia_ac_dc.css">
 </head>
 
 <body>

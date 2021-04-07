@@ -3,23 +3,21 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Loja da Garagem</title>
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <title>Angra</title>
     <link href="css/css_loja.css" rel="stylesheet" />
-
 </head>
 
 <body>
 
+    <iframe class="video" src="https://www.youtube.com/embed/LqaDmOLRhME" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <iframe width="560" height="445" src="https://www.youtube.com/embed/LqaDmOLRhME" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    <div class="letra_05_angra">
+    <div class="letra">
 
         <h1>Carry On</h1>
-        <br />
 
         <h2>Siga Em Frente</h2>
-        <br /> <br />
+        <br />
 
         <p>
             Mente simplória, por agora você sucumbe

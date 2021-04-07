@@ -10,7 +10,6 @@ include_once("header_curiosidades.php");
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre Black Sabbath</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -222,62 +221,41 @@ include_once("header_curiosidades.php");
                         de San Antonio por 10 anos.</p>
                 </div>
             </div>
-            <br />
 
-            <div class="albuns_acdc">
-                <a href="black_sabbath.php"><button>Voltar para os álbuns do Black Sabbath</button></a>
-            </div>
+
         </section>
 
         <div class="fotoac">
 
-            <h2>Álbum de Fotos do Black Sabbath</h2>
+            <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Ozzy Osbourne</p>
-            <p class="ay_antes">Ozzy Osbourne</p>
-            <p class="bj_hj">Tony Iommi </p>
-            <p class="bj_antes">Tony Iommi </p>
-
-            <img src="img/Black Sabbath/ozzy_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/ozzy_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Geezer Butler</p>
-            <p class="ay_antes">Geezer Butler</p>
-            <p class="bj_hj">Ronnie James Dio</p>
-            <p class="bj_antes">Ronnie James Dio</p>
-
-            <img src="img/Black Sabbath/ti_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/ti_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/gb_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/gb_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Tony Martin</p>
-            <p class="ay_antes">Tony Martin</p>
-            <p class="bj_hj">Bill Ward</p>
-            <p class="bj_antes">Bill Ward</p>
-
-            <img src="img/Black Sabbath/rjd_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/rjd_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/tm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/tm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Geoff Nicholls </p>
-            <p class="ay_antes">Geoff Nicholls </p>
-
-            <img src="img/Black Sabbath/bw_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/bw_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <img src="img/Black Sabbath/gn_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/gn_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/Black Sabbath/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
+            <img id="foto_1_sabbath" src="img/Black Sabbath/ozzy_hj.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_2_sabbath" src="img/Black Sabbath/ozzy_antes.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_3_sabbath" src="img/Black Sabbath/ti_hj.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_4_sabbath" src="img/Black Sabbath/ti_antes.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_5_sabbath" src="img/Black Sabbath/gb_hj.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_6_sabbath" src="img/Black Sabbath/gb_antes.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_7_sabbath" src="img/Black Sabbath/rjd_hj.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_8_sabbath" src="img/Black Sabbath/rjd_antes.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_9_sabbath" src="img/Black Sabbath/tm_hj.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_10_sabbath" src="img/Black Sabbath/tm_antes.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_11_sabbath" src="img/Black Sabbath/bw_hj.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_12_sabbath" src="img/Black Sabbath/bw_antes.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_13_sabbath" src="img/Black Sabbath/gn_hj.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_14_sabbath" src="img/Black Sabbath/gn_antes.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_15_sabbath" src="img/Black Sabbath/01.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_16_sabbath" src="img/Black Sabbath/02.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_17_sabbath" src="img/Black Sabbath/03.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_18_sabbath" src="img/Black Sabbath/04.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_19_sabbath" src="img/Black Sabbath/05.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            <img id="foto_20_sabbath" src="img/Black Sabbath/07.jpg" alt="Foto dos integrantes da banda Black Sabbath">
+            
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="black_sabbath.php"><button>Voltar para os álbuns do Black Sabbath</button></a>
     </div>
 
     <footer id="rodape">

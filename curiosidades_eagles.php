@@ -11,7 +11,6 @@ include_once("header_curiosidades.php");
     <div class="curiosidade_acdc">
 
         <h1>Curiosidades sobre The Angles</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -236,61 +235,40 @@ include_once("header_curiosidades.php");
                         co-escrevendo o álbum de Ringo Starr, Old Wave.</p>
                 </div>
             </div>
-            <br />
 
-            <div class="albuns_acdc">
-                <a href="eagles.php"><button>Voltar para Albuns do Eagles</button></a>
-            </div>
         </section>
 
         <div class="fotoac">
 
             <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Glenn Frey </p>
-            <p class="ay_antes">Glenn Frey </p>
-            <p class="bj_hj">Bernie Leadon </p>
-            <p class="bj_antes">Bernie Leadon </p>
-
-            <img src="img/eagles/gf_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/gf_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Don Felder </p>
-            <p class="ay_antes">Don Felder </p>
-            <p class="bj_hj">Joe Walsh</p>
-            <p class="bj_antes">Joe Walsh</p>
-
-            <img src="img/eagles/bl_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/bl_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/df_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/df_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/jw_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/jw_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Randy Meisner </p>
-            <p class="ay_antes">Randy Meisner </p>
-            <p class="bj_hj">Timothy Schmit</p>
-            <p class="bj_antes">Timothy Schmit</p>
-
-            <img src="img/eagles/rm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/rm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Don Henley </p>
-            <p class="ay_antes">Don Henley </p>
-
-            <img src="img/eagles/tbs_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/tbs_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/dh_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/dh_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/eagles/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_eagles" src="img/eagles/gf_hj.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_2_eagles" src="img/eagles/gf_antes.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_3_eagles" src="img/eagles/bl_hj.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_4_eagles" src="img/eagles/bl_antes.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_5_eagles" src="img/eagles/df_hj.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_6_eagles" src="img/eagles/df_antes.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_7_eagles" src="img/eagles/jw_hj.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_8_eagles" src="img/eagles/jw_antes.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_9_eagles" src="img/eagles/rm_hj.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_10_eagles" src="img/eagles/rm_antes.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_11_eagles" src="img/eagles/tbs_hj.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_12_eagles" src="img/eagles/tbs_antes.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_13_eagles" src="img/eagles/dh_hj.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_14_eagles" src="img/eagles/dh_antes.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_15_eagles" src="img/eagles/01.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_16_eagles" src="img/eagles/02.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_17_eagles" src="img/eagles/03.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_18_eagles" src="img/eagles/04.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_19_eagles" src="img/eagles/05.jpg" alt="Foto dos integrantes da banda Eagles">
+            <img id="foto_20_eagles" src="img/eagles/06.jpg" alt="Foto dos integrantes da banda Eagles">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="eagles.php"><button>Voltar para Albuns do Eagles</button></a>
     </div>
 
     <footer id="rodape">

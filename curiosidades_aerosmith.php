@@ -11,7 +11,6 @@ include_once("header_curiosidades.php");
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre Aerosmith</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -210,58 +209,42 @@ include_once("header_curiosidades.php");
                     <p>- A canção "Janie's Got A Gun" fala sobre abuso sexual infantil entre famílias, já a canção "Uncle Salty" fala sobre o abandono de menores.</p>
                 </div>
             </div>
-            <br />
-
-            <div class="albuns_acdc">
-                <a href="aerosmith.php"><button>Voltar para os álbuns do Aerosmith</button></a>
-            </div>
 
         </section>
 
         <div class="fotoac">
 
-            <h2>Álbum de Fotos do Aerosmith</h2>
+            <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Steven Tyler</p>
-            <p class="ay_antes">Steven Tyler</p>
-            <p class="bj_hj">Tom Hamilton</p>
-            <p class="bj_antes">Tom Hamilton</p>
-
-            <img src="img/aerosmith/Steven Tyler_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/Steven Tyler_inicio.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Joe Perry</p>
-            <p class="ay_antes">Joe Perry</p>
-            <p class="bj_hj">Joe Perry</p>
-            <p class="bj_antes">Joe Perry</p>
-
-            <img src="img/aerosmith/Tom Hamilton_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/Tom Hamilton_inicio.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/Joey Kramer_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/Joey Kramer_inicio.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Brad Whitford</p>
-            <p class="ay_antes">Brad Whitford</p>
-
-            <img src="img/aerosmith/Joe Perry_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/Joe Perry_inicio.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/Brad Whitford_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/Brad Whitford_inicio.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <img src="img/aerosmith/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/06.png" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/09.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/aerosmith/10.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
+            <img id="foto_01_aerosmith" src="img/aerosmith/Steven Tyler_hj.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_02_aerosmith" src="img/aerosmith/Steven Tyler_inicio.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_03_aerosmith" src="img/aerosmith/Tom Hamilton_hj.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_04_aerosmith" src="img/aerosmith/Tom Hamilton_inicio.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_05_aerosmith" src="img/aerosmith/Joey Kramer_hj.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_061_aerosmith" src="img/aerosmith/Joey Kramer_inicio.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_07_aerosmith" src="img/aerosmith/Joe Perry_hj.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_08_aerosmith" src="img/aerosmith/Joe Perry_inicio.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_09_aerosmith" src="img/aerosmith/Brad Whitford_hj.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_10_aerosmith" src="img/aerosmith/Brad Whitford_inicio.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_11_aerosmith" src="img/aerosmith/01.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_12_aerosmith" src="img/aerosmith/02.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_13_aerosmith" src="img/aerosmith/03.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_14_aerosmith" src="img/aerosmith/04.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_15_aerosmith" src="img/aerosmith/05.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_16_aerosmith" src="img/aerosmith/06.png" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_17_aerosmith" src="img/aerosmith/07.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_18_aerosmith" src="img/aerosmith/08.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_19_aerosmith" src="img/aerosmith/09.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            <img id="foto_20_aerosmith" src="img/aerosmith/10.jpg" alt="Foto dos integrantes da banda Aerosomith">
+            
         </div>
 
     </div>
+
+    <div class="albuns_acdc">
+        <a href="aerosmith.php"><button>Voltar para os álbuns do Aerosmith</button></a>
+    </div>
+
 
     <footer id="rodape">
         <?php include_once("footer_curiosidades.php"); ?>

@@ -1,10 +1,14 @@
-#divPS01,
-#divAF01,
-#divGS01,
-#divPC01 {
+#divPAUL_STANLEY,
+#divACE_FREHLEY,
+#divGENE_SIMMONS,
+#divPETER_CRISS,
+#divERIC_CARR,
+#divVINNIE_CINCENT,
+#divBRUCE_KULICK,
+#divTOMMY_THAYER,
+#divERIC_SINGER {
     font-size: 17px;
     position: absolute;
-    top: 294%;
     left: 42%;
     border: solid 1px #696969;
     width: 50%;
@@ -12,365 +16,6 @@
     display: none;
     background-color: #D3D3D3;
     padding: .5%;
-    height: auto;
-}
-
-#divPS02,
-#divAF02,
-#divGS02,
-#divPC02 {
-    font-size: 17px;
-    position: absolute;
-    top: 368%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS03,
-#divAF03,
-#divGS03,
-#divPC03 {
-    font-size: 17px;
-    position: absolute;
-    top: 267%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS04,
-#divAF04,
-#divGS04,
-#divPC04 {
-    font-size: 17px;
-    position: absolute;
-    top: 255%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS05,
-#divGS05,
-#divPC05 {
-    font-size: 17px;
-    position: absolute;
-    top: 230%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS06,
-#divAF06,
-#divGS06,
-#divPC06 {
-    font-size: 17px;
-    position: absolute;
-    top: 280%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS07,
-#divAF07,
-#divGS07,
-#divPC07 {
-    font-size: 17px;
-    position: absolute;
-    top: 242%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS08,
-#divAF08,
-#divGS08,
-#divPC08 {
-    font-size: 17px;
-    position: absolute;
-    top: 260%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS09,
-#divAF09,
-#divGS09,
-#divEC09 {
-    font-size: 17px;
-    position: absolute;
-    top: 280%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS10,
-#divAF10,
-#divGS10,
-#divEC10 {
-    font-size: 17px;
-    position: absolute;
-    top: 303%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS11,
-#divVV11,
-#divGS11,
-#divEC11 {
-    font-size: 17px;
-    position: absolute;
-    top: 280%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS12,
-#divMJ12,
-#divGS12,
-#divEC12 {
-    font-size: 17px;
-    position: absolute;
-    top: 288%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS13,
-#divBK13,
-#divGS13,
-#divEC13 {
-    font-size: 17px;
-    position: absolute;
-    top: 262%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS14,
-#divBK14,
-#divGS14,
-#divEC14 {
-    font-size: 17px;
-    position: absolute;
-    top: 288%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS15,
-#divBK15,
-#divGS15,
-#divEC15 {
-    font-size: 17px;
-    position: absolute;
-    top: 320%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS16,
-#divBK16,
-#divGS16,
-#divEC16 {
-    font-size: 17px;
-    position: absolute;
-    top: 280%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS17,
-#divBK17,
-#divGS17,
-#divEC17 {
-    font-size: 17px;
-    position: absolute;
-    top: 260%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS18,
-#divTT18,
-#divGS18 {
-    font-size: 17px;
-    position: absolute;
-    top: 280%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS19,
-#divTT19,
-#divGS19,
-#divES19 {
-    font-size: 17px;
-    position: absolute;
-    top: 280%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divPS {
-    position: absolute;
-    top: 29%;
-    left: 60%;
-    width: 50%;
-    height: 44%;
-    display: none;
-    padding: 1%;
-    height: auto;
-}
-
-#divGS {
-    position: absolute;
-    top: 29%;
-    left: 81%;
-    width: 50%;
-    height: 44%;
-    display: none;
-    padding: 1%;
-    height: auto;
-}
-
-#divAF {
-    position: absolute;
-    top: 60%;
-    left: 17%;
-    width: 50%;
-    height: 44%;
-    display: none;
-    padding: 1%;
-    height: auto;
-}
-
-#divPC {
-    position: absolute;
-    top: 60%;
-    left: 55%;
-    width: 50%;
-    height: 44%;
-    display: none;
-    padding: 1%;
-    height: auto;
-}
-
-#divTJ {
-    position: absolute;
-    top: 62%;
-    left: 17%;
-    width: 50%;
-    height: 44%;
-    display: none;
-    padding: 1%;
     height: auto;
 }
 
@@ -381,6 +26,18 @@
 
 .masc img {
     border: black solid 2px;
+}
+
+#divPAUL_STANLEY img,
+#divACE_FREHLEY img,
+#divGENE_SIMMONS img,
+#divPETER_CRISS img,
+#divERIC_CARR img,
+#divVINNIE_CINCENT img,
+#divBRUCE_KULICK img,
+#divTOMMY_THAYER img,
+#divERIC_SINGER img {
+    margin-bottom: 2%;
 }
 
 .css {

@@ -2,18 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>História do Guns N' Roses</title>
 
-    <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_america.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_guns_n_roses.css">
-
+    <link rel="stylesheet" type="text/css" href="css/historia_ac_dc.css">
 </head>
 
 <body>
@@ -25,30 +20,10 @@
             <p>
                 Guns N' Roses é uma banda de hard rock norte-americana formada em Los Angeles, Califórnia, em 1985 e que passou por várias mudanças
                 de formação e controvérsias desde a sua criação, sendo que hoje em dia o vocalista
-                <a href="#" onMouseOver="mostraLayer('divAR');" onMouseOut="escondeLayer('divAR');">Axl Rose</a>,
-                o guitarrista
-                <a href="#" onMouseOver="mostraLayer('divS');" onMouseOut="escondeLayer('divS');">Slash</a>
-                e o baixista
-                <a href="#" onMouseOver="mostraLayer('divDM');" onMouseOut="escondeLayer('divDM');">Duff McKagan</a>
-                são os únicos remanescentes da formação clássica
+                <a href="#">Axl Rose</a>,o guitarrista
+                <a href="#">Slash</a> e o baixista
+                <a href="#">Duff McKagan</a> são os únicos remanescentes da formação clássica
             </p>
-
-            <!--W. Axl Rose. Ficou conhecido como vocalista da banda de hard rock Guns N' Roses, com quem atingiu 
-                    popularidade, sucesso e reconhecimento no final dos anos 80 e início dos anos 90.
-                    <br />
-                     Foi anunciado como vocalista convidado da banda AC/DC enquanto  Brian Johnson cuidava da sua saúde. -->
-
-            <div id="divAR" name="nm_divAR">
-                <img class="css" src="img/guns n roses/ar.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divS" name="nm_divS">
-                <img class="css" src="img/guns n roses/s.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divDM" name="nm_divDM">
-                <img class="css" src="img/guns n roses/dm.jpg" width="150px;" height="130px;">
-            </div>
 
             <p>
                 A discografia da banda consiste em cinco álbuns de estúdio, dois EP, um álbum ao vivo e três DVDs, sendo que o álbum mais recente da
@@ -94,19 +69,11 @@
             <p>
                 Foi aclamado pela crítica, mas o álbum e seu primeiro single, "Welcome to the Jungle", ficaram um bom tempo sem muita exposição,
                 quase um ano, até que
-                <a href="#" onMouseOver="mostraLayer('divDG');" onMouseOut="escondeLayer('divDG');">David Geffen</a>
+                <a href="#">David Geffen</a>
                 pediu à MTV para transmitir o videoclipe da faixa. Apesar de inicialmente passar apenas de madrugada, logo o vídeo se tornou um dos mais
                 requisitados da emissora. O segundo single, "Sweet Child o' Mine", foi ainda mais bem-sucedido, e quando o terceiro, "Paradise City", foi
                 lançado, o álbum já tinha alcançado o topo das paradas.
             </p>
-
-            <div id="divDG" name="nm_divDG">
-                <p>
-                    <img class="css" src="img/guns n roses/dg.jpg" width="150px;" height="130px;">
-                    David Lawrence Geffen é um magnata dos negócios, produtor, executivo de filmagens e filantropo norte-americano. Geffen criou
-                    ou co-criou a Asylum Records em 1970, Geffen Records em 1980, DGC Records em 1990, e DreamWorks SKG em 1994.
-                </p>
-            </div>
 
             <h2>Rock and Roll Hall of Fame</h2>
 
@@ -133,8 +100,6 @@
         </div>
 
     </main>
-
-    <script type="text/javascript" src="js/Country.js"></script>
 
 </body>
 

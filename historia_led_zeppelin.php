@@ -2,18 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>História do Led Zeppelin</title>
 
-    <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_america.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_led_zeppelin.css">
-
+    <link rel="stylesheet" type="text/css" href="css/historia_ac_dc.css">
 </head>
 
 <body>
@@ -24,31 +19,11 @@
 
             <p>
                 Led Zeppelin foi uma banda britânica de rock formada em Londres, em 1968. Consistia no
-                guitarrista <a href="#" onMouseOver="mostraLayer('divJP');" onMouseOut="escondeLayer('divJP');"> Jimmy Page</a>,
-                no vocalista <a href="#" onMouseOver="mostraLayer('divRP');" onMouseOut="escondeLayer('divRP');"> Robert Plant</a>,
-                no baixista e tecladista <a href="#" onMouseOver="mostraLayer('divJPJ');" onMouseOut="escondeLayer('divJPJ');"> John Paul Jones</a> e
-                no baterista <a href="#" onMouseOver="mostraLayer('divJB');" onMouseOut="escondeLayer('divJB');"> John Bonham</a>.
-                Seu som pesado e violento de guitarra, enraizado no blues e música psicodélica de seus dois primeiros álbuns, é frequentemente
+                guitarrista <a href="#"> Jimmy Page</a>, no vocalista <a href="#"> Robert Plant</a>, no baixista e tecladista <a href="#"> John Paul Jones</a> e
+                no baterista <a href="#"> John Bonham</a>. Seu som pesado e violento de guitarra, enraizado no blues e música psicodélica de seus dois primeiros álbuns, é frequentemente
                 reconhecido como um dos fundadores do heavy metal. Seu estilo foi inspirado em uma grande variedade de influências, incluindo a
                 música folk, psicodélica e o blues.
             </p>
-
-            <div id="divJP" name="nm_divJP">
-                <img class="css" src="img/led zeppelin/jp.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divRP" name="nm_divRP">
-                <img class="css" src="img/led zeppelin/rp.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divJPJ" name="nm_divJPJ">
-                <img class="css" src="img/led zeppelin/jpj.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divJB" name="nm_divJB">
-                <img class="css" src="img/led zeppelin/jb.jpg" width="150px;" height="130px;">
-            </div>
-
 
             <p>
                 Depois de mudar seu antigo nome de New Yardbirds, para Led Zeppelin assinou um contrato favorável com a Atlantic Records, que lhes
@@ -106,8 +81,6 @@
         </div>
 
     </main>
-
-    <script type="text/javascript" src="js/Country.js"></script>
 
 </body>
 

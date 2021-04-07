@@ -207,67 +207,40 @@ include_once("header_curiosidades.php");
                         perfeita, que não faltava nada à ela.</p>
                 </div>
             </div>
-            <br /> <br />
 
-            <nav>
-                <button class="btn23" data-toggle="collapse" data-target="#demo23">Fontes</button>
-
-                <div id="demo23" class="collapse">
-                    <br />
-
-                    <ul>
-                        <li> - Leia mais em: <a href="https://www.letras.com.br/legiao-urbana/curiosidades">
-                                letras.com.br </a> ©2021</li>
-                    </ul>
-                </div>
-            </nav>
-            <br /><br />
-
-            <div class="albuns_acdc">
-                <a href="legiao_urbana.php"><button>Voltar para Albuns do Legião Urbana</button></a>
-            </div>
         </section>
 
         <div class="fotoac">
 
             <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Renato Russo </p>
-            <p class="ay_antes">Renato Russo </p>
-            <p class="bj_hj">Marcelo Bonfá </p>
-            <p class="bj_antes">Marcelo Bonfá </p>
-
-            <img src="img/legiao urbana/rr_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/rr_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Dado Villa Lobos </p>
-            <p class="ay_antes">Dado Villa Lobos </p>
-
-            <img src="img/legiao urbana/mb_hj.jpeg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/mb_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Renato Rocha </p>
-            <p class="bj_antes">Renato Rocha </p>
-
-            <img src="img/legiao urbana/dvl_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/dvl_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/rrocha_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/rrocha_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/05.png" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/09.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/10.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/11.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/12.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/legiao urbana/13.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_legiao" src="img/legiao urbana/rr_hj.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_2_legiao" src="img/legiao urbana/rr_antes.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_3_legiao" src="img/legiao urbana/mb_hj.jpeg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_4_legiao" src="img/legiao urbana/mb_antes.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_5_legiao" src="img/legiao urbana/dvl_hj.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_6_legiao" src="img/legiao urbana/dvl_antes.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_7_legiao" src="img/legiao urbana/rrocha_hj.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_8_legiao" src="img/legiao urbana/rrocha_antes.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_9_legiao" src="img/legiao urbana/01.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_10_legiao" src="img/legiao urbana/02.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_11_legiao" src="img/legiao urbana/03.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_12_legiao" src="img/legiao urbana/04.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_13_legiao" src="img/legiao urbana/05.png" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_14_legiao" src="img/legiao urbana/07.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_15_legiao" src="img/legiao urbana/08.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_16_legiao" src="img/legiao urbana/09.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_17_legiao" src="img/legiao urbana/10.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_18_legiao" src="img/legiao urbana/11.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_19_legiao" src="img/legiao urbana/12.jpg" alt="Foto dos integrantes da banda Legião Urbana">
+            <img id="foto_20_legiao" src="img/legiao urbana/13.jpg" alt="Foto dos integrantes da banda Legião Urbana">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="legiao_urbana.php"><button>Voltar para Albuns do Legião Urbana</button></a>
     </div>
 
     <footer id="rodape">

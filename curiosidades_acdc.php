@@ -10,7 +10,7 @@ include_once("header_curiosidades.php");
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre AC/DC</h1>
-        <br /><br />
+
 
         <section class="corpo_curiosidade_acdc">
 
@@ -229,65 +229,45 @@ include_once("header_curiosidades.php");
                     <p> AC/DC vendeu cerca de inacreditáveis 80 milhões de albuns desde a existência da banda!</p>
                 </div>
             </div>
-            <br /><br />
 
-            <div class="albuns_acdc">
-                <a href="acdc.php"><button>Voltar para os álbuns do AC/DC</button></a>
-            </div>
+
 
         </section>
 
         <div class="fotoac">
 
-            <h2>Álbum de Fotos do AC / DC</h2>
-            <p class="ay_hj">Anguns Young</p>
-            <p class="ay_antes">Anguns Young</p>
-            <p class="bj_hj">Brian Johnson</p>
-            <p class="bj_antes">Brian Johnson</p>
+            <h2>Álbum de Fotos</h2>
 
-            <img src="img/acdc/angusyoung_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/angusyoung_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Cliff Williams</p>
-            <p class="ay_antes">Cliff Williams</p>
-            <p class="bj_hj">Phil Rudd</p>
-            <p class="bj_antes">Phil Rudd</p>
-
-            <img src="img/acdc/brian johnson_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/brian johnson_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/cliffwilliams_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/cliffwilliams_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Stevie Young</p>
-            <p class="ay_antes">Stevie Young</p>
-            <p class="bj_hj">Malcolm Young</p>
-            <p class="bj_antes">Malcolm Young</p>
-
-            <img src="img/acdc/philrudd_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/philrudd_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/stevie young_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/stevie young_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/Malcolm Young_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/Malcolm Young_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Bon Scott</p>
-            <p class="ay_antes">Bon Scott</p>
-            <p class="bj_hj">Simon Wright</p>
-            <p class="bj_antes">Simon Wright</p>
-
-            <img src="img/acdc/bon scott_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/bon scott_inicio.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/Simon Wright_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/Simon Wright.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/0.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/acdc/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <div>
+                <img id="foto_1_acdc" src="img/acdc/angusyoung_hj.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_2_acdc" src="img/acdc/angusyoung_antes.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_3_acdc" src="img/acdc/brian johnson_hj.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_4_acdc" src="img/acdc/brian johnson_antes.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_5_acdc" src="img/acdc/cliffwilliams_hj.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_6_acdc" src="img/acdc/cliffwilliams_antes.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_7_acdc" src="img/acdc/philrudd_hj.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_8_acdc" src="img/acdc/philrudd_antes.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_9_acdc" src="img/acdc/stevie young_hj.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_10_acdc" src="img/acdc/stevie young_antes.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_11_acdc" src="img/acdc/Malcolm Young_hj.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_12_acdc" src="img/acdc/Malcolm Young_antes.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_13_acdc" src="img/acdc/bon scott_hj.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_14_acdc" src="img/acdc/bon scott_inicio.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_15_acdc" src="img/acdc/Simon Wright_hj.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_16_acdc" src="img/acdc/Simon Wright.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_17_acdc" src="img/acdc/0.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_18_acdc" src="img/acdc/02.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_19_acdc" src="img/acdc/05.jpg" alt="Foto dos integrantes da banda AC/DC">
+                <img id="foto_20_acdc" src="img/acdc/08.jpg" alt="Foto dos integrantes da banda AC/DC">
+                
+            </div>
 
         </div>
 
-    </div>
+        <div class="albuns_acdc">
+            <a href="acdc.php"><button>Voltar para os álbuns do AC/DC</button></a>
+        </div>
 
-    <footer id="rodape">
-        <?php include_once("footer_curiosidades.php"); ?>
-    </footer>
+        <footer id="rodape">
+            <?php include_once("footer_curiosidades.php"); ?>
+        </footer>

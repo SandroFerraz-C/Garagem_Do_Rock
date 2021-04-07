@@ -10,7 +10,6 @@ include_once("header_curiosidades.php");
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre Bon Jovi</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -216,62 +215,40 @@ include_once("header_curiosidades.php");
                         a banda fez questão de ter os ex-companheiros consigo no palco para celebrar esse momento juntos. </p>
                 </div>
             </div>
-            <br />
 
-            <div class="albuns_acdc">
-                <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
-            </div>
         </section>
 
         <div class="fotoac">
 
-            <h2>Álbum de Fotos do Bon Jovi</h2>
+            <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Bon Jovi</p>
-            <p class="ay_antes">Bon Jovi</p>
-            <p class="bj_hj">Richie Sambora </p>
-            <p class="bj_antes">Richie Sambora </p>
-
-            <img src="img/bon jovi/bon jovi_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/bon jovi_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Phil X </p>
-            <p class="ay_antes">Phil X </p>
-            <p class="bj_hj">Alec John</p>
-            <p class="bj_antes">Alec John</p>
-
-            <img src="img/bon jovi/rs_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/rs_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/px_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/px_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Hugh McDonald</p>
-            <p class="ay_antes">Hugh McDonald</p>
-            <p class="bj_hj">David Bryan</p>
-            <p class="bj_antes">David Bryan</p>
-
-            <img src="img/bon jovi/alec_hj.png" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/alec_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/hm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/hm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Tico Torres </p>
-            <p class="ay_antes">Tico Torres </p>
-
-            <img src="img/bon jovi/db_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/db_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <img src="img/bon jovi/tc_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/tt_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/bon jovi/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_bon" src="img/bon jovi/bon jovi_hj.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_2_bon" src="img/bon jovi/bon jovi_antes.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_2_bon" src="img/bon jovi/rs_hj.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_4_bon" src="img/bon jovi/rs_antes.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_5_bon" src="img/bon jovi/px_hj.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_6_bon" src="img/bon jovi/px_antes.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_7_bon" src="img/bon jovi/alec_hj.png" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_8_bon" src="img/bon jovi/alec_antes.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_8_bon" src="img/bon jovi/hm_hj.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_10_bon" src="img/bon jovi/hm_antes.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_11_bon" src="img/bon jovi/db_hj.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_12_bon" src="img/bon jovi/db_antes.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_13_bon" src="img/bon jovi/tc_hj.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_14_bon" src="img/bon jovi/tt_antes.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_15_bon" src="img/bon jovi/01.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_16_bon" src="img/bon jovi/02.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_17_bon" src="img/bon jovi/03.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_18_bon" src="img/bon jovi/05.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_19_bon" src="img/bon jovi/07.jpg" alt="Foto dos integrantes da banda Bon Jovi">
+            <img id="foto_20_bon" src="img/bon jovi/08.jpg" alt="Foto dos integrantes da banda Bon Jovi">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>
     </div>
 
     <footer id="rodape">

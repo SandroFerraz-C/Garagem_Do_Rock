@@ -35,7 +35,10 @@ include_once("header.php");
             <p>
                 Muitas coisas aconteceram na vida pessoal dos membros da banda após a turnê Have a Nice Day. "Se alguém tivesse dito: Você vai
                 escrever um disco em setembro, tendo saído da estrada em agosto", observou Bon Jovi em 2007, "eu teria dito não, porque não iria
-                repetir o erro de Slippery into New Jersey. Mas então eu comecei a observar as coisas acontecendo em nosso mundo. Richie se
+                repetir o erro de Slippery into New Jersey.
+            </p>
+
+            <p>Mas então eu comecei a observar as coisas acontecendo em nosso mundo. Richie se
                 divorciou e seu pai faleceu. Enquanto isso, Dave Davedivorciou-se e estava lutando pela custódia dos filhos. Observar a tristeza,
                 agravada por essas novas liberdades para Richie e Dave como indivíduos, me fez pensar sobre o que deveríamos escrever."
             </p>
@@ -49,7 +52,6 @@ include_once("header.php");
                         <td width="15%" height="10%">Nivel</td>
                         <td width="15%">Álbuns Vendidos</td>
                     </tr>
-
 
                     <tr>
                         <td width="15%"> Platina </td>
@@ -114,13 +116,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 49 min. 40 seg.</p>
             <p>Gravadora(s): Island Records.</p>
             <p>Produção: John ShanksJon, Bon Jovi, Richie Sambora, Rick Parashar, Dann Huff e Desmond Child. </p>
-            <br /><br />
-
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -128,72 +129,72 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divBON_JOVI" name="nm_divBON_JOVI">
+                    <p>
+                        <img class="css" src="img/bon jovi/bj.jpg" width="150px;" height="130px;">
+                        É o líder da banda Bon Jovi, que mantém algumas características do estilo hard rock dos anos 80 até hoje, mas assimilou influências dos
+                        variados estilos surgidos no rock e heavy metal. A banda Bon Jovi já vendeu mais de 130 milhões de
+                        álbuns em todo o mundo. A banda Bon Jovi ao passar dos anos veio a se tornar uma das bandas mais bem sucedidas da história do rock,
+                        quando se trata de turnês pelo mundo.
+                    </p>
+                </div>
+
+                <div id="divRICHIE_SAMBORA" name="nm_divRICHIE_SAMBORA">
+                    <p>
+                        <img class="css" src="img/bon jovi/rs.jpg" width="150px;" height="130px;">
+                        Richard "Richie" é um guitarrista, cantor e compositor norte-americano, conhecido
+                        por ter sido, até 2013, o guitarrista solo da banda de hard-rock Bon Jovi.
+                        <br />
+                        Antes de aparecer na banda Bon Jovi, participou de uma audição para tocar nos Kiss, mas, por achar que a banda não se adequava às suas
+                        expectativas como músico, pois possuíam influências e gêneros diferentes, não entrou na banda.
+                    </p>
+                </div>
+
+                <div id="divHUGH_MCDONALD" name="nm_divHUGH_MCDONALD">
+                    <p>
+                        <img class="css" src="img/bon jovi/hm.jpg" width="150px;" height="130px;">
+                        Hugh McDonald Começou a tocar baixo na adolescência, aprendeu tocando junto com os discos que ele ouvia,
+                        depois seus pais o aconselharam a ter aulas particulares, e assim ele fez.
+                        <br />
+                        É o atual baixista da banda Bon Jovi, ( De 1995 até 2016 era tido como baixista "freelancer" da banda).
+                        Em 2016, Hugh passou a ser considerado membro oficial a partir do disco This House Is Not for Sale.
+                    </p>
+                </div>
+
+                <div id="divDAVID_BRYAN" name="nm_divDAVID_BRYAN">
+                    <p>
+                        <img class="css" src="img/bon jovi/db.jpg" width="150px;" height="130px;">
+                        David Bryan Rashbaum é um multi-instrumentista e compositor estadunidense, mais conhecido
+                        como o tecladista da banda Bon Jovi.
+                        <br />
+                        Ele é um símbolo dos teclados, é considerado uns dos melhores tecladistas de bandas de rock; David Bryan toca teclado,
+                        piano, trompete e acordeon. Conheceu Jon quando tinha 16 anos.
+                    </p>
+                </div>
+
+                <div id="divTICO_TORRES" name="nm_divTICO_TORRES">
+                    <p>
+                        <img class="css" src="img/bon jovi/tt.jpg" width="150px;" height="130px;">
+                        Hector Samuel Juan "Tico" Torres é um músico cubano-americano, mais conhecido como
+                        o baterista da banda Bon Jovi.
+                        <br />
+                        Tico também é dono de uma linha de roupas para bebês chamada Rock Star Baby; Além de roupas para bebês, a Rock Star Baby também
+                        produz métodos de aprendizado e desenhos. Além disto, ele também tem licença de piloto de aeronave.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divBJ10');" onMouseOut="escondeLayer('divBJ10');">Jon Bon Jovi</a> – Vocal principal, Guitarras adicionais.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRS10');" onMouseOut="escondeLayer('divRS10');">Richie Sambora</a> – Guitarras principais e Vocal de apoio. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divHM10');" onMouseOut="escondeLayer('divHM10');">Hugh McDonald</a> – Baixo e Vocal de apoio. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDB10');" onMouseOut="escondeLayer('divDB10');">David Bryan</a> – Teclado e Vocal de apoio.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTT10');" onMouseOut="escondeLayer('divTT10');">Tico Torres</a> – Bateria e Percussão. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divBON_JOVI');" onMouseOut="escondeLayer('divBON_JOVI');">Jon Bon Jovi</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divRICHIE_SAMBORA');" onMouseOut="escondeLayer('divRICHIE_SAMBORA');">Richie Sambora</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divHUGH_MCDONALD');" onMouseOut="escondeLayer('divHUGH_MCDONALD');">Hugh McDonald</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDAVID_BRYAN');" onMouseOut="escondeLayer('divDAVID_BRYAN');">David Bryan</a> – Teclado.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divTICO_TORRES');" onMouseOut="escondeLayer('divTICO_TORRES');">Tico Torres</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divBJ10" name="nm_divBJ10">
-                <p>
-                    <img class="css" src="img/bon jovi/bj.jpg" width="150px;" height="130px;">
-                    É o líder da banda Bon Jovi, que mantém algumas características do estilo hard rock dos anos 80 até hoje, mas assimilou influências dos
-                    variados estilos surgidos no rock e heavy metal. A banda Bon Jovi já vendeu mais de 130 milhões de
-                    álbuns em todo o mundo. A banda Bon Jovi ao passar dos anos veio a se tornar uma das bandas mais bem sucedidas da história do rock,
-                    quando se trata de turnês pelo mundo.
-                </p>
-            </div>
-
-            <div id="divRS10" name="nm_divRS10">
-                <p>
-                    <img class="css" src="img/bon jovi/rs.jpg" width="150px;" height="130px;">
-                    Richard "Richie" é um guitarrista, cantor e compositor norte-americano, conhecido
-                    por ter sido, até 2013, o guitarrista solo da banda de hard-rock Bon Jovi.
-                    <br />
-                    Antes de aparecer na banda Bon Jovi, participou de uma audição para tocar nos Kiss, mas, por achar que a banda não se adequava às suas
-                    expectativas como músico, pois possuíam influências e gêneros diferentes, não entrou na banda.
-                </p>
-            </div>
-
-            <div id="divHM10" name="nm_divHM10">
-                <p>
-                    <img class="css" src="img/bon jovi/hm.jpg" width="150px;" height="130px;">
-                    Hugh McDonald Começou a tocar baixo na adolescência, aprendeu tocando junto com os discos que ele ouvia,
-                    depois seus pais o aconselharam a ter aulas particulares, e assim ele fez.
-                    <br />
-                    É o atual baixista da banda Bon Jovi, ( De 1995 até 2016 era tido como baixista "freelancer" da banda).
-                    Em 2016, Hugh passou a ser considerado membro oficial a partir do disco This House Is Not for Sale.
-                </p>
-            </div>
-
-            <div id="divDB10" name="nm_divDB10">
-                <p>
-                    <img class="css" src="img/bon jovi/db.jpg" width="150px;" height="130px;">
-                    David Bryan Rashbaum é um multi-instrumentista e compositor estadunidense, mais conhecido
-                    como o tecladista da banda Bon Jovi.
-                    <br />
-                    Ele é um símbolo dos teclados, é considerado uns dos melhores tecladistas de bandas de rock; David Bryan toca teclado,
-                    piano, trompete e acordeon. Conheceu Jon quando tinha 16 anos.
-                    <br /><br />
-                </p>
-            </div>
-
-            <div id="divTT10" name="nm_divTT10">
-                <p>
-                    <img class="css" src="img/bon jovi/tt.jpg" width="150px;" height="130px;">
-                    Hector Samuel Juan "Tico" Torres é um músico cubano-americano, mais conhecido como
-                    o baterista da banda Bon Jovi.
-                    <br />
-                    Tico também é dono de uma linha de roupas para bebês chamada Rock Star Baby; Além de roupas para bebês, a Rock Star Baby também
-                    produz métodos de aprendizado e desenhos. Além disto, ele também tem licença de piloto de aeronave.
-                    <br /><br />
-                </p>
-            </div>
 
             <footer>
                 <a href="bon_jovi.php"><button>Voltar para Albuns do Bon Jovi</button></a>

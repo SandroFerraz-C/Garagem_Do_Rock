@@ -29,53 +29,54 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divROBERTO_FREJAT" name="nm_divROBERTO_FREJAT">
+                    <p><img class="css" src="img/barao vermelho/rf.jpg" width="150px;" height="130px;">
+                        Roberto Frejat é um cantor, compositor, produtor e guitarrista brasileiro,
+                        notório por ser o principal parceiro de Cazuza em composições da banda Barão Vermelho e também na carreira solo do
+                        amigo, além de compor com/para outros artistas do cenário musical brasileiro.
+                    </p>
+                </div>
+
+                <div id="divMAURICIO_BARROS" name="nm_divMAURICIO_BARROS">
+                    <p><img class="css" src="img/barao vermelho/mb.jpg" width="150px;" height="130px;">
+                        Maurício Carvalho de Barros, "Maurício Barros" é um tecladista
+                        brasileiro e membro fundador da banda Barão Vermelho.
+                        <br />
+                        No final da década de 1980, foi vocalista e tecladista da banda Buana 4, chegando a gravar um LP e música em trilha
+                        sonora de telenovela.
+                    </p>
+                </div>
+
+                <div id="divDE" name="nm_divDE">
+                    <p><img class="css" src="img/barao vermelho/de.jpg" width="150px;" height="130px;">
+                        André Palmeira Cunha, ou simplesmente "Dé", é um compositor e baixista brasileiro, sendo um dos
+                        integrantes originais do Barão Vermelho até 1990.
+                        <br />
+                        Participou da banda Telefone Gol. Em 2011, juntou-se a Toni Platão, Dado Villa-Lobos e Charles Gavin para formar o
+                        supergrupo Panamericana, que toca sucessos do rock sul-americano.
+                    </p>
+                </div>
+
+                <div id="divGUTO_GOFFI" name="nm_divGUTO_GOFFI">
+                    <p><img class="css" src="img/barao vermelho/gg.jpg" width="150px;" height="130px;">
+                        Flávio Augusto Goffi Marquesini, "Guto Goffi", é um baterista brasileiro.
+                        <br />
+                        Começou a tocar bateria em 1978. Em 1982, fundou o Barão Vermelho, com o tecladista Maurício Barros. Permaneceu na
+                        banda em todas as suas formações. Com a saída de Cazuza, passou a atuar também como letrista e, mais tarde, produtor.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divRF05');" onMouseOut="escondeLayer('divRF05');">Roberto Frejat</a> – Vocal e Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divMB05');" onMouseOut="escondeLayer('divMB05');">Maurício Barros</a> – Teclados e Piano. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDE05');" onMouseOut="escondeLayer('divDE05');">Dé</a> – Baixo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGG05');" onMouseOut="escondeLayer('divGG05');">Guto Goffi</a> – Bateria e Percussão. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divROBERTO_FREJAT');" onMouseOut="escondeLayer('divROBERTO_FREJAT');">Roberto Frejat</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divMAURICIO_BARROS');" onMouseOut="escondeLayer('divMAURICIO_BARROS');">Maurício Barros</a> – Teclados.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDE');" onMouseOut="escondeLayer('divDE');">Dé</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGUTO_GOFFI');" onMouseOut="escondeLayer('divGUTO_GOFFI');">Guto Goffi</a> – Bateria.</li>
                 </ul>
             </nav>
-
-
-            <div id="divRF05" name="nm_divRF05">
-                <p><img class="css" src="img/barao vermelho/rf.jpg" width="150px;" height="130px;">
-                    Roberto Frejat é um cantor, compositor, produtor e guitarrista brasileiro,
-                    notório por ser o principal parceiro de Cazuza em composições da banda Barão Vermelho e também na carreira solo do
-                    amigo, além de compor com/para outros artistas do cenário musical brasileiro.
-                </p><br /><br /><br />
-            </div>
-
-            <div id="divMB05" name="nm_divMB05">
-                <p><img class="css" src="img/barao vermelho/mb.jpg" width="150px;" height="130px;">
-                    Maurício Carvalho de Barros, "Maurício Barros" é um tecladista
-                    brasileiro e membro fundador da banda Barão Vermelho.
-                    <br />
-                    No final da década de 1980, foi vocalista e tecladista da banda Buana 4, chegando a gravar um LP e música em trilha
-                    sonora de telenovela.
-                </p><br /><br /><br />
-            </div>
-
-            <div id="divDE05" name="nm_divDE05">
-                <p><img class="css" src="img/barao vermelho/de.jpg" width="150px;" height="130px;">
-                    André Palmeira Cunha, ou simplesmente "Dé", é um compositor e baixista brasileiro, sendo um dos
-                    integrantes originais do Barão Vermelho até 1990.
-                    <br />
-                    Participou da banda Telefone Gol. Em 2011, juntou-se a Toni Platão, Dado Villa-Lobos e Charles Gavin para formar o
-                    supergrupo Panamericana, que toca sucessos do rock sul-americano.
-                </p>
-            </div>
-
-            <div id="divGG05" name="nm_divGG05">
-                <p><img class="css" src="img/barao vermelho/gg.jpg" width="150px;" height="130px;">
-                    Flávio Augusto Goffi Marquesini, "Guto Goffi", é um baterista brasileiro.
-                    <br />
-                    Começou a tocar bateria em 1978. Em 1982, fundou o Barão Vermelho, com o tecladista Maurício Barros. Permaneceu na
-                    banda em todas as suas formações. Com a saída de Cazuza, passou a atuar também como letrista e, mais tarde, produtor.
-                </p><br /><br />
-            </div>
 
             <footer>
                 <a href="barao_vermelho.php"><button>Voltar para os álbuns do Barão Vermelho</button></a>

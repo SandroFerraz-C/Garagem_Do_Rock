@@ -38,7 +38,7 @@ include_once("header.php");
                 Foi um bônus para os fãs". A inclusão da música causou polêmica, com grupos de defesa da lei e de direitos das vítimas expressando indignação
                 com sua inclusão.
             </p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -120,12 +120,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 46 min. 03 seg.</p>
             <p>Gravadora(s): Geffen Records.</p>
             <p>Produção: Guns N' Roses e Mike Clink.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -133,78 +133,79 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divAXL_ROSE" name="nm_divAXL_ROSE">
+                    <p>
+                        <img class="css" src="img/guns n roses/ar.jpg" width="150px;" height="130px;">
+                        W. Axl Rose, é um cantor, compositor e multi-instrumentista norte-americano. Mais conhecido como vocalista da banda
+                        de hard rock Guns N' Roses, com quem alcançou sucesso mundial.
+                        <br />
+                        Foi anunciado como vocalista convidado da banda AC/DC enquanto Brian Johnson cuidava da sua saúde.
+                    </p>
+                </div>
+
+                <div id="divSLASH" name="nm_divSLASH">
+                    <p>
+                        <img class="css" src="img/guns n roses/s.jpg" width="150px;" height="130px;">
+                        Saul Hudson, conhecido pelo seu nome artístico Slash, é um guitarrista anglo-americano mundialmente famoso como integrante
+                        da formação clássica da banda Guns N' Roses, com quem alcançou sucesso mundial. Em 2021 iniciou uma carreira solo lançando três discos
+                        e realizou três turnês mundial.
+                        <br />
+                        Em 2016 voltou para os Guns N" Roses apóis 18 anos afastado da banda.
+                    </p>
+                </div>
+
+                <div id="GILBY_CLARKE" name="nm_GILBY_CLARKE">
+                    <p>
+                        <img class="css" src="img/guns n roses/gc.jpg" width="150px;" height="130px;">
+                        Gilbert J. "Gilby Clarke" é um músico, cantor, compositor e produtor musical americano. Ele foi guitarrista por 3
+                        anos do Guns N 'Roses, substituindo Izzy Stradlin em 1991 durante a Use Your Illusion Tour. Depois disso, Clarke
+                        seguiu para uma carreira solo tocando guitarra com Slash's, Kat Men, Heart, Nancy Sinatra, Kathy Valentine,
+                        MC5 e formando seu próprio grupo Rock - Supernova com membros do Metallica e Mötley Crüe.
+                    </p>
+                </div>
+
+                <div id="divDUFF_MCKAGAN" name="nm_divDUFF_MCKAGAN">
+                    <p>
+                        <img class="css" src="img/guns n roses/dm.jpg" width="150px;" height="130px;">
+                        Michael Andrew McKagan, "Duff McKagan" é um músico estadunidense. Ele é mais
+                        conhecido por ser membro fundador e baixista por quase 30 anos da banda de hard rock Guns N' Roses, com quem alcançou
+                        sucesso mundial e também que deixou no auge de sua fama em 1997. Durante seus últimos anos com a banda, ele lançou um
+                        álbum solo, Believe in Me (1993).
+                    </p>
+                </div>
+
+                <div id="divMATT_SORUM" name="nm_divMATT_SORUM">
+                    <p>
+                        <img class="css" src="img/guns n roses/ms.jpg" width="150px;" height="130px;">
+                        Matt Sorum ( Califórnia, 19 de novembro de 1960) é um baterista americano conhecido por seus trabalhos com - The Cult, - Guns N' Roses e
+                        - Velvet Revolver.
+                        <br />
+                        Foi introduzido no Rock and Roll Hall of Fame como membro do - Guns N' Roses em 2012.
+                    </p>
+                </div>
+
+                <div id="DIZZY_REED" name="nm_DIZZY_REED">
+                    <p>
+                        <img class="css" src="img/guns n roses/dr.jpg" width="150px;" height="130px;">
+                        Darren Dizzy Reed é um multi-instrumentista norte-americano. Ele é o tecladista que atua na banda Guns N' Roses desde 1990.
+                        <br />
+                        Começou a sua carreira no show da banda Guns N' Roses no Brasil no grande festival Rock in Rio de 1991.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divAR05');" onMouseOut="escondeLayer('divAR05');">Axl Rose</a> – Vocal Principa. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divSLS05');" onMouseOut="escondeLayer('divSLS05');">Slash</a> – Guitarra solo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGC05');" onMouseOut="escondeLayer('divGC05');">Gilby Clarke</a> – Guitarra rítimica. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDM05');" onMouseOut="escondeLayer('divDM05');">Duff McKagan</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divMS05');" onMouseOut="escondeLayer('divMS05');">Matt Sorum</a> – Bateria. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDR05');" onMouseOut="escondeLayer('divDR05');">Dizzy Reed</a> – Teclado e Vocal de apoio. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divAXL_ROSE');" onMouseOut="escondeLayer('divAXL_ROSE');">Axl Rose</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSLASH');" onMouseOut="escondeLayer('divSLASH');">Slash</a> – Guitarra solo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('GILBY_CLARKE');" onMouseOut="escondeLayer('GILBY_CLARKE');">Gilby Clarke</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDUFF_MCKAGAN');" onMouseOut="escondeLayer('divDUFF_MCKAGAN');">Duff McKagan</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divMATT_SORUM');" onMouseOut="escondeLayer('divMATT_SORUM');">Matt Sorum</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('DIZZY_REED');" onMouseOut="escondeLayer('DIZZY_REED');">Dizzy Reed</a> – Teclado.</li>
                 </ul>
             </nav>
-
-            <div id="divAR05" name="nm_divAR05">
-                <p>
-                    <img class="css" src="img/guns n roses/ar.jpg" width="150px;" height="130px;">
-                    W. Axl Rose, é um cantor, compositor e multi-instrumentista norte-americano. Mais conhecido como vocalista da banda
-                    de hard rock Guns N' Roses, com quem alcançou sucesso mundial.
-                    <br />
-                    Foi anunciado como vocalista convidado da banda AC/DC enquanto Brian Johnson cuidava da sua saúde.
-                </p><br /><br />
-            </div>
-
-            <div id="divSLS05" name="nm_divSLS05">
-                <p>
-                    <img class="css" src="img/guns n roses/s.jpg" width="150px;" height="130px;">
-                    Saul Hudson, conhecido pelo seu nome artístico Slash, é um guitarrista anglo-americano mundialmente famoso como integrante
-                    da formação clássica da banda Guns N' Roses, com quem alcançou sucesso mundial. Em 2021 iniciou uma carreira solo lançando três discos
-                    e realizou três turnês mundial.
-                    <br />
-                    Em 2016 voltou para os Guns N" Roses apóis 18 anos afastado da banda.
-                </p>
-            </div>
-
-            <div id="divGC05" name="nm_divGC05">
-                <p>
-                    <img class="css" src="img/guns n roses/gc.jpg" width="150px;" height="130px;">
-                    Gilbert J. "Gilby Clarke" é um músico, cantor, compositor e produtor musical americano. Ele foi guitarrista por 3
-                    anos do Guns N 'Roses, substituindo Izzy Stradlin em 1991 durante a Use Your Illusion Tour. Depois disso, Clarke
-                    seguiu para uma carreira solo tocando guitarra com Slash's, Kat Men, Heart, Nancy Sinatra, Kathy Valentine,
-                    MC5 e formando seu próprio grupo Rock - Supernova com membros do Metallica e Mötley Crüe.
-                </p>
-            </div>
-
-            <div id="divDM05" name="nm_divDM05">
-                <p>
-                    <img class="css" src="img/guns n roses/dm.jpg" width="150px;" height="130px;">
-                    Michael Andrew McKagan, "Duff McKagan" é um músico estadunidense. Ele é mais
-                    conhecido por ser membro fundador e baixista por quase 30 anos da banda de hard rock Guns N' Roses, com quem alcançou
-                    sucesso mundial e também que deixou no auge de sua fama em 1997. Durante seus últimos anos com a banda, ele lançou um
-                    álbum solo, Believe in Me (1993).
-                </p><br />
-            </div>
-
-            <div id="divMS05" name="nm_divMS05">
-                <p>
-                    <img class="css" src="img/guns n roses/ms.jpg" width="150px;" height="130px;">
-                    Matt Sorum ( Califórnia, 19 de novembro de 1960) é um baterista americano conhecido por seus trabalhos com - The Cult, - Guns N' Roses e
-                    - Velvet Revolver.
-                    <br />
-                    Foi introduzido no Rock and Roll Hall of Fame como membro do - Guns N' Roses em 2012.
-                </p><br /><br />
-            </div>
-
-            <div id="divDR05" name="nm_divDR05">
-                <p>
-                    <img class="css" src="img/guns n roses/dr.jpg" width="150px;" height="130px;">
-                    Darren Dizzy Reed é um multi-instrumentista norte-americano. Ele é o tecladista que atua na banda Guns N' Roses desde 1990.
-                    <br />
-                    Começou a sua carreira no show da banda Guns N' Roses no Brasil no grande festival Rock in Rio de 1991.
-                </p><br /><br /><br />
-            </div>
-            <br />
 
             <a href="guns_n_roses.php"><button>Voltar para Albuns do Guns N' Roses</button></a>
             <a href="index.php"><button>Home</button></a>
@@ -213,11 +214,8 @@ include_once("header.php");
         </section>
 
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

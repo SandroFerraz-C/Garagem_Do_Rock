@@ -36,7 +36,7 @@ include_once("header.php");
                 no topo da lista dos "10 melhores álbuns de rock de todos os tempos" da revista Kerrang! Este álbum está na lista dos #200 álbuns
                 definitivos no Rock and Roll Hall of Fame.
             </p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -46,7 +46,6 @@ include_once("header.php");
                         <td width="15%" height="10%">Nivel</td>
                         <td width="15%">Álbuns Vendidos</td>
                     </tr>
-
 
                     <tr>
                         <td width="15%"> 18X Platina</td>
@@ -103,12 +102,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 53 min. 49 seg.</p>
             <p>Gravadora(s): Geffen Records.</p>
             <p>Produção: Mike Clink.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -116,64 +115,65 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divAXL_ROSE" name="nm_divAXL_ROSE">
+                    <p>
+                        <img class="css" src="img/guns n roses/ar.jpg" width="150px;" height="130px;">
+                        W. Axl Rose, é um cantor, compositor e multi-instrumentista norte-americano. Mais conhecido como vocalista da banda
+                        de hard rock Guns N' Roses, com quem alcançou sucesso mundial.
+                        <br />
+                        Foi anunciado como vocalista convidado da banda AC/DC enquanto Brian Johnson cuidava da sua saúde.
+                    </p>
+                </div>
+
+                <div id="divSLASH" name="nm_divSLASH">
+                    <p>
+                        <img class="css" src="img/guns n roses/s.jpg" width="150px;" height="130px;">
+                        Saul Hudson, conhecido pelo seu nome artístico Slash, é um guitarrista anglo-americano mundialmente famoso como integrante
+                        da formação clássica da banda Guns N' Roses, com quem alcançou sucesso mundial. Em 2011 iniciou uma carreira solo lançando três discos
+                        e realizou três turnês mundial.
+                        <br />
+                        Em 2016 voltou para os Guns N" Roses apóis 18 anos afastado da banda.
+                    </p>
+                </div>
+
+                <div id="divIZZI_STRADLIN" name="nm_divIZZI_STRADLIN">
+                    <p>
+                        <img class="css" src="img/guns n roses/is.jpg" width="150px;" height="130px;">
+                        Jeffrey Dean Isbell, conhecido pelo seu nome artístico Izzy Stradlin, é um músico e compositor estadunidense. Ele é
+                        mais conhecido como co-fundador e ex-guitarrista base por durante seis anos da banda Guns N' Roses, que a deixou no
+                        auge de sua fama em 1991. Após a sua saída, Stradlin lançou dez álbuns solo, os seis últimos de forma independente.
+                    </p>
+                </div>
+
+                <div id="divDUFF_MCKAGAN" name="nm_divDUFF_MCKAGAN">
+                    <p>
+                        <img class="css" src="img/guns n roses/dm.jpg" width="150px;" height="130px;">
+                        Michael Andrew McKagan, "Duff McKagan" é um músico estadunidense. Ele é mais
+                        conhecido por ser membro fundador e baixista por quase 30 anos da banda de hard rock Guns N' Roses, com quem alcançou
+                        sucesso mundial e também que deixou no auge de sua fama em 1997. Durante seus últimos anos com a banda, ele lançou um
+                        álbum solo, Believe in Me (1993).
+                    </p>
+                </div>
+
+                <div id="divSTEVEN_ADLER" name="nm_divSTEVEN_ADLER">
+                    <p>
+                        <img class="css" src="img/guns n roses/sa.jpg" width="150px;" height="130px;">
+                        Steven Adler é um baterista e compositor americano e foi membro da formação clássica da banda Guns N' Roses.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divAR01');" onMouseOut="escondeLayer('divAR01');">Axl Rose</a> – Vocal Principa. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divSLS01');" onMouseOut="escondeLayer('divSLS01');">Slash</a> – Guitarra solo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divIS01');" onMouseOut="escondeLayer('divIS01');">Izzy Stradlin</a> – Guitarra rítimica. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDM01');" onMouseOut="escondeLayer('divDM01');">Duff McKagan</a> – Guitarra rítimica. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divSA01');" onMouseOut="escondeLayer('divSA01');">Steven Adler</a> – Guitarra rítimica. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divAXL_ROSE');" onMouseOut="escondeLayer('divAXL_ROSE');">Axl Rose</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSLASH');" onMouseOut="escondeLayer('divSLASH');">Slash</a> – Guitarra Solo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divIZZI_STRADLIN');" onMouseOut="escondeLayer('divIZZI_STRADLIN');">Izzy Stradlin</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDUFF_MCKAGAN');" onMouseOut="escondeLayer('divDUFF_MCKAGAN');">Duff McKagan</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSTEVEN_ADLER');" onMouseOut="escondeLayer('divSTEVEN_ADLER');">Steven Adler</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divAR01" name="nm_divAR01">
-                <p>
-                    <img class="css" src="img/guns n roses/ar.jpg" width="150px;" height="130px;">
-                    W. Axl Rose, é um cantor, compositor e multi-instrumentista norte-americano. Mais conhecido como vocalista da banda
-                    de hard rock Guns N' Roses, com quem alcançou sucesso mundial.
-                    <br />
-                    Foi anunciado como vocalista convidado da banda AC/DC enquanto Brian Johnson cuidava da sua saúde.
-                </p><br /><br />
-            </div>
-
-            <div id="divSLS01" name="nm_divSLS01">
-                <p>
-                    <img class="css" src="img/guns n roses/s.jpg" width="150px;" height="130px;">
-                    Saul Hudson, conhecido pelo seu nome artístico Slash, é um guitarrista anglo-americano mundialmente famoso como integrante
-                    da formação clássica da banda Guns N' Roses, com quem alcançou sucesso mundial. Em 2011 iniciou uma carreira solo lançando três discos
-                    e realizou três turnês mundial.
-                    <br />
-                    Em 2016 voltou para os Guns N" Roses apóis 18 anos afastado da banda.
-                </p>
-            </div>
-
-            <div id="divIS01" name="nm_divIS01">
-                <p>
-                    <img class="css" src="img/guns n roses/is.jpg" width="150px;" height="130px;">
-                    Jeffrey Dean Isbell, conhecido pelo seu nome artístico Izzy Stradlin, é um músico e compositor estadunidense. Ele é
-                    mais conhecido como co-fundador e ex-guitarrista base por durante seis anos da banda Guns N' Roses, que a deixou no
-                    auge de sua fama em 1991. Após a sua saída, Stradlin lançou dez álbuns solo, os seis últimos de forma independente.
-                </p><br />
-            </div>
-
-            <div id="divDM01" name="nm_divDM01">
-                <p>
-                    <img class="css" src="img/guns n roses/dm.jpg" width="150px;" height="130px;">
-                    Michael Andrew McKagan, "Duff McKagan" é um músico estadunidense. Ele é mais
-                    conhecido por ser membro fundador e baixista por quase 30 anos da banda de hard rock Guns N' Roses, com quem alcançou
-                    sucesso mundial e também que deixou no auge de sua fama em 1997. Durante seus últimos anos com a banda, ele lançou um
-                    álbum solo, Believe in Me (1993).
-                </p><br />
-            </div>
-
-            <div id="divSA01" name="nm_divSA01">
-                <p>
-                    <img class="css" src="img/guns n roses/sa.jpg" width="150px;" height="130px;">
-                    Steven Adler é um baterista e compositor americano e foi membro da formação clássica da banda Guns N' Roses.
-                </p><br /><br /><br /><br /><br />
-            </div>
-            <br /><br />
 
             <footer>
                 <a href="guns_n_roses.php"><button>Voltar para os álbuns do Guns N' Roses</button></a>

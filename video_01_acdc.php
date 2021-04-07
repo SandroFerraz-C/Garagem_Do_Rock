@@ -3,23 +3,20 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Loja da Garagem</title>
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <title>AC/DC</title>
     <link href="css/css_loja.css" rel="stylesheet" />
-
 </head>
 
 <body>
 
+    <iframe class="video" src="https://www.youtube.com/embed/gEPmA3USJdI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <iframe width="560" height="445" src="https://www.youtube.com/embed/gEPmA3USJdI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    <div class="letra_01_acdc">
+    <div class="letra">
 
         <h1>Highway To Hell</h1>
-        <br />
 
-        <h1>Rodovia Para o Inferno</h1>
-        <br /> <br />
+        <h2>Rodovia Para o Inferno</h2>
 
         <p>
             Vivendo suavemente, vivendo livre
@@ -28,7 +25,8 @@
             <br />
             Sem perguntas, me deixe estar
             <br />
-            Pegando tudo em meu caminho</p>
+            Pegando tudo em meu caminho
+        </p>
         <br />
 
         <p>

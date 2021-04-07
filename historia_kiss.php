@@ -2,18 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>História do Kiss</title>
 
-    <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_america.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_kiss.css">
-
+    <link rel="stylesheet" type="text/css" href="css/historia_ac_dc.css">
 </head>
 
 <body>
@@ -24,49 +19,23 @@
 
             <p>
                 Kiss é uma banda de hard rock dos Estados Unidos, formada em Nova Iorque em 1973 por
-                <a href="#" onMouseOver="mostraLayer('divPS');" onMouseOut="escondeLayer('divPS');">Paul Stanley</a> ( Vocal e Guitarra base) e
-                <a href="#" onMouseOver="mostraLayer('divGS');" onMouseOut="escondeLayer('divGS');">Gene Simmons</a> (Baixo e Vocal).
+                <a href="#">Paul Stanley</a> ( Vocal e Guitarra base) e
+                <a href="#">Gene Simmons</a> (Baixo e Vocal).
                 Conhecida mundialmente por suas maquiagens, e por seus concertos que incluem guitarras esfumaçantes, cuspir fogo e sangue,
                 pirotecnias e outros efeitos. Antes de chegarem à sua formação atual, a banda passou por algumas mudanças, sendo Stanley e Simmons
                 os dois últimos integrantes da formação original da banda. O Kiss já recebeu 28 discos de ouro. Desde sua formação, a banda já
                 vendeu mais de 125 milhões de álbuns mundialmente.
             </p>
 
-            <div id="divPS" name="nm_divPS">
-                <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divGS" name="nm_divGS">
-                <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
-            </div>
-
             <p>
                 Constitui um dos maiores impactos culturais da década de 1970, valendo-se de roupas e, sobretudo, maquiagens nunca antes vistas,
                 que marcariam a história da música. Seus dois fundadores Paul Stanley e Gene Simmons, que ficaram frustrados com o fim de uma
                 banda que formavam, chamada "Wicked Lester", decidindo, assim, procurar novos integrantes para uma nova banda. Encontraram tais
                 integrantes através de anúncio de jornal -
-                <a href="#" onMouseOver="mostraLayer('divAF');" onMouseOut="escondeLayer('divAF');"> Ace Frehley</a> (Guitarra solo e Vocal) e,
-                pela revista Rolling Stone,
-                <a href="#" onMouseOver="mostraLayer('divPC');" onMouseOut="escondeLayer('divPC');"> Peter Criss</a> (Bateria e Vocal). A formação
-                original da banda, com
-                <a href="#" onMouseOver="mostraLayer('divTJ');" onMouseOut="escondeLayer('divTJ');">Paul Stanley</a>,
-                <a href="#" onMouseOver="mostraLayer('divTJ');" onMouseOut="escondeLayer('divTJ');">Gene Simmons</a>,
-                <a href="#" onMouseOver="mostraLayer('divTJ');" onMouseOut="escondeLayer('divTJ');">Ace Frehley</a> e
-                <a href="#" onMouseOver="mostraLayer('divTJ');" onMouseOut="escondeLayer('divTJ');">Peter Criss</a>,
-                foi introduzida ao Rock and Roll Hall of Fame em 10 de abril de 2014.
+                <a href="#"> Ace Frehley</a> (Guitarra solo e Vocal) e, pela revista Rolling Stone, <a href="#"> Peter Criss</a> (Bateria e Vocal). A formação
+                original da banda, com <a href="#">Paul Stanley</a>, <a href="#">Gene Simmons</a>, <a href="#">Ace Frehley</a> e
+                <a href="#">Peter Criss</a>, foi introduzida ao Rock and Roll Hall of Fame em 10 de abril de 2014.
             </p>
-
-            <div id="divAF" name="nm_divAF">
-                <img class="css" src="img/kiss/af.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divPC" name="nm_divPC">
-                <img class="css" src="img/kiss/pc.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divTJ" name="nm_divTJ">
-                <img class="css" src="img/kiss/pgap.jpg" width="150px;" height="130px;">
-            </div>
 
             <p>
                 Depois do fim do grupo Wicked Lester, Paul Stanley e Gene Simmons decidiram criar uma nova banda para ser um supergrupo. Para isso,
@@ -116,7 +85,9 @@
                 alcoolismo e ao vício em drogas do guitarrista ). Frehley ainda revelou que ficou muito surpreso quando o guitarrista Tommy Thayer
                 apareceu utilizando a maquiagem de "Spaceman", que era sua: "Quando vi, pensei: 'Será que nada é sagrado para esses caras?'.
                 Mas logo percebi que a sanha de Paul e Gene para ganhar dinheiro sempre foi maior que qualquer senso de lógica ou justiça".
-                <br /><br />
+            </p>
+
+            <p>
 
                 Em 2012, o vocalista do Aerosmith, Steven Tyler, criticou o Kiss, chamando-os de "banda de rock 'n roll dos quadrinhos",
                 contando que seus roadies ( Roadie é um técnico de espetáculo musical. Um especialista normalmente em determinado instrumento; )
@@ -132,8 +103,6 @@
         </div>
 
     </main>
-
-    <script type="text/javascript" src="js/Country.js"></script>
 
 </body>
 

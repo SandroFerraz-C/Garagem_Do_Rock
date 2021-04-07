@@ -11,7 +11,6 @@ include_once("header_curiosidades.php");
     <div class="curiosidade_acdc">
 
         <h1>Curiosidades sobre Deep Purple</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -235,61 +234,40 @@ include_once("header_curiosidades.php");
                         faixas como ‘Smoke on the Water’ e ‘Highway Star’.</p>
                 </div>
             </div>
-            <br />
 
-            <div class="albuns_acdc">
-                <a href="deep_purple.php"><button>Voltar para Albuns do Deep Purple</button></a>
-            </div>
         </section>
 
         <div class="fotoac">
 
             <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Ian Gillan</p>
-            <p class="ay_antes">Ian Gillan</p>
-            <p class="bj_hj">Ritchie Blackmore</p>
-            <p class="bj_antes">Ritchie Blackmore</p>
-
-            <img src="img/deep purple/ig_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/ig_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Steve Morse </p>
-            <p class="ay_antes">Steve Morse </p>
-            <p class="bj_hj">Roger Glover</p>
-            <p class="bj_antes">Roger Glover</p>
-
-            <img src="img/deep purple/rblack_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/rblack_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/sm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/sm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/rg_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/rg_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">jon lord </p>
-            <p class="ay_antes">jon lord </p>
-            <p class="bj_hj">Don Airey</p>
-            <p class="bj_antes">Don Airey</p>
-
-            <img src="img/deep purple/jl_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/jl_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Ian Paice </p>
-            <p class="ay_antes">Ian Paice </p>
-
-            <img src="img/deep purple/da-hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/da_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/ip_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/ip_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/deep purple/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_deep" src="img/deep purple/ig_hj.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_2_deep" src="img/deep purple/ig_antes.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_3_deep" src="img/deep purple/rblack_hj.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_4_deep" src="img/deep purple/rblack_antes.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_5_deep" src="img/deep purple/sm_hj.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_6_deep" src="img/deep purple/sm_antes.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_7_deep" src="img/deep purple/rg_hj.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_8_deep" src="img/deep purple/rg_antes.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_9_deep" src="img/deep purple/jl_hj.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_10_deep" src="img/deep purple/jl_antes.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_11_deep" src="img/deep purple/da-hj.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_12_deep" src="img/deep purple/da_antes.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_13_deep" src="img/deep purple/ip_hj.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_14_deep" src="img/deep purple/ip_antes.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_15_deep" src="img/deep purple/01.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_16_deep" src="img/deep purple/02.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_17_deep" src="img/deep purple/03.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_18_deep" src="img/deep purple/05.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_19_deep" src="img/deep purple/06.jpg" alt="Foto dos integrantes da banda Deep Purple">
+            <img id="foto_20_deep" src="img/deep purple/07.jpg" alt="Foto dos integrantes da banda Deep Purple">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="deep_purple.php"><button>Voltar para Albuns do Deep Purple</button></a>
     </div>
 
     <footer id="rodape">

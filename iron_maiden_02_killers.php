@@ -69,12 +69,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 41 min. 29 seg.</p>
             <p>Gravadora(s): EMI.</p>
             <p>Produção: Martin Birch.</p>
-            <br /><br />
+            <br />
 
 
             <section class="disco">
@@ -83,69 +83,70 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="PAUL_DIANNO" name="nm_PAUL_DIANNO">
+                    <p>
+                        <img class="css" src="img/iron maiden/pd.jpg" width="150px;" height="130px;">
+                        Paul Andrews, também conhecido como Paul Di'Anno ( 17 de maio de 1958) é um cantor inglês. É mais conhecido pelo
+                        seu trabalho como vocalista do Iron Maiden de 1978 a 1981.
+                        <br />
+                        Durante a adolescência cantou em várias bandas de rock enquanto trabalhava como açougueiro e cozinheiro. Ele entrou
+                        no Iron Maiden após a saída de Dennis Wilcock.
+                    </p>
+                </div>
+
+                <div id="divSTEVE_HARRIS" name="nm_divSTEVE_HARRIS">
+                    <p>
+                        <img class="css" src="img/iron maiden/sh.jpg" width="150px;" height="130px;">
+                        Stephen Percy "Steve" Harris ( 12 de março de 1956) é um músico e compositor inglês, conhecido por ser baixista,
+                        principal compositor, tecladista (nas gravações em studio), co-produtor e fundador da banda britânica de heavy metal
+                        Iron Maiden. Ele é o único integrante a permanecer na banda desde sua criação, e junto com o guitarrista Dave Murray
+                        são os únicos a tocar em todos os álbuns.
+                    </p>
+                </div>
+
+                <div id="divDAVE_MURRAY" name="nm_divDAVE_MURRAY">
+                    <p>
+                        <img class="css" src="img/iron maiden/dm.jpg" width="150px;" height="130px;">
+                        "Dave" Murray ( 23 de dezembro de 1956) é um músico britânico, conhecido por ser o guitarrista do Iron Maiden.
+                        Dave está no Iron Maiden desde de 1976, saiu por um breve período
+                        em 1977, porém na primavera do ano seguinte Murray foi convidado a se juntar novamente com o Iron Maiden, no qual
+                        ele permaneceu até hoje. É amplamente considerado um dos melhores e mais influentes guitarristas da história do
+                        heavy metal.
+                    </p>
+                </div>
+
+                <div id="divCLIVE_BURR" name="nm_divCLIVE_BURR">
+                    <p>
+                        <img class="css" src="img/iron maiden/cb.jpg" width="150px;" height="130px;">
+                        Clive Ronald Burr (Londres, 8 de março de 1957 - Londres, 12 de março de 2013) foi um baterista inglês, famoso ao
+                        participar da banda de heavy metal Iron Maiden no qual ficou no período de 1979 até 1982, gravando os três
+                        primeiros álbuns da banda. Ficou em #20° lugar na lista dos "50 melhores bateristas de hard rock e metal de todos
+                        os tempos" do site Loudwire.
+                    </p>
+                </div>
+
+                <div id="divADRIAN_SMITH" name="nm_divADRIAN_SMITH">
+                    <p>
+                        <img class="css" src="img/iron maiden/as.jpg" width="150px;" height="130px;">
+                        Adrian Frederick Smith é um guitarrista inglês conhecido por tocar na banda Iron Maiden. É considerado, junto de
+                        Dave Murray, um dos melhores e mais influentes guitarristas de todos os tempos. Integrou-se à banda logo após a
+                        saída de Dennis Straton, por indicação de seu amigo Dave Murray. Adrian manteve-se no Maiden durante 9 anos (1981-1990),
+                        e voltou junto com Bruce Dickinson em 1999, depois de gravar dois álbuns solo do vocalista.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divPD02');" onMouseOut="escondeLayer('divPD02');">Paul Di'Anno</a> – Vocal. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divSH02');" onMouseOut="escondeLayer('divSH02');">Steve Harris</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDM02');" onMouseOut="escondeLayer('divDM02');">Dave Murray</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divCB02');" onMouseOut="escondeLayer('divCB02');">Clive Burr</a> – Bateria. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divAS02');" onMouseOut="escondeLayer('divAS02');">Adrian Smith</a> – Guitarra. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('PAUL_DIANNO');" onMouseOut="escondeLayer('PAUL_DIANNO');">Paul Di'Anno</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSTEVE_HARRIS');" onMouseOut="escondeLayer('divSTEVE_HARRIS');">Steve Harris</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDAVE_MURRAY');" onMouseOut="escondeLayer('divDAVE_MURRAY');">Dave Murray</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divCLIVE_BURR');" onMouseOut="escondeLayer('divCLIVE_BURR');">Clive Burr</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divADRIAN_SMITH');" onMouseOut="escondeLayer('divADRIAN_SMITH');">Adrian Smith</a> – Guitarra.</li>
                 </ul>
             </nav>
-
-            <div id="divPD02" name="nm_divPD02">
-                <p>
-                    <img class="css" src="img/iron maiden/pd.jpg" width="150px;" height="130px;">
-                    Paul Andrews, também conhecido como Paul Di'Anno ( 17 de maio de 1958) é um cantor inglês. É mais conhecido pelo
-                    seu trabalho como vocalista do Iron Maiden de 1978 a 1981.
-                    <br />
-                    Durante a adolescência cantou em várias bandas de rock enquanto trabalhava como açougueiro e cozinheiro. Ele entrou
-                    no Iron Maiden após a saída de Dennis Wilcock.
-                </p>
-            </div>
-
-            <div id="divSH02" name="nm_divSH02">
-                <p>
-                    <img class="css" src="img/iron maiden/sh.jpg" width="150px;" height="130px;">
-                    Stephen Percy "Steve" Harris ( 12 de março de 1956) é um músico e compositor inglês, conhecido por ser baixista,
-                    principal compositor, tecladista (nas gravações em studio), co-produtor e fundador da banda britânica de heavy metal
-                    Iron Maiden. Ele é o único integrante a permanecer na banda desde sua criação, e junto com o guitarrista Dave Murray
-                    são os únicos a tocar em todos os álbuns.
-                </p>
-            </div>
-
-            <div id="divDM02" name="nm_divDM02">
-                <p>
-                    <img class="css" src="img/iron maiden/dm.jpg" width="150px;" height="130px;">
-                    "Dave" Murray ( 23 de dezembro de 1956) é um músico britânico, conhecido por ser o guitarrista do Iron Maiden.
-                    Dave está no Iron Maiden desde de 1976, saiu por um breve período
-                    em 1977, porém na primavera do ano seguinte Murray foi convidado a se juntar novamente com o Iron Maiden, no qual
-                    ele permaneceu até hoje. É amplamente considerado um dos melhores e mais influentes guitarristas da história do
-                    heavy metal.
-                </p>
-            </div>
-
-            <div id="divCB02" name="nm_divCB02">
-                <p>
-                    <img class="css" src="img/iron maiden/cb.jpg" width="150px;" height="130px;">
-                    Clive Ronald Burr (Londres, 8 de março de 1957 - Londres, 12 de março de 2013) foi um baterista inglês, famoso ao
-                    participar da banda de heavy metal Iron Maiden no qual ficou no período de 1979 até 1982, gravando os três
-                    primeiros álbuns da banda. Ficou em #20° lugar na lista dos "50 melhores bateristas de hard rock e metal de todos
-                    os tempos" do site Loudwire.
-                </p>
-            </div>
-
-            <div id="divAS02" name="nm_divAS02">
-                <p>
-                    <img class="css" src="img/iron maiden/as.jpg" width="150px;" height="130px;">
-                    Adrian Frederick Smith é um guitarrista inglês conhecido por tocar na banda Iron Maiden. É considerado, junto de
-                    Dave Murray, um dos melhores e mais influentes guitarristas de todos os tempos. Integrou-se à banda logo após a
-                    saída de Dennis Straton, por indicação de seu amigo Dave Murray. Adrian manteve-se no Maiden durante 9 anos (1981-1990),
-                    e voltou junto com Bruce Dickinson em 1999, depois de gravar dois álbuns solo do vocalista.
-                </p>
-            </div>
-            <br />
 
             <footer>
                 <a href="iron_maiden.php"><button>Voltar para os álbuns do Iron Maiden</button></a>

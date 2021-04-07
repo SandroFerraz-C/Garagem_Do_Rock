@@ -30,12 +30,12 @@ include_once("header.php");
                 lançado do álbum, "Jungle", alcançou a posição #8 no Mainstream Rock dos EUA. Nenhum videoclipe foi feito para promover o single,
                 que mais tarde ganhou o Prêmio de Escolha dos Leitores do Metal Edge de 1997 para Canção do Ano.
             </p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 60 min. 01 seg.</p>
             <p>Gravadora(s): Mercury Records.</p>
             <p>Produção: Toby Wright, Gene Simmons e Paul Stanley.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -43,53 +43,55 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divPAUL_STANLEY" name="nm_divPAUL_STANLEY">
+                    <p>
+                        <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
+                        Paul Stanley é um cantor, compositor e pintor americano, mais conhecido por ser o co-fundador, vocalista,
+                        guitarrista rítmico e co-vocalista ddo Kiss. Ele é o escritor ou co-escritor de muitos dos maiores sucessos da banda.
+                        Stanley estabeleceu o personagem Starchild e é conhecido por sua voz distinta e abrangente.
+                    </p>
+                </div>
+
+                <div id="divBRUCE_KULICK" name="nm_divBRUCE_KULICK">
+                    <p>
+                        <img class="css" src="img/kiss/bk.jpg" width="150px;" height="130px;">
+                        Bruce Howard Kulick é um guitarrista, músico americano e desde 2000 membro da banda Grand Funk Railroad.
+                        Anteriormente, Kulick foi um membro de longa data da banda Kiss (1984–1996). Ele também foi membro do Union com
+                        John Corabi de 1997–2002 e Blackjack de 1979–1980.
+                    </p>
+                </div>
+
+                <div id="divGENE_SIMMONS" name="nm_divGENE_SIMMONS">
+                    <p>
+                        <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
+                        Gene Klein, conhecido profissionalmente como Gene Simmons, é um músico, cantor, compositor, produtor musical,
+                        empresário, ator, autor e personalidade da televisão americana. Também conhecido por seu personagem de palco,
+                        The Demon, ele é o baixista e co-vocalista do Kiss, a banda de rock que ele co-fundou com Paul Stanley no início dos
+                        anos 1970.
+                    </p>
+                </div>
+
+                <div id="divERIC_CARR" name="nm_divERIC_CARR">
+                    <p>
+                        <img class="css" src="img/kiss/ecarr.jpg" width="150px;" height="130px;">
+                        Paul Charles Caravello, "Eric Carr", foi um músico e multi-instrumentista
+                        que foi baterista da banda de rock Kiss de 1980 a 1991. Caravello foi escolhido como o novo baterista
+                        do Kiss após a saída de Peter Criss, quando escolheu o nome artístico de "Eric Carr". Ele permaneceu como membro
+                        do Kiss até sua morte de câncer no coração em 24 de novembro de 1991, aos 41 anos.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divPS17');" onMouseOut="escondeLayer('divPS17');">Paul Stanley</a> – Vocal e Guitarra Base. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divBK17');" onMouseOut="escondeLayer('divBK17');">Bruce Kulick</a> – Guitarra Principal. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGS17');" onMouseOut="escondeLayer('divGS17');">Gene Simmons</a> – Vocal e Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divEC17');" onMouseOut="escondeLayer('divEC17');">Eric Carr</a> – Bateria. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPAUL_STANLEY');" onMouseOut="escondeLayer('divPAUL_STANLEY');">Paul Stanley</a> – Vocal e Guitarra Base.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divBRUCE_KULICK');" onMouseOut="escondeLayer('divBRUCE_KULICK');">Bruce Kulick</a> – Guitarra Principal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGENE_SIMMONS');" onMouseOut="escondeLayer('divGENE_SIMMONS');">Gene Simmons</a> – Vocal e Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divERIC_CARR');" onMouseOut="escondeLayer('divERIC_CARR');">Eric Carr</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divPS17" name="nm_divPS17">
-                <p>
-                    <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
-                    Paul Stanley é um cantor, compositor e pintor americano, mais conhecido por ser o co-fundador, vocalista,
-                    guitarrista rítmico e co-vocalista ddo Kiss. Ele é o escritor ou co-escritor de muitos dos maiores sucessos da banda.
-                    Stanley estabeleceu o personagem Starchild e é conhecido por sua voz distinta e abrangente.
-                </p><br /><br />
-            </div>
-
-            <div id="divBK17" name="nm_divBK17">
-                <p>
-                    <img class="css" src="img/kiss/bk.jpg" width="150px;" height="130px;">
-                    Bruce Howard Kulick é um guitarrista, músico americano e desde 2000 membro da banda Grand Funk Railroad.
-                    Anteriormente, Kulick foi um membro de longa data da banda Kiss (1984–1996). Ele também foi membro do Union com
-                    John Corabi de 1997–2002 e Blackjack de 1979–1980.
-                </p><br /><br />
-            </div>
-
-            <div id="divGS17" name="nm_divGS17">
-                <p>
-                    <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
-                    Gene Klein, conhecido profissionalmente como Gene Simmons, é um músico, cantor, compositor, produtor musical,
-                    empresário, ator, autor e personalidade da televisão americana. Também conhecido por seu personagem de palco,
-                    The Demon, ele é o baixista e co-vocalista do Kiss, a banda de rock que ele co-fundou com Paul Stanley no início dos
-                    anos 1970.
-                </p><br />
-            </div>
-
-            <div id="divEC17" name="nm_divEC17">
-                <p>
-                    <img class="css" src="img/kiss/ecarr.jpg" width="150px;" height="130px;">
-                    Paul Charles Caravello, "Eric Carr", ara um musico multi-instrumentista que foi baterista da banda de rock Kiss de 1980 a 1991. Caravello foi escolhido como o novo baterista
-                    do Kiss após a saída de Peter Criss, quando escolheu o nome artístico de "Eric Carr". Ele permaneceu como membro
-                    do Kiss até sua morte de câncer no coração em 24 de novembro de 1991, aos 41 anos.
-                </p><br />
-            </div>
-            <br /><br />
 
             <footer>
                 <a href="kiss.php"><button>Voltar para os álbuns do Kiss</button></a>

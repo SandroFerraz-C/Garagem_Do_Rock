@@ -28,10 +28,9 @@ include_once("header.php");
                 "era uma época sombria, tanto política quanto musicalmente" na América, referindo-se à turbulência em Washington e à música disco
                 começando a decolar. Ele acrescentou: "Nós pensamos:" Bem, como podemos escrever algo com esse sabor, com esse tipo de batida, e
                 ainda ter as guitarras perigosas? ” Queríamos capturar o espírito da época.</p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
-
 
             <div class="tabela">
                 <table border="1px" width="45%">
@@ -56,13 +55,11 @@ include_once("header.php");
                 </table>
             </div>
             </p>
-            <br /><br />
-
+            <br />
             <p>Duração do álbum: 43 min. 15 seg.</p>
             <p>Gravadora(s): Asylum Records.</p>
             <p>Produção: Bill Szymczyk.</p>
-            <br /><br />
-
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -70,55 +67,57 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divGLENN_FREY" name="nm_divGLENN_FREY">
+                    <p><img class="css" src="img/eagles/gf.jpg" width="150px;" height="130px;">
+                        Glenn Lewis Frey ( 6 de novembro de 1948 - 18 de janeiro de 2016) foi um cantor, compositor, ator e membro fundador da
+                        banda de rock Eagles. Frey foi o co-vocalista e vocalista dos Eagles, papéis que passou a dividir com o colega Don Henley,
+                        com quem escreveu a maior parte do material dos Eagles.
+                    </p>
+                </div>
+
+                <div id="divDON_HENLEY" name="nm_divDON_HENLEY">
+                    <p><img class="css" src="img/eagles/dh.png" width="150px;" height="130px;">
+                        Donald Hugh Henley ( 22 de julho de 1947) é um músico, cantor, compositor, produtor musical americano e membro fundador
+                        dos Eagles. Ele foi o baterista e co-vocalista dos Eagles de 1971 até a separação da banda em 1980, e reprisou essas funções
+                        nas reuniões do grupo desde 1994.
+                    </p>
+                </div>
+
+                <div id="divBERNIE_LEADON" name="nm_divBERNIE_LEADON">
+                    <p><img class="css" src="img/eagles/bl.jpg" width="150px;" height="130px;">
+                        Bernie Leadon ( Nascido em 19 de julho de 1947) é um músico, compositor e membro fundador dos Eagles. Antes dos Eagles,
+                        ele foi membro de três bandas de country rock pioneiras e altamente influentes: Hearts & Flowers , Dillard & Clark e
+                        Flying Burrito Brothers.
+                    </p>
+                </div>
+
+                <div id="divRANDY_MEISNER" name="nm_divRANDY_MEISNER">
+                    <p><img class="css" src="img/eagles/rm.jpg" width="150px;" height="130px;">
+                        Randall Herman Meisner ( 8 de março de 1946) é um músico americano aposentado, cantor, compositor e membro fundador dos
+                        Eagles. Ao longo de sua carreira musical profissional, o papel principal de Meisner foi o de baixista e vocalista de alta
+                        harmonia de apoio.
+                    </p>
+                </div>
+
+                <div id="divDON_FELDER" name="nm_divDON_FELDER">
+                    <p><img class="css" src="img/eagles/df.jpg" width="150px;" height="130px;">
+                        Donald William Felder é um músico, cantor e compositor americano, mais conhecido por seu trabalho como guitarrista principal dos
+                        Eagles de 1974 até seu término da banda em 2001. Felder foi introduzido no Musicians Hall of Fame and Museum em 2016.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divGF04');" onMouseOut="escondeLayer('divGF04');">Glenn Frey</a> – Vocais, Guitarras, Piano e Teclado. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDH04');" onMouseOut="escondeLayer('divDH04');">Don Henley</a> – Voz, Bateria, Percussão e Tabla. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divBL04');" onMouseOut="escondeLayer('divBL04');">Bernie Leadon</a> – Vocal, Guitarra, Banjo, Bandolim e Pedal steel. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRM04');" onMouseOut="escondeLayer('divRM04');">Randy Meisner</a> – Vocla e Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDF04');" onMouseOut="escondeLayer('divDF04');">Don Felder</a> – Voz, Guitarra e Slide guitar. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGLENN_FREY');" onMouseOut="escondeLayer('divGLENN_FREY');">Glenn Frey</a> – Vocais.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDON_HENLEY');" onMouseOut="escondeLayer('divDON_HENLEY');">Don Henley</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divBERNIE_LEADON');" onMouseOut="escondeLayer('divBERNIE_LEADON');">Bernie Leadon</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divRANDY_MEISNER');" onMouseOut="escondeLayer('divRANDY_MEISNER');">Randy Meisner</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDON_FELDER');" onMouseOut="escondeLayer('divDON_FELDER');">Don Felder</a> – Slide Guitar.</li>
                 </ul>
             </nav>
-
-            <div id="divGF04" name="nm_divGF04">
-                <p><img class="css" src="img/eagles/gf.jpg" width="150px;" height="130px;">
-                    Glenn Lewis Frey ( 6 de novembro de 1948 - 18 de janeiro de 2016) foi um cantor, compositor, ator e membro fundador da
-                    banda de rock Eagles. Frey foi o co-vocalista e vocalista dos Eagles, papéis que passou a dividir com o colega Don Henley,
-                    com quem escreveu a maior parte do material dos Eagles.</p>
-                <br /><br />
-            </div>
-
-            <div id="divDH04" name="nm_divDH04">
-                <p><img class="css" src="img/eagles/dh.png" width="150px;" height="130px;">
-                    Donald Hugh Henley ( 22 de julho de 1947) é um músico, cantor, compositor, produtor musical americano e membro fundador
-                    dos Eagles. Ele foi o baterista e co-vocalista dos Eagles de 1971 até a separação da banda em 1980, e reprisou essas funções
-                    nas reuniões do grupo desde 1994.</p>
-                <br /><br />
-            </div>
-
-            <div id="divBL04" name="nm_divBL04">
-                <p><img class="css" src="img/eagles/bl.jpg" width="150px;" height="130px;">
-                    Bernie Leadon ( Nascido em 19 de julho de 1947) é um músico, compositor e membro fundador dos Eagles. Antes dos Eagles,
-                    ele foi membro de três bandas de country rock pioneiras e altamente influentes: Hearts & Flowers , Dillard & Clark e
-                    Flying Burrito Brothers.</p>
-                <br /><br />
-            </div>
-
-            <div id="divRM04" name="nm_divRM04">
-                <p><img class="css" src="img/eagles/rm.jpg" width="150px;" height="130px;">
-                    Randall Herman Meisner ( 8 de março de 1946) é um músico americano aposentado, cantor, compositor e membro fundador dos
-                    Eagles. Ao longo de sua carreira musical profissional, o papel principal de Meisner foi o de baixista e vocalista de alta
-                    harmonia de apoio.</p>
-                <br /><br />
-            </div>
-
-            <div id="divDF04" name="nm_divDF04">
-                <p><img class="css" src="img/eagles/df.jpg" width="150px;" height="130px;">
-                    Donald William Felder é um músico, cantor e compositor americano, mais conhecido por seu trabalho como guitarrista principal dos
-                    Eagles de 1974 até seu término da banda em 2001. Felder foi introduzido no Musicians Hall of Fame and Museum em 2016.</p>
-                <br /><br />
-            </div>
 
             <footer>
                 <a href="eagles.php"><button>Voltar para os álbuns do Eagles</button></a>

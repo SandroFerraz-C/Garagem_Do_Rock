@@ -23,12 +23,12 @@ include_once("header.php");
             <p>
                 Este é o primeiro álbum do Kiss a não ter créditos de autoria de Ace Frehley.
             </p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 33 min. 18 seg.</p>
             <p>Gravadora(s): Casablanca Records.</p>
             <p>Produção: Eddie Kramer.</p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -47,7 +47,7 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -55,43 +55,45 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divPAUL_STANLEY" name="nm_divPAUL_STANLEY">
+                    <p>
+                        <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
+                        Paul Stanley é um cantor, compositor e pintor americano, mais conhecido por ser o co-fundador, vocalista,
+                        guitarrista rítmico e co-vocalista ddo Kiss. Ele é o escritor ou co-escritor de muitos dos maiores sucessos da banda.
+                        Stanley estabeleceu o personagem Starchild e é conhecido por sua voz distinta e abrangente.
+                    </p>
+                </div>
+
+                <div id="divGENE_SIMMONS" name="nm_divGENE_SIMMONS">
+                    <p>
+                        <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
+                        Gene Klein, conhecido profissionalmente como Gene Simmons, é um músico, cantor, compositor, produtor musical,
+                        empresário, ator, autor e personalidade da televisão americana. Também conhecido por seu personagem de palco,
+                        The Demon, ele é o baixista e co-vocalista do Kiss, a banda de rock que ele co-fundou com Paul Stanley no início dos
+                        anos 1970.
+                    </p>
+                </div>
+
+                <div id="divPETER_CRISS" name="nm_divPETER_CRISS">
+                    <p>
+                        <img class="css" src="img/kiss/pc.jpg" width="150px;" height="130px;">
+                        George Peter John Criscuola, "Peter Criss", é um músico e ator aposentado americano, mais conhecido como co-fundador,
+                        baterista original e vocalista do Kiss. Criss estabeleceu o personagem Catman por seu persona Kiss. Criss possui uma voz
+                        poderosa e rouca. Em 2014, ele foi introduzido no Rock and Roll Hall of Fame como um membro do Kiss.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divPS05');" onMouseOut="escondeLayer('divPS05');">Paul Stanley</a> – Vocal e Guitarra Base. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGS05');" onMouseOut="escondeLayer('divGS05');">Gene Simmons</a> – Vocal e Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divPC05');" onMouseOut="escondeLayer('divPC05');">Peter Criss</a> – Vocal e Bateria. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPAUL_STANLEY');" onMouseOut="escondeLayer('divPAUL_STANLEY');">Paul Stanley</a> – Vocal e Guitarra Base.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGENE_SIMMONS');" onMouseOut="escondeLayer('divGENE_SIMMONS');">Gene Simmons</a> – Vocal e Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPETER_CRISS');" onMouseOut="escondeLayer('divPETER_CRISS');">Peter Criss</a> – Vocal e Bateria.</li>
                 </ul>
             </nav>
 
-            <div id="divPS05" name="nm_divPS05">
-                <p>
-                    <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
-                    Paul Stanley é um cantor, compositor e pintor americano, mais conhecido por ser o co-fundador, vocalista,
-                    guitarrista rítmico e co-vocalista ddo Kiss. Ele é o escritor ou co-escritor de muitos dos maiores sucessos da banda.
-                    Stanley estabeleceu o personagem Starchild e é conhecido por sua voz distinta e abrangente.
-                </p><br /><br />
-            </div>
-
-            <div id="divGS05" name="nm_divGS05">
-                <p>
-                    <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
-                    Gene Klein, conhecido profissionalmente como Gene Simmons, é um músico, cantor, compositor, produtor musical,
-                    empresário, ator, autor e personalidade da televisão americana. Também conhecido por seu personagem de palco,
-                    The Demon, ele é o baixista e co-vocalista do Kiss, a banda de rock que ele co-fundou com Paul Stanley no início dos
-                    anos 1970.
-                </p><br />
-            </div>
-
-            <div id="divPC05" name="nm_divPC05">
-                <p>
-                    <img class="css" src="img/kiss/pc.jpg" width="150px;" height="130px;">
-                    George Peter John Criscuola, "Peter Criss", é um músico e ator aposentado americano, mais conhecido como co-fundador,
-                    baterista original e vocalista do Kiss. Criss estabeleceu o personagem Catman por seu persona Kiss. Criss possui uma voz
-                    poderosa e rouca. Em 2014, ele foi introduzido no Rock and Roll Hall of Fame como um membro do Kiss.
-                </p><br />
-            </div>
-            <br /><br />
 
             <footer>
                 <a href="kiss.php"><button>Voltar para os álbuns do Kiss</button></a>

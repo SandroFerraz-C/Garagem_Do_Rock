@@ -2,17 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>História do Black Sabbath</title>
 
-    <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_america.css">
-
+    <link rel="stylesheet" type="text/css" href="css/historia_ac_dc.css">
 </head>
 
 <body>
@@ -24,16 +20,24 @@
             <p>
                 Black Sabbath foi uma banda de heavy metal britânica formada no ano de 1968 em Birmingham pelo guitarrista e principal compositor
                 Tony Iommi, o baixista e principal letrista Geezer Butler, o vocalista Ozzy Osbourne e o baterista Bill Ward. Desde a saída de
-                Ozzy Osbourne, a banda passou por diversas mudanças na formação, com o guitarrista Iommi sendo o único presente em todas elas.
+            </p>
+
+            <p>Ozzy Osbourne, a banda passou por diversas mudanças na formação, com o guitarrista Iommi sendo o único presente em todas elas.
                 Originalmente era uma banda de blues rock, que logo adotou o nome Black Sabbath e começou a incorporar histórias de terror em
-                suas letras, além de usar guitarras com baixa afinação. Apesar desses dois temas serem comuns, eles também compunham canções que
+                suas letras, além de usar guitarras com baixa afinação.
+            </p>
+
+            <p>Apesar desses dois temas serem comuns, eles também compunham canções que
                 tratavam de instabilidade social, corrupção política, os perigos do abuso de drogas e profecias apocalípticas resultantes de guerras.
             </p>
 
             <p>
                 O embrião do Black Sabbath surgiu no ano de 1968 em Aston, uma localidade de Birmingham, Inglaterra. A história começou quando o
                 guitarrista Anthony "Tony" Iommi e o baterista William "Bill" Ward (ambos do grupo Mithology) leram em uma loja, o anúncio de um
-                cantor que estava à procura de músicos para formar uma banda. O cantor era John "Ozzy" Osbourne que estudou na mesma escola que
+                cantor que estava à procura de músicos para formar uma banda.
+            </p>
+
+            <p>O cantor era John "Ozzy" Osbourne que estudou na mesma escola que
                 Iommi. Iommi e Ward foram para casa de Ozzy e decidiram formar um grupo musical. Ozzy levou ao grupo outros dois músicos que
                 tinham tocado com ele na banda Rare Breed: os guitarristas Terence "Geezer" Butler e Jimmy Phillips.
             </p>
@@ -41,7 +45,9 @@
             <p>
                 Mais tarde, Butler assumiu o papel de baixista, e foi também contratado o saxofonista Alan "Aker" Clarke. A banda escolheu o nome
                 inicialmente de Polka Tulk Blues Band e encurtado depois para Polka Tulk, e começou a construir um repertório, principalmente blues.
-                Mais tarde, Clarke e Phillips saem do grupo e o restante dos membros decidiram alterar o nome da banda para Earth. A formação faz exibições
+            </p>
+
+            <p>Mais tarde, Clarke e Phillips saem do grupo e o restante dos membros decidiram alterar o nome da banda para Earth. A formação faz exibições
                 em vários locais, tocando covers de Jimi Hendrix, Blue Cheer, Cream e The Beatles, e fizeram o primeiro demo em 1968. Conseguiram algum
                 êxito no espaço de "pubs" britânicos, o que permitiu que o grupo fizesse o nome no exterior, graças ao agente Jim Simpson.
             </p>

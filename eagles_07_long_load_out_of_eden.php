@@ -35,7 +35,7 @@ include_once("header.php");
                 exigiu muito de nós. Tiramos um ano de folga em um ponto. Não tenho certeza se somos capazes de fazer isso de novo. Eu não fecharia a porta
                 sobre isso, mas não sei." Em uma entrevista de 2010 para undercover.fm, Joe Walsh disse que a banda pode ser capaz de fazer mais um álbum
                 antes de a banda "encerrar".</p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -117,12 +117,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 90 min. 46 seg.</p>
             <p>Gravadora(s): Eagles Recording Company II, Lost Highway e Polydor.</p>
             <p>Produção: Eagles, Steuart Smith, Richard FW Davis, Scott Crago e Bill Szymczyk.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -130,47 +130,50 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divGLENN_FREY" name="nm_divGLENN_FREY">
+                    <p><img class="css" src="img/eagles/gf.jpg" width="150px;" height="130px;">
+                        Glenn Lewis Frey ( 6 de novembro de 1948 - 18 de janeiro de 2016) foi um cantor, compositor, ator e membro fundador da
+                        banda de rock Eagles. Frey foi o co-vocalista e vocalista dos Eagles, papéis que passou a dividir com o colega Don Henley,
+                        com quem escreveu a maior parte do material dos Eagles.
+                    </p>
+                </div>
+
+                <div id="divDON_HENLEY" name="nm_divDON_HENLEY">
+                    <p><img class="css" src="img/eagles/dh.png" width="150px;" height="130px;">
+                        Donald Hugh Henley ( 22 de julho de 1947) é um músico, cantor, compositor, produtor musical americano e membro fundador
+                        dos Eagles. Ele foi o baterista e co-vocalista dos Eagles de 1971 até a separação da banda em 1980, e reprisou essas funções
+                        nas reuniões do grupo desde 1994.
+                    </p>
+                </div>
+
+                <div id="divJOE_WALSH" name="nm_divJOE_WALSH">
+                    <p><img class="css" src="img/eagles/jw.png" width="150px;" height="130px;">
+                        Joseph Fidler Walsh (20 de novembro de 1947), é um guitarrista, cantor e compositor. Em uma carreira de mais de 50
+                        anos, ele foi membro de três bandas de rock de sucesso: James Gang, Eagles e Ringo Starr & His All-Starr Band.
+                        Walsh também fez parte da banda Herbs da Nova Zelândia.
+                    </p>
+                </div>
+
+                <div id="divTIMOTHY_SCHMIT" name="nm_divTIMOTHY_SCHMIT">
+                    <p><img class="css" src="img/eagles/tbs.jpg" width="150px;" height="130px;">
+                        Timothy Bruce Schmit ( 30 de outubro de 1947) é um músico, cantor e compositor americano. Ele se apresentou como
+                        baixista e vocalista das bandas "Poco" e "Eagles", tendo substituído o baixista e vocalista Randy Meisner em ambos
+                        os casos. Schmit também trabalhou por décadas como músico de sessão e artista solo. Em 1998, ele foi introduzido no
+                        Rock and Roll Hall of Fame como um membro do Eagles.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divGF07');" onMouseOut="escondeLayer('divGF07');">Glenn Frey</a> – Vocais, Guitarras e Teclado. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDH07');" onMouseOut="escondeLayer('divDH07');">Don Henley</a> – Voz, Bateria e Percussão. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJW07');" onMouseOut="escondeLayer('divJW07');">Joe Walsh</a> – Guitarra, Teclado, Backing vocals e Lead vocals. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTBS07');" onMouseOut="escondeLayer('divTBS07');">Timothy B. Schmit</a> – Vocla e Baixo. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGLENN_FREY');" onMouseOut="escondeLayer('divGLENN_FREY');">Glenn Frey</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDON_HENLEY');" onMouseOut="escondeLayer('divDON_HENLEY');">Don Henley</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOE_WALSH');" onMouseOut="escondeLayer('divJOE_WALSH');">Joe Walsh</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divTIMOTHY_SCHMIT');" onMouseOut="escondeLayer('divTIMOTHY_SCHMIT');">Timothy B. Schmit</a> – Baixo.</li>
                 </ul>
             </nav>
-
-            <div id="divGF07" name="nm_divGF07">
-                <p><img class="css" src="img/eagles/gf.jpg" width="150px;" height="130px;">
-                    Glenn Lewis Frey ( 6 de novembro de 1948 - 18 de janeiro de 2016) foi um cantor, compositor, ator e membro fundador da
-                    banda de rock Eagles. Frey foi o co-vocalista e vocalista dos Eagles, papéis que passou a dividir com o colega Don Henley,
-                    com quem escreveu a maior parte do material dos Eagles.</p>
-                <br /><br />
-            </div>
-
-            <div id="divDH07" name="nm_divDH07">
-                <p><img class="css" src="img/eagles/dh.png" width="150px;" height="130px;">
-                    Donald Hugh Henley ( 22 de julho de 1947) é um músico, cantor, compositor, produtor musical americano e membro fundador
-                    dos Eagles. Ele foi o baterista e co-vocalista dos Eagles de 1971 até a separação da banda em 1980, e reprisou essas funções
-                    nas reuniões do grupo desde 1994.</p>
-                <br /><br />
-            </div>
-
-            <div id="divJW07" name="nm_divJW07">
-                <p><img class="css" src="img/eagles/jw.png" width="150px;" height="130px;">
-                    Joseph Fidler Walsh (20 de novembro de 1947), é um guitarrista, cantor e compositor. Em uma carreira de mais de 50
-                    anos, ele foi membro de três bandas de rock de sucesso: James Gang, Eagles e Ringo Starr & His All-Starr Band.
-                    Walsh também fez parte da banda Herbs da Nova Zelândia.</p>
-                <br /><br />
-            </div>
-
-            <div id="divTBS07" name="nm_divTBS07">
-                <p><img class="css" src="img/eagles/tbs.jpg" width="150px;" height="130px;">
-                    Timothy Bruce Schmit ( 30 de outubro de 1947) é um músico, cantor e compositor americano. Ele se apresentou como
-                    baixista e vocalista das bandas "Poco" e "Eagles", tendo substituído o baixista e vocalista Randy Meisner em ambos
-                    os casos. Schmit também trabalhou por décadas como músico de sessão e artista solo. Em 1998, ele foi introduzido no
-                    Rock and Roll Hall of Fame como um membro do Eagles.</p>
-            </div>
 
             <footer>
                 <a href="eagles.php"><button>Voltar para os álbuns do Eagles</button></a>

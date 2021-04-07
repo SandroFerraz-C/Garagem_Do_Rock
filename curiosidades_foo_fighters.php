@@ -11,7 +11,6 @@ include_once("header_curiosidades.php");
     <div class="curiosidade_acdc">
 
         <h1>Curiosidades sobre o Foo Fighters</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -224,79 +223,40 @@ include_once("header_curiosidades.php");
                         ele se uniu a Krist Novoselic, Patt Smear e outros cantores para soltar a voz nos clássicos escritos por Kurt Cobain.</p>
                 </div>
             </div>
-            <br /> <br />
 
-            <nav>
-                <button class="btn23" data-toggle="collapse" data-target="#demo23">Fontes</button>
-
-                <div id="demo23" class="collapse">
-                    <br />
-
-                    <ul>
-
-                        <li> - Leia mais em: <a href="https://www.ofuxico.com.br/noticias-sobre-famosos/rock-in-rio-5-curiosidades-do-foo-fighters/2019/09/28-359855.html">
-                                O Fuxico</a> E© 2000 - 2020, O Fuxico. Todos os direitos reservados.</li>
-                        <br />
-
-                        <li> - Leia mais em: <a href="https://exame.com/casual/10-fatos-sobre-a-banda-foo-fighters-que-vale-a-pena-saber/"> Exame </a> ©2021.</li>
-                        <br />
-
-                        <li> - Leia mais em: <a href="https://som13.com.br/noticias/10-curiosidades-sobre-dave-grohl-foo-fighters-o-cara-mais-legal-do-rock"> SOM 13</a> © copyright 2019.</li>
-                    </ul>
-
-                </div>
-            </nav>
-            <br /><br />
-
-            <div class="albuns_acdc">
-                <a href="foo_fighters.php"><button>Voltar para Albuns do Foo Fighters</button></a>
-            </div>
         </section>
 
         <div class="fotoac">
 
             <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Dave Grohl </p>
-            <p class="ay_antes">Dave Grohl </p>
-            <p class="bj_hj">Nate Mendel </p>
-            <p class="bj_antes">Nate Mendel </p>
-
-            <img src="img/foo fighters/dg_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/dg_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Taylor Hawkins </p>
-            <p class="ay_antes">Taylor Hawkins </p>
-            <p class="bj_hj">Chris Shiflett</p>
-            <p class="bj_antes">Chris Shiflett</p>
-
-            <img src="img/foo fighters/nm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/nm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/th_hj.png" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/th_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/cs_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/cs_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Pat Smear </p>
-            <p class="ay_antes">Pat Smear </p>
-            <p class="bj_hj">Rami Jaffee</p>
-            <p class="bj_antes">Rami Jaffee</p>
-
-            <img src="img/foo fighters/ps_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/ps_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/rj_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/rj_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/foo fighters/09.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_fighters" src="img/foo fighters/dg_hj.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_2_fighters" src="img/foo fighters/dg_antes.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_3_fighters" src="img/foo fighters/nm_hj.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_4_fighters" src="img/foo fighters/nm_antes.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_5_fighters" src="img/foo fighters/th_hj.png" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_6_fighters" src="img/foo fighters/th_antes.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_7_fighters" src="img/foo fighters/cs_hj.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_8_fighters" src="img/foo fighters/cs_antes.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_9_fighters" src="img/foo fighters/ps_hj.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_10_fighters" src="img/foo fighters/ps_antes.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_11_fighters" src="img/foo fighters/rj_hj.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_12_fighters" src="img/foo fighters/rj_antes.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_13_fighters" src="img/foo fighters/01.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_14_fighters" src="img/foo fighters/02.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_15_fighters" src="img/foo fighters/03.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_16_fighters" src="img/foo fighters/04.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_17_fighters" src="img/foo fighters/05.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_18_fighters" src="img/foo fighters/07.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_19_fighters" src="img/foo fighters/08.jpg" alt="Foto dos integrantes da banda Foo Fighters">
+            <img id="foto_20_fighters" src="img/foo fighters/09.jpg" alt="Foto dos integrantes da banda Foo Fighters">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="foo_fighters.php"><button>Voltar para Albuns do Foo Fighters</button></a>
     </div>
 
     <footer id="rodape">

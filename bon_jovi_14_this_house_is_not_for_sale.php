@@ -8,7 +8,6 @@ include_once("header.php");
 
             <h1>This House Is Not for Sale (2016)</h1>
 
-
             <p>
                 - This House Is Not for Sale é o décimo quarto álbum da banda estadunidense de rock Bon Jovi. Ele foi lançado em 4 de novembro
                 de 2016, pela Island Records.
@@ -42,7 +41,6 @@ include_once("header.php");
                         <td width="15%">Álbuns Vendidos</td>
                     </tr>
 
-
                     <tr>
                         <td width="15%"> Prata </td>
                         <td>+ 60.000 (Reino Unido)</td>
@@ -58,13 +56,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 49 min. 08 seg.</p>
             <p>Gravadora(s): Island Records.</p>
             <p>Produção: John ShanksJon e Bon Jovi. </p>
-            <br /><br />
-
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -72,72 +69,72 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divBON_JOVI" name="nm_divBON_JOVI">
+                    <p>
+                        <img class="css" src="img/bon jovi/bj.jpg" width="150px;" height="130px;">
+                        É o líder da banda Bon Jovi, que mantém algumas características do estilo hard rock dos anos 80 até hoje, mas assimilou influências dos
+                        variados estilos surgidos no rock e heavy metal. A banda Bon Jovi já vendeu mais de 130 milhões de
+                        álbuns em todo o mundo. A banda Bon Jovi ao passar dos anos veio a se tornar uma das bandas mais bem sucedidas da história do rock,
+                        quando se trata de turnês pelo mundo.
+                    </p>
+                </div>
+
+                <div id="divJOHN_SHANKS" name="nm_divJOHN_SHANKS">
+                    <p>
+                        <img class="css" src="img/bon jovi/js.jpg" width="150px;" height="130px;">
+                        John Matthew Shanks é um compositor, produtor musical e guitarrista americano.
+                        <br />
+                        Shanks começou a tocar na banda de Melissa Etheridge em 1988 e fez turnê com ela por vários anos. Shanks teve
+                        seu primeiro sucesso como escritor no início de 1990 com faixas para Bonnie Raitt, Joe Cocker e Tuck & Patti.
+                        Ele também conseguiu seu primeiro contrato de publicação.
+                    </p>
+                </div>
+
+                <div id="divHUGH_MCDONALD" name="nm_divHUGH_MCDONALD">
+                    <p>
+                        <img class="css" src="img/bon jovi/hm.jpg" width="150px;" height="130px;">
+                        Hugh McDonald Começou a tocar baixo na adolescência, aprendeu tocando junto com os discos que ele ouvia,
+                        depois seus pais o aconselharam a ter aulas particulares, e assim ele fez.
+                        <br />
+                        É o atual baixista da banda Bon Jovi, ( De 1995 até 2016 era tido como baixista "freelancer" da banda).
+                        Em 2016, Hugh passou a ser considerado membro oficial a partir do disco This House Is Not for Sale.
+                    </p>
+                </div>
+
+                <div id="divDAVID_BRYAN" name="nm_divDAVID_BRYAN">
+                    <p>
+                        <img class="css" src="img/bon jovi/db.jpg" width="150px;" height="130px;">
+                        David Bryan Rashbaum é um multi-instrumentista e compositor estadunidense, mais conhecido
+                        como o tecladista da banda Bon Jovi.
+                        <br />
+                        Ele é um símbolo dos teclados, é considerado uns dos melhores tecladistas de bandas de rock; David Bryan toca teclado,
+                        piano, trompete e acordeon. Conheceu Jon quando tinha 16 anos.
+                    </p>
+                </div>
+
+                <div id="divTICO_TORRES" name="nm_divTICO_TORRES">
+                    <p>
+                        <img class="css" src="img/bon jovi/tt.jpg" width="150px;" height="130px;">
+                        Hector Samuel Juan "Tico" Torres é um músico cubano-americano, mais conhecido como
+                        o baterista da banda Bon Jovi.
+                        <br />
+                        Tico também é dono de uma linha de roupas para bebês chamada Rock Star Baby; Além de roupas para bebês, a Rock Star Baby também
+                        produz métodos de aprendizado e desenhos. Além disto, ele também tem licença de piloto de aeronave.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divBJ14');" onMouseOut="escondeLayer('divBJ14');">Jon Bon Jovi</a> – Vocal principal.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJS14');" onMouseOut="escondeLayer('divJS14');">John Shanks</a> – Guitarras principais e Vocal de apoio.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divHM14');" onMouseOut="escondeLayer('divHM14');">Hugh McDonald</a> – Baixo e Vocal de apoio.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDB14');" onMouseOut="escondeLayer('divDB14');">David Bryan</a> – Teclado.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTT14');" onMouseOut="escondeLayer('divTT14');">Tico Torres</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divBON_JOVI');" onMouseOut="escondeLayer('divBON_JOVI');">Jon Bon Jovi</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOHN_SHANKS');" onMouseOut="escondeLayer('divJOHN_SHANKS');">John Shanks</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divHUGH_MCDONALD');" onMouseOut="escondeLayer('divHUGH_MCDONALD');">Hugh McDonald</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDAVID_BRYAN');" onMouseOut="escondeLayer('divDAVID_BRYAN');">David Bryan</a> – Teclado.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divTICO_TORRES');" onMouseOut="escondeLayer('divTICO_TORRES');">Tico Torres</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divBJ14" name="nm_divBJ14">
-                <p>
-                    <img class="css" src="img/bon jovi/bj.jpg" width="150px;" height="130px;">
-                    É o líder da banda Bon Jovi, que mantém algumas características do estilo hard rock dos anos 80 até hoje, mas assimilou influências dos
-                    variados estilos surgidos no rock e heavy metal. A banda Bon Jovi já vendeu mais de 130 milhões de
-                    álbuns em todo o mundo. A banda Bon Jovi ao passar dos anos veio a se tornar uma das bandas mais bem sucedidas da história do rock,
-                    quando se trata de turnês pelo mundo.
-                </p>
-            </div>
-
-            <div id="divJS14" name="nm_divJS14">
-                <p>
-                    <img class="css" src="img/bon jovi/js.jpg" width="150px;" height="130px;">
-                    John Matthew Shanks é um compositor, produtor musical e guitarrista americano.
-                    <br />
-                    Shanks começou a tocar na banda de Melissa Etheridge em 1988 e fez turnê com ela por vários anos. Shanks teve
-                    seu primeiro sucesso como escritor no início de 1990 com faixas para Bonnie Raitt, Joe Cocker e Tuck & Patti.
-                    Ele também conseguiu seu primeiro contrato de publicação.
-                </p>
-            </div>
-
-            <div id="divHM14" name="nm_divHM14">
-                <p>
-                    <img class="css" src="img/bon jovi/hm.jpg" width="150px;" height="130px;">
-                    Hugh McDonald Começou a tocar baixo na adolescência, aprendeu tocando junto com os discos que ele ouvia,
-                    depois seus pais o aconselharam a ter aulas particulares, e assim ele fez.
-                    <br />
-                    É o atual baixista da banda Bon Jovi, ( De 1995 até 2016 era tido como baixista "freelancer" da banda).
-                    Em 2016, Hugh passou a ser considerado membro oficial a partir do disco This House Is Not for Sale.
-                </p>
-            </div>
-
-            <div id="divDB14" name="nm_divDB14">
-                <p>
-                    <img class="css" src="img/bon jovi/db.jpg" width="150px;" height="130px;">
-                    David Bryan Rashbaum é um multi-instrumentista e compositor estadunidense, mais conhecido
-                    como o tecladista da banda Bon Jovi.
-                    <br />
-                    Ele é um símbolo dos teclados, é considerado uns dos melhores tecladistas de bandas de rock; David Bryan toca teclado,
-                    piano, trompete e acordeon. Conheceu Jon quando tinha 16 anos.
-                    <br /><br />
-                </p>
-            </div>
-
-            <div id="divTT14" name="nm_divTT14">
-                <p>
-                    <img class="css" src="img/bon jovi/tt.jpg" width="150px;" height="130px;">
-                    Hector Samuel Juan "Tico" Torres é um músico cubano-americano, mais conhecido como
-                    o baterista da banda Bon Jovi.
-                    <br />
-                    Tico também é dono de uma linha de roupas para bebês chamada Rock Star Baby; Além de roupas para bebês, a Rock Star Baby também
-                    produz métodos de aprendizado e desenhos. Além disto, ele também tem licença de piloto de aeronave.
-                    <br /><br />
-                </p>
-            </div>
 
             <footer>
                 <a href="bon_jovi.php"><button>Voltar para os álbuns do Bon Jovi</button></a>

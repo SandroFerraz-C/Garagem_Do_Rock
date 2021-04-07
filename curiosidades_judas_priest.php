@@ -10,7 +10,6 @@ include_once("header_curiosidades.php");
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre o Judas Priest</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -198,89 +197,42 @@ include_once("header_curiosidades.php");
                         o aparelho voar para bem longe das mãos de seu dono.</p>
                 </div>
             </div>
-            <br /> <br />
-
-            <nav>
-                <button class="btn23" data-toggle="collapse" data-target="#demo23">Fontes</button>
-
-                <div id="demo23" class="collapse">
-                    <br />
-
-                    <ul>
-
-                        <li> - Leia mais em: <a href="https://www.letras.com.br/judas-priest/curiosidades#:~:text=Judas%20Priest%20vem%20de%20Sacerdotes,em%201974%20pela%20Gull%20Records">
-                                Letras.com.br - As letras das músicas em sua vida</a> ©2021 - Orgulhosamente, uma produção Petaxxon.</li>
-                        <br />
-
-                        <li> - Leia mais em: <a href="https://www.cifraclub.com.br/blog/qual-e-o-significado-de-iron-maiden">
-                                cifraclub </a> ©2021 - Estudio Sol, O maior site de ensino de música do Brasil.</li>
-
-                        <li> - Leia mais em: <a href="https://igormiranda.com.br/2020/09/judas-priest-painkiller-resenha-review">
-                                igormiranda.com.br </a> ©2021</li>
-
-                </div>
-            </nav>
-            <br /><br />
-
-            <div class="albuns_acdc">
-                <a href="judas_priest.php"><button>Voltar para Albuns do Judas Priest</button></a>
-            </div>
 
         </section>
 
         <div class="fotoac">
 
             <h2>Álbum de Fotos</h2>
-            <p class="ay_hj">Rob Halford </p>
-            <p class="ay_antes">Rob Halford </p>
-            <p class="bj_hj">K.K. Downing </p>
-            <p class="bj_antes">K.K. Downing </p>
 
-            <img src="img/judas priest/rh_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/rh_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Richie Faulkner </p>
-            <p class="ay_antes">Richie Faulkner </p>
-
-            <img src="img/judas priest/kkd_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/kkd_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Glenn Tipton </p>
-            <p class="bj_antes">Glenn Tipton </p>
-
-            <img src="img/judas priest/rf_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/rf_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Ian Hill </p>
-            <p class="ay_antes">Ian Hill </p>
-
-            <img src="img/judas priest/gt_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/gt_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Dave Holland </p>
-            <p class="bj_antes">Dave Holland </p>
-
-            <img src="img/judas priest/ih_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/ih_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Scott Travis </p>
-            <p class="ay_antes">Scott Travis </p>
-
-            <img src="img/judas priest/dh_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/dh_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/st_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/st_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/judas priest/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_judas" src="img/judas priest/rh_hj.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_2_judas" src="img/judas priest/rh_antes.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_3_judas" src="img/judas priest/kkd_hj.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_4_judas" src="img/judas priest/kkd_antes.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_5_judas" src="img/judas priest/rf_hj.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_6_judas" src="img/judas priest/rf_antes.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_7_judas" src="img/judas priest/gt_hj.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_8_judas" src="img/judas priest/gt_antes.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_9_judas" src="img/judas priest/ih_hj.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_10_judas" src="img/judas priest/ih_antes.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_11_judas" src="img/judas priest/dh_hj.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_12_judas" src="img/judas priest/dh_antes.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_13_judas" src="img/judas priest/st_hj.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_14_judas" src="img/judas priest/st_antes.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_15_judas" src="img/judas priest/01.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_16_judas" src="img/judas priest/02.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_17_judas" src="img/judas priest/03.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_18_judas" src="img/judas priest/04.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_19_judas" src="img/judas priest/05.jpg" alt="Foto dos integrantes da banda Judas Priest">
+            <img id="foto_20_judas" src="img/judas priest/06.jpg" alt="Foto dos integrantes da banda Judas Priest">
 
         </div>
 
     </div>
 
+    <div class="albuns_acdc">
+        <a href="judas_priest.php"><button>Voltar para Albuns do Judas Priest</button></a>
+    </div>
+
     <footer id="rodape">
-        <?php include_once("footer_curiosidades.php"); ?>
+        <?php include_once("rodape.php"); ?>
     </footer>

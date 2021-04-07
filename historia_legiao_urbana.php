@@ -2,18 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>História do Legião Urbana</title>
 
-    <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_america.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_legiao_urbana.css">
-
+    <link rel="stylesheet" type="text/css" href="css/historia_ac_dc.css">
 </head>
 
 <body>
@@ -24,32 +19,11 @@
 
             <p>
                 Legião Urbana é uma banda de rock brasileira fundada em 1982 em Brasília, Distrito Federal, por
-                <a href="#" onMouseOver="mostraLayer('divRR');" onMouseOut="escondeLayer('divRR');"> Renato Russo</a> e
-                <a href="#" onMouseOver="mostraLayer('divMB');" onMouseOut="escondeLayer('divMB');"> Marcelo Bonfá</a>.
-                O grupo também contou com
-                <a href="#" onMouseOver="mostraLayer('divDVL');" onMouseOut="escondeLayer('divDVL');"> Dado Villa-Lobos</a> e
-                <a href="#" onMouseOver="mostraLayer('divRROCHA');" onMouseOut="escondeLayer('divRROCHA');"> Renato Rocha</a>
-                em sua formação mais conhecida. Diante da morte de Renato Russo em 11 de outubro de 1996, o grupo encerrou suas atividades onze
+                <a href="#"> Renato Russo</a> e <a href="#"> Marcelo Bonfá</a>. O grupo também contou com <a href="#"> Dado Villa-Lobos</a> e
+                <a href="#"> Renato Rocha</a>em sua formação mais conhecida. Diante da morte de Renato Russo em 11 de outubro de 1996, o grupo encerrou suas atividades onze
                 dias depois. Possui uma discografia de oito álbuns de estúdio, três compilações e cinco álbuns ao vivo (um deles sem a presença de
                 Renato Russo).
             </p>
-
-            <div id="divRR" name="nm_divRR">
-                <img class="css" src="img/legiao urbana/rr.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divMB" name="nm_divMB">
-                <img class="css" src="img/legiao urbana/mb.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divDVL" name="nm_divDVL">
-                <img class="css" src="img/legiao urbana/dvl.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divRROCHA" name="nm_divRROCHA">
-                <img class="css" src="img/legiao urbana/rrocha.jpg" width="150px;" height="130px;">
-            </div>
-
 
             <p>
                 Em 2010, a Legião Urbana havia vendido catorze milhões de cópias (incluindo discos solo de Renato Russo), segundo informações da
@@ -107,8 +81,6 @@
         </div>
 
     </main>
-
-    <script type="text/javascript" src="js/Country.js"></script>
 
 </body>
 

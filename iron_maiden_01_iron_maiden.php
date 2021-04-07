@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
 
 <?php
 include_once("header.php");
@@ -37,7 +36,7 @@ include_once("header.php");
             </p>
             <br /><br />
 
-            <p>O album atingil certificação:</p>
+            <p>O álbum atingil certificação:</p>
 
             <div class="tabela">
                 <table border="1px" width="45%">
@@ -61,12 +60,12 @@ include_once("header.php");
                     </tr>
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 40 min. 48 seg.</p>
             <p>Gravadora(s): EMI.</p>
             <p>Produção: Will Malone.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -74,68 +73,71 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="PAUL_DIANNO" name="nm_PAUL_DIANNO">
+                    <p>
+                        <img class="css" src="img/iron maiden/pd.jpg" width="150px;" height="130px;">
+                        Paul Andrews, também conhecido como Paul Di'Anno ( 17 de maio de 1958) é um cantor inglês. É mais conhecido pelo
+                        seu trabalho como vocalista do Iron Maiden de 1978 a 1981.
+                        <br />
+                        Durante a adolescência cantou em várias bandas de rock enquanto trabalhava como açougueiro e cozinheiro. Ele entrou
+                        no Iron Maiden após a saída de Dennis Wilcock.
+                    </p>
+                </div>
+
+                <div id="divSTEVE_HARRIS" name="nm_divSTEVE_HARRIS">
+                    <p>
+                        <img class="css" src="img/iron maiden/sh.jpg" width="150px;" height="130px;">
+                        Stephen Percy "Steve Harris" ( 12 de março de 1956) é um músico e compositor inglês, conhecido por ser baixista,
+                        principal compositor, tecladista (nas gravações em studio), co-produtor e fundador do Iron Maiden. Ele é o único
+                        integrante a permanecer na banda desde sua criação, e junto com o guitarrista Dave Murray
+                        são os únicos a tocar em todos os álbuns.
+                    </p>
+                </div>
+
+                <div id="divDAVE_MURRAY" name="nm_divDAVE_MURRAY">
+                    <p>
+                        <img class="css" src="img/iron maiden/dm.jpg" width="150px;" height="130px;">
+                        Dave Murray é um músico britânico, conhecido por ser o guitarrista do Iron Maiden.
+                        Dave está no Iron Maiden desde de 1976, saiu por um breve período
+                        em 1977, porém na primavera do ano seguinte Murray foi convidado a se juntar novamente a banda, no qual
+                        ele permaneceu até hoje. É amplamente considerado um dos melhores e mais influentes guitarristas do
+                        heavy metal.
+                    </p>
+                </div>
+
+                <div id="divCLIVE_BURR" name="nm_divCLIVE_BURR">
+                    <p>
+                        <img class="css" src="img/iron maiden/cb.jpg" width="150px;" height="130px;">
+                        Clive Ronald Burr (Londres, 8 de março de 1957 - Londres, 12 de março de 2013) foi um baterista inglês, famoso ao
+                        participar da banda de heavy metal Iron Maiden no qual ficou no período de 1979 até 1982, gravando os três
+                        primeiros álbuns da banda. Ficou em #20° lugar na lista dos "50 melhores bateristas de hard rock e metal de todos
+                        os tempos" do site Loudwire.
+                    </p>
+                </div>
+
+                <div id="divDENNIS_STRATTON" name="nm_divDENNIS_STRATTON">
+                    <p>
+                        <img class="css" src="img/iron maiden/ds.jpg" width="150px;" height="130px;">
+                        Dennis Stratton é um guitarrista britânico, alcançou fama mundial por ter sido guitarrista da banda de
+                        heavy metal Iron Maiden de janeiro a outubro de 1980. Após a sua saída do Iron Maiden, Dennis realizou um projeto
+                        com Paul Di'Anno, ex-vocalista do - Iron Maiden, chamado "The Original Men", que só lançaram dois álbuns, The Original
+                        Men (1995) e The Original Men 2 (1996).
+                    </p>
+                </div>
+
+            </section>
+
             <nav>
                 <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divPD01');" onMouseOut="escondeLayer('divPD01');">Paul Di'Anno</a> – Vocal. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divSH01');" onMouseOut="escondeLayer('divSH01');">Steve Harris</a> – Baixo e vocal de apoio. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDM01');" onMouseOut="escondeLayer('divDM01');">Dave Murray</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divCB01');" onMouseOut="escondeLayer('divCB01');">Clive Burr</a> – Bateria. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDS01');" onMouseOut="escondeLayer('divDS01');">Dennis Stratton</a> – Guitarra.. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('PAUL_DIANNO');" onMouseOut="escondeLayer('PAUL_DIANNO');">Paul Di'Anno</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSTEVE_HARRIS');" onMouseOut="escondeLayer('divSTEVE_HARRIS');">Steve Harris</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDAVE_MURRAY');" onMouseOut="escondeLayer('divDAVE_MURRAY');">Dave Murray</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divCLIVE_BURR');" onMouseOut="escondeLayer('divCLIVE_BURR');">Clive Burr</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDENNIS_STRATTON');" onMouseOut="escondeLayer('divDENNIS_STRATTON');">Dennis Stratton</a> – Guitarra.</li>
                 </ul>
             </nav>
-
-            <div id="divPD01" name="nm_divPD01">
-                <p>
-                    <img class="css" src="img/iron maiden/pd.jpg" width="150px;" height="130px;">
-                    Paul Andrews, também conhecido como Paul Di'Anno ( 17 de maio de 1958) é um cantor inglês. É mais conhecido pelo
-                    seu trabalho como vocalista do Iron Maiden de 1978 a 1981.
-                    <br />
-                    Durante a adolescência cantou em várias bandas de rock enquanto trabalhava como açougueiro e cozinheiro. Ele entrou
-                    no Iron Maiden após a saída de Dennis Wilcock.
-                </p>
-            </div>
-
-            <div id="divSH01" name="nm_divSH01">
-                <p>
-                    <img class="css" src="img/iron maiden/sh.jpg" width="150px;" height="130px;">
-                    Stephen Percy "Steve Harris" ( 12 de março de 1956) é um músico e compositor inglês, conhecido por ser baixista,
-                    principal compositor, tecladista (nas gravações em studio), co-produtor e fundador do Iron Maiden. Ele é o único
-                     integrante a permanecer na banda desde sua criação, e junto com o guitarrista Dave Murray
-                    são os únicos a tocar em todos os álbuns.
-                </p>
-            </div>
-
-            <div id="divDM01" name="nm_divDM01">
-                <p>
-                    <img class="css" src="img/iron maiden/dm.jpg" width="150px;" height="130px;">
-                    Dave Murray é um músico britânico, conhecido por ser o guitarrista do Iron Maiden.
-                    Dave está no Iron Maiden desde de 1976, saiu por um breve período
-                    em 1977, porém na primavera do ano seguinte Murray foi convidado a se juntar novamente a banda, no qual
-                    ele permaneceu até hoje. É amplamente considerado um dos melhores e mais influentes guitarristas do
-                    heavy metal.
-                </p>
-            </div>
-
-            <div id="divCB01" name="nm_divCB01">
-                <p>
-                    <img class="css" src="img/iron maiden/cb.jpg" width="150px;" height="130px;">
-                    Clive Ronald Burr (Londres, 8 de março de 1957 - Londres, 12 de março de 2013) foi um baterista inglês, famoso ao
-                    participar da banda de heavy metal Iron Maiden no qual ficou no período de 1979 até 1982, gravando os três
-                    primeiros álbuns da banda. Ficou em #20° lugar na lista dos "50 melhores bateristas de hard rock e metal de todos
-                    os tempos" do site Loudwire.
-                </p>
-            </div>
-
-            <div id="divDS01" name="nm_divDS01">
-                <p>
-                    <img class="css" src="img/iron maiden/ds.jpg" width="150px;" height="130px;">
-                    Dennis Stratton é um guitarrista britânico, alcançou fama mundial por ter sido guitarrista da banda de
-                    heavy metal Iron Maiden de janeiro a outubro de 1980. Após a sua saída do Iron Maiden, Dennis realizou um projeto
-                    com Paul Di'Anno, ex-vocalista do - Iron Maiden, chamado "The Original Men", que só lançaram dois álbuns, The Original
-                     Men (1995) e The Original Men 2 (1996).
-                </p>
-            </div> <br />
 
             <footer>
                 <a href="iron_maiden.php"><button>Voltar para os álbuns do Iron Maiden</button></a>

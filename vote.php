@@ -1,8 +1,8 @@
 <?php
 session_start();
 if (!isset($_SESSION['id_usuario'])) {
-	header("location: index_vote.php");
-	exit;
+    header("location: index_vote.php");
+    exit;
 }
 ?>
 <html>
@@ -400,24 +400,13 @@ if (!isset($_SESSION['id_usuario'])) {
 
             </ul>
 
-            <div class="botao_vote">
-
-                <button><a href="index_texteLogin.php">Home</a></button>
-            </div>
-
         </section>
-
-
-
 
         <footer id="rodape">
             <?php include_once("rodape.php"); ?>
         </footer>
 
-
-
     </div>
-
 
     <script>
         var clicks = document.querySelectorAll('.click-trigger'); // IE8

@@ -7,23 +7,11 @@ body {
     font-size: 22px;
 }
 
-.tabela {
-    margin-bottom: 6%;
-    margin-left: .5%;
-    float: left;
-}
-
-.tabela-2 {
-    position: absolute;
-    margin-left: 40%;
-    width: 45%;
-}
-
-.tabela table tr td,
-.tabela-2 table tr td {
-    background-color: #ccc;
-    letter-spacing: .3%;
+.top {
+    font-size: 50px;
     text-align: center;
+    background: #412849;
+    height: 100px;
 }
 
 .content-section {
@@ -33,26 +21,11 @@ body {
     overflow: auto;
 }
 
-p {
-    margin-left: 1%;
-}
-
-.disco {
-    margin-left: 1;
-}
-
 h1 {
     text-align: center;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 900;
     font-family: Brush Script MT, Brush Script Std, cursive;
-}
-
-h2 {
-    text-align: center;
-    font-size: 30px;
-    font-weight: 400;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, cursive;
 }
 
 main {
@@ -62,33 +35,16 @@ main {
 
 a {
     background: rgba(0, 0, 0, .2);
+    padding: 5px;
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 10px;
     letter-spacing: 1px;
 }
 
-.play {
-    text-align: right;
-    margin-top: 10px;
-    margin-right: 10px;
-}
-
-#demo-table {
-    border: 1px solid rgb(65, 77, 65);
-    margin-left: 1%;
-}
-
-#demo-table>caption {
-    text-align: left;
-    font-weight: bold;
-}
-
-#demo-table th,
-#demo-table td {
-    text-align: right;
-    padding-right: .5em;
+h2 {
+    text-align: center;
 }
 
 button {
@@ -123,13 +79,4 @@ button {
 .button:active {
     border-top-color: #415461;
     background: #415461;
-}
-
-
-/* body */
-
-#demo-table td {
-    background-color: rgb(176, 177, 174);
-    width: 300px;
-    padding: .5em .5em .5em 3em;
 }

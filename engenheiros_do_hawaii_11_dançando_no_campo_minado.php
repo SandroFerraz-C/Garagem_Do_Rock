@@ -23,7 +23,7 @@ include_once("header.php");
             <p>Duração do álbum: 31 min. 33 seg.</p>
             <p>Gravadora(s): Universal Music.</p>
             <p>Produção: Gil Lopes.</p>
-            <br /><br />
+            <br />
 
 
             <section class="disco">
@@ -32,27 +32,27 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divHUMBERTO_GESSINGER" name="nm_divHUMBERTO_GESSINGER">
+                    <p>
+                        <img class="css" src="img/engenheiros do hawaii/hg.jpg" width="150px;" height="130px;">
+                        Humberto Gessinger (Porto Alegre, 24 de dezembro de 1963) é um vocalista, baixista, pianista, gaitista, violonista,
+                        acordeonista e escritor brasileiro. Era o vocalista e líder da banda Engenheiros do Hawaii, fez turnê ao lado do
+                        violonista Duca Leindecker no projeto Pouca Vogal. Seu estilo musical é predominantemente o Rock, mas possui
+                        referencias musicais gaúchas.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divHG11');" onMouseOut="escondeLayer('divHG11');"> Humberto Gessinger</a> – Vocais, Guitarra, Teclado e Violão. </li>
-                    <li><a href="#"> Paulinho Galvão</a> – Guitarra e Violão. </li>
-                    <li><a href="#"> Bernardo Fonseca</a> – Baixo. </li>
-                    <li><a href="#"> Gláucio Ayala</a> – Bateria e Percussão. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divHUMBERTO_GESSINGER');" onMouseOut="escondeLayer('divHUMBERTO_GESSINGER');"> Humberto Gessinger</a> – Vocal.</li>
+                    <li><a href="#"> Paulinho Galvão</a> – Guitarra.</li>
+                    <li><a href="#"> Bernardo Fonseca</a> – Baixo.</li>
+                    <li><a href="#"> Gláucio Ayala</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divHG11" name="nm_divHG11">
-                <p>
-                    <img class="css" src="img/engenheiros do hawaii/hg.jpg" width="150px;" height="130px;">
-                    Humberto Gessinger (Porto Alegre, 24 de dezembro de 1963) é um vocalista, baixista, pianista, gaitista, violonista,
-                    acordeonista e escritor brasileiro. Era o vocalista e líder da banda Engenheiros do Hawaii, fez turnê ao lado do
-                    violonista Duca Leindecker no projeto Pouca Vogal. Seu estilo musical é predominantemente o Rock, mas possui
-                    referencias musicais gaúchas.
-                </p>
-                <br />
-            </div>
-            <br />
 
             <footer>
                 <a href="engenheiros_do_hawaii.php"><button>Voltar para os álbuns dos Engenheiros do Hawaii</button></a>

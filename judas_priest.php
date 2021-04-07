@@ -3,19 +3,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-
-
-    <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
+    <title>Judas Priest</title>
+    <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link href="css/css_loja.css" rel="stylesheet" />
-    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 </head>
 
@@ -24,7 +18,7 @@
 
         <main>
 
-            <nav>
+            <nav class="top">
                 <a class="loja" href="historia_judas_priest.php">Historia da Banda</a>
                 <a class="vote" href="curiosidades_judas_priest.php">Curiosidades do Judas Priest</a>
             </nav>

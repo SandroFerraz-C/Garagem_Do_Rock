@@ -1,226 +1,33 @@
-#divCZZ01,
-#divRF01,
-#divMB01,
-#divDE01,
-#divGG01 {
+#divCAZUZA,
+#divROBERTO_FREJAT,
+#divMAURICIO_BARROS,
+#divDE,
+#divGUTO_GOFFI,
+#divPENINHA,
+#divFERNANDO_MAGALHAES,
+#divRODRIGO_SANTOS,
+#divRODRIGO_SURICATO {
     font-size: 17px;
     position: absolute;
-    top: 192%;
     left: 42%;
     border: solid 1px #696969;
     width: 50%;
-    height: 44%;
     display: none;
     background-color: #D3D3D3;
     padding: .5%;
     height: auto;
 }
 
-#divCZZ02,
-#divRF02,
-#divMB02,
-#divDE02,
-#divGG02,
-#divPNH02 {
-    font-size: 17px;
-    position: absolute;
-    top: 190%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divCZZ03,
-#divRF03,
-#divMB03,
-#divDE03,
-#divGG03,
-#divPNH03 {
-    font-size: 17px;
-    position: absolute;
-    top: 238%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divRF04,
-#divMB04,
-#divDE04,
-#divGG04,
-#divPNH04 {
-    font-size: 17px;
-    position: absolute;
-    top: 215%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divRF05,
-#divMB05,
-#divDE05,
-#divGG05,
-#divPNH05 {
-    font-size: 17px;
-    position: absolute;
-    top: 200%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divRF06,
-#divDE06,
-#divGG06,
-#divPNH06 {
-    font-size: 17px;
-    position: absolute;
-    top: 230%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-
-/*
-#divRF07,
-#divFM07,
-#divRS07,
-#divGG07,
-#divPNH07,
-#divMB07 {
-    font-size: 17px;
-    position: absolute;
-    top: 230%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-*/
-
-#divRF08,
-#divFM08,
-#divRS08,
-#divGG08,
-#divPNH08,
-#divMB08 {
-    font-size: 17px;
-    position: absolute;
-    top: 210%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divRF09,
-#divFM09,
-#divRS09,
-#divGG09,
-#divPNH09,
-#divMB09 {
-    font-size: 17px;
-    position: absolute;
-    top: 175%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divRF10,
-#divFM10,
-#divRS10,
-#divGG10,
-#divPNH10,
-#divMB10 {
-    font-size: 17px;
-    position: absolute;
-    top: 190%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divRF11,
-#divFM11,
-#divRS11,
-#divGG11,
-#divPNH11,
-#divMB11 {
-    font-size: 17px;
-    position: absolute;
-    top: 176%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divRS12,
-#divFM12,
-#divRSANTOS12,
-#divGG12,
-#divMB12 {
-    font-size: 17px;
-    position: absolute;
-    top: 176%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
+#divCAZUZA img,
+#divROBERTO_FREJAT img,
+#divMAURICIO_BARROS img,
+#divDE img,
+#divGUTO_GOFFI img,
+#divPENINHA img,
+#divFERNANDO_MAGALHAES img,
+#divRODRIGO_SANTOS img,
+#divRODRIGO_SURICATO img {
+    margin-bottom: 2%;
 }
 
 .css {

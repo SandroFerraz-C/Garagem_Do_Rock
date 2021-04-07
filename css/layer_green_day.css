@@ -1,9 +1,9 @@
-#divBJ01,
-#divMD01,
-#divJK01 {
+#divBILLIE_JOE,
+#divMIKE_DIRNT,
+#divJOHN_KIFFMEYER,
+#divTRE_COOL {
     font-size: 17px;
     position: absolute;
-    top: 410%;
     left: 42%;
     border: solid 1px #696969;
     width: 50%;
@@ -14,196 +14,11 @@
     height: auto;
 }
 
-#divBJ02,
-#divMD02,
-#divTC02 {
-    font-size: 17px;
-    position: absolute;
-    top: 332%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ03,
-#divMD03,
-#divTC03 {
-    font-size: 17px;
-    position: absolute;
-    top: 425%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ04,
-#divMD04,
-#divTC04 {
-    font-size: 17px;
-    position: absolute;
-    top: 272%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ05,
-#divMD05,
-#divTC05 {
-    font-size: 17px;
-    position: absolute;
-    top: 323%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ06,
-#divMD06,
-#divTC06 {
-    font-size: 17px;
-    position: absolute;
-    top: 297%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ07,
-#divMD07,
-#divTC07 {
-    font-size: 17px;
-    position: absolute;
-    top: 400%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ08,
-#divMD08,
-#divTC08 {
-    font-size: 17px;
-    position: absolute;
-    top: 454%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ09,
-#divMD09,
-#divTC09 {
-    font-size: 17px;
-    position: absolute;
-    top: 312%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ10,
-#divMD10,
-#divTC10 {
-    font-size: 17px;
-    position: absolute;
-    top: 292%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ11,
-#divMD11,
-#divTC11 {
-    font-size: 17px;
-    position: absolute;
-    top: 256%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ12,
-#divMD12,
-#divTC12 {
-    font-size: 17px;
-    position: absolute;
-    top: 286%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ13,
-#divMD13,
-#divTC13 {
-    font-size: 17px;
-    position: absolute;
-    top: 236%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
+#divBILLIE_JOE img,
+#divMIKE_DIRNT img,
+#divJOHN_KIFFMEYER img,
+#divTRE_COOL img {
+    margin-bottom: 2%;
 }
 
 .css {

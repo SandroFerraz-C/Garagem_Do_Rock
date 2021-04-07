@@ -11,7 +11,7 @@ include_once("header.php");
 
             <p>- Let There Be Rock é o quarto álbum do AC/DC. Foi lançado na Austrália em março de 1977, e relançado de forma internacional em julho de 1977.</p>
 
-            <p>Foi marcado não apenas pela sua qualidade, mas também por ser a última aparição de <a href="#" onMouseOver="mostraLayer('divME05_1');" onMouseOut="escondeLayer('divME05_1');"> Mark Evans</a> no baixo.</p>
+            <p>Foi marcado não apenas pela sua qualidade, mas também por ser a última aparição de <a href="#"> Mark Evans</a> no baixo.</p>
 
             <p>No final de 1976, o AC/DC estava em declínio. "Estava muito perto de terminar", disse o técnico Michael Browning. "As coisas estavam indo muito bem em Londres e na Europa. Passamos por uma coisa toda com o Marque onde eles quebraram todos os recordes
                 da casa. Fizemos a turnê "Lock Up Your Daughters" no Reino Unido e o Reading Festival. Tudo se moldando muito bem". "No meio da turnê, recebo um telefonema dizendo que a Atlantic Records na América não gostou do álbum - Dirty Deeds ",
@@ -30,7 +30,7 @@ include_once("header.php");
                 <table border="1px" width="45%">
                     <tr>
                         <td width="15%" height="10%">Nivel</td>
-                        <td width="15%">Albuns Vendidos</td>
+                        <td width="15%">Álbuns Vendidos</td>
                     </tr>
 
                     <tr>
@@ -73,8 +73,6 @@ include_once("header.php");
             <p>Duração do álbum: 40:19 (Austrália) || 41:01 (Internacional)</p>
             <p>Gravadora(s):Albert Productions</p>
             <p>Produção: Harry Vanda e George Young</p>
-            <br />
-
 
             <section class="disco">
                 <table id="demo-table">
@@ -83,60 +81,53 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divBON_SCOTT" name="nm_divBON_SCOTT">
+                    <p><img class="css" src="img/Bon.jpg" width="150px;" height="130px;"> Ronald Belford Scott ( 9 de julho de 1946 — 19 de fevereiro de 1980) foi um cantor e compositor australiano nascido na Escócia. Ele ficou mundialmente conhecido
+                        por ser vocalista e compositor da banda de rock australiana AC/DC de 1974 a 1980.
+                        <br />
+                        <br /> Em 2006, a revista Hit Parader colocou Scott como o quinto melhor vocalista de heavy metal de todos os tempos.
+                    </p>
+                </div>
+
+                <div id="divANGUS_YOUNG" name="nm_divANGUS_YOUNG">
+                    <p><img class="css" src="img/angus.jpg" width="150px;" height="130px;"> Angus McKinnon Young (31 de março de 1955) é um guitarrista e compositor, conhecido por ser guitarrista solo, compositor, líder e co-fundador da banda AC/DC.
+                        <br /> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
+                        <br /> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                    </p>
+                </div>
+
+                <div id="divMALCOLM_YOUNG" name="nm_divMALCOLM_YOUNG">
+                    <p><img class="css" src="img/Malcolm.jpg" width="150px;" height="130px;"> Malcolm Mitchell Young (6 de janeiro de 1953 — 18 de novembro de 2017) foi um guitarrista e compositor escocês naturalizado australiano e fundador, junto
+                        com seu irmão mais novo Angus Young, do AC/DC, da qual era o guitarrista rítmico, vocalista de apoio e compositor.
+                        <br /> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
+                    </p>
+                </div>
+
+                <div id="divMARK_EVANS" name="nm_divMARK_EVANS">
+                    <p><img class="css" src="img/Mark.png" width="150px;" height="130px;"> Mark Evans (2 de março de 1956)é um baixista australiano, mais conhecido como um dos primeiros baixistas do AC/DC, onde participou de cinco discos entre 1975
+                        e 1977. Mark saiu da banda por desentendimentos com o guitarrista Angus Young.
+                        <br /> Em 2011, Mark lançou o livro: Dirty Deeds: My Life Inside / Outside of AC / DC, que conta os bastidores das gravações com o AC/DC, além de suas memórias dos shows com o grupo.
+                    </p>
+                </div>
+
+                <div id="divPHIL_RUDD" name="divPHIL_RUDD">
+                    <p><img class="css" src="img/acdc/philrudd.jpg" width="150px;" height="130px;"> Phillip Norman Hugh Rudd, nasceu com o nome de Hugh Phillip Norman Witschke Rudzevecuis. Nascido em 19 de Maio de 1954, é um baterista australiano.
+                        Ocupou o cargo de 1975 até 1983 e novamente de 1994 até a data presente na banda AC/DC. Após a saída do baixista Mark Evans em 1977, Phil se tornou o único membro australiano na banda.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divBS05');" onMouseOut="escondeLayer('divBS05');">Bon Scott</a> – Vocais.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divAY05');" onMouseOut="escondeLayer('divAY05');">Angus Young</a> – Guitarra solo e Vocais.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divMY05');" onMouseOut="escondeLayer('divMY05');">Malcolm Young</a> – Guitarra Rítmica e Vocais.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRB05');" onMouseOut="escondeLayer('divRB05');">Mark Evans</a> – Baixo e Vocais.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTC05');" onMouseOut="escondeLayer('divTC05');">Phil Rudd</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divBON_SCOTT');" onMouseOut="escondeLayer('divBON_SCOTT');">Bon Scott</a> – Vocais.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divANGUS_YOUNG');" onMouseOut="escondeLayer('divANGUS_YOUNG');">Angus Young</a> – Guitarra solo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divMALCOLM_YOUNG');" onMouseOut="escondeLayer('divMALCOLM_YOUNG');">Malcolm Young</a> – Guitarra Rítmica.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divMARK_EVANS');" onMouseOut="escondeLayer('divMARK_EVANS');">Mark Evans</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPHIL_RUDD');" onMouseOut="escondeLayer('divPHIL_RUDD');">Phil Rudd</a> – Bateria.</li>
                 </ul>
             </nav>
-            <br />
-
-            <div id="divBS05" name="nm_divBS05">
-                <p><img class="css" src="img/Bon.jpg" width="150px;" height="130px;"> Ronald Belford Scott ( 9 de julho de 1946 — 19 de fevereiro de 1980) foi um cantor e compositor australiano nascido na Escócia. Ele ficou mundialmente conhecido
-                    por ser vocalista e compositor da banda de rock australiana AC/DC de 1974 a 1980.
-                    <br />
-                    <br /> Em 2006, a revista Hit Parader colocou Scott como o quinto melhor vocalista de heavy metal de todos os tempos.
-                </p>
-            </div>
-
-            <div id="divAY05" name="nm_divAY05">
-                <p><img class="css" src="img/angus.jpg" width="150px;" height="130px;"> Angus McKinnon Young (31 de março de 1955) é um guitarrista e compositor, conhecido por ser guitarrista solo, compositor, líder e co-fundador da banda AC/DC.
-                    <br /> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
-                    <br /> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
-                </p>
-            </div>
-
-            <div id="divMY05" name="nm_divMY05">
-                <p><img class="css" src="img/Malcolm.jpg" width="150px;" height="130px;"> Malcolm Mitchell Young (6 de janeiro de 1953 — 18 de novembro de 2017) foi um guitarrista e compositor escocês naturalizado australiano e fundador, junto
-                    com seu irmão mais novo Angus Young, do AC/DC, da qual era o guitarrista rítmico, vocalista de apoio e compositor.
-                    <br /> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
-                </p>
-            </div>
-
-            <div id="divRB05" name="nm_divRB05">
-                <p><img class="css" src="img/Mark.png" width="150px;" height="130px;"> Mark Evans (2 de março de 1956)é um baixista australiano, mais conhecido como um dos primeiros baixistas do AC/DC, onde participou de cinco discos entre 1975
-                    e 1977. Mark saiu da banda por desentendimentos com o guitarrista Angus Young.
-                    <br /> Em 2011, Mark lançou o livro: Dirty Deeds: My Life Inside / Outside of AC / DC, que conta os bastidores das gravações com o AC/DC, além de suas memórias dos shows com o grupo.
-                </p>
-            </div>
-
-            <div id="divTC05" name="divTC05">
-                <p><img class="css" src="img/acdc/philrudd.jpg" width="150px;" height="130px;"> Phillip Norman Hugh Rudd, nasceu com o nome de Hugh Phillip Norman Witschke Rudzevecuis. Nascido em 19 de Maio de 1954, é um baterista australiano.
-                    Ocupou o cargo de 1975 até 1983 e novamente de 1994 até a data presente na banda AC/DC. Após a saída do baixista Mark Evans em 1977, Phil se tornou o único membro australiano na banda.
-                    <br /><br />
-                </p>
-            </div>
-
-            <div id="divME05_1" name="nm_divME05_1">
-                <p><img class="css" src="img/Mark.png" width="150px;" height="130px;"> Mark Evans (2 de março de 1956)é um baixista australiano, mais conhecido como um dos primeiros baixistas do AC/DC, onde participou de cinco discos entre 1975
-                    e 1977. Mark saiu da banda por desentendimentos com o guitarrista Angus Young.
-                    <br /> Em 2011, Mark lançou o livro: Dirty Deeds: My Life Inside / Outside of AC / DC, que conta os bastidores das gravações com o AC/DC, além de suas memórias dos shows com o grupo.
-                </p>
-            </div>
 
             <footer>
                 <a href="acdc.php"><button>Voltar para os Álbuns do AC/DC</button></a>

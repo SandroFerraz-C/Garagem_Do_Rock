@@ -11,7 +11,6 @@ include_once("header_curiosidades.php");
     <div class="curiosidade_acdc">
 
         <h1>Curiosidades sobre o Kiss</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -202,32 +201,6 @@ include_once("header_curiosidades.php");
                         mil pessoas no show.</p>
                 </div>
             </div>
-            <br /> <br />
-
-            <nav>
-                <button class="btn23" data-toggle="collapse" data-target="#demo23">Fontes</button>
-
-                <div id="demo23" class="collapse">
-                    <br />
-
-                    <ul>
-                        <li> - Leia mais em: <a href="https://whiplash.net/materias/curiosidades/232698-kiss.html">
-                                whiplash.net</a> ©2021.</li>
-                        <br />
-
-                        <li> - Leia mais em: <a href="https://soubh.com.br/noticias/cultura/trinta-curiosidades-da-banda-kiss">
-                                soubh. </a> ©2021</li>
-
-                        <li> - Leia mais em: <a href="https://www.letras.com.br/kiss/curiosidades">
-                                letras.com.br </a> ©2021</li>
-
-                </div>
-            </nav>
-            <br /><br />
-
-            <div class="albuns_acdc">
-                <a href="kiss.php"><button>Voltar para Albuns do Kiss</button></a>
-            </div>
 
         </section>
 
@@ -235,54 +208,33 @@ include_once("header_curiosidades.php");
 
             <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Paul Stanley </p>
-            <p class="ay_antes">Paul Stanley </p>
-            <p class="bj_hj">Gene Simmons </p>
-            <p class="bj_antes">Gene Simmons </p>
-
-            <img src="img/kiss/ps_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/ps_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Eric Singer </p>
-            <p class="ay_antes">Eric Singer </p>
-
-            <img src="img/kiss/gs_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/gs_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Tommy Thayer </p>
-            <p class="bj_antes">Tommy Thayer </p>
-
-            <img src="img/kiss/es_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/es_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Ace Frehley </p>
-            <p class="ay_antes">Ace Frehley </p>
-
-            <img src="img/kiss/tt_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/tt_antes.png" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Peter Criss </p>
-            <p class="bj_antes">Peter Criss </p>
-
-            <img src="img/kiss/af_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/af_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Eric Carr </p>
-            <p class="ay_antes">Eric Carr </p>
-
-            <img src="img/kiss/pc_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/pc_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/ec_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/ec_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/kiss/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_kiss" src="img/kiss/ps_hj.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_2_kiss" src="img/kiss/ps_antes.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_3_kiss" src="img/kiss/gs_hj.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_4_kiss" src="img/kiss/gs_antes.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_5_kiss" src="img/kiss/es_hj.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_6_kiss" src="img/kiss/es_antes.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_7_kiss" src="img/kiss/tt_hj.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_8_kiss" src="img/kiss/tt_antes.png" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_9_kiss" src="img/kiss/af_hj.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_10_kiss" src="img/kiss/af_antes.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_11_kiss" src="img/kiss/pc_hj.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_12_kiss" src="img/kiss/pc_antes.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_13_kiss" src="img/kiss/ec_hj.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_14_kiss" src="img/kiss/ec_antes.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_15_kiss" src="img/kiss/01.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_16_kiss" src="img/kiss/02.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_17_kiss" src="img/kiss/03.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_18_kiss" src="img/kiss/04.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_19_kiss" src="img/kiss/05.jpg" alt="Foto dos integrantes da banda Kiss">
+            <img id="foto_20_kiss" src="img/kiss/06.jpg" alt="Foto dos integrantes da banda Kiss">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="kiss.php"><button>Voltar para Albuns do Kiss</button></a>
     </div>
 
     <footer id="rodape">

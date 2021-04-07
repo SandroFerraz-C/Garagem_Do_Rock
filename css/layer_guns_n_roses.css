@@ -1,11 +1,17 @@
-#divAR01,
-#divSLS01,
-#divIS01,
-#divDM01,
-#divSA01 {
+#divAXL_ROSE,
+#divSLASH,
+#divIZZI_STRADLIN,
+#divDUFF_MCKAGAN,
+#divSTEVEN_ADLER,
+#divMATT_SORUM,
+#DIZZY_REED,
+#GILBY_CLARKE,
+#divBUMBLEFOOT,
+#divRICHARD_FORTUS,
+#divTOMMY_STINSON,
+#divFRANK_FERRER {
     font-size: 17px;
     position: absolute;
-    top: 360%;
     left: 42%;
     border: solid 1px #696969;
     width: 50%;
@@ -16,122 +22,19 @@
     height: auto;
 }
 
-#divAR02,
-#divSLS02,
-#divIS02,
-#divDM02,
-#divSA02 {
-    font-size: 17px;
-    position: absolute;
-    top: 297%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divAR03,
-#divSLS03,
-#divIS03,
-#divDM03,
-#divMS03,
-#divDR03 {
-    font-size: 17px;
-    position: absolute;
-    top: 420%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divAR04,
-#divSLS04,
-#divIS04,
-#divDM04,
-#divMS04,
-#divDR04 {
-    font-size: 17px;
-    position: absolute;
-    top: 392%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divAR05,
-#divSLS05,
-#divGC05,
-#divDM05,
-#divMS05,
-#divDR05 {
-    font-size: 17px;
-    position: absolute;
-    top: 392%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divAR06,
-#divBF06,
-#divRF06,
-#divTS06,
-#divFF06,
-#divDR06 {
-    font-size: 17px;
-    position: absolute;
-    top: 392%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divAR,
-#divS,
-#divDM {
-    position: absolute;
-    top: 34%;
-    left: 65%;
-    width: 100%;
-    display: none;
-    height: auto;
-}
-
-#divDG {
-    position: absolute;
-    top: 138%;
-    left: 10%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
+#divAXL_ROSE img,
+#divSLASH img,
+#divIZZI_STRADLIN img,
+#divDUFF_MCKAGAN img,
+#divSTEVEN_ADLER img,
+#divMATT_SORUM img,
+#DIZZY_REED img,
+#GILBY_CLARKE img,
+#divBUMBLEFOOT img,
+#divRICHARD_FORTUS img,
+#divTOMMY_STINSON img,
+#divFRANK_FERRER img {
+    margin-bottom: 2%;
 }
 
 .css {

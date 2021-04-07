@@ -1,0 +1,103 @@
+#cabecalho_inferior nav ul li a {
+    font-size: 12px;
+}
+
+.aline {
+    width: 320px;
+    margin-top: 5%;
+    font-size: 15px;
+    text-align: center;
+}
+
+.video {
+    width: 320px;
+    height: 200px;
+}
+
+.video_iframe {
+    width: 320px;
+    height: 400px;
+    margin: .5%;
+}
+
+.letra h1 {
+    text-align: center;
+    margin-top: 2%;
+    font-size: 15px;
+}
+
+.letra h2 {
+    margin-top: 5%;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.letra p {
+    font-size: 8px;
+    text-align: center;
+}
+
+#corpo_video_01_acdc,
+#corpo_video_03_aerosmith,
+#corpo_video_05_angra,
+#corpo_video_07_black_sabbath,
+#corpo_video_09_bon_jovi,
+#corpo_video_11_barao_vermelho,
+#corpo_video_13_capital_inicial,
+#corpo_video_15_deep_purple,
+#corpo_video_17_eagles,
+#corpo_video_19_engenheiros_do_hawaii,
+#corpo_video_21_foo_fighters,
+#corpo_video_22_green_day,
+#corpo_video_24_guns_n_roses,
+#corpo_video_26_iron_maiden,
+#corpo_video_28_judas_priest,
+#corpo_video_30_kiss,
+#corpo_video_32_led_zeppelin,
+#corpo_video_34_legiao_urbana,
+#corpo_video_36_linkin_park,
+#corpo_video_38_metallica,
+#corpo_video_40_motorhead,
+#corpo_video_42_nirvana,
+#corpo_video_44_os_paralamas_do_sucesso,
+#corpo_video_46_pink_floyd,
+#corpo_video_48_queen,
+#corpo_video_50_ramones,
+#corpo_video_52_raul_seixas,
+#corpo_video_54_red_hot_chili_peppers,
+#corpo_video_56_sepultura,
+#corpo_video_58_scorpions,
+#corpo_video_60_skank,
+#corpo_video_62_slayer,
+#corpo_video_64_slipknot,
+#corpo_video_66_system_of_a_down,
+#corpo_video_68_titas,
+#corpo_video_71_the_beatles,
+#corpo_video_72_the_doors,
+#corpo_video_74_the_police,
+#corpo_video_76_the_rolling_stones,
+#corpo_video_78_the_who,
+#corpo_video_80_u2,
+#corpo_video_82_zz_top {
+    margin: 0 auto;
+    background: #fff;
+    margin-top: 15px;
+}
+
+#corpo_video_classic_2,
+#corpo_video_classic_3,
+#corpo_video_classic_4 {
+    width: 320px;
+}
+
+div .paginacao {
+    background-color: red;
+    width: 320px;
+}
+
+div .paginacao h1 {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 3%;
+}

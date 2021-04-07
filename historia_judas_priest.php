@@ -2,18 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>História do Judas Priest</title>
 
-    <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_america.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_judas_priest.css">
-
+    <link rel="stylesheet" type="text/css" href="css/historia_ac_dc.css">
 </head>
 
 <body>
@@ -24,23 +19,13 @@
 
             <p>
                 Judas Priest é uma banda britânica de heavy metal criada em meados de 1969, em Birmingham. Formada por
-                <a href="#" onMouseOver="mostraLayer('divKKD');" onMouseOut="escondeLayer('divKKD');">K. K. Downing</a> e
-                <a href="#" onMouseOver="mostraLayer('divIH');" onMouseOut="escondeLayer('divIH');">Ian Hill</a>,
+                <a href="#">K. K. Downing</a> e <a href="#">Ian Hill</a>,
                 a banda é considerada uma das precursoras do heavy metal moderno, sendo um dos grupos mais influentes na história do gênero.
                 Tratou-se da primeira banda a unir o peso e temática obscura criados pelo Black Sabbath à velocidade de alguns grupos como o
                 Deep Purple e Led Zeppelin, suprimindo aos poucos a herança do blues e dando ênfase ao rock mais pesado. São creditados também por
                 serem pioneiros no uso de duas guitarras, pelos inovadores vocais operísticos de Rob Halford e pela introdução das vestimentas de
                 couro no heavy metal.
             </p>
-
-            <div id="divKKD" name="nm_divKKD">
-                <img class="css" src="img/judas priest/kkd.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divIH" name="nm_divIH">
-                <img class="css" src="img/judas priest/ih.jpg" width="150px;" height="130px;">
-            </div>
-
 
             <p>
                 Iniciaram sua carreira fazendo covers das bandas - Spirit e - Quick Silver Messenger Service, para mais tarde e com ajuda de
@@ -103,8 +88,6 @@
         </div>
 
     </main>
-
-    <script type="text/javascript" src="js/Country.js"></script>
 
 </body>
 

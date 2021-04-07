@@ -11,7 +11,6 @@ include_once("header_curiosidades.php");
     <div class="curiosidade_acdc">
 
         <h1>Curiosidades sobre o Led Zeppelin</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -207,32 +206,6 @@ include_once("header_curiosidades.php");
                         e manuscrito, a mansão de Crowley, chamada Boleskine, localizada às margens do Lago Ness.</p>
                 </div>
             </div>
-            <br /> <br />
-
-            <nav>
-                <button class="btn23" data-toggle="collapse" data-target="#demo23">Fontes</button>
-
-                <div id="demo23" class="collapse">
-                    <br />
-
-                    <ul>
-                        <li> - Leia mais em: <a href="https://whiplash.net/materias/curiosidades/064443-ledzeppelin.html">
-                                whiplash.net</a> ©2021.</li>
-                        <br />
-
-                        <li> - Leia mais em: <a href="https://saber-curiosidades.blogspot.com/2020/06/21-curiosidades-e-fatos-interessantes.html">
-                                Saber-Curiosidades. </a> ©2021</li>
-
-                        <li> - Leia mais em: <a href="https://www.letras.com.br/led-zeppelin/curiosidades">
-                                letras.com.br </a> ©2021</li>
-                    </ul>
-                </div>
-            </nav>
-            <br /><br />
-
-            <div class="albuns_acdc">
-                <a href="led_zeppelin.php"><button>Voltar para Albuns do Led Zeppelin</button></a>
-            </div>
 
         </section>
 
@@ -240,43 +213,33 @@ include_once("header_curiosidades.php");
 
             <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Jimmy Page </p>
-            <p class="ay_antes">Jimmy Page </p>
-            <p class="bj_hj">John Bonham </p>
-            <p class="bj_antes">John Bonham </p>
-
-            <img src="img/led zeppelin/jp_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/jp_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">John P. Jones </p>
-            <p class="ay_antes">John P. Jones </p>
-
-            <img src="img/led zeppelin/jb_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/jb_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Robert Plant </p>
-            <p class="bj_antes">Robert Plant </p>
-
-            <img src="img/led zeppelin/jpj_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/jpj_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <img src="img/led zeppelin/rp_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/rp_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/09.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/10.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/12.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/led zeppelin/13.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_led" src="img/led zeppelin/jp_hj.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_2_led" src="img/led zeppelin/jp_antes.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_3_led" src="img/led zeppelin/jb_hj.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_4_led" src="img/led zeppelin/jb_antes.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_5_led" src="img/led zeppelin/jpj_hj.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_6_led" src="img/led zeppelin/jpj_antes.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_7_led" src="img/led zeppelin/rp_hj.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_8_led" src="img/led zeppelin/rp_antes.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_9_led" src="img/led zeppelin/01.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_10_led" src="img/led zeppelin/02.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_11_led" src="img/led zeppelin/03.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_12_led" src="img/led zeppelin/04.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_13_led" src="img/led zeppelin/05.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_14_led" src="img/led zeppelin/06.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_15_led" src="img/led zeppelin/07.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_16_led" src="img/led zeppelin/08.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_17_led" src="img/led zeppelin/09.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_18_led" src="img/led zeppelin/10.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_19_led" src="img/led zeppelin/12.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
+            <img id="foto_20_led" src="img/led zeppelin/13.jpg" alt="Foto dos integrantes da banda Led Zeppelin">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="led_zeppelin.php"><button>Voltar para Albuns do Led Zeppelin</button></a>
     </div>
 
     <footer id="rodape">

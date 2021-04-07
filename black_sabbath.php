@@ -2,15 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>Black Sabbath</title>
 
-    <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
+    <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 
@@ -20,7 +18,7 @@
 
         <main>
 
-            <nav>
+            <nav class="top">
                 <a class="loja" href="historia_black_sabbath.php">Historia da Banda</a>
                 <a class="vote" href="curiosidades_Black_sabbath.php">Curiosidades do Black Sabbath</a>
             </nav>
@@ -66,7 +64,6 @@
                     <!-- Sem player de musica
                     <a href="black_sabbath_17_cross_purposes.php"><img class="hv" src="img/Black Sabbath/17_c_p.jpg" height="310px;" width="360px;"></a>
                     <a href="black_sabbath_18_forbidden.php"><img class="hv" src="img/Black Sabbath/18_f.jpg" height="310px;" width="360px;"></a>
-
 -->
                     <a href="black_sabbath_19_13.php"><img class="hv" src="img/Black Sabbath/19_13.jpg" height="310px;" width="360px;"></a>
 
@@ -75,6 +72,7 @@
             </section>
 
             <div class="botao_acdc">
+                <br />
                 <button><a href="index.php">Home</a></button>
             </div>
 

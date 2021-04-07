@@ -11,7 +11,7 @@ include_once("header.php");
 
             <p>
                 - Skin and Bones é o álbum acústico ao vivo do Foo Fighters, gravado durante a turnê acústica do álbum - In Your Honor, lançado em 2006. </p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -32,7 +32,7 @@ include_once("header.php");
                     </tr>
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">

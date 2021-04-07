@@ -2,18 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>História do Linkin Park</title>
 
-    <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_america.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_linkin_park.css">
-
+    <link rel="stylesheet" type="text/css" href="css/historia_ac_dc.css">
 </head>
 
 <body>
@@ -24,39 +19,10 @@
 
             <p>
                 Linkin Park é uma banda de rock dos Estados Unidos formada na Califórnia. A formação atual da banda inclui o vocalista e multi-instrumentista
-                <a href="#" onMouseOver="mostraLayer('divMS');" onMouseOut="escondeLayer('divMS');"> Mike Shinoda</a>, o guitarrista
-                <a href="#" onMouseOver="mostraLayer('divBD');" onMouseOut="escondeLayer('divBD');"> Brad Delson</a>, o baixista
-                <a href="#" onMouseOver="mostraLayer('divDF');" onMouseOut="escondeLayer('divDF');"> Dave Farrell</a>, o DJ
-                <a href="#" onMouseOver="mostraLayer('divJH');" onMouseOut="escondeLayer('divJH');"> Joe Hahn</a> e o baterista
-                <a href="#" onMouseOver="mostraLayer('divRB');" onMouseOut="escondeLayer('divRB');"> Rob Bourdon</a>, todos membros fundadores.
-                Outro membro que estava com a banda desde sua fundação foi
-                <a href="#" onMouseOver="mostraLayer('divCB');" onMouseOut="escondeLayer('divCB');">Chester Bennington</a>, que cometeu suicídio
-                em 2017
+                <a href="#"> Mike Shinoda</a>, o guitarrista <a href="#"> Brad Delson</a>, o baixista <a href="#"> Dave Farrell</a>, o DJ
+                <a href="#"> Joe Hahn</a> e o baterista <a href="#"> Rob Bourdon</a>, todos membros fundadores.
+                Outro membro que estava com a banda desde sua fundação foi <a href="#">Chester Bennington</a>, que cometeu suicídio em 2017
             </p>
-
-            <div id="divMS" name="nm_divMS">
-                <img class="css" src="img/linkin park/ms.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divBD" name="nm_divBD">
-                <img class="css" src="img/linkin park/bd.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divDF" name="nm_divDF">
-                <img class="css" src="img/linkin park/df.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divJH" name="nm_divJH">
-                <img class="css" src="img/linkin park/jh.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divRB" name="nm_divRB">
-                <img class="css" src="img/linkin park/rb.jpg" width="150px;" height="130px;">
-            </div>
-
-            <div id="divCB" name="nm_divCB">
-                <img class="css" src="img/linkin park/cb.jpeg" width="150px;" height="130px;">
-            </div>
 
             <p>
                 Formado em 1996, 0 Linkin Park alcançou fama internacional com o seu álbum de estreia, - Hybrid Theory (2000), que foi certificado
@@ -115,8 +81,6 @@
         </div>
 
     </main>
-
-    <script type="text/javascript" src="js/Country.js"></script>
 
 </body>
 

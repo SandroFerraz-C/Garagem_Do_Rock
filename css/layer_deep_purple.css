@@ -1,11 +1,18 @@
-#divRE01,
-#divRB01,
-#divNS01,
-#divJL01,
-#divIP01 {
+#divROD_EVANS,
+#divRITCHIE_BLACKMORE,
+#divNICK_SIMPER,
+#divJOHN_LORD,
+#divIAN_PAICE,
+#divIAN_GILLAN,
+#divROGER_GLOVER,
+#divDAVID_COVERDALE,
+#divGLENN_HUGHES,
+#TOMMY_BOLIN,
+#divJOE_TURNER,
+#divSTEVE_MORSE,
+#divDON_AIREY {
     font-size: 17px;
     position: absolute;
-    top: 260%;
     left: 42%;
     border: solid 1px #696969;
     width: 50%;
@@ -16,292 +23,20 @@
     height: auto;
 }
 
-#divRE02,
-#divRB02,
-#divNS02,
-#divJL02,
-#divIP02 {
-    font-size: 17px;
-    position: absolute;
-    top: 160%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divRE03,
-#divRB03,
-#divNS03,
-#divJL03,
-#divIP03 {
-    font-size: 17px;
-    position: absolute;
-    top: 198%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divIG04,
-#divRB04,
-#divRG04,
-#divJL04,
-#divIP04 {
-    font-size: 17px;
-    position: absolute;
-    top: 250%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divIG05,
-#divRB05,
-#divRG05,
-#divJL05,
-#divIP05 {
-    font-size: 17px;
-    position: absolute;
-    top: 216%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divIG06,
-#divRB06,
-#divRG06,
-#divJL06,
-#divIP06 {
-    font-size: 17px;
-    position: absolute;
-    top: 265%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divIG07,
-#divRB07,
-#divRG07,
-#divJL07,
-#divIP07 {
-    font-size: 17px;
-    position: absolute;
-    top: 245%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDC08,
-#divRB08,
-#divGH08,
-#divJL08,
-#divIP08 {
-    font-size: 17px;
-    position: absolute;
-    top: 257%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDC09,
-#divRB09,
-#divGH09,
-#divJL09,
-#divIP09 {
-    font-size: 17px;
-    position: absolute;
-    top: 290%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDC10,
-#divTB10,
-#divGH10,
-#divJL10,
-#divIP10 {
-    font-size: 17px;
-    position: absolute;
-    top: 280%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divIG11,
-#divRB11,
-#divRG11,
-#divJL11,
-#divIP11 {
-    font-size: 17px;
-    position: absolute;
-    top: 287%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divIG12,
-#divRB12,
-#divRG12,
-#divJL12,
-#divIP12 {
-    font-size: 17px;
-    position: absolute;
-    top: 303%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divJLT13,
-#divRB13,
-#divRG13,
-#divJL13,
-#divIP13 {
-    font-size: 17px;
-    position: absolute;
-    top: 273%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divIG15,
-#divSM15,
-#divRG15,
-#divJL15,
-#divIP15 {
-    font-size: 17px;
-    position: absolute;
-    top: 232%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divIG18,
-#divSM18,
-#divRG18,
-#divDA18,
-#divIP18 {
-    font-size: 17px;
-    position: absolute;
-    top: 208%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divIG19,
-#divSM19,
-#divRG19,
-#divDA19,
-#divIP19 {
-    font-size: 17px;
-    position: absolute;
-    top: 280%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divIG20,
-#divSM20,
-#divRG20,
-#divDA20,
-#divIP20 {
-    font-size: 17px;
-    position: absolute;
-    top: 272%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
+#divROD_EVANS img,
+#divRITCHIE_BLACKMORE img,
+#divNICK_SIMPER img,
+#divJOHN_LORD img,
+#divIAN_PAICE img,
+#divIAN_GILLAN img,
+#divROGER_GLOVER img,
+#divDAVID_COVERDALE img,
+#divGLENN_HUGHES img,
+#TOMMY_BOLIN img,
+#divJOE_TURNER img,
+#divSTEVE_MORSE img,
+#divDON_AIREY img {
+    margin-bottom: 2%;
 }
 
 .css {

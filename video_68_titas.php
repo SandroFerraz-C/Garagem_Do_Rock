@@ -3,19 +3,19 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Loja da Garagem</title>
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <title>Titãs</title>
     <link href="css/css_loja.css" rel="stylesheet" />
-
 </head>
 
 <body>
 
-    <iframe width="560" height="445" src="https://www.youtube.com/embed/3POrNGHfBsc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <div class="letra_video_68_titas">
+    <iframe class="video" src="https://www.youtube.com/embed/3POrNGHfBsc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <div class="letra">
 
         <h1>Enquanto Houver Sol</h1>
-
-        <br /> <br />
+        <br />
 
         <p>
             Quando não houver saída<br />

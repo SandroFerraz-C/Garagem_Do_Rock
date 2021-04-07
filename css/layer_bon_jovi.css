@@ -1,11 +1,12 @@
-#divBJ01,
-#divRS01,
-#divAJ01,
-#divDB01,
-#divTT01 {
+#divBON_JOVI,
+#divRICHIE_SAMBORA,
+#divALEC_SUCH,
+#divDAVID_BRYAN,
+#divTICO_TORRES,
+#divHUGH_MCDONALD,
+#divJOHN_SHANKS {
     font-size: 17px;
     position: absolute;
-    top: 258%;
     left: 42%;
     border: solid 1px #696969;
     width: 50%;
@@ -16,256 +17,14 @@
     height: auto;
 }
 
-#divBJ02,
-#divRS02,
-#divAJ02,
-#divDB02,
-#divTT02 {
-    font-size: 17px;
-    position: absolute;
-    top: 320%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ03,
-#divRS03,
-#divAJ03,
-#divDB03,
-#divTT03 {
-    font-size: 17px;
-    position: absolute;
-    top: 358%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ04,
-#divRS04,
-#divAJ04,
-#divDB04,
-#divTT04 {
-    font-size: 17px;
-    position: absolute;
-    top: 330%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ05,
-#divRS05,
-#divAJ05,
-#divDB05,
-#divTT05 {
-    font-size: 17px;
-    position: absolute;
-    top: 418%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ06,
-#divRS06,
-#divHM06,
-#divDB06,
-#divTT06 {
-    font-size: 17px;
-    position: absolute;
-    top: 390%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ07,
-#divRS07,
-#divHM07,
-#divDB07,
-#divTT07 {
-    font-size: 17px;
-    position: absolute;
-    top: 418%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ08,
-#divRS08,
-#divHM08,
-#divDB08,
-#divTT08 {
-    font-size: 17px;
-    position: absolute;
-    top: 345%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ09,
-#divRS09,
-#divHM09,
-#divDB09,
-#divTT09 {
-    font-size: 17px;
-    position: absolute;
-    top: 357%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ10,
-#divRS10,
-#divHM10,
-#divDB10,
-#divTT10 {
-    font-size: 17px;
-    position: absolute;
-    top: 385%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ11,
-#divRS11,
-#divHM11,
-#divDB11,
-#divTT11 {
-    font-size: 17px;
-    position: absolute;
-    top: 345%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ12,
-#divRS12,
-#divHM12,
-#divDB12,
-#divTT12 {
-    font-size: 17px;
-    position: absolute;
-    top: 370%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ13,
-#divJS13,
-#divHM13,
-#divDB13,
-#divTT13 {
-    font-size: 17px;
-    position: absolute;
-    top: 220%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ14,
-#divJS14,
-#divHM14,
-#divDB14,
-#divTT14 {
-    font-size: 17px;
-    position: absolute;
-    top: 290%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divBJ15,
-#divJS15,
-#divHM15,
-#divDB15,
-#divTT15 {
-    font-size: 17px;
-    position: absolute;
-    top: 215%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
+#divBON_JOVI img,
+#divRICHIE_SAMBORA img,
+#divALEC_SUCH img,
+#divDAVID_BRYAN img,
+#divTICO_TORRES img,
+#divHUGH_MCDONALD img,
+#divJOHN_SHANKS img {
+    margin-bottom: 2%;
 }
 
 .css {
@@ -274,4 +33,13 @@
     max-width: 25%;
     margin-left: 1%;
     margin-right: 1%;
+}
+
+.div-certificacao {
+    display: flex;
+}
+
+.tabela,
+.tabela-2 {
+    width: 100%;
 }

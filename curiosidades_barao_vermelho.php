@@ -10,7 +10,6 @@ include_once("header_curiosidades.php");
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre Barão Vermelho</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -212,67 +211,40 @@ include_once("header_curiosidades.php");
                         holograma durou 20 minutos. Gal Costa e Paulo Ricardo interpretaram outros hits do cantor.</p>
                 </div>
             </div>
-            <br />
 
-            <div class="albuns_acdc">
-                <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
-            </div>
         </section>
 
         <div class="fotoac">
-           
-        <h2>Álbun de Fotos do Barão Vermelho</h2>
 
-            <p class="ay_hj">Cazuza</p>
-            <p class="ay_antes">Cazuza</p>
-            <p class="bj_hj">Frejat</p>
-            <p class="bj_antes">Frejat</p>
+            <h2>Álbun de Fotos</h2>
 
-            <img src="img/barao vermelho/czz_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/czz_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Rodrigo Suricato</p>
-            <p class="ay_antes">Rodrigo Suricato</p>
-            <p class="bj_hj">fernando magalhães</p>
-            <p class="bj_antes">fernando magalhães</p>
-
-            <img src="img/barao vermelho/frejat_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/frejat_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/rs_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/rs_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Mauricio Barros</p>
-            <p class="ay_antes">Mauricio Barros</p>
-            <p class="bj_hj">Dé Palmeiras</p>
-            <p class="bj_antes">Dé Palmeiras</p>
-
-            <img src="img/barao vermelho/fm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/fm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/mb_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/mb_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Rodrigo Santos</p>
-            <p class="ay_antes">Rodrigo Santos</p>
-            <p class="bj_hj">Guto Goffi</p>
-            <p class="bj_antes">Guto Goffi</p>
-
-            <img src="img/barao vermelho/dp_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/dp_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <img src="img/barao vermelho/rodrigoS_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/rodrigoS_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <p class="ay_hj">Peninha</p>
-            <p class="ay_antes">Peninha</p>
-
-            <img src="img/barao vermelho/gg_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/gg_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/peninha_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/peninha_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/barao vermelho/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
+            <img id="foto_1_barao" src="img/barao vermelho/czz_hj.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_2_barao" src="img/barao vermelho/czz_antes.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_3_barao" src="img/barao vermelho/frejat_hj.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_4_barao" src="img/barao vermelho/frejat_antes.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_5_barao" src="img/barao vermelho/rs_hj.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_6_barao" src="img/barao vermelho/rs_antes.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_7_barao" src="img/barao vermelho/fm_hj.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_8_barao" src="img/barao vermelho/fm_antes.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_9_barao" src="img/barao vermelho/mb_hj.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_10_barao" src="img/barao vermelho/mb_antes.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_11_barao" src="img/barao vermelho/dp_hj.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_12_barao" src="img/barao vermelho/dp_antes.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_13_barao" src="img/barao vermelho/rodrigoS_hj.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_14_barao" src="img/barao vermelho/rodrigoS_antes.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_15_barao" src="img/barao vermelho/gg_hj.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_16_barao" src="img/barao vermelho/gg_antes.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_17_barao" src="img/barao vermelho/peninha_hj.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_18_barao" src="img/barao vermelho/peninha_antes.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_19_barao" src="img/barao vermelho/01.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            <img id="foto_20_barao" src="img/barao vermelho/02.jpg" alt="Foto dos integrantes da banda Barão Vermelho">
+            
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="barao_vermelho.php"><button>Voltar para Albuns do Barão Vermelho</button></a>
     </div>
 
     <footer id="rodape">

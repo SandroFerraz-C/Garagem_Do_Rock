@@ -36,12 +36,12 @@ include_once("header.php");
                 - Minuano foi o último disco dos Engenheiros do Hawaii pela gravadora BMG. Em 1998, eles passariam a fazer parte do cast da gravadora
                 Universal Music Group, cujo primeiro álbum lançado pela banda através da mesma foi Tchau, Radar!, no ano seguinte.
             </p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 41 min. 36 seg.</p>
             <p>Gravadora(s): BMG.</p>
             <p>Produção: Nilo Romero.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -49,48 +49,47 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divHUMBERTO_GESSINGER" name="nm_divHUMBERTO_GESSINGER">
+                    <p>
+                        <img class="css" src="img/engenheiros do hawaii/hg.jpg" width="150px;" height="130px;">
+                        Humberto Gessinger (Porto Alegre, 24 de dezembro de 1963) é um vocalista, baixista, pianista, gaitista, violonista,
+                        acordeonista e escritor brasileiro. Era o vocalista e líder da banda Engenheiros do Hawaii, fez turnê ao lado do
+                        violonista Duca Leindecker no projeto Pouca Vogal. Seu estilo musical é predominantemente o Rock, mas possui
+                        referencias musicais gaúchas.
+                    </p>
+                </div>
+
+                <div id="divLUCIANO_GRANJA" name="nm_divLUCIANO_GRANJA">
+                    <p>
+                        <img class="css" src="img/engenheiros do hawaii/lg.jpg" width="150px;" height="130px;">
+                        Luciano Granja, 49 anos, é um dos grandes guitarristas gaúchos. Passou a ser conhecido no cenário do rock no Brasil
+                        em 1996 quando foi convidado a integrar a banda Engenheiros do Hawaii, juntamente com o baterista Adal Fonseca.
+                        Com a necessidade de experimentar coisas novas, Luciano saí dos engenheiros e monta a banda Massa Crítica.
+                    </p>
+                </div>
+
+                <div id="divADAL_FONSECA" name="nm_divADAL_FONSECA">
+                    <p>
+                        <img class="css" src="img/engenheiros do hawaii/af.png" width="150px;" height="130px;">
+                        Adalberto da Costa Fonseca Filho, mais conhecido como Adal Fonseca ( 26 de outubro de 1972) é um baterista brasileiro.
+                        <br />
+                        "Comecei a tocar aos 13 anos, até tarde para quem desde guri assistia os irmãos mais velhos ensaiarem quase todo dia na minha mãe".
+                        <br />
+                        Foi integrante dos Engenheiros do Hawaii de 1996 até 2001 e em 2011 na volta da banda Kid Abelha passou a integrá-la.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divHG08');" onMouseOut="escondeLayer('divHG08');"> Humberto Gessinger</a> – Vocais, Baixo e Violão. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divLG08');" onMouseOut="escondeLayer('divLG08');"> Luciano Granja</a> – Guitarra e Violão. </li>
-                    <li><a href="#"> Lucio Dorfman</a> – Teclados. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divAF08');" onMouseOut="escondeLayer('divAF08');"> Adal Fonseca</a> – Bateria. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divHUMBERTO_GESSINGER');" onMouseOut="escondeLayer('divHUMBERTO_GESSINGER');"> Humberto Gessinger</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divLUCIANO_GRANJA');" onMouseOut="escondeLayer('divLUCIANO_GRANJA');"> Luciano Granja</a> – Guitarra.</li>
+                    <li><a href="#"> Lucio Dorfman</a> – Teclado.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divADAL_FONSECA');" onMouseOut="escondeLayer('divADAL_FONSECA');"> Adal Fonseca</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divHG08" name="nm_divHG08">
-                <p>
-                    <img class="css" src="img/engenheiros do hawaii/hg.jpg" width="150px;" height="130px;">
-                    Humberto Gessinger (Porto Alegre, 24 de dezembro de 1963) é um vocalista, baixista, pianista, gaitista, violonista,
-                    acordeonista e escritor brasileiro. Era o vocalista e líder da banda Engenheiros do Hawaii, fez turnê ao lado do
-                    violonista Duca Leindecker no projeto Pouca Vogal. Seu estilo musical é predominantemente o Rock, mas possui
-                    referencias musicais gaúchas.
-                </p>
-                <br />
-            </div>
-
-            <div id="divLG08" name="nm_divLD08">
-                <p>
-                    <img class="css" src="img/engenheiros do hawaii/lg.jpg" width="150px;" height="130px;">
-                    Luciano Granja, 49 anos, é um dos grandes guitarristas gaúchos. Passou a ser conhecido no cenário do rock no Brasil
-                    em 1996 quando foi convidado a integrar a banda Engenheiros do Hawaii, juntamente com o baterista Adal Fonseca.
-                    Com a necessidade de experimentar coisas novas, Luciano saí dos engenheiros e monta a banda Massa Crítica.
-                </p>
-                <br />
-            </div>
-
-            <div id="divAF08" name="nm_divAF08">
-                <p>
-                    <img class="css" src="img/engenheiros do hawaii/af.png" width="150px;" height="130px;">
-                    Adalberto da Costa Fonseca Filho, mais conhecido como Adal Fonseca ( 26 de outubro de 1972) é um baterista brasileiro.
-                    <br />
-                    "Comecei a tocar aos 13 anos, até tarde para quem desde guri assistia os irmãos mais velhos ensaiarem quase todo dia na minha mãe".
-                    <br />
-                    Foi integrante dos Engenheiros do Hawaii de 1996 até 2001 e em 2011 na volta da banda Kid Abelha passou a integrá-la.
-                </p>
-            </div>
-            <br />
 
             <footer>
                 <a href="engenheiros_do_hawaii.php"><button>Voltar para os álbuns dos Engenheiros do Hawaii</button></a>

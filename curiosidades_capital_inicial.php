@@ -10,7 +10,6 @@ include_once("header_curiosidades.php");
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre Capital Inicial</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -210,53 +209,40 @@ include_once("header_curiosidades.php");
                         Considero isso uma grande virtude.” (Dinho, 1988, especial da TV Bandeirantes).</p>
                 </div>
             </div>
-            <br />
 
-            <div class="albuns_acdc">
-                <a href="capital_inicial.php"><button>Voltar para Albuns do Capital Inicial</button></a>
-            </div>
         </section>
 
         <div class="fotoac">
 
-            <h2>Álbum de Fotos do Capital Inicial</h2>
+            <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Dinho Ouro Preto</p>
-            <p class="ay_antes">Dinho Ouro Preto</p>
-            <p class="bj_hj">Fê Lemos</p>
-            <p class="bj_antes">Fê Lemos</p>
-
-            <img src="img/capital inicial/dinho_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/dinho_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Loro Jones</p>
-            <p class="ay_antes">Loro Jones</p>
-            <p class="bj_hj">Yves Passarell</p>
-            <p class="bj_antes">Yves Passarell</p>
-
-            <img src="img/capital inicial/fe_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/fe_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/lj_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/lj_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <img src="img/capital inicial/yp_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/yp_antes.png" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <img src="img/capital inicial/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/09.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/10.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/11.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/12.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/capital inicial/13.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_capital" src="img/capital inicial/dinho_hj.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_2_capital" src="img/capital inicial/dinho_antes.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_3_capital" src="img/capital inicial/fe_hj.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_4_capital" src="img/capital inicial/fe_antes.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_5_capital" src="img/capital inicial/lj_hj.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_6_capital" src="img/capital inicial/lj_antes.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_7_capital" src="img/capital inicial/yp_hj.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_8_capital" src="img/capital inicial/yp_antes.png" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_9_capital" src="img/capital inicial/01.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_10_capital" src="img/capital inicial/02.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_11_capital" src="img/capital inicial/03.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_12_capital" src="img/capital inicial/04.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_13_capital" src="img/capital inicial/05.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_14_capital" src="img/capital inicial/06.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_15_capital" src="img/capital inicial/08.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_16_capital" src="img/capital inicial/09.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_17_capital" src="img/capital inicial/10.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_18_capital" src="img/capital inicial/11.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_19_capital" src="img/capital inicial/12.jpg" alt="Foto dos integrantes da banda Capital Inicial">
+            <img id="foto_20_capital" src="img/capital inicial/13.jpg" alt="Foto dos integrantes da banda Capital Inicial">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="capital_inicial.php"><button>Voltar para Albuns do Capital Inicial</button></a>
     </div>
 
     <footer id="rodape">

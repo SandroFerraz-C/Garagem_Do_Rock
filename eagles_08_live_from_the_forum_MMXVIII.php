@@ -21,11 +21,11 @@ include_once("header.php");
                 'Away ". A banda tocou 26 canções todas as noites, exceto no show de 14 de setembro, quando executou 27 canções, adicionando
                 "The Long Run" ao seu segundo encore. As gravações dos shows foram compiladas em um álbum ao vivo de 26 canções e um filme de concerto.
                 A única música em seu setlist omitida neste lançamento é "Witchy Woman", com "The Long Run" de 14 de setembro adicionada.</p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 2 hs. 17 min. 33 seg.</p>
             <p>Gravadora(s): Rhino.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -33,56 +33,60 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divGLENN_FREY" name="nm_divGLENN_FREY">
+                    <p><img class="css" src="img/eagles/gf.jpg" width="150px;" height="130px;">
+                        Glenn Lewis Frey ( 6 de novembro de 1948 - 18 de janeiro de 2016) foi um cantor, compositor, ator e membro fundador da
+                        banda de rock Eagles. Frey foi o co-vocalista e vocalista dos Eagles, papéis que passou a dividir com o colega Don Henley,
+                        com quem escreveu a maior parte do material dos Eagles.
+                    </p>
+                </div>
+
+                <div id="divDON_HENLEY" name="nm_divDON_HENLEY">
+                    <p><img class="css" src="img/eagles/dh.png" width="150px;" height="130px;">
+                        Donald Hugh Henley ( 22 de julho de 1947) é um músico, cantor, compositor, produtor musical americano e membro fundador
+                        dos Eagles. Ele foi o baterista e co-vocalista dos Eagles de 1971 até a separação da banda em 1980, e reprisou essas funções
+                        nas reuniões do grupo desde 1994.
+                    </p>
+                </div>
+
+                <div id="divJOE_WALSH" name="nm_divJOE_WALSH">
+                    <p><img class="css" src="img/eagles/jw.png" width="150px;" height="130px;">
+                        Joseph Fidler Walsh (20 de novembro de 1947), é um guitarrista, cantor e compositor. Em uma carreira de mais de 50
+                        anos, ele foi membro de três bandas de rock de sucesso: James Gang, Eagles e Ringo Starr & His All-Starr Band.
+                        Walsh também fez parte da banda Herbs da Nova Zelândia.
+                    </p>
+                </div>
+
+                <div id="divTBS08" name="nm_divTBS08">
+                    <p><img class="css" src="img/eagles/tbs.jpg" width="150px;" height="130px;">
+                        Timothy Bruce Schmit ( 30 de outubro de 1947) é um músico, cantor e compositor americano. Ele se apresentou como
+                        baixista e vocalista das bandas "Poco" e "Eagles", tendo substituído o baixista e vocalista Randy Meisner em ambos
+                        os casos. Schmit também trabalhou por décadas como músico de sessão e artista solo. Em 1998, ele foi introduzido no
+                        Rock and Roll Hall of Fame como um membro do Eagles.
+                    </p>
+                </div>
+
+                <div id="divVINCE_GILL" name="nm_divVINCE_GILL">
+                    <p><img class="css" src="img/eagles/vgg.png" width="150px;" height="130px;">
+                        Vincent Grant Gill (12 de abril de 1957) é um cantor country americano, compositor e multi-instrumentista. Ele
+                        alcançou sucesso comercial e fama como vocalista da banda de country rock Pure Prairie League na década de 1970 e
+                        como artista solo a partir de 1983, onde seu talento como vocalista e músico o colocou em alta demanda como vocalista
+                        convidado e parceiro de dueto.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divGF08');" onMouseOut="escondeLayer('divGF08');">Glenn Frey</a> – Vocais, Guitarras e Teclado. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDH08');" onMouseOut="escondeLayer('divDH08');">Don Henley</a> – Voz, Bateria e Percussão. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJW08');" onMouseOut="escondeLayer('divJW08');">Joe Walsh</a> – Guitarra, Teclado, Backing vocals e Lead vocals. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTBS08');" onMouseOut="escondeLayer('divTBS08');">Timothy B. Schmit</a> – Vocla e Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divVG08');" onMouseOut="escondeLayer('divVG08');">Vince Gill</a> – Voz e Guitarra. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGLENN_FREY');" onMouseOut="escondeLayer('divGLENN_FREY');">Glenn Frey</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDON_HENLEY');" onMouseOut="escondeLayer('divDON_HENLEY');">Don Henley</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOE_WALSH');" onMouseOut="escondeLayer('divJOE_WALSH');">Joe Walsh</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divTBS08');" onMouseOut="escondeLayer('divTBS08');">Timothy B. Schmit</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divVINCE_GILL');" onMouseOut="escondeLayer('divVINCE_GILL');">Vince Gill</a> – Guitarra.</li>
                 </ul>
             </nav>
-
-            <div id="divGF08" name="nm_divGF08">
-                <p><img class="css" src="img/eagles/gf.jpg" width="150px;" height="130px;">
-                    Glenn Lewis Frey ( 6 de novembro de 1948 - 18 de janeiro de 2016) foi um cantor, compositor, ator e membro fundador da
-                    banda de rock Eagles. Frey foi o co-vocalista e vocalista dos Eagles, papéis que passou a dividir com o colega Don Henley,
-                    com quem escreveu a maior parte do material dos Eagles.</p>
-                <br /><br />
-            </div>
-
-            <div id="divDH08" name="nm_divDH08">
-                <p><img class="css" src="img/eagles/dh.png" width="150px;" height="130px;">
-                    Donald Hugh Henley ( 22 de julho de 1947) é um músico, cantor, compositor, produtor musical americano e membro fundador
-                    dos Eagles. Ele foi o baterista e co-vocalista dos Eagles de 1971 até a separação da banda em 1980, e reprisou essas funções
-                    nas reuniões do grupo desde 1994.</p>
-                <br /><br />
-            </div>
-
-            <div id="divJW08" name="nm_divJW08">
-                <p><img class="css" src="img/eagles/jw.png" width="150px;" height="130px;">
-                    Joseph Fidler Walsh (20 de novembro de 1947), é um guitarrista, cantor e compositor. Em uma carreira de mais de 50
-                    anos, ele foi membro de três bandas de rock de sucesso: James Gang, Eagles e Ringo Starr & His All-Starr Band.
-                    Walsh também fez parte da banda Herbs da Nova Zelândia.</p>
-                <br /><br />
-            </div>
-
-            <div id="divTBS08" name="nm_divTBS08">
-                <p><img class="css" src="img/eagles/tbs.jpg" width="150px;" height="130px;">
-                    Timothy Bruce Schmit ( 30 de outubro de 1947) é um músico, cantor e compositor americano. Ele se apresentou como
-                    baixista e vocalista das bandas "Poco" e "Eagles", tendo substituído o baixista e vocalista Randy Meisner em ambos
-                    os casos. Schmit também trabalhou por décadas como músico de sessão e artista solo. Em 1998, ele foi introduzido no
-                    Rock and Roll Hall of Fame como um membro do Eagles.</p>
-            </div>
-
-            <div id="divVG08" name="nm_divVG08">
-                <p><img class="css" src="img/eagles/vgg.png" width="150px;" height="130px;">
-                    Vincent Grant Gill (12 de abril de 1957) é um cantor country americano, compositor e multi-instrumentista. Ele
-                    alcançou sucesso comercial e fama como vocalista da banda de country rock Pure Prairie League na década de 1970 e
-                    como artista solo a partir de 1983, onde seu talento como vocalista e músico o colocou em alta demanda como vocalista
-                    convidado e parceiro de dueto.</p>
-            </div>
 
             <footer>
                 <a href="eagles.php"><button>Voltar para os álbuns do Eagles</button></a>

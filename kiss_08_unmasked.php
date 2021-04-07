@@ -27,12 +27,12 @@ include_once("header.php");
                 Com a popularidade em baixa nos Estados Unidos o Kiss, realiza a Unmasked Tour por outros lugares como Austrália e Europa (quem
                 abriu os shows do Kiss na Europa foi o Iron Maiden). E na turnê foi apresentado o novo baterista do Kiss Eric Carr.
             </p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 39 min. 46 seg.</p>
             <p>Gravadora(s): Casablanca Records.</p>
             <p>Produção: Vini Poncia.</p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -56,7 +56,7 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -64,45 +64,46 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divPAUL_STANLEY" name="nm_divPAUL_STANLEY">
+                    <p>
+                        <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
+                        Paul Stanley é um cantor, compositor e pintor americano, mais conhecido por ser o co-fundador, vocalista,
+                        guitarrista rítmico e co-vocalista ddo Kiss. Ele é o escritor ou co-escritor de muitos dos maiores sucessos da banda.
+                        Stanley estabeleceu o personagem Starchild e é conhecido por sua voz distinta e abrangente.
+                    </p>
+                </div>
+
+                <div id="divACE_FREHLEY" name="nm_divACE_FREHLEY">
+                    <p>
+                        <img class="css" src="img/kiss/af.jpg" width="150px;" height="130px;">
+                        Paul Daniel "Ace" Frehley é um músico e compositor americano, mais conhecido como o guitarrista principal original
+                        e membro co-fundador do Kiss. Ele inventou a personagem de The Spaceman e tocou com o grupo desde o início em 1973
+                        até sua saída em 1982. Depois de deixar o Kiss, Frehley embarcou em uma carreira solo, que foi suspensa quando ele
+                        voltou ao Kiss em 1996 para uma turnê.
+                    </p>
+                </div>
+
+                <div id="divGENE_SIMMONS" name="nm_divGENE_SIMMONS">
+                    <p>
+                        <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
+                        Gene Klein, conhecido profissionalmente como Gene Simmons, é um músico, cantor, compositor, produtor musical,
+                        empresário, ator, autor e personalidade da televisão americana. Também conhecido por seu personagem de palco,
+                        The Demon, ele é o baixista e co-vocalista do Kiss, a banda de rock que ele co-fundou com Paul Stanley no início dos
+                        anos 1970.
+                    </p>
+                </div>
+            </section>
+
             <nav>
-                <h3>Créditos:</h3>
+                <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divPS08');" onMouseOut="escondeLayer('divPS08');">Paul Stanley</a> – Vocal e Guitarra Base. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divAF08');" onMouseOut="escondeLayer('divAF08');">Ace Frehley</a> – Guitarra Principal. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGS08');" onMouseOut="escondeLayer('divGS08');">Gene Simmons</a> – Vocal e Baixo. </li>
-                    <li><a href="#">Anton Fig</a> – Bateria (Como convidado). </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPAUL_STANLEY');" onMouseOut="escondeLayer('divPAUL_STANLEY');">Paul Stanley</a> – Vocal e Guitarra Base.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divACE_FREHLEY');" onMouseOut="escondeLayer('divACE_FREHLEY');">Ace Frehley</a> – Guitarra Principal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGENE_SIMMONS');" onMouseOut="escondeLayer('divGENE_SIMMONS');">Gene Simmons</a> – Vocal e Baixo.</li>
+                    <li><a href="#">Anton Fig</a> – Bateria (Como convidado).</li>
                 </ul>
             </nav>
-
-            <div id="divPS08" name="nm_divPS08">
-                <p>
-                    <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
-                    Paul Stanley é um cantor, compositor e pintor americano, mais conhecido por ser o co-fundador, vocalista,
-                    guitarrista rítmico e co-vocalista ddo Kiss. Ele é o escritor ou co-escritor de muitos dos maiores sucessos da banda.
-                    Stanley estabeleceu o personagem Starchild e é conhecido por sua voz distinta e abrangente.
-                </p><br /><br />
-            </div>
-
-            <div id="divAF08" name="nm_divAF08">
-                <p>
-                    <img class="css" src="img/kiss/af.jpg" width="150px;" height="130px;">
-                    Paul Daniel "Ace" Frehley é um músico e compositor americano, mais conhecido como o guitarrista principal original
-                    e membro co-fundador do Kiss. Ele inventou a personagem de The Spaceman e tocou com o grupo desde o início em 1973
-                    até sua saída em 1982. Depois de deixar o Kiss, Frehley embarcou em uma carreira solo, que foi suspensa quando ele
-                    voltou ao Kiss em 1996 para uma turnê.
-                </p>
-            </div>
-
-            <div id="divGS08" name="nm_divGS08">
-                <p>
-                    <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
-                    Gene Klein, conhecido profissionalmente como Gene Simmons, é um músico, cantor, compositor, produtor musical,
-                    empresário, ator, autor e personalidade da televisão americana. Também conhecido por seu personagem de palco,
-                    The Demon, ele é o baixista e co-vocalista do Kiss, a banda de rock que ele co-fundou com Paul Stanley no início dos
-                    anos 1970.
-                </p><br />
-            </div>
-            <br /><br />
 
             <footer>
                 <a href="kiss.php"><button>Voltar para os álbuns do Kiss</button></a>

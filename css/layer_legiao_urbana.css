@@ -1,13 +1,9 @@
-#divRR01,
-#divDVL01,
-#divRROCHA01,
-#divMB01,
-#divRR02,
-#divDVL02,
-#divRROCHA02,
-#divMB02 {
+#divRENATO_RUSSO,
+#divDADO_VILLA-LOBOS,
+#divRENATO_ROCH,
+#divMARCELO_BONFA {
+    font-size: 17px;
     position: absolute;
-    top: 290%;
     left: 40%;
     border: solid 1px #696969;
     width: 50%;
@@ -18,129 +14,11 @@
     height: auto;
 }
 
-#divRR03,
-#divDVL03,
-#divRROCHA03,
-#divMB03,
-#divRR04,
-#divDVL04,
-#divMB04 {
-    position: absolute;
-    top: 287%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divRR05,
-#divDVL05,
-#divMB05 {
-    position: absolute;
-    top: 270%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divRR06,
-#divDVL06,
-#divMB06 {
-    position: absolute;
-    top: 344%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divRR07,
-#divDVL07,
-#divMB07 {
-    position: absolute;
-    top: 368%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divRR08,
-#divDVL08,
-#divMB08 {
-    position: absolute;
-    top: 306%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divPTOOLS {
-    position: absolute;
-    top: 66%;
-    left: 40%;
-    width: 50%;
-    height: 44%;
-    display: none;
-    padding: 1%;
-    height: auto;
-}
-
-#divRR,
-#divMB {
-    position: absolute;
-    top: 30.6%;
-    left: 68%;
-    width: 50%;
-    height: 44%;
-    display: none;
-    padding: 1%;
-    height: auto;
-}
-
-#divDVL,
-#divRROCHA {
-    position: absolute;
-    top: 33.5%;
-    left: 16.5%;
-    width: 50%;
-    height: 44%;
-    display: none;
-    padding: 1%;
-    height: auto;
-}
-
-#divGLOCK {
-    position: absolute;
-    top: 305%;
-    left: 37%;
-    width: 50%;
-    height: 44%;
-    display: none;
-    padding: 1%;
-    height: auto;
+#divRENATO_RUSSO img,
+#divDADO_VILLA-LOBOS img,
+#divRENATO_ROCH img,
+#divMARCELO_BONFA img {
+    margin-bottom: 2%;
 }
 
 .css {

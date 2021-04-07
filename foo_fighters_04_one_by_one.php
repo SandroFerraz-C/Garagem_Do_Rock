@@ -31,7 +31,7 @@ include_once("header.php");
                 o próximo álbum. As sessões duraram quatro meses e custaram mais de US $ 1.000.000. Foi o primeiro álbum do Foo Fighters produzido
                 com o Pro Toolse no qual os membros da banda gravaram separadamente.
             </p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -85,12 +85,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 55 min. 11 seg.</p>
             <p>Gravadora(s): RCA Records.</p>
             <p>Produção: Foo Fighters, Nick Raskulinecz e Adam Kasper.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -98,48 +98,48 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divDAVE_GROHL" name="nm_divDAVE_GROHL">
+                    <p>
+                        <img class="css" src="img/foo fighters/dg.jpg" width="150px;" height="130px;">
+                        David Eric Grohl ( 14 de janeiro de 1969) é um músico e compositor norte-americano.
+                        É o fundador, vocalista e guitarrista da banda Foo Fighters. E também ex-baterista
+                        das bandas - Nirvana. Por ser extremamente reconhecido inicialmente como baterista
+                        do Nirvana (antes do Foo Fighters), foi considerado o 27º maior baterista de todos
+                        os tempos pela revista Rolling Stone.
+                    </p>
+                </div>
+
+                <div id="divPAT_SMEAR" name="nm_divPAT_SMEAR">
+                    <p>
+                        <img class="css" src="img/foo fighters/ps.jpg" width="150px;" height="130px;">
+                        Georg Albert Ruthenberg (Los Angeles, 5 de agosto de 1959) mais conhecido como Pat Smear, é um músico Americano.
+                        Fez parte da banda de punk rock - The Germs e tocou com o - Nirvana em algumas apresentações entre 1993 e 1994, participando
+                        inclusive do - MTV Unplugged in New York e do álbum ao vivo - From the Muddy Banks of the Wishkah. Hoje em dia é um dos
+                        membros da banda - Foo Fighters, sendo o terceiro guitarrista.
+                    </p>
+                </div>
+
+                <div id="divNATE_MENDEL" name="nm_divNATE_MENDEL">
+                    <p>
+                        <img class="css" src="img/foo fighters/nm.jpg" width="150px;" height="130px;">
+                        Nate Mendel ( Washington, 2 de dezembro de 1968) é um músico Americano, conhecido por tocar baixo na banda de rock
+                        alternativo Foo Fighters. Também é conhecido por ser o baixista da banda Sunny Day Real Estate.
+                        <br />
+                        Seu primeiro instrumento foi o violino. Aos 13 anos, Mendel começou a se interessar por rock e se juntar a uma banda,
+                        um amigo que tocava violão sugeriu que ele tocasse baixo.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divDG04');" onMouseOut="escondeLayer('divDG04');">Dave Grohl</a> – Vocal, Guitarra e Bateria. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divPS04');" onMouseOut="escondeLayer('divPS04');">Pat Smear</a> – Vocal de apoio e Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divNM04');" onMouseOut="escondeLayer('divNM04');">Nate Mendel</a> – Baixo. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDAVE_GROHL');" onMouseOut="escondeLayer('divDAVE_GROHL');">Dave Grohl</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPAT_SMEAR');" onMouseOut="escondeLayer('divPAT_SMEAR');">Pat Smear</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divNATE_MENDEL');" onMouseOut="escondeLayer('divNATE_MENDEL');">Nate Mendel</a> – Baixo.</li>
                 </ul>
             </nav>
-
-            <div id="divDG04" name="nm_divDG04">
-                <p>
-                    <img class="css" src="img/foo fighters/dg.jpg" width="150px;" height="130px;">
-                    David Eric Grohl ( 14 de janeiro de 1969) é um músico e compositor norte-americano.
-                    É o fundador, vocalista e guitarrista da banda Foo Fighters. E também ex-baterista
-                    das bandas - Nirvana. Por ser extremamente reconhecido inicialmente como baterista
-                    do Nirvana (antes do Foo Fighters), foi considerado o 27º maior baterista de todos
-                    os tempos pela revista Rolling Stone.
-                </p>
-                <br />
-            </div>
-
-            <div id="divPS04" name="nm_divPS04">
-                <p>
-                    <img class="css" src="img/foo fighters/ps.jpg" width="150px;" height="130px;">
-                    Georg Albert Ruthenberg (Los Angeles, 5 de agosto de 1959) mais conhecido como Pat Smear, é um músico Americano.
-                    Fez parte da banda de punk rock - The Germs e tocou com o - Nirvana em algumas apresentações entre 1993 e 1994, participando
-                    inclusive do - MTV Unplugged in New York e do álbum ao vivo - From the Muddy Banks of the Wishkah. Hoje em dia é um dos
-                    membros da banda - Foo Fighters, sendo o terceiro guitarrista.
-                </p>
-            </div>
-
-            <div id="divNM04" name="nm_divNM04">
-                <p>
-                    <img class="css" src="img/foo fighters/nm.jpg" width="150px;" height="130px;">
-                    Nate Mendel ( Washington, 2 de dezembro de 1968) é um músico Americano, conhecido por tocar baixo na banda de rock
-                    alternativo Foo Fighters. Também é conhecido por ser o baixista da banda Sunny Day Real Estate.
-                    <br />
-                    Seu primeiro instrumento foi o violino. Aos 13 anos, Mendel começou a se interessar por rock e se juntar a uma banda,
-                    um amigo que tocava violão sugeriu que ele tocasse baixo.
-                </p>
-            </div>
-            <br /><br />
 
             <footer>
                 <a href="foo_fighters.php"><button>Voltar para os álbuns do Foo Fighters</button></a>

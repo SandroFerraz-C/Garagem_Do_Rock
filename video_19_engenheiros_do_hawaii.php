@@ -3,19 +3,20 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Loja da Garagem</title>
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <title>Engenheiros do Hawaii</title>
     <link href="css/css_loja.css" rel="stylesheet" />
 
 </head>
 
 <body>
 
-    <iframe width="560" height="445" src="https://www.youtube.com/embed/4jRVaN520wM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video" src="https://www.youtube.com/embed/4jRVaN520wM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <div class="letra_19_engenheiros_do_hawaii">
+    <div class="letra">
 
         <h1>Terra de Gigantes</h1>
-        <br /> <br />
+        <br />
 
         <p>
             Hey, mãe!

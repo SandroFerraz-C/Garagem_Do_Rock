@@ -10,7 +10,6 @@ include_once("header_curiosidades.php");
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre Angra</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -220,58 +219,40 @@ include_once("header_curiosidades.php");
                         com seus instrumento o máximo de tempo possível, dicas do próprio baterista quando perguntado sobre o assunto.</p>
                 </div>
             </div>
-            <br />
 
-            <div class="albuns_acdc">
-                <a href="angra.php"><button>Voltar para Albuns do Angra</button></a>
-            </div>
         </section>
 
         <div class="fotoac">
 
-            <h2>Álbum de Fotos do Angra</h2>
+            <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Rafael Bittencourt</p>
-            <p class="ay_antes">Rafael Bittencourt</p>
-            <p class="bj_hj">Felipe Andreoli</p>
-            <p class="bj_antes">Felipe Andreoli</p>
-
-            <img src="img/angra/Rafael Bittencourt_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/Rafael Bittencourt_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Fabio Lione</p>
-            <p class="ay_antes">Fabio Lione</p>
-            <p class="bj_hj">Bruno Valverde</p>
-            <p class="bj_antes">Bruno Valverde</p>
-
-            <img src="img/angra/Felipe Andreoli_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/Felipe Andreoli_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/Fabio Lione_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/Fabio Lione_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Marcelo Barbosa</p>
-            <p class="ay_antes">Marcelo Barbosa</p>
-            <p class="bj_hj">Kiko Loureiro</p>
-            <p class="bj_antes">Kiko Loureiro</p>
-
-            <img src="img/angra/Bruno Valverde_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/Bruno Valverde_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/Marcelo Barbosa_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/Marcelo Barbosa_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/Kiko Loureiro_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/Kiko Loureiro_inicio.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <img src="img/angra/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/angra/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
+            <img id="foto_1_angra" src="img/angra/Rafael Bittencourt_hj.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_2_angra" src="img/angra/Rafael Bittencourt_antes.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_3_angra" src="img/angra/Felipe Andreoli_hj.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_4_angra" src="img/angra/Felipe Andreoli_antes.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_5_angra" src="img/angra/Fabio Lione_hj.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_6_angra" src="img/angra/Fabio Lione_antes.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_7_angra" src="img/angra/Bruno Valverde_hj.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_8_angra" src="img/angra/Bruno Valverde_antes.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_9_angra" src="img/angra/Marcelo Barbosa_hj.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_10_angra" src="img/angra/Marcelo Barbosa_antes.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_11_angra" src="img/angra/Kiko Loureiro_hj.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_12_angra" src="img/angra/Kiko Loureiro_inicio.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_13_angra" src="img/angra/01.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_14_angra" src="img/angra/02.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_15_angra" src="img/angra/03.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_16_angra" src="img/angra/04.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_17_angra" src="img/angra/05.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_18_angra" src="img/angra/06.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_19_angra" src="img/angra/07.jpg" alt="Foto dos integrantes da banda Angra">
+            <img id="foto_20_angra" src="img/angra/08.jpg" alt="Foto dos integrantes da banda Angra">
+            
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="angra.php"><button>Voltar para Albuns do Angra</button></a>
     </div>
 
     <footer id="rodape">

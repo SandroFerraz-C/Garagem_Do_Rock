@@ -1,1452 +1,2415 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
-body {
-    font-family: verdana, Arial, Helvetica, sans-serif;
-    font-size: 12px;
-    background: #f4f4f4;
-}
-
-#Principal {
-    width: auto;
-    height: auto;
-}
-
-#cabecalho {
-    width: auto;
-    height: 166px;
-    background: url(../img/loja/cabecalho_loja.jpg);
-}
-
-#cabecalho_superior {
-    width: 100%;
-}
-
-.fundo_azul {
-    background-color: #28A5D9;
-}
-
-.fundo_principal {
-    background: url(../img/loja/cabecalho_loja.jpg);
-}
-
-#menu-cima {
-    width: 960px;
-    height: 20px;
-    background: #fff;
-    margin: 0 auto;
-    text-align: right;
-    font-size: 10px;
-}
-
-#menu-cima ul {
-    width: 300px;
-    float: right;
-    text-align: right;
-    margin-right: 20px;
-}
-
-#menu-cima ul li {
-    display: inline;
-    margin-left: 10px;
-}
-
-#menu-cima ul li a {
-    color: #000;
-    text-decoration: none;
-}
-
-#menu-cima ul li a:hover {
-    color: red;
-}
-
-#cabecalho_meio {
-    width: 100%;
-    height: 110px;
-    position: relative;
-}
-
-#cabecalho_meio h1 {
-    text-indent: -9999px;
-    width: 175px;
-    height: 52px;
-    position: absolute;
-    top: 25px;
-    left: 60px;
-    background-image: url(../img/loja/logo.png);
-}
-
-.albuns_acdc a img,
-.albuns_aerosmith a img,
-.albuns_angra a img,
-.albuns_black_sabbath a img,
-.albuns_bon_jovi a img {
-    margin-top: 2%;
-    margin-left: 1.6%;
-}
-
-.albuns_acdc a,
-.albuns_aerosmith a,
-.albuns_angra a,
-.albuns_black_sabbath a,
-.albuns_bon_jovi a {
-    background: none;
-}
-
-.sacola {
-    width: 300px;
-    font-size: 10px;
-    height: 25px;
-    position: absolute;
-    /*controlo a posição*/
-    top: 10px;
-    right: 200px;
-}
-
-.busca {
-    position: absolute;
-    width: 400px;
-    height: 35px;
-    text-align: right;
-    top: 40px;
-    left: 695px;
-}
-
-.busca input[type=search] {
-    width: 300px;
-}
-
-#cabecalho_inferior {
-    width: 100%;
-    border-bottom: 1px solid #ccc;
-    line-height: 22px;
-}
-
-#menu-principal {
-    width: 960px;
-    height: 30px;
-    padding-top: 5px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-#menu-principal ul {
-    list-style: none;
-    font-family: "trebuchet MS";
-}
-
-#menu-principal ul li {
-    display: inline;
-    margin-left: 5px;
-    padding: 5px 30px;
-    font-weight: bold;
-    font-size: 13px;
-}
-
-.linha-vertical {
-    border-right: 1px solid #ccc;
-}
-
-#menu-principal ul li a {
-    color: #333;
-    text-decoration: none;
-}
-
-#menu-principal ul li a:hover {
-    color: red;
-}
-
-.banner {
-    width: 960px;
-    height: auto;
-    margin: 0 auto;
-    background: #fff;
-}
-
-#corpo {
-    width: 960px;
-    height: auto;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 10px;
-}
-
-.curiosidade_acdc h1 {
-    text-align: center;
-}
-
-.fotoac {
-    float: left;
-    padding: 23px;
-    width: 68.7%;
-    margin-left: 1%;
-}
-
-.fotoac img {
-    margin-top: 3%;
-    margin-left: 1px;
-}
-
-.fotoac h2 {
-    text-align: center;
-}
-
-.ay_hj {
-    position: absolute;
-    margin-top: 8px;
-    margin-left: 10px;
-}
-
-.ay_antes {
-    position: absolute;
-    margin-top: 8px;
-    margin-left: 225px;
-}
-
-.bj_hj {
-    position: absolute;
-    margin-top: 8px;
-    margin-left: 445px;
-}
-
-.bj_antes {
-    position: absolute;
-    margin-top: 8px;
-    margin-left: 660px;
-}
-
-.botao_acdc button:hover {
-    background-color: #28A5D9;
-}
-
-.botao_acdc button {
-    width: 100px;
-    height: 50px;
-    border-radius: 10px;
-}
-
-.botao_vote {
-    margin-left: 1250px;
-}
-
-.botao_vote a {
-    text-decoration: none;
-    color: black;
-}
-
-.botao_vote button {
-    width: 60px;
-    height: 30px;
-}
-
-.botao_vote button:hover {
-    background-color: #28A5D9;
-}
-
-.botoes {
-    margin-left: 300px;
-    margin-top: 5px;
-}
-
-.botoes_3 {
-    margin-left: 300px;
-    margin-top: 5px;
-}
-
-.botoes_4 button {
-    margin-left: 400px;
-}
-
-.botoes a,
-.botoes_3 a,
-.botoes_4 a {
-    text-decoration: none;
-    color: black;
-}
-
-.botoes button,
-.botoes_3 button,
-.botoes_4 button {
-    width: 100px;
-    height: 30px;
-    margin-left: 10px;
-}
-
-.botoes button:hover,
-.botoes_3 button:hover,
-.botoes_4 button:hover {
-    background-color: #28A5D9;
-}
-
-#corpo_video_classic_2,
-#corpo_video_classic_3,
-#corpo_video_classic_4 {
-    width: 1060px;
-    height: 110px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 35px;
-}
-
-#corpo_video_01_acdc h1,
-#corpo_video_03_aerosmith h1,
-#corpo_video_03_aerosmith h2,
-#corpo_video_05_angra h1,
-#corpo_video_05_angra h2,
-#corpo_video_07_black_sabbath h1,
-#corpo_video_07_black_sabbath h2,
-#corpo_video_09_bon_jovi h1,
-#corpo_video_09_bon_jovi h2,
-#corpo_video_11_barao_vermelho h1,
-#corpo_video_13_capital_inicial h1,
-#corpo_video_15_deep_purple h1,
-#corpo_video_15_deep_purple h2,
-#corpo_video_17_eagles h1,
-#corpo_video_17_eagles h2,
-#corpo_video_19_engenheiros_do_hawaii h1,
-#corpo_video_21_foo_fighters h1,
-#corpo_video_21_foo_fighters h2,
-#corpo_video_22_green_day h1,
-#corpo_video_22_green_day h2,
-#corpo_video_24_guns_n_roses h1,
-#corpo_video_24_guns_n_roses h2,
-#corpo_video_26_iron_maiden h1,
-#corpo_video_26_iron_maiden h2,
-#corpo_video_28_judas_priest h1,
-#corpo_video_28_judas_priest h2,
-#corpo_video_30_kiss h1,
-#corpo_video_30_kiss h2,
-#corpo_video_32_led_zeppelin h1,
-#corpo_video_32_led_zeppelin h2,
-#corpo_video_34_legiao_urbana h1,
-#corpo_video_36_linkin_park h1,
-#corpo_video_36_linkin_park h2,
-#corpo_video_38_metallica h1,
-#corpo_video_38_metallica h2,
-#corpo_video_40_motorhead h1,
-#corpo_video_40_motorhead h2,
-#corpo_video_42_nirvana h1,
-#corpo_video_42_nirvana h2,
-#corpo_video_44_os_paralamas_do_sucesso h1,
-#corpo_video_46_pink_floyd h1,
-#corpo_video_46_pink_floyd h2,
-#corpo_video_48_queen h1,
-#corpo_video_48_queen h2,
-#corpo_video_50_ramones h1,
-#corpo_video_50_ramones h2,
-#corpo_video_52_raul_seixas h1,
-#corpo_video_54_red_hot_chili_peppers h1,
-#corpo_video_54_red_hot_chili_peppers h2,
-#corpo_video_56_sepultura h1,
-#corpo_video_56_sepultura h2,
-#corpo_video_58_scorpions h1,
-#corpo_video_58_scorpions h2,
-#corpo_video_60_skank h1,
-#corpo_video_62_slayer h1,
-#corpo_video_62_slayer h2,
-#corpo_video_64_slipknot h1,
-#corpo_video_64_slipknot h2,
-#corpo_video_66_system_of_a_down h1,
-#corpo_video_66_system_of_a_down h2,
-#corpo_video_68_titas h1,
-#corpo_video_70_the_beatles h1,
-#corpo_video_70_the_beatles h2,
-#corpo_video_72_the_doors h1,
-#corpo_video_72_the_doors h2,
-#corpo_video_74_the_police h1,
-#corpo_video_74_the_police h2,
-#corpo_video_76_the_rolling_stones h1,
-#corpo_video_76_the_rolling_stones h2,
-#corpo_video_78_the_who h1,
-#corpo_video_78_the_who h2,
-#corpo_video_80_u2 h1,
-#corpo_video_80_u2 h2,
-#corpo_video_82_zz_top h1,
-#corpo_video_82_zz_top h2,
-#corpo_video_classic_2 h1,
-#corpo_video_classic_3 h1,
-#corpo_video_classic_4 {
-    text-align: center;
-}
-
-#corpo_video_02_acdc,
-#corpo_video_04_aerosmith,
-#corpo_video_06_angra,
-#corpo_video_08_black_sabbath,
-#corpo_video_10_bon_jovi,
-#corpo_video_12_barao_vermelho,
-#corpo_video_14_capital_inicial,
-#corpo_video_16_deep_purple,
-#corpo_video_18_eagles,
-#corpo_video_20_engenheiros_do_hawaii,
-#corpo_video_22_foo_fighters,
-#corpo_video_23_green_day,
-#corpo_video_25_guns_n_roses,
-#corpo_video_27_iron_maiden,
-#corpo_video_29_judas_priest,
-#corpo_video_31_kiss,
-#corpo_video_33_led_zeppelin,
-#corpo_video_35_legiao_urbana,
-#corpo_video_37_linkin_park,
-#corpo_video_39_metallica,
-#corpo_video_41_motorhead,
-#corpo_video_43_nirvana,
-#corpo_video_45_os_paralamas_do_sucesso,
-#corpo_video_47_pink_floyd,
-#corpo_video_49_queen,
-#corpo_video_51_ramones,
-#corpo_video_53_raul_seixas,
-#corpo_video_55_red_hot_chili_peppers,
-#corpo_video_57_sepultura,
-#corpo_video_59_scorpions,
-#corpo_video_61_skank,
-#corpo_video_63_slayer,
-#corpo_video_65_slipknot,
-#corpo_video_67_system_of_a_down,
-#corpo_video_69_titas,
-#corpo_video_71_the_beatles,
-#corpo_video_73_the_doors,
-#corpo_video_75_the_police,
-#corpo_video_77_the_rolling_stones,
-#corpo_video_79_the_who,
-#corpo_video_81_u2,
-#corpo_video_83_zz_top {
-    width: 1060px;
-    height: 452px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_01_acdc {
-    width: 1060px;
-    height: 1120px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_03_aerosmith {
-    width: 1060px;
-    height: 700px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_05_angra {
-    width: 1060px;
-    height: 1230px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_07_black_sabbath {
-    width: 1060px;
-    height: 780px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_09_bon_jovi {
-    width: 1060px;
-    height: 1220px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_11_barao_vermelho {
-    width: 1060px;
-    height: 1355px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_13_capital_inicial {
-    width: 1060px;
-    height: 890px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_15_deep_purple {
-    width: 1060px;
-    height: 950px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_17_eagles {
-    width: 1060px;
-    height: 843px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_19_engenheiros_do_hawaii {
-    width: 1060px;
-    height: 1500px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_21_foo_fighters {
-    width: 1060px;
-    height: 1520px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_22_green_day {
-    width: 1060px;
-    height: 1255px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_24_guns_n_roses {
-    width: 1060px;
-    height: 1990px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_26_iron_maiden {
-    width: 1060px;
-    height: 1220px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_28_judas_priest {
-    width: 1060px;
-    height: 1710px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_30_kiss {
-    width: 1060px;
-    height: 1105px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_32_led_zeppelin {
-    width: 1060px;
-    height: 1325px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_34_legiao_urbana {
-    width: 1060px;
-    height: 1005px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_36_linkin_park {
-    width: 1060px;
-    height: 1585px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_38_metallica {
-    width: 1060px;
-    height: 1200px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_40_motorhead {
-    width: 1060px;
-    height: 870px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_42_nirvana {
-    width: 1060px;
-    height: 1300px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_44_os_paralamas_do_sucesso {
-    width: 1060px;
-    height: 872px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_46_pink_floyd {
-    width: 1060px;
-    height: 735px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_48_queen {
-    width: 1060px;
-    height: 1865px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_50_ramones {
-    width: 1060px;
-    height: 1335px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_52_raul_seixas {
-    width: 1060px;
-    height: 925px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_54_red_hot_chili_peppers {
-    width: 1060px;
-    height: 1680px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_56_sepultura {
-    width: 1060px;
-    height: 840px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_58_scorpions {
-    width: 1060px;
-    height: 1190px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_60_skank {
-    width: 1060px;
-    height: 1465px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_62_slayer {
-    width: 1060px;
-    height: 1798px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_64_slipknot {
-    width: 1060px;
-    height: 1560px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_66_system_of_a_down {
-    width: 1060px;
-    height: 1510px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_68_titas {
-    width: 1060px;
-    height: 1020px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_70_the_beatles {
-    width: 1060px;
-    height: 1065px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_72_the_doors {
-    width: 1060px;
-    height: 1000px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_74_the_police {
-    width: 1060px;
-    height: 630px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_76_the_rolling_stones {
-    width: 1060px;
-    height: 1955px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_78_the_who {
-    width: 1060px;
-    height: 720px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_80_u2 {
-    width: 1060px;
-    height: 1325px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-#corpo_video_82_zz_top {
-    width: 1060px;
-    height: 770px;
-    margin: 0 auto;
-    background: #fff;
-    margin-top: 15px;
-}
-
-.letra_01_acdc {
-    position: absolute;
-    top: 235px;
-    left: 745px;
-}
-
-.letra_03_aerosmith {
-    position: absolute;
-    top: 1835px;
-    left: 765px;
-}
-
-.letra_05_angra {
-    position: absolute;
-    top: 3020px;
-    left: 765px;
-}
-
-.letra_07_black_sabbath {
-    position: absolute;
-    top: 4735px;
-    left: 765px;
-}
-
-.letra_09_bon_jovi {
-    position: absolute;
-    top: 5990px;
-    left: 765px;
-}
-
-.letra_11_barao_vermelho {
-    position: absolute;
-    top: 7700px;
-    left: 765px;
-}
-
-.letra_13_capital_inicial {
-    position: absolute;
-    top: 9535px;
-    left: 765px;
-}
-
-.letra_15_deep_purple {
-    position: absolute;
-    top: 10910px;
-    left: 765px;
-}
-
-.letra_17_eagles {
-    position: absolute;
-    top: 12345px;
-    left: 765px;
-}
-
-.letra_19_engenheiros_do_hawaii {
-    position: absolute;
-    top: 13665px;
-    left: 765px;
-}
-
-.letra_video_21_foo_fighters {
-    position: absolute;
-    top: 235px;
-    left: 765px;
-}
-
-.letra_video_22_green_day {
-    position: absolute;
-    top: 2245px;
-    left: 765px;
-}
-
-.letra_video_24_guns_n_roses {
-    position: absolute;
-    top: 3980px;
-    left: 765px;
-}
-
-.letra_video_26_iron_maiden {
-    position: absolute;
-    top: 6450px;
-    left: 765px;
-}
-
-.letra_video_28_judas_priest {
-    position: absolute;
-    top: 8152px;
-    left: 765px;
-}
-
-.letra_video_30_kiss {
-    position: absolute;
-    top: 10345px;
-    left: 735px;
-}
-
-.letra_video_32_led_zeppelin {
-    position: absolute;
-    top: 11930px;
-    left: 765px;
-}
-
-.letra_video_34_legiao_urbana {
-    position: absolute;
-    top: 13740px;
-    left: 745px;
-}
-
-.letra_video_36_linkin_park {
-    position: absolute;
-    top: 15230px;
-    left: 765px;
-}
-
-.letra_video_38_metallica {
-    position: absolute;
-    top: 17295px;
-    left: 765px;
-}
-
-.letra_video_40_motorhead {
-    position: absolute;
-    top: 18975px;
-    left: 765px;
-}
-
-.letra_video_42_nirvana {
-    position: absolute;
-    top: 235px;
-    left: 725px;
-}
-
-.letra_video_44_os_paralamas_do_sucesso {
-    position: absolute;
-    top: 2020px;
-    left: 735px;
-}
-
-.letra_video_46_pink_floyd {
-    position: absolute;
-    top: 3375px;
-    left: 715px;
-}
-
-.letra_video_46_pink_floyd h1 {
-    font-size: 38px;
-}
-
-.letra_video_48_queen {
-    position: absolute;
-    top: 4588px;
-    left: 765px;
-}
-
-.letra_video_50_ramones {
-    position: absolute;
-    top: 6935px;
-    left: 765px;
-}
-
-.letra_video_52_raul_seixas {
-    position: absolute;
-    top: 8755px;
-    left: 765px;
-}
-
-.letra_video_54_red_hot_chili_peppers {
-    position: absolute;
-    top: 10160px;
-    left: 765px;
-}
-
-.letra_video_56_sepultura {
-    position: absolute;
-    top: 12325px;
-    left: 765px;
-}
-
-.letra_video_58_scorpions {
-    position: absolute;
-    top: 13645px;
-    left: 765px;
-}
-
-.letra_video_60_skank {
-    position: absolute;
-    top: 15315px;
-    left: 765px;
-}
-
-.letra_video_62_slayer {
-    position: absolute;
-    top: 235px;
-    left: 765px;
-}
-
-.letra_video_64_slipknot {
-    position: absolute;
-    top: 2515px;
-    left: 765px;
-}
-
-.letra_video_66_system_of_a_down {
-    position: absolute;
-    top: 4560px;
-    left: 765px;
-}
-
-.letra_video_68_titas {
-    position: absolute;
-    top: 6550px;
-    left: 765px;
-}
-
-.letra_video_70_the_beatles {
-    position: absolute;
-    top: 8055px;
-    left: 765px;
-}
-
-.letra_video_72_the_doors {
-    position: absolute;
-    top: 9600px;
-    left: 765px;
-}
-
-.letra_video_74_the_police {
-    position: absolute;
-    top: 11080px;
-    left: 765px;
-}
-
-.letra_video_76_the_rolling_stones {
-    position: absolute;
-    top: 12200px;
-    left: 735px;
-}
-
-.letra_video_76_the_rolling_stones h1 {
-    font-size: 38px;
-}
-
-.letra_video_78_the_who {
-    position: absolute;
-    top: 14635px;
-    left: 765px;
-}
-
-.letra_video_80_u2 {
-    position: absolute;
-    top: 15835px;
-    left: 735px;
-}
-
-.letra_video_80_u2 h1 {
-    font-size: 35px;
-}
-
-.letra_video_82_zz_top {
-    position: absolute;
-    top: 17640px;
-    left: 755px;
-}
-
-.aline {
-    text-align: center;
-    background: #fff;
-}
-
-.categorias {
-    width: 219px;
-    height: auto;
-    float: left;
-    margin-right: 8px;
-    border: solid 1px #ccc;
-    font-weight: bold;
-    margin-top: 10px;
-}
-
-.categorias h2 {
-    width: auto;
-    height: 19px;
-    padding-left: 10px;
-    margin-bottom: 10px;
-    color: #fff;
-    font-size: 16px;
-}
-
-.categorias ul {
-    width: 219px;
-    list-style: none;
-}
-
-.categorias ul li a {
-    font-size: 16px;
-    color: #fff;
-    text-decoration: none;
-}
-
-.categorias ul li a:hover {
-    color: red;
-}
-
-.categorias ul ul {
-    width: 100%;
-    background: #fff;
-}
-
-.categorias ul ul li {
-    border-bottom: solid 1px #ccc;
-    padding: 10px 0px 10px 15px;
-}
-
-.categorias ul ul li a {
-    color: #666;
-    font-size: 12px;
-}
-
-.categorias ul ul li a:hover {
-    color: #00ccff;
-    font-size: 14px;
-}
-
-#lado-direito {
-    width: 710px;
-    height: auto;
-    margin-top: 10px;
-    float: left;
-}
-
-.titulo {
-    width: 700px;
-    height: 19px;
-    padding-left: 10px;
-    margin-bottom: 10px;
-    color: #fff;
-}
-
-.corpo_curiosidade_acdc {
-    margin-top: 30px;
-    padding: 15px;
-    width: 30%;
-    float: left;
-}
-
-.vitrine {
-    margin: 10px 0px;
-    padding: 5px;
-    width: 698px;
-    height: auto;
-    border: solid 1px #ccc;
-    float: left;
-}
-
-.vitrine_voto {
-    margin: 10px 0px;
-    padding: 5px;
-    width: 99%;
-    height: auto;
-    border: solid 1px #ccc;
-    float: left;
-}
-
-.vitrine_voto ul {
-    width: 95%;
-    border: solid 1px #ccc;
-    padding: 2%;
-    background: #fbfbfb;
-}
-
-.vitrine_voto li {
-    width: 155px;
-    margin: 25px;
-    padding-bottom: 10px;
-    text-align: center;
-    display: inline-block;
-    vertical-align: top;
-}
-
-.vitrine_voto h1 {
-    font-size: 20px;
-    text-align: center;
-}
-
-.vitrine_voto p {
-    font-size: 16px;
-    text-align: center;
-}
-
-.vitrine h2,
-.vitrine ul {
-    width: 691px;
-    border: solid 1px #ccc;
-    padding: 2px;
-    background: #fbfbfb;
-}
-
-.vitrine ul,
-.vitrine_voto ul {
-    height: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.vitrine h2 {
-    height: 20px;
-}
-
-.vitrine li {
-    width: 155px;
-    margin: 6px;
-    padding-bottom: 10px;
-    text-align: center;
-    display: inline-block;
-    vertical-align: top;
-}
-
-.vitrine a {
-    color: #333;
-    font-size: 14px;
-    text-decoration: none;
-}
-
-.vitrine figure,
-.vitrine_voto figure {
-    margin-bottom: 10px;
-}
-
-.vitrine span,
-.vitrine_voto span {
-    color: #ff0000;
-    font-size: 16px;
-    font-weight: bold;
-}
-
-.vitrine input,
-.vitrine_voto input {
-    width: 94px;
-    height: 30px;
-    background: url(../img/loja/comprar.jpg);
-    border: 0;
-    margin-top: 10px;
-    cursor: pointer;
-}
-
-#rodape {
-    width: 100%;
-}
-
-#rodape2 {
-    width: 100%;
-    height: 150px;
-}
-
-#caixa {
-    float: left;
-    width: 330px;
-    color: #fff;
-    margin-left: 230px;
-    margin-top: 10px;
-}
-
-.limpa {
-    clear: both;
-}
-
-#caixa a {
-    color: #ffff;
-    font-size: 14px;
-    text-decoration: none;
-}
-
-#cx-img-produto {
-    width: 310px;
-    height: 385px;
-    border: solid 1px #ccc;
-    padding: 1px;
-    background: #fff;
-    margin-right: 10px;
-    float: left;
-}
-
-#cx-img-produto img {
-    border: 0;
-}
-
-#cx-titulo-produto {
-    width: 370px;
-    height: 110px;
-    float: left;
-    border: solid 1px #ccc;
-    background: #fff;
-}
-
-#cx-titulo-produto h1 {
-    padding: 5px;
-}
-
-#cx-titulo-produto a {
-    color: #333;
-    font-size: 22px;
-}
-
-#cx-titulo-produto a:hover {
-    color: red;
-}
-
-#cx-preco-produto {
-    width: 370px;
-    height: 45px;
-    float: left;
-    border: solid 1px #ccc;
-    margin-top: 10px;
-    text-align: center;
-    padding-top: 5px;
-    background: #fff;
-}
-
-#cx-preco-produto strong {
-    color: #333;
-    font-size: 25px;
-    margin-left: 15px;
-}
-
-#cx-preco-produto span {
-    color: #ff0000;
-    font-size: 20px;
-}
-
-.duracao-autor {
-    width: 185px;
-    height: 38px;
-    border: solid 1px #ccc;
-    float: left;
-    margin-top: 10px;
-    background: #fff;
-    font-size: 14px;
-    padding-top: 5px;
-}
-
-.duracao-autor h3 {
-    font-size: 14px;
-    height: 60px;
-}
-
-.duracao-autor h4 {
-    font-size: 12px;
-    height: 60px;
-}
-
-.duracao-autor span {
-    padding-left: 25px;
-}
-
-.duracao-autor strong {
-    padding-left: 64px;
-}
-
-#descricao-rapida {
-    width: 370px;
-    height: 149px;
-    border: solid 1px #ccc;
-    float: left;
-    margin-top: 10px;
-    background: #fff;
-    color: #666;
-    font-size: 12px;
-}
-
-#descricao-rapida h2 {
-    width: 364px;
-    color: #333;
-}
-
-#descricao-rapida p {
-    margin: 2px 2px 0px 2px;
-}
-
-#comprar-produto {
-    width: 690px;
-    height: 45px;
-    border: solid 1px #ccc;
-    float: left;
-    margin-top: 10px;
-    background: #fff;
-    padding-top: 4px;
-    text-align: center;
-    padding-right: 5px;
-    margin-bottom: 20px;
-}
-
-#abas-geral {
-    width: 680px;
-    margin: 10px auto;
-}
-
-#box {
-    text-align: left;
-    border: 1px solid #999;
-    border-top: 5px;
-    clear: both;
-    float: left;
-    width: 680px;
-    background: #fff;
-    padding-left: 4px;
-    padding-right: 7px;
-}
-
-.conteudo {
-    padding: 1px;
-    font-size: 1.2em;
-}
-
-#descricao h5 {
-    font-size: 16px;
-}
-
-#descricao p {
-    font-size: 12px;
-    text-align: justify;
-    padding: 10px 7px 5px 0;
-}
-
-ul.menu {
-    margin: 0;
-    padding: 0;
-    float: left;
-    list-style: none;
-    height: 32px;
-    border-bottom: 1px solid #999;
-    width: 100%;
-}
-
-ul.menu li {
-    float: left;
-    margin: 0;
-    padding: 0;
-    height: 31px;
-    line-height: 31px;
-    border: 1px solid #999;
-    border-left: none;
-    margin-bottom: -1px;
-    background: #e0e0e0;
-    overflow: hidden;
-    position: relative;
-}
-
-ul.menu li a {
-    text-decoration: none;
-    color: #000;
-    display: block;
-    font-size: 1.2em;
-    padding: 0 20px;
-    border: 1px solid #999;
-    outline: none;
-}
-
-ul.menu li a:hover {
-    background: #66ccff;
-}
-
-.albuns_acdc button {
-    border-top: 1px solid #000000;
-    background: #325d7a;
-    background: -webkit-gradient(linear, left top, left bottom, from(#1f282e), to(#325d7a));
-    background: -webkit-linear-gradient(top, #1f282e, #325d7a);
-    background: -moz-linear-gradient(top, #1f282e, #325d7a);
-    background: -ms-linear-gradient(top, #1f282e, #325d7a);
-    background: -o-linear-gradient(top, #1f282e, #325d7a);
-    padding: 8.5px 17px;
-    -webkit-border-radius: 12px;
-    -moz-border-radius: 12px;
-    border-radius: 12px;
-    -webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
-    -moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
-    box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
-    text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
-    color: white;
-    font-size: 12px;
-    font-family: Georgia, Serif;
-    text-decoration: none;
-    vertical-align: middle;
-}
-
-.albuns_acdc button:hover {
-    border-top-color: #324857;
-    background: #324857;
-    color: #ccc;
-}
-
-.albuns_acdc button:active {
-    border-top-color: #415461;
-    background: #415461;
-}
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        font-family: verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        background: #f4f4f4;
+    }
+    
+    #Principal {
+        width: 100%;
+        height: auto;
+    }
+    /*
+    #cabecalho {
+        width: 100%;
+        height: 166px;
+        background: url(../img/loja/cabecalho_loja.jpg);
+    }
+    */
+    
+    #cabecalho_superior {
+        width: 100%;
+    }
+    
+    .fundo_azul {
+        width: auto;
+        background-color: #28A5D9;
+    }
+    
+    .fundo_principal {
+        background: url(../img/loja/cabecalho_loja.jpg);
+    }
+    
+    #menu-cima {
+        width: 100%;
+        height: auto;
+        background: #fff;
+        margin: 0 auto;
+        text-align: right;
+        font-size: 10px;
+    }
+    
+    #menu-cima ul {
+        width: 100%;
+        float: right;
+        text-align: right;
+        margin-right: 20px;
+    }
+    
+    #menu-cima ul li {
+        display: inline;
+        margin-left: 10px;
+    }
+    
+    #menu-cima ul li a {
+        color: #000;
+        text-decoration: none;
+    }
+    
+    #menu-cima ul li a:hover {
+        color: red;
+    }
+    /*
+    #cabecalho_meio {
+        width: 100%;
+        height: 110px;
+        position: relative;
+    }
+    
+    #cabecalho_meio h1 {
+        text-indent: -9999px;
+        width: 175px;
+        height: 52px;
+        position: absolute;
+        top: 25px;
+        left: 60px;
+        background-image: url(../img/loja/logo.png);
+    }
+    */
+    
+    .albuns_acdc a img,
+    .albuns_aerosmith a img,
+    .albuns_angra a img,
+    .albuns_black_sabbath a img,
+    .albuns_bon_jovi a img {
+        margin-top: 2%;
+        margin-left: 1.6%;
+    }
+    
+    .albuns_acdc a,
+    .albuns_aerosmith a,
+    .albuns_angra a,
+    .albuns_black_sabbath a,
+    .albuns_bon_jovi a {
+        background: none;
+    }
+    /*
+    #cabecalho_inferior {
+        width: 100%;
+        border-bottom: 1px solid #ccc;
+        line-height: 22px;
+    }
+    */
+    
+    #menu-principal {
+        width: 100%;
+        height: auto;
+        padding-top: 5px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    #menu-principal ul {
+        list-style: none;
+        font-family: "trebuchet MS";
+    }
+    
+    #menu-principal ul li {
+        display: inline;
+        margin-left: 5px;
+        padding: 5px 30px;
+        font-weight: bold;
+        font-size: 13px;
+    }
+    
+    .linha-vertical {
+        border-right: 1px solid #ccc;
+    }
+    
+    #menu-principal ul li a {
+        color: #333;
+        text-decoration: none;
+    }
+    
+    #menu-principal ul li a:hover {
+        color: red;
+    }
+    
+    .banner {
+        width: 960px;
+        height: auto;
+        margin: 0 auto;
+        background: #fff;
+    }
+    
+    .botao_vote {
+        margin-left: 1250px;
+    }
+    
+    .botao_vote a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .botao_vote button {
+        width: 60px;
+        height: 30px;
+    }
+    
+    .botao_vote button:hover {
+        background-color: #28A5D9;
+    }
+    
+    .botoes {
+        margin-left: 300px;
+        margin-top: 5px;
+    }
+    
+    .botoes_3 {
+        margin-left: 300px;
+        margin-top: 5px;
+    }
+    
+    .botoes_4 button {
+        margin-left: 400px;
+    }
+    
+    .botoes a,
+    .botoes_3 a,
+    .botoes_4 a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .botoes button,
+    .botoes_3 button,
+    .botoes_4 button {
+        width: 100px;
+        height: 30px;
+        margin-left: 10px;
+    }
+    
+    .botoes button:hover,
+    .botoes_3 button:hover,
+    .botoes_4 button:hover {
+        background-color: #28A5D9;
+    }
+    
+    @media screen and (min-width: 320px) and (max-width:374px) {
+        #cabecalho {
+            width: 100%;
+            height: 166px;
+            background: url(../img/loja/cabecalho_loja.jpg);
+        }
+        #cabecalho_meio {
+            width: 380px;
+            height: 110px;
+            position: relative;
+        }
+        #cabecalho_meio h1 {
+            text-indent: -9999px;
+            width: 175px;
+            height: 52px;
+            position: absolute;
+            top: 25px;
+            left: 60px;
+            background-image: url(../img/loja/logo.png);
+        }
+        #cabecalho_inferior {
+            width: 378px;
+            ;
+            border-bottom: 1px solid #ccc;
+            line-height: 22px;
+        }
+        #cabecalho_inferior nav ul li a {
+            font-size: 12px;
+        }
+        #foto_12_acdc,
+        #foto_13_acdc,
+        #foto_14_acdc,
+        #foto_15_acdc,
+        #foto_16_acdc,
+        #foto_17_acdc,
+        #foto_18_acdc,
+        #foto_19_acdc,
+        #foto_20_acdc,
+        #foto_12_aerosmith,
+        #foto_13_aerosmith,
+        #foto_14_aerosmith,
+        #foto_15_aerosmith,
+        #foto_16_aerosmith,
+        #foto_17_aerosmith,
+        #foto_18_aerosmith,
+        #foto_19_aerosmith,
+        #foto_20_aerosmith,
+        #foto_12_angra,
+        #foto_13_angra,
+        #foto_14_angra,
+        #foto_15_angra,
+        #foto_16_angra,
+        #foto_17_angra,
+        #foto_18_angra,
+        #foto_19_angra,
+        #foto_20_angra,
+        #foto_12_barao,
+        #foto_13_barao,
+        #foto_14_barao,
+        #foto_15_barao,
+        #foto_16_barao,
+        #foto_17_barao,
+        #foto_18_barao,
+        #foto_19_barao,
+        #foto_20_barao,
+        #foto_12_sabbath,
+        #foto_13_sabbath,
+        #foto_14_sabbath,
+        #foto_15_sabbath,
+        #foto_16_sabbath,
+        #foto_17_sabbath,
+        #foto_18_sabbath,
+        #foto_19_sabbath,
+        #foto_20_sabbath,
+        #foto_12_bon,
+        #foto_13_bon,
+        #foto_14_bon,
+        #foto_15_bon,
+        #foto_16_bon,
+        #foto_17_bon,
+        #foto_18_bon,
+        #foto_19_bon,
+        #foto_20_bon,
+        #foto_12_capital,
+        #foto_13_capital,
+        #foto_14_capital,
+        #foto_15_capital,
+        #foto_16_capital,
+        #foto_17_capital,
+        #foto_18_capital,
+        #foto_19_capital,
+        #foto_20_capital,
+        #foto_12_deep,
+        #foto_13_deep,
+        #foto_14_deep,
+        #foto_15_deep,
+        #foto_16_deep,
+        #foto_17_deep,
+        #foto_18_deep,
+        #foto_19_deep,
+        #foto_20_deep,
+        #foto_12_eagles,
+        #foto_13_eagles,
+        #foto_14_eagles,
+        #foto_15_eagles,
+        #foto_16_eagles,
+        #foto_17_eagles,
+        #foto_18_eagles,
+        #foto_19_eagles,
+        #foto_20_eagles,
+        #foto_12_engenheiros,
+        #foto_13_engenheiros,
+        #foto_14_engenheiros,
+        #foto_15_engenheiros,
+        #foto_16_engenheiros,
+        #foto_17_engenheiros,
+        #foto_18_engenheiros,
+        #foto_19_engenheiros,
+        #foto_20_engenheiros,
+        #foto_12_fighters,
+        #foto_13_fighters,
+        #foto_14_fighters,
+        #foto_15_fighters,
+        #foto_16_fighters,
+        #foto_17_fighters,
+        #foto_18_fighters,
+        #foto_19_fighters,
+        #foto_20_fighters,
+        #foto_12_green,
+        #foto_13_green,
+        #foto_14_green,
+        #foto_15_green,
+        #foto_16_green,
+        #foto_17_green,
+        #foto_18_green,
+        #foto_19_green,
+        #foto_20_green,
+        #foto_23_guns,
+        #foto_24_guns,
+        #foto_25_guns,
+        #foto_26_guns,
+        #foto_27_guns,
+        #foto_28_guns,
+        #foto_29_guns,
+        #foto_30_guns,
+        #foto_31_guns,
+        #foto_32_guns,
+        #foto_33_guns,
+        #foto_34_guns,
+        #foto_35_guns,
+        #foto_36_guns,
+        #foto_37_guns,
+        #foto_38_guns,
+        #foto_39_guns,
+        #foto_40_guns,
+        #foto_41_guns,
+        #foto_42_guns,
+        #foto_43_guns,
+        #foto_12_maiden,
+        #foto_13_maiden,
+        #foto_14_maiden,
+        #foto_15_maiden,
+        #foto_16_maiden,
+        #foto_17_maiden,
+        #foto_18_maiden,
+        #foto_19_maiden,
+        #foto_20_maiden,
+        #foto_11_judas,
+        #foto_12_judas,
+        #foto_13_judas,
+        #foto_14_judas,
+        #foto_15_judas,
+        #foto_16_judas,
+        #foto_17_judas,
+        #foto_18_judas,
+        #foto_19_judas,
+        #foto_20_judas,
+        #foto_12_kiss,
+        #foto_13_kiss,
+        #foto_14_kiss,
+        #foto_15_kiss,
+        #foto_16_kiss,
+        #foto_17_kiss,
+        #foto_18_kiss,
+        #foto_19_kiss,
+        #foto_20_kiss,
+        #foto_12_led,
+        #foto_13_led,
+        #foto_14_led,
+        #foto_15_led,
+        #foto_16_led,
+        #foto_17_led,
+        #foto_18_led,
+        #foto_19_led,
+        #foto_20_led,
+        #foto_12_legiao,
+        #foto_13_legiao,
+        #foto_14_legiao,
+        #foto_15_legiao,
+        #foto_16_legiao,
+        #foto_17_legiao,
+        #foto_18_legiao,
+        #foto_19_legiao,
+        #foto_20_legiao,
+        #foto_12_linkin,
+        #foto_13_linkin,
+        #foto_14_linkin,
+        #foto_15_linkin,
+        #foto_16_linkin,
+        #foto_17_linkin,
+        #foto_18_linkin,
+        #foto_19_linkin,
+        #foto_20_linkin {
+            display: none;
+        }
+        .aline {
+            width: 320px;
+            margin-top: 5%;
+            font-size: 15px;
+            text-align: center;
+        }
+        .video {
+            width: 320px;
+            height: 200px;
+        }
+        .video_iframe {
+            width: 320px;
+            height: 400px;
+            margin: .5%;
+        }
+        .letra h1 {
+            text-align: center;
+            margin-top: 2%;
+            font-size: 15px;
+        }
+        .letra h2 {
+            margin-top: 5%;
+            font-size: 14px;
+            text-align: center;
+            margin-bottom: 5%;
+        }
+        .letra p {
+            font-size: 8px;
+            text-align: center;
+        }
+        #corpo_video_01_acdc,
+        #corpo_video_03_aerosmith,
+        #corpo_video_05_angra,
+        #corpo_video_07_black_sabbath,
+        #corpo_video_09_bon_jovi,
+        #corpo_video_11_barao_vermelho,
+        #corpo_video_13_capital_inicial,
+        #corpo_video_15_deep_purple,
+        #corpo_video_17_eagles,
+        #corpo_video_19_engenheiros_do_hawaii,
+        #corpo_video_21_foo_fighters,
+        #corpo_video_22_green_day,
+        #corpo_video_24_guns_n_roses,
+        #corpo_video_26_iron_maiden,
+        #corpo_video_28_judas_priest,
+        #corpo_video_30_kiss,
+        #corpo_video_32_led_zeppelin,
+        #corpo_video_34_legiao_urbana,
+        #corpo_video_36_linkin_park,
+        #corpo_video_38_metallica,
+        #corpo_video_40_motorhead,
+        #corpo_video_42_nirvana,
+        #corpo_video_44_os_paralamas_do_sucesso,
+        #corpo_video_46_pink_floyd,
+        #corpo_video_48_queen,
+        #corpo_video_50_ramones,
+        #corpo_video_52_raul_seixas,
+        #corpo_video_54_red_hot_chili_peppers,
+        #corpo_video_56_sepultura,
+        #corpo_video_58_scorpions,
+        #corpo_video_60_skank,
+        #corpo_video_62_slayer,
+        #corpo_video_64_slipknot,
+        #corpo_video_66_system_of_a_down,
+        #corpo_video_68_titas,
+        #corpo_video_71_the_beatles,
+        #corpo_video_72_the_doors,
+        #corpo_video_74_the_police,
+        #corpo_video_76_the_rolling_stones,
+        #corpo_video_78_the_who,
+        #corpo_video_80_u2,
+        #corpo_video_82_zz_top {
+            margin: 0 auto;
+            background: #fff;
+            margin-top: 15px;
+        }
+        #corpo_video_classic_2,
+        #corpo_video_classic_3,
+        #corpo_video_classic_4 {
+            width: 320px;
+        }
+        div .paginacao {
+            width: 320px;
+        }
+        div .paginacao h1 {
+            text-align: center;
+            font-size: 20px;
+            margin-top: 3%;
+        }
+        .fotoac {
+            float: left;
+            padding: 23px;
+            width: 65%;
+            margin-left: 1%;
+        }
+        .fotoac img {
+            width: 130px;
+            height: 133px;
+            margin-top: 1%;
+            margin-left: 21%;
+            border-radius: 14px;
+        }
+        .fotoac h2 {
+            font-family: 'Novo Tegomin', serif;
+            text-align: center;
+            font-size: 18px;
+            margin-left: 12%;
+        }
+        .curiosidade_acdc h1 {
+            font-family: 'Novo Tegomin', serif;
+            font-size: 20px;
+            margin-top: 5%;
+            text-align: center;
+        }
+        .corpo_curiosidade_acdc {
+            margin-top: 30px;
+            padding: 15px;
+            width: 30%;
+            float: left;
+        }
+        .img_responsive {
+            display: none;
+            margin-left: 0;
+            max-width: 320px;
+        }
+        .botao_acdc button {
+            width: 105px;
+            height: 50px;
+            font-size: 11px;
+            border-radius: 14px;
+        }
+        .botao_acdc button:hover {
+            background-color: #28A5D9;
+        }
+        .albuns_acdc button {
+            border-top: 1px solid #000000;
+            background: #325d7a;
+            background: -webkit-gradient(linear, left top, left bottom, from(#1f282e), to(#325d7a));
+            background: -webkit-linear-gradient(top, #1f282e, #325d7a);
+            background: -moz-linear-gradient(top, #1f282e, #325d7a);
+            background: -ms-linear-gradient(top, #1f282e, #325d7a);
+            background: -o-linear-gradient(top, #1f282e, #325d7a);
+            padding: 8.5px 17px;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            -moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+            color: white;
+            margin-top: 3%;
+            margin-bottom: 2%;
+            font-size: 10px;
+            font-family: Georgia, Serif;
+            text-decoration: none;
+            vertical-align: middle;
+        }
+        .albuns_acdc button:hover {
+            border-top-color: #324857;
+            background: #324857;
+            color: #ccc;
+        }
+        .albuns_acdc button:active {
+            border-top-color: #415461;
+            background: #415461;
+        }
+        #rodape2 {
+            float: left;
+            width: 380px;
+            height: 200px;
+        }
+        #caixa {
+            float: left;
+            width: auto;
+            color: rgb(2, 1, 1);
+            margin-left: 10px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        #caixa a {
+            color: rgb(20, 20, 20);
+            font-size: 14px;
+            text-decoration: none;
+        }
+    }
+    
+    @media screen and (min-width: 375px) and (max-width:423px) {
+        #cabecalho {
+            width: 100%;
+            height: 166px;
+            background: url(../img/loja/cabecalho_loja.jpg);
+        }
+        #cabecalho_meio {
+            width: 380px;
+            height: 110px;
+            position: relative;
+        }
+        #cabecalho_meio h1 {
+            text-indent: -9999px;
+            width: 175px;
+            height: 52px;
+            position: absolute;
+            top: 25px;
+            left: 60px;
+            background-image: url(../img/loja/logo.png);
+        }
+        #cabecalho_inferior {
+            width: 378px;
+            ;
+            border-bottom: 1px solid #ccc;
+            line-height: 22px;
+        }
+        #cabecalho_inferior nav ul li a {
+            font-size: 12px;
+        }
+        .aline {
+            width: 374px;
+            margin-left: 2%;
+            margin-top: 5%;
+            font-size: 15px;
+            text-align: center;
+        }
+        #foto_12_acdc,
+        #foto_13_acdc,
+        #foto_14_acdc,
+        #foto_15_acdc,
+        #foto_16_acdc,
+        #foto_17_acdc,
+        #foto_18_acdc,
+        #foto_19_acdc,
+        #foto_20_acdc,
+        #foto_12_aerosmith,
+        #foto_13_aerosmith,
+        #foto_14_aerosmith,
+        #foto_15_aerosmith,
+        #foto_16_aerosmith,
+        #foto_17_aerosmith,
+        #foto_18_aerosmith,
+        #foto_19_aerosmith,
+        #foto_20_aerosmith,
+        #foto_12_angra,
+        #foto_13_angra,
+        #foto_14_angra,
+        #foto_15_angra,
+        #foto_16_angra,
+        #foto_17_angra,
+        #foto_18_angra,
+        #foto_19_angra,
+        #foto_20_angra,
+        #foto_12_barao,
+        #foto_13_barao,
+        #foto_14_barao,
+        #foto_15_barao,
+        #foto_16_barao,
+        #foto_17_barao,
+        #foto_18_barao,
+        #foto_19_barao,
+        #foto_20_barao,
+        #foto_12_sabbath,
+        #foto_13_sabbath,
+        #foto_14_sabbath,
+        #foto_15_sabbath,
+        #foto_16_sabbath,
+        #foto_17_sabbath,
+        #foto_18_sabbath,
+        #foto_19_sabbath,
+        #foto_20_sabbath,
+        #foto_12_bon,
+        #foto_13_bon,
+        #foto_14_bon,
+        #foto_15_bon,
+        #foto_16_bon,
+        #foto_17_bon,
+        #foto_18_bon,
+        #foto_19_bon,
+        #foto_20_bon,
+        #foto_12_capital,
+        #foto_13_capital,
+        #foto_14_capital,
+        #foto_15_capital,
+        #foto_16_capital,
+        #foto_17_capital,
+        #foto_18_capital,
+        #foto_19_capital,
+        #foto_20_capital,
+        #foto_12_deep,
+        #foto_13_deep,
+        #foto_14_deep,
+        #foto_15_deep,
+        #foto_16_deep,
+        #foto_17_deep,
+        #foto_18_deep,
+        #foto_19_deep,
+        #foto_20_deep,
+        #foto_12_eagles,
+        #foto_13_eagles,
+        #foto_14_eagles,
+        #foto_15_eagles,
+        #foto_16_eagles,
+        #foto_17_eagles,
+        #foto_18_eagles,
+        #foto_19_eagles,
+        #foto_20_eagles,
+        #foto_12_engenheiros,
+        #foto_13_engenheiros,
+        #foto_14_engenheiros,
+        #foto_15_engenheiros,
+        #foto_16_engenheiros,
+        #foto_17_engenheiros,
+        #foto_18_engenheiros,
+        #foto_19_engenheiros,
+        #foto_20_engenheiros,
+        #foto_12_fighters,
+        #foto_13_fighters,
+        #foto_14_fighters,
+        #foto_15_fighters,
+        #foto_16_fighters,
+        #foto_17_fighters,
+        #foto_18_fighters,
+        #foto_19_fighters,
+        #foto_20_fighters,
+        #foto_12_green,
+        #foto_13_green,
+        #foto_14_green,
+        #foto_15_green,
+        #foto_16_green,
+        #foto_17_green,
+        #foto_18_green,
+        #foto_19_green,
+        #foto_20_green,
+        #foto_23_guns,
+        #foto_24_guns,
+        #foto_25_guns,
+        #foto_26_guns,
+        #foto_27_guns,
+        #foto_28_guns,
+        #foto_29_guns,
+        #foto_30_guns,
+        #foto_31_guns,
+        #foto_32_guns,
+        #foto_33_guns,
+        #foto_34_guns,
+        #foto_35_guns,
+        #foto_36_guns,
+        #foto_37_guns,
+        #foto_38_guns,
+        #foto_39_guns,
+        #foto_40_guns,
+        #foto_41_guns,
+        #foto_42_guns,
+        #foto_43_guns,
+        #foto_12_maiden,
+        #foto_13_maiden,
+        #foto_14_maiden,
+        #foto_15_maiden,
+        #foto_16_maiden,
+        #foto_17_maiden,
+        #foto_18_maiden,
+        #foto_19_maiden,
+        #foto_20_maiden,
+        #foto_11_judas,
+        #foto_12_judas,
+        #foto_13_judas,
+        #foto_14_judas,
+        #foto_15_judas,
+        #foto_16_judas,
+        #foto_17_judas,
+        #foto_18_judas,
+        #foto_19_judas,
+        #foto_20_judas,
+        #foto_12_kiss,
+        #foto_13_kiss,
+        #foto_14_kiss,
+        #foto_15_kiss,
+        #foto_16_kiss,
+        #foto_17_kiss,
+        #foto_18_kiss,
+        #foto_19_kiss,
+        #foto_20_kiss,
+        #foto_12_led,
+        #foto_13_led,
+        #foto_14_led,
+        #foto_15_led,
+        #foto_16_led,
+        #foto_17_led,
+        #foto_18_led,
+        #foto_19_led,
+        #foto_20_led,
+        #foto_12_legiao,
+        #foto_13_legiao,
+        #foto_14_legiao,
+        #foto_15_legiao,
+        #foto_16_legiao,
+        #foto_17_legiao,
+        #foto_18_legiao,
+        #foto_19_legiao,
+        #foto_20_legiao,
+        #foto_12_linkin,
+        #foto_13_linkin,
+        #foto_14_linkin,
+        #foto_15_linkin,
+        #foto_16_linkin,
+        #foto_17_linkin,
+        #foto_18_linkin,
+        #foto_19_linkin,
+        #foto_20_linkin {
+            display: none;
+        }
+        .video {
+            width: 374px;
+            height: 200px;
+        }
+        .video_iframe {
+            width: 374px;
+            height: 400px;
+        }
+        .letra h1 {
+            text-align: center;
+            margin-top: 2%;
+            font-size: 15px;
+        }
+        .letra h2 {
+            margin-top: 5%;
+            font-size: 14px;
+            text-align: center;
+            margin-bottom: 5%;
+        }
+        .letra p {
+            font-size: 8px;
+            text-align: center;
+        }
+        #corpo_video_01_acdc,
+        #corpo_video_03_aerosmith,
+        #corpo_video_05_angra,
+        #corpo_video_07_black_sabbath,
+        #corpo_video_09_bon_jovi,
+        #corpo_video_11_barao_vermelho,
+        #corpo_video_13_capital_inicial,
+        #corpo_video_15_deep_purple,
+        #corpo_video_17_eagles,
+        #corpo_video_19_engenheiros_do_hawaii,
+        #corpo_video_21_foo_fighters,
+        #corpo_video_22_green_day,
+        #corpo_video_24_guns_n_roses,
+        #corpo_video_26_iron_maiden,
+        #corpo_video_28_judas_priest,
+        #corpo_video_30_kiss,
+        #corpo_video_32_led_zeppelin,
+        #corpo_video_34_legiao_urbana,
+        #corpo_video_36_linkin_park,
+        #corpo_video_38_metallica,
+        #corpo_video_40_motorhead,
+        #corpo_video_42_nirvana,
+        #corpo_video_44_os_paralamas_do_sucesso,
+        #corpo_video_46_pink_floyd,
+        #corpo_video_48_queen,
+        #corpo_video_50_ramones,
+        #corpo_video_52_raul_seixas,
+        #corpo_video_54_red_hot_chili_peppers,
+        #corpo_video_56_sepultura,
+        #corpo_video_58_scorpions,
+        #corpo_video_60_skank,
+        #corpo_video_62_slayer,
+        #corpo_video_64_slipknot,
+        #corpo_video_66_system_of_a_down,
+        #corpo_video_68_titas,
+        #corpo_video_71_the_beatles,
+        #corpo_video_72_the_doors,
+        #corpo_video_74_the_police,
+        #corpo_video_76_the_rolling_stones,
+        #corpo_video_78_the_who,
+        #corpo_video_80_u2,
+        #corpo_video_82_zz_top {
+            margin: 0 auto;
+            background: #fff;
+            margin-top: 15px;
+        }
+        #corpo_video_classic_2,
+        #corpo_video_classic_3,
+        #corpo_video_classic_4 {
+            width: 374px;
+        }
+        div .paginacao {
+            width: 375px;
+        }
+        div .paginacao h1 {
+            font-size: 22px;
+            margin-top: 3%;
+        }
+        .fotoac {
+            float: left;
+            padding: 23px;
+            width: 65%;
+            margin-left: 1%;
+        }
+        .fotoac img {
+            width: 130px;
+            height: 133px;
+            margin-top: 1%;
+            margin-left: 16%;
+            border-radius: 14px;
+        }
+        .fotoac h2 {
+            font-family: 'Novo Tegomin', serif;
+            text-align: center;
+            font-size: 18px;
+            margin-left: 4%;
+        }
+        .curiosidade_acdc h1 {
+            font-family: 'Novo Tegomin', serif;
+            font-size: 20px;
+            margin-top: 5%;
+            text-align: center;
+        }
+        .corpo_curiosidade_acdc {
+            margin-top: 30px;
+            padding: 15px;
+            width: 30%;
+            float: left;
+        }
+        .img_responsive {
+            display: none;
+            margin-left: 0;
+            max-width: 320px;
+        }
+        #rodape2 {
+            float: left;
+            width: auto;
+            height: 200px;
+        }
+        .botao_acdc button {
+            width: 105px;
+            height: 50px;
+            font-size: 11px;
+            border-radius: 14px;
+        }
+        .botao_acdc button:hover {
+            background-color: #28A5D9;
+        }
+        .albuns_acdc button {
+            border-top: 1px solid #000000;
+            background: #325d7a;
+            background: -webkit-gradient(linear, left top, left bottom, from(#1f282e), to(#325d7a));
+            background: -webkit-linear-gradient(top, #1f282e, #325d7a);
+            background: -moz-linear-gradient(top, #1f282e, #325d7a);
+            background: -ms-linear-gradient(top, #1f282e, #325d7a);
+            background: -o-linear-gradient(top, #1f282e, #325d7a);
+            padding: 8.5px 17px;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            -moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+            color: white;
+            margin-top: 3%;
+            margin-bottom: 2%;
+            font-size: 10px;
+            font-family: Georgia, Serif;
+            text-decoration: none;
+            vertical-align: middle;
+        }
+        .albuns_acdc button:hover {
+            border-top-color: #324857;
+            background: #324857;
+            color: #ccc;
+        }
+        .albuns_acdc button:active {
+            border-top-color: #415461;
+            background: #415461;
+        }
+        #rodape2 {
+            width: auto;
+            height: 200px;
+        }
+        #caixa {
+            float: left;
+            width: auto;
+            color: rgb(2, 1, 1);
+            margin-left: 10px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        #caixa a {
+            color: rgb(20, 20, 20);
+            font-size: 14px;
+            text-decoration: none;
+        }
+    }
+    
+    @media screen and (min-width: 424px) and (max-width:767px) {
+        #cabecalho {
+            width: 100%;
+            height: 179px;
+            background: url(../img/loja/cabecalho_loja.jpg);
+        }
+        #cabecalho_meio {
+            width: 425px;
+            height: 110px;
+            position: relative;
+        }
+        #cabecalho_meio h1 {
+            text-indent: -9999px;
+            width: 175px;
+            height: 52px;
+            position: absolute;
+            top: 25px;
+            left: 60px;
+            background-image: url(../img/loja/logo.png);
+        }
+        #cabecalho_inferior {
+            width: 378px;
+            ;
+            border-bottom: 1px solid #ccc;
+            line-height: 22px;
+        }
+        #cabecalho_inferior nav ul li a {
+            font-size: 12px;
+        }
+        #foto_12_acdc,
+        #foto_13_acdc,
+        #foto_14_acdc,
+        #foto_15_acdc,
+        #foto_16_acdc,
+        #foto_17_acdc,
+        #foto_18_acdc,
+        #foto_19_acdc,
+        #foto_20_acdc,
+        #foto_12_aerosmith,
+        #foto_13_aerosmith,
+        #foto_14_aerosmith,
+        #foto_15_aerosmith,
+        #foto_16_aerosmith,
+        #foto_17_aerosmith,
+        #foto_18_aerosmith,
+        #foto_19_aerosmith,
+        #foto_20_aerosmith,
+        #foto_12_angra,
+        #foto_13_angra,
+        #foto_14_angra,
+        #foto_15_angra,
+        #foto_16_angra,
+        #foto_17_angra,
+        #foto_18_angra,
+        #foto_19_angra,
+        #foto_20_angra,
+        #foto_12_barao,
+        #foto_13_barao,
+        #foto_14_barao,
+        #foto_15_barao,
+        #foto_16_barao,
+        #foto_17_barao,
+        #foto_18_barao,
+        #foto_19_barao,
+        #foto_20_barao,
+        #foto_12_sabbath,
+        #foto_13_sabbath,
+        #foto_14_sabbath,
+        #foto_15_sabbath,
+        #foto_16_sabbath,
+        #foto_17_sabbath,
+        #foto_18_sabbath,
+        #foto_19_sabbath,
+        #foto_20_sabbath,
+        #foto_12_bon,
+        #foto_13_bon,
+        #foto_14_bon,
+        #foto_15_bon,
+        #foto_16_bon,
+        #foto_17_bon,
+        #foto_18_bon,
+        #foto_19_bon,
+        #foto_20_bon,
+        #foto_12_capital,
+        #foto_13_capital,
+        #foto_14_capital,
+        #foto_15_capital,
+        #foto_16_capital,
+        #foto_17_capital,
+        #foto_18_capital,
+        #foto_19_capital,
+        #foto_20_capital,
+        #foto_12_deep,
+        #foto_13_deep,
+        #foto_14_deep,
+        #foto_15_deep,
+        #foto_16_deep,
+        #foto_17_deep,
+        #foto_18_deep,
+        #foto_19_deep,
+        #foto_20_deep,
+        #foto_12_eagles,
+        #foto_13_eagles,
+        #foto_14_eagles,
+        #foto_15_eagles,
+        #foto_16_eagles,
+        #foto_17_eagles,
+        #foto_18_eagles,
+        #foto_19_eagles,
+        #foto_20_eagles,
+        #foto_12_engenheiros,
+        #foto_13_engenheiros,
+        #foto_14_engenheiros,
+        #foto_15_engenheiros,
+        #foto_16_engenheiros,
+        #foto_17_engenheiros,
+        #foto_18_engenheiros,
+        #foto_19_engenheiros,
+        #foto_20_engenheiros,
+        #foto_12_fighters,
+        #foto_13_fighters,
+        #foto_14_fighters,
+        #foto_15_fighters,
+        #foto_16_fighters,
+        #foto_17_fighters,
+        #foto_18_fighters,
+        #foto_19_fighters,
+        #foto_20_fighters,
+        #foto_12_green,
+        #foto_13_green,
+        #foto_14_green,
+        #foto_15_green,
+        #foto_16_green,
+        #foto_17_green,
+        #foto_18_green,
+        #foto_19_green,
+        #foto_20_green,
+        #foto_23_guns,
+        #foto_24_guns,
+        #foto_25_guns,
+        #foto_26_guns,
+        #foto_27_guns,
+        #foto_28_guns,
+        #foto_29_guns,
+        #foto_30_guns,
+        #foto_31_guns,
+        #foto_32_guns,
+        #foto_33_guns,
+        #foto_34_guns,
+        #foto_35_guns,
+        #foto_36_guns,
+        #foto_37_guns,
+        #foto_38_guns,
+        #foto_39_guns,
+        #foto_40_guns,
+        #foto_41_guns,
+        #foto_42_guns,
+        #foto_43_guns,
+        #foto_12_maiden,
+        #foto_13_maiden,
+        #foto_14_maiden,
+        #foto_15_maiden,
+        #foto_16_maiden,
+        #foto_17_maiden,
+        #foto_18_maiden,
+        #foto_19_maiden,
+        #foto_20_maiden,
+        #foto_11_judas,
+        #foto_12_judas,
+        #foto_13_judas,
+        #foto_14_judas,
+        #foto_15_judas,
+        #foto_16_judas,
+        #foto_17_judas,
+        #foto_18_judas,
+        #foto_19_judas,
+        #foto_20_judas,
+        #foto_12_kiss,
+        #foto_13_kiss,
+        #foto_14_kiss,
+        #foto_15_kiss,
+        #foto_16_kiss,
+        #foto_17_kiss,
+        #foto_18_kiss,
+        #foto_19_kiss,
+        #foto_20_kiss,
+        #foto_12_led,
+        #foto_13_led,
+        #foto_14_led,
+        #foto_15_led,
+        #foto_16_led,
+        #foto_17_led,
+        #foto_18_led,
+        #foto_19_led,
+        #foto_20_led,
+        #foto_12_legiao,
+        #foto_13_legiao,
+        #foto_14_legiao,
+        #foto_15_legiao,
+        #foto_16_legiao,
+        #foto_17_legiao,
+        #foto_18_legiao,
+        #foto_19_legiao,
+        #foto_20_legiao,
+        #foto_12_linkin,
+        #foto_13_linkin,
+        #foto_14_linkin,
+        #foto_15_linkin,
+        #foto_16_linkin,
+        #foto_17_linkin,
+        #foto_18_linkin,
+        #foto_19_linkin,
+        #foto_20_linkin {
+            display: none;
+        }
+        .aline {
+            width: 424px;
+            margin-left: 2%;
+            margin-top: 5%;
+            font-size: 20px;
+            text-align: center;
+        }
+        .video {
+            width: 424px;
+            height: 200px;
+        }
+        .video_iframe {
+            margin-left: 0;
+            width: 424px;
+            height: 400px;
+        }
+        .letra h1 {
+            text-align: center;
+            margin-top: 2%;
+            font-size: 18px;
+        }
+        .letra h2 {
+            margin-top: 5%;
+            font-size: 16px;
+            text-align: center;
+            margin-bottom: 5%;
+        }
+        .letra p {
+            font-size: 8px;
+            text-align: center;
+        }
+        #corpo_video_01_acdc,
+        #corpo_video_03_aerosmith,
+        #corpo_video_05_angra,
+        #corpo_video_07_black_sabbath,
+        #corpo_video_09_bon_jovi,
+        #corpo_video_11_barao_vermelho,
+        #corpo_video_13_capital_inicial,
+        #corpo_video_15_deep_purple,
+        #corpo_video_17_eagles,
+        #corpo_video_19_engenheiros_do_hawaii,
+        #corpo_video_21_foo_fighters,
+        #corpo_video_22_green_day,
+        #corpo_video_24_guns_n_roses,
+        #corpo_video_26_iron_maiden,
+        #corpo_video_28_judas_priest,
+        #corpo_video_30_kiss,
+        #corpo_video_32_led_zeppelin,
+        #corpo_video_34_legiao_urbana,
+        #corpo_video_36_linkin_park,
+        #corpo_video_38_metallica,
+        #corpo_video_40_motorhead,
+        #corpo_video_42_nirvana,
+        #corpo_video_44_os_paralamas_do_sucesso,
+        #corpo_video_46_pink_floyd,
+        #corpo_video_48_queen,
+        #corpo_video_50_ramones,
+        #corpo_video_52_raul_seixas,
+        #corpo_video_54_red_hot_chili_peppers,
+        #corpo_video_56_sepultura,
+        #corpo_video_58_scorpions,
+        #corpo_video_60_skank,
+        #corpo_video_62_slayer,
+        #corpo_video_64_slipknot,
+        #corpo_video_66_system_of_a_down,
+        #corpo_video_68_titas,
+        #corpo_video_71_the_beatles,
+        #corpo_video_72_the_doors,
+        #corpo_video_74_the_police,
+        #corpo_video_76_the_rolling_stones,
+        #corpo_video_78_the_who,
+        #corpo_video_80_u2,
+        #corpo_video_82_zz_top {
+            margin: 0;
+            background: #fff;
+            margin-top: 15px;
+        }
+        #corpo_video_classic_2,
+        #corpo_video_classic_3,
+        #corpo_video_classic_4 {
+            width: 425px;
+        }
+        div .paginacao {
+            background-color: black;
+            width: 425px;
+        }
+        div .paginacao h1 {
+            text-align: center;
+            font-size: 26px;
+            margin-top: 3%;
+        }
+        .fotoac {
+            float: left;
+            padding: 23px;
+            width: 68%;
+            margin-left: 2%;
+        }
+        .fotoac img {
+            width: 130px;
+            height: 133px;
+            margin-top: 3%;
+            margin-left: 26%;
+            border-radius: 14px;
+        }
+        .fotoac h2 {
+            font-family: 'Novo Tegomin', serif;
+            text-align: center;
+            font-size: 22px;
+            margin-left: 4%;
+        }
+        .curiosidade_acdc h1 {
+            font-family: 'Novo Tegomin', serif;
+            font-size: 24px;
+            margin-top: 5%;
+            text-align: center;
+        }
+        .corpo_curiosidade_acdc {
+            margin-top: 30px;
+            padding: 15px;
+            width: 30%;
+            float: left;
+        }
+        .img_responsive {
+            display: none;
+            margin-left: 0;
+            max-width: 320px;
+        }
+        .botao_acdc button {
+            width: 113px;
+            height: 53px;
+            font-size: 10px;
+            border-radius: 14px;
+        }
+        #rodape2 {
+            float: left;
+            width: auto;
+            height: 200px;
+        }
+        .botao_acdc button:hover {
+            background-color: #28A5D9;
+        }
+        .albuns_acdc button {
+            border-top: 1px solid #000000;
+            background: #325d7a;
+            background: -webkit-gradient(linear, left top, left bottom, from(#1f282e), to(#325d7a));
+            background: -webkit-linear-gradient(top, #1f282e, #325d7a);
+            background: -moz-linear-gradient(top, #1f282e, #325d7a);
+            background: -ms-linear-gradient(top, #1f282e, #325d7a);
+            background: -o-linear-gradient(top, #1f282e, #325d7a);
+            padding: 8.5px 17px;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            -moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+            color: white;
+            margin-top: 3%;
+            margin-bottom: 2%;
+            font-size: 10px;
+            font-family: Georgia, Serif;
+            text-decoration: none;
+            vertical-align: middle;
+        }
+        .albuns_acdc button:hover {
+            border-top-color: #324857;
+            background: #324857;
+            color: #ccc;
+        }
+        .albuns_acdc button:active {
+            border-top-color: #415461;
+            background: #415461;
+        }
+        #rodape2 {
+            width: auto;
+            height: 200px;
+        }
+        #caixa {
+            float: left;
+            width: auto;
+            color: rgb(2, 1, 1);
+            margin-left: 10px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        #caixa a {
+            color: rgb(20, 20, 20);
+            font-size: 14px;
+            text-decoration: none;
+        }
+    }
+    
+    @media screen and (min-width: 768px) and (max-width:1023px) {
+        #cabecalho {
+            width: 100%;
+            height: 179px;
+            background: url(../img/loja/cabecalho_loja.jpg);
+        }
+        #cabecalho_meio {
+            width: 768px;
+            height: 110px;
+            position: relative;
+        }
+        #cabecalho_meio h1 {
+            text-indent: -9999px;
+            width: 175px;
+            height: 52px;
+            position: absolute;
+            top: 25px;
+            left: 60px;
+            background-image: url(../img/loja/logo.png);
+        }
+        #cabecalho_inferior {
+            width: 757px;
+            border-bottom: 1px solid #ccc;
+            line-height: 44px;
+        }
+        #cabecalho_inferior nav ul li a {
+            font-size: 18px;
+        }
+        .aline {
+            width: 768px;
+            margin-top: 5%;
+            font-size: 20px;
+            text-align: center;
+        }
+        #foto_19_acdc,
+        #foto_20_acdc,
+        #foto_19_aerosmith,
+        #foto_20_aerosmith,
+        #foto_19_angra,
+        #foto_20_angra,
+        #foto_19_barao,
+        #foto_20_barao,
+        #foto_19_sabbath,
+        #foto_20_sabbath,
+        #foto_19_bon,
+        #foto_20_bon,
+        #foto_19_capital,
+        #foto_20_capital,
+        #foto_19_deep,
+        #foto_20_deep,
+        #foto_19_eagles,
+        #foto_20_eagles,
+        #foto_19_engenheiros,
+        #foto_20_engenheiros,
+        #foto_19_fighters,
+        #foto_20_fighters,
+        #foto_19_green,
+        #foto_20_green,
+        #foto_38_guns,
+        #foto_39_guns,
+        #foto_40_guns,
+        #foto_41_guns,
+        #foto_42_guns,
+        #foto_43_guns,
+        #foto_19_maiden,
+        #foto_20_maiden,
+        #foto_19_judas,
+        #foto_20_judas,
+        #foto_19_kiss,
+        #foto_20_kiss,
+        #foto_19_led,
+        #foto_20_led,
+        #foto_19_legiao,
+        #foto_20_legiao,
+        #foto_19_linkin,
+        #foto_20_linkin {
+            display: none;
+        }
+        .video {
+            width: 768px;
+            height: 350px;
+        }
+        .video_iframe {
+            margin-left: 0;
+            width: 767px;
+            height: 500px;
+        }
+        .letra h1 {
+            text-align: center;
+            margin-top: 2%;
+            font-size: 24px;
+        }
+        .letra h2 {
+            margin-top: 5%;
+            font-size: 20px;
+            text-align: center;
+            margin-bottom: 5%;
+        }
+        .letra p {
+            font-size: 17px;
+            text-align: center;
+        }
+        #corpo_video_01_acdc,
+        #corpo_video_03_aerosmith,
+        #corpo_video_05_angra,
+        #corpo_video_07_black_sabbath,
+        #corpo_video_09_bon_jovi,
+        #corpo_video_11_barao_vermelho,
+        #corpo_video_13_capital_inicial,
+        #corpo_video_15_deep_purple,
+        #corpo_video_17_eagles,
+        #corpo_video_19_engenheiros_do_hawaii,
+        #corpo_video_21_foo_fighters,
+        #corpo_video_22_green_day,
+        #corpo_video_24_guns_n_roses,
+        #corpo_video_26_iron_maiden,
+        #corpo_video_28_judas_priest,
+        #corpo_video_30_kiss,
+        #corpo_video_32_led_zeppelin,
+        #corpo_video_34_legiao_urbana,
+        #corpo_video_36_linkin_park,
+        #corpo_video_38_metallica,
+        #corpo_video_40_motorhead,
+        #corpo_video_42_nirvana,
+        #corpo_video_44_os_paralamas_do_sucesso,
+        #corpo_video_46_pink_floyd,
+        #corpo_video_48_queen,
+        #corpo_video_50_ramones,
+        #corpo_video_52_raul_seixas,
+        #corpo_video_54_red_hot_chili_peppers,
+        #corpo_video_56_sepultura,
+        #corpo_video_58_scorpions,
+        #corpo_video_60_skank,
+        #corpo_video_62_slayer,
+        #corpo_video_64_slipknot,
+        #corpo_video_66_system_of_a_down,
+        #corpo_video_68_titas,
+        #corpo_video_71_the_beatles,
+        #corpo_video_72_the_doors,
+        #corpo_video_74_the_police,
+        #corpo_video_76_the_rolling_stones,
+        #corpo_video_78_the_who,
+        #corpo_video_80_u2,
+        #corpo_video_82_zz_top {
+            margin: 0;
+            background: #fff;
+            margin-top: 15px;
+        }
+        #corpo_video_classic_2,
+        #corpo_video_classic_3,
+        #corpo_video_classic_4 {
+            width: 768px;
+        }
+        div .paginacao {
+            width: 768px;
+        }
+        div .paginacao h1 {
+            font-size: 26px;
+            margin-top: 3%;
+            text-align: center;
+        }
+        .fotoac img {
+            width: 240px;
+            height: 194px;
+            margin-top: 3%;
+            margin-left: 2%;
+            border-radius: 14px;
+        }
+        .fotoac h2 {
+            font-family: 'Novo Tegomin', serif;
+            text-align: center;
+            font-size: 28px;
+            margin-left: 4%;
+        }
+        .curiosidade_acdc h1 {
+            font-family: 'Novo Tegomin', serif;
+            font-size: 30px;
+            margin-top: 5%;
+            text-align: center;
+        }
+        .corpo_curiosidade_acdc {
+            margin-top: 30px;
+            padding: 15px;
+            width: 30%;
+            float: left;
+        }
+        .botao_acdc button {
+            width: 170px;
+            height: 70px;
+            font-size: 16px;
+            border-radius: 22px;
+        }
+        .botao_acdc p {
+            font-size: 16px;
+        }
+        .botao_acdc button:hover {
+            background-color: #28A5D9;
+        }
+        .albuns_acdc button {
+            border-top: 1px solid #000000;
+            background: #325d7a;
+            background: -webkit-gradient(linear, left top, left bottom, from(#1f282e), to(#325d7a));
+            background: -webkit-linear-gradient(top, #1f282e, #325d7a);
+            background: -moz-linear-gradient(top, #1f282e, #325d7a);
+            background: -ms-linear-gradient(top, #1f282e, #325d7a);
+            background: -o-linear-gradient(top, #1f282e, #325d7a);
+            padding: 8.5px 17px;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            -moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+            color: white;
+            margin-top: 10%;
+            margin-bottom: 2%;
+            font-size: 14px;
+            font-family: Georgia, Serif;
+            text-decoration: none;
+            vertical-align: middle;
+        }
+        .albuns_acdc button:hover {
+            border-top-color: #324857;
+            background: #324857;
+            color: #ccc;
+        }
+        .albuns_acdc button:active {
+            border-top-color: #415461;
+            background: #415461;
+        }
+        #rodape2 {
+            float: left;
+            width: 979px;
+            height: 180px;
+        }
+        #caixa {
+            float: left;
+            width: auto;
+            color: rgb(2, 1, 1);
+            margin-left: 10px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        #caixa a {
+            color: rgb(20, 20, 20);
+            font-size: 14px;
+            text-decoration: none;
+        }
+    }
+    /*Meu pc*/
+    
+    @media screen and (min-width: 1024px) and (max-width:1439px) {
+        #cabecalho {
+            width: 1348;
+            height: 201px;
+            background: url(../img/loja/cabecalho_loja.jpg);
+        }
+        #cabecalho_meio {
+            width: 1348px;
+            height: 133px;
+            position: relative;
+        }
+        #cabecalho_meio h1 {
+            text-indent: -9999px;
+            width: 175px;
+            height: 52px;
+            position: absolute;
+            top: 25px;
+            left: 60px;
+            background-image: url(../img/loja/logo.png);
+        }
+        #cabecalho_inferior {
+            width: 1291px;
+            border-bottom: 1px solid #ccc;
+            line-height: 44px;
+        }
+        #cabecalho_inferior nav ul li a {
+            font-size: 18px;
+        }
+        #foto_19_acdc,
+        #foto_20_acdc,
+        #foto_19_aerosmith,
+        #foto_20_aerosmith,
+        #foto_19_angra,
+        #foto_20_angra,
+        #foto_19_barao,
+        #foto_20_barao,
+        #foto_19_sabbath,
+        #foto_20_sabbath,
+        #foto_19_bon,
+        #foto_20_bon,
+        #foto_19_capital,
+        #foto_20_capital,
+        #foto_19_deep,
+        #foto_20_deep,
+        #foto_19_eagles,
+        #foto_20_eagles,
+        #foto_19_engenheiros,
+        #foto_20_engenheiros,
+        #foto_19_fighters,
+        #foto_20_fighters,
+        #foto_19_green,
+        #foto_20_green,
+        #foto_39_guns,
+        #foto_40_guns,
+        #foto_41_guns,
+        #foto_42_guns,
+        #foto_43_guns,
+        #foto_19_maiden,
+        #foto_20_maiden,
+        #foto_16_judas,
+        #foto_17_judas,
+        #foto_18_judas,
+        #foto_19_judas,
+        #foto_20_judas,
+        #foto_19_kiss,
+        #foto_20_kiss,
+        #foto_19_led,
+        #foto_20_led,
+        #foto_19_legiao,
+        #foto_20_legiao,
+        #foto_19_linkin,
+        #foto_20_linkin {
+            display: none;
+        }
+        .aline {
+            width: 1024px;
+            margin-top: 5%;
+            margin-left: 0;
+            font-size: 22px;
+            text-align: center;
+        }
+        .video {
+            width: 1024px;
+            height: 400px;
+        }
+        .video_iframe {
+            margin-left: 0;
+            width: 1024px;
+            height: 500px;
+        }
+        .letra h1 {
+            text-align: center;
+            margin-top: 2%;
+            font-size: 26px;
+        }
+        .letra h2 {
+            margin-top: 5%;
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 5%;
+        }
+        .letra p {
+            font-size: 19px;
+            text-align: center;
+        }
+        #corpo_video_01_acdc,
+        #corpo_video_03_aerosmith,
+        #corpo_video_05_angra,
+        #corpo_video_07_black_sabbath,
+        #corpo_video_09_bon_jovi,
+        #corpo_video_11_barao_vermelho,
+        #corpo_video_13_capital_inicial,
+        #corpo_video_15_deep_purple,
+        #corpo_video_17_eagles,
+        #corpo_video_19_engenheiros_do_hawaii,
+        #corpo_video_21_foo_fighters,
+        #corpo_video_22_green_day,
+        #corpo_video_24_guns_n_roses,
+        #corpo_video_26_iron_maiden,
+        #corpo_video_28_judas_priest,
+        #corpo_video_30_kiss,
+        #corpo_video_32_led_zeppelin,
+        #corpo_video_34_legiao_urbana,
+        #corpo_video_36_linkin_park,
+        #corpo_video_38_metallica,
+        #corpo_video_40_motorhead,
+        #corpo_video_42_nirvana,
+        #corpo_video_44_os_paralamas_do_sucesso,
+        #corpo_video_46_pink_floyd,
+        #corpo_video_48_queen,
+        #corpo_video_50_ramones,
+        #corpo_video_52_raul_seixas,
+        #corpo_video_54_red_hot_chili_peppers,
+        #corpo_video_56_sepultura,
+        #corpo_video_58_scorpions,
+        #corpo_video_60_skank,
+        #corpo_video_62_slayer,
+        #corpo_video_64_slipknot,
+        #corpo_video_66_system_of_a_down,
+        #corpo_video_68_titas,
+        #corpo_video_71_the_beatles,
+        #corpo_video_72_the_doors,
+        #corpo_video_74_the_police,
+        #corpo_video_76_the_rolling_stones,
+        #corpo_video_78_the_who,
+        #corpo_video_80_u2,
+        #corpo_video_82_zz_top {
+            margin: 0;
+            background: #fff;
+            margin-top: 15px;
+        }
+        #corpo_video_classic_2,
+        #corpo_video_classic_3,
+        #corpo_video_classic_4 {
+            width: 1024px;
+        }
+        div .paginacao {
+            background-color: cyan;
+            width: 1024px;
+        }
+        div .paginacao h1 {
+            font-size: 62px;
+            margin-top: 3%;
+            text-align: center;
+        }
+        .fotoac {
+            width: 1300px;
+        }
+        .fotoac img {
+            width: 292px;
+            height: 281px;
+            margin-top: 3%;
+            border-radius: 19px;
+        }
+        .fotoac h2 {
+            font-family: 'Novo Tegomin', serif;
+            text-align: center;
+            font-size: 46px;
+            margin-left: 4%;
+        }
+        .curiosidade_acdc h1 {
+            font-family: 'Novo Tegomin', serif;
+            font-size: 40px;
+            margin-top: 5%;
+            text-align: center;
+        }
+        .corpo_curiosidade_acdc {
+            margin-top: 30px;
+            padding: 15px;
+            width: 23%;
+            float: left;
+        }
+        .botao_acdc button {
+            margin-left: 1%;
+            width: 187px;
+            height: 70px;
+            font-size: 23px;
+            border-radius: 14px;
+        }
+        .botao_acdc p {
+            font-size: 16px;
+        }
+        .botao_acdc button:hover {
+            background-color: #28A5D9;
+        }
+        .albuns_acdc button {
+            border-top: 1px solid #000000;
+            background: #325d7a;
+            background: -webkit-gradient(linear, left top, left bottom, from(#1f282e), to(#325d7a));
+            background: -webkit-linear-gradient(top, #1f282e, #325d7a);
+            background: -moz-linear-gradient(top, #1f282e, #325d7a);
+            background: -ms-linear-gradient(top, #1f282e, #325d7a);
+            background: -o-linear-gradient(top, #1f282e, #325d7a);
+            padding: 8.5px 17px;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            -moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+            color: white;
+            margin-top: 10%;
+            margin-bottom: 2%;
+            font-size: 13px;
+            font-family: Georgia, Serif;
+            text-decoration: none;
+            vertical-align: middle;
+        }
+        .albuns_acdc button:hover {
+            border-top-color: #324857;
+            background: #324857;
+            color: #ccc;
+        }
+        .albuns_acdc button:active {
+            border-top-color: #415461;
+            background: #415461;
+        }
+        #rodape2 {
+            float: left;
+            width: 1348px;
+            height: 150px;
+        }
+        #caixa {
+            float: left;
+            width: auto;
+            color: rgb(2, 1, 1);
+            margin-left: 10px;
+            margin-top: 10px;
+            font-size: 17px;
+        }
+        #caixa a {
+            color: rgb(20, 20, 20);
+            font-size: 14px;
+            text-decoration: none;
+        }
+    }
+    
+    @media screen and (min-width: 1440px) and (max-width:2258px) {
+        #cabecalho {
+            width: 1348;
+            height: 201px;
+            background: url(../img/loja/cabecalho_loja.jpg);
+        }
+        #cabecalho_meio {
+            width: 1348px;
+            height: 133px;
+            position: relative;
+        }
+        #cabecalho_meio h1 {
+            text-indent: -9999px;
+            width: 175px;
+            height: 52px;
+            position: absolute;
+            top: 25px;
+            left: 60px;
+            background-image: url(../img/loja/logo.png);
+        }
+        #cabecalho_inferior {
+            width: 1291px;
+            border-bottom: 1px solid #ccc;
+            line-height: 44px;
+        }
+        #cabecalho_inferior nav ul li a {
+            font-size: 18px;
+        }
+        #foto_17_acdc,
+        #foto_18_acdc,
+        #foto_19_acdc,
+        #foto_20_acdc,
+        #foto_17_aerosmith,
+        #foto_18_aerosmith,
+        #foto_19_aerosmith,
+        #foto_20_aerosmith,
+        #foto_17_angra,
+        #foto_18_angra,
+        #foto_19_angra,
+        #foto_20_angra,
+        #foto_17_barao,
+        #foto_18_barao,
+        #foto_19_barao,
+        #foto_20_barao,
+        #foto_17_sabbath,
+        #foto_18_sabbath,
+        #foto_19_sabbath,
+        #foto_20_sabbath,
+        #foto_17_bon,
+        #foto_18_bon,
+        #foto_19_bon,
+        #foto_20_bon,
+        #foto_17_capital,
+        #foto_18_capital,
+        #foto_19_capital,
+        #foto_20_capital,
+        #foto_17_deep,
+        #foto_18_deep,
+        #foto_19_deep,
+        #foto_20_deep,
+        #foto_17_eagles,
+        #foto_18_eagles,
+        #foto_19_eagles,
+        #foto_20_eagles,
+        #foto_17_engenheiros,
+        #foto_18_engenheiros,
+        #foto_19_engenheiros,
+        #foto_20_engenheiros,
+        #foto_17_fighters,
+        #foto_18_fighters,
+        #foto_19_fighters,
+        #foto_20_fighters,
+        #foto_17_green,
+        #foto_18_green,
+        #foto_19_green,
+        #foto_20_green,
+        #foto_36_guns,
+        #foto_37_guns,
+        #foto_38_guns,
+        #foto_39_guns,
+        #foto_40_guns,
+        #foto_41_guns,
+        #foto_42_guns,
+        #foto_43_guns,
+        #foto_17_maiden,
+        #foto_18_maiden,
+        #foto_19_maiden,
+        #foto_20_maiden,
+        #foto_17_judas,
+        #foto_18_judas,
+        #foto_19_judas,
+        #foto_20_judas,
+        #foto_17_kiss,
+        #foto_18_kiss,
+        #foto_19_kiss,
+        #foto_20_kiss,
+        #foto_17_led,
+        #foto_18_led,
+        #foto_19_led,
+        #foto_20_led,
+        #foto_17_legiao,
+        #foto_18_legiao,
+        #foto_19_legiao,
+        #foto_20_legiao,
+        #foto_17_linkin,
+        #foto_18_linkin,
+        #foto_19_linkin,
+        #foto_20_linkin {
+            display: none;
+        }
+        .aline {
+            width: 1440px;
+            margin-top: 5%;
+            margin-left: 0;
+            font-size: 26px;
+            text-align: center;
+        }
+        .video {
+            width: 1440px;
+            height: 500px;
+        }
+        .video_iframe {
+            margin-left: 0;
+            width: 1440px;
+            height: 500px;
+        }
+        .letra h1 {
+            text-align: center;
+            margin-top: 2%;
+            font-size: 24px;
+        }
+        .letra h2 {
+            margin-top: 5%;
+            font-size: 22px;
+            text-align: center;
+            margin-bottom: 5%;
+        }
+        .letra p {
+            font-size: 16px;
+            text-align: center;
+        }
+        #corpo_video_01_acdc,
+        #corpo_video_03_aerosmith,
+        #corpo_video_05_angra,
+        #corpo_video_07_black_sabbath,
+        #corpo_video_09_bon_jovi,
+        #corpo_video_11_barao_vermelho,
+        #corpo_video_13_capital_inicial,
+        #corpo_video_15_deep_purple,
+        #corpo_video_17_eagles,
+        #corpo_video_19_engenheiros_do_hawaii,
+        #corpo_video_21_foo_fighters,
+        #corpo_video_22_green_day,
+        #corpo_video_24_guns_n_roses,
+        #corpo_video_26_iron_maiden,
+        #corpo_video_28_judas_priest,
+        #corpo_video_30_kiss,
+        #corpo_video_32_led_zeppelin,
+        #corpo_video_34_legiao_urbana,
+        #corpo_video_36_linkin_park,
+        #corpo_video_38_metallica,
+        #corpo_video_40_motorhead,
+        #corpo_video_42_nirvana,
+        #corpo_video_44_os_paralamas_do_sucesso,
+        #corpo_video_46_pink_floyd,
+        #corpo_video_48_queen,
+        #corpo_video_50_ramones,
+        #corpo_video_52_raul_seixas,
+        #corpo_video_54_red_hot_chili_peppers,
+        #corpo_video_56_sepultura,
+        #corpo_video_58_scorpions,
+        #corpo_video_60_skank,
+        #corpo_video_62_slayer,
+        #corpo_video_64_slipknot,
+        #corpo_video_66_system_of_a_down,
+        #corpo_video_68_titas,
+        #corpo_video_71_the_beatles,
+        #corpo_video_72_the_doors,
+        #corpo_video_74_the_police,
+        #corpo_video_76_the_rolling_stones,
+        #corpo_video_78_the_who,
+        #corpo_video_80_u2,
+        #corpo_video_82_zz_top {
+            margin: 0;
+            background: #fff;
+            margin-top: 15px;
+        }
+        #corpo_video_classic_2,
+        #corpo_video_classic_3,
+        #corpo_video_classic_4 {
+            width: 1440px;
+        }
+        div .paginacao {
+            width: 1440px;
+        }
+        div .paginacao h1 {
+            font-size: 26px;
+            margin-top: 3%;
+            text-align: center;
+        }
+        .fotoac img {
+            width: 255px;
+            height: 375px;
+            margin-top: 3%;
+            border-radius: 19px;
+        }
+        .fotoac h2 {
+            text-align: center;
+            font-size: 46px;
+            margin-left: 4%;
+        }
+        .curiosidade_acdc h1 {
+            font-size: 40px;
+            margin-top: 5%;
+            text-align: center;
+        }
+        .corpo_curiosidade_acdc {
+            width: 20%;
+            float: left;
+        }
+        .botao_acdc button {
+            margin-left: 1%;
+            width: 180px;
+            height: 61px;
+            font-size: 23px;
+            border-radius: 14px;
+        }
+        .botao_acdc p {
+            font-size: 16px;
+        }
+        .botao_acdc button:hover {
+            background-color: #28A5D9;
+        }
+        .albuns_acdc button {
+            border-top: 1px solid #000000;
+            background: #325d7a;
+            background: -webkit-gradient(linear, left top, left bottom, from(#1f282e), to(#325d7a));
+            background: -webkit-linear-gradient(top, #1f282e, #325d7a);
+            background: -moz-linear-gradient(top, #1f282e, #325d7a);
+            background: -ms-linear-gradient(top, #1f282e, #325d7a);
+            background: -o-linear-gradient(top, #1f282e, #325d7a);
+            padding: 8.5px 17px;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            -moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+            color: white;
+            margin-top: 10%;
+            margin-bottom: 2%;
+            font-size: 25px;
+            font-family: Georgia, Serif;
+            text-decoration: none;
+            vertical-align: middle;
+        }
+        .albuns_acdc button:hover {
+            border-top-color: #324857;
+            background: #324857;
+            color: #ccc;
+        }
+        .albuns_acdc button:active {
+            border-top-color: #415461;
+            background: #415461;
+        }
+        #rodape2 {
+            float: left;
+            width: 1440px;
+            height: 130px;
+        }
+        #caixa {
+            float: left;
+            width: auto;
+            color: rgb(2, 1, 1);
+            margin-left: 10px;
+            margin-top: 10px;
+            font-size: 17px;
+        }
+        #caixa a {
+            color: rgb(20, 20, 20);
+            font-size: 14px;
+            text-decoration: none;
+        }
+    }
+    
+    @media screen and (min-width: 2259px) {
+        #cabecalho {
+            width: 1348;
+            height: 344px;
+            background: url(../img/loja/cabecalho_loja.jpg);
+        }
+        #cabecalho_meio {
+            width: 2507px;
+            height: 207px;
+            position: relative;
+        }
+        #cabecalho_meio h1 {
+            text-indent: -9999px;
+            width: 175px;
+            height: 52px;
+            position: absolute;
+            top: 25px;
+            left: 60px;
+            background-image: url(../img/loja/logo.png);
+        }
+        #cabecalho_inferior {
+            width: 2332px;
+            border-bottom: 1px solid #ccc;
+            line-height: 84px;
+        }
+        #cabecalho_inferior nav ul li a {
+            font-size: 48px;
+        }
+        .aline {
+            width: 2560px;
+            margin-top: 5%;
+            font-size: 26px;
+            text-align: center;
+        }
+        .video {
+            width: 2560px;
+            height: 400px;
+        }
+        .video_iframe {
+            margin-left: 0;
+            width: 2550px;
+            height: 500px;
+        }
+        .letra h1 {
+            text-align: center;
+            margin-top: 2%;
+            font-size: 24px;
+        }
+        .letra h2 {
+            margin-top: 5%;
+            font-size: 22px;
+            text-align: center;
+            margin-bottom: 5%;
+        }
+        .letra p {
+            font-size: 20px;
+            text-align: center;
+        }
+        #corpo_video_01_acdc,
+        #corpo_video_03_aerosmith,
+        #corpo_video_05_angra,
+        #corpo_video_07_black_sabbath,
+        #corpo_video_09_bon_jovi,
+        #corpo_video_11_barao_vermelho,
+        #corpo_video_13_capital_inicial,
+        #corpo_video_15_deep_purple,
+        #corpo_video_17_eagles,
+        #corpo_video_19_engenheiros_do_hawaii,
+        #corpo_video_21_foo_fighters,
+        #corpo_video_22_green_day,
+        #corpo_video_24_guns_n_roses,
+        #corpo_video_26_iron_maiden,
+        #corpo_video_28_judas_priest,
+        #corpo_video_30_kiss,
+        #corpo_video_32_led_zeppelin,
+        #corpo_video_34_legiao_urbana,
+        #corpo_video_36_linkin_park,
+        #corpo_video_38_metallica,
+        #corpo_video_40_motorhead,
+        #corpo_video_42_nirvana,
+        #corpo_video_44_os_paralamas_do_sucesso,
+        #corpo_video_46_pink_floyd,
+        #corpo_video_48_queen,
+        #corpo_video_50_ramones,
+        #corpo_video_52_raul_seixas,
+        #corpo_video_54_red_hot_chili_peppers,
+        #corpo_video_56_sepultura,
+        #corpo_video_58_scorpions,
+        #corpo_video_60_skank,
+        #corpo_video_62_slayer,
+        #corpo_video_64_slipknot,
+        #corpo_video_66_system_of_a_down,
+        #corpo_video_68_titas,
+        #corpo_video_71_the_beatles,
+        #corpo_video_72_the_doors,
+        #corpo_video_74_the_police,
+        #corpo_video_76_the_rolling_stones,
+        #corpo_video_78_the_who,
+        #corpo_video_80_u2,
+        #corpo_video_82_zz_top {
+            margin: 0;
+            background: #fff;
+            margin-top: 15px;
+        }
+        #corpo_video_classic_2,
+        #corpo_video_classic_3,
+        #corpo_video_classic_4 {
+            width: 2550px;
+        }
+        div .paginacao {
+            width: 2550px;
+        }
+        div .paginacao h1 {
+            font-size: 28px;
+            margin-top: 3%;
+            text-align: center;
+        }
+        .fotoac img {
+            width: 400px;
+            height: 567px;
+            margin-top: 3%;
+            border-radius: 19px;
+        }
+        .fotoac h2 {
+            text-align: center;
+            font-size: 90px;
+            margin-left: 4%;
+        }
+        .curiosidade_acdc h1 {
+            font-size: 120px;
+            margin-top: 5%;
+            margin-bottom: 5%;
+            text-align: center;
+        }
+        .corpo_curiosidade_acdc {
+            width: 20%;
+            float: left;
+        }
+        .botao_acdc button {
+            margin-left: 1%;
+            width: 320px;
+            height: 105px;
+            font-size: 23px;
+            border-radius: 14px;
+        }
+        .botao_acdc p {
+            font-size: 26px;
+        }
+        .botao_acdc button:hover {
+            background-color: #28A5D9;
+        }
+        .albuns_acdc button {
+            border-top: 1px solid #000000;
+            background: #325d7a;
+            background: -webkit-gradient(linear, left top, left bottom, from(#1f282e), to(#325d7a));
+            background: -webkit-linear-gradient(top, #1f282e, #325d7a);
+            background: -moz-linear-gradient(top, #1f282e, #325d7a);
+            background: -ms-linear-gradient(top, #1f282e, #325d7a);
+            background: -o-linear-gradient(top, #1f282e, #325d7a);
+            padding: 8.5px 17px;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            -moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+            text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+            color: white;
+            margin-top: 10%;
+            margin-bottom: 2%;
+            font-size: 25px;
+            font-family: Georgia, Serif;
+            text-decoration: none;
+            vertical-align: middle;
+        }
+        .albuns_acdc button:hover {
+            border-top-color: #324857;
+            background: #324857;
+            color: #ccc;
+        }
+        .albuns_acdc button:active {
+            border-top-color: #415461;
+            background: #415461;
+        }
+        #rodape2 {
+            float: left;
+            width: 2560px;
+            height: 260px;
+        }
+        #caixa {
+            float: left;
+            width: auto;
+            color: rgb(2, 1, 1);
+            margin-left: 17px;
+            margin-top: 10px;
+            font-size: 35px;
+        }
+        #caixa a {
+            color: rgb(20, 20, 20);
+            font-size: 35px;
+            text-decoration: none;
+        }
+    }

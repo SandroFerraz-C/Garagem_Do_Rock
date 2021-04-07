@@ -35,7 +35,7 @@ include_once("header.php");
                 melhores, como - Powerslave e - Somewhere in Time", eles acrescentavam que "liricamente, era um dos melhores trabalhos do Maiden".
                 Em 2005, o álbum foi ranqueado na posição 305 no livro - The 500 Greatest Rock & Metal Albums of All Time da revista Rock Hard.
             </p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -70,99 +70,88 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 43 min. 57 seg.</p>
             <p>Gravadora(s): EMI.</p>
             <p>Produção: Martin Birch.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
-                <iframe src="https://open.spotify.com/embed/playlist/1fpi4DndyRHSUKoG6H8Bc6" width="100%" height="500" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <iframe src="https://open.spotify.com/embed/playlist/1fpi4DndyRHSUKoG6H8Bc6" width="100%" height="500" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                 </table>
+            </section>
+
+            <section>
+                <div id="divBRUCE_DICKINSON" name="nm_divBRUCE_DICKINSON">
+                    <p>
+                        <img class="css" src="img/iron maiden/bd.jpg" width="150px;" height="130px;">
+                        Paul Bruce Dickinson ( 7 de agosto de 1958) é um cantor, compositor, escritor, piloto de avião e empresário britânico,
+                        é mais conhecido por seu trabalho como vocalista da banda britânica Iron Maiden.
+                        <br />
+                        Bruce entrou no Iron Maiden em 1982 e saiu em 1993 a fim de seguir com sua carreira solo. Bruce retornou ao Iron Maiden em 1999 junto
+                        com o guitarrista Adrian Smith e permanecem juntos na banda até hoje.
+                    </p>
+                </div>
+
+                <div id="divSTEVE_HARRIS" name="nm_divSTEVE_HARRIS">
+                    <p>
+                        <img class="css" src="img/iron maiden/sh.jpg" width="150px;" height="130px;">
+                        Stephen Percy "Steve" Harris ( 12 de março de 1956) é um músico e compositor inglês, conhecido por ser baixista,
+                        principal compositor, tecladista (nas gravações em studio), co-produtor e fundador da banda britânica de heavy metal
+                        Iron Maiden. Ele é o único integrante a permanecer na banda desde sua criação, e junto com o guitarrista Dave Murray
+                        são os únicos a tocar em todos os álbuns.
+                    </p>
+                </div>
+
+                <div id="divDAVE_MURRAY" name="nm_divDAVE_MURRAY">
+                    <p>
+                        <img class="css" src="img/iron maiden/dm.jpg" width="150px;" height="130px;">
+                        "Dave" Murray ( 23 de dezembro de 1956) é um músico britânico, conhecido por ser o guitarrista do Iron Maiden.
+                        Dave está no Iron Maiden desde de 1976, saiu por um breve período
+                        em 1977, porém na primavera do ano seguinte Murray foi convidado a se juntar novamente com o Iron Maiden, no qual
+                        ele permaneceu até hoje. É amplamente considerado um dos melhores e mais influentes guitarristas da história do
+                        heavy metal.
+                    </p>
+                </div>
+
+                <div id="divNICKO_MCBRAIN" name="nm_divNICKO_MCBRAIN">
+                    <p>
+                        <img class="css" src="img/iron maiden/nm.jpg" width="150px;" height="130px;">
+                        Nicko McBrain é um músico inglês de heavy metal. É conhecido por ser o baterista da banda Iron Maiden, onde ingressou
+                        em dezembro de 1982 e permanece desde então gravando todos os discos. Anteriormente foi baterista de bandas como - Trust,
+                        - Streetwalkers e - Pat Travers.
+                    </p>
+                </div>
+
+                <div id="divADRIAN_SMITH" name="nm_divADRIAN_SMITH">
+                    <p>
+                        <img class="css" src="img/iron maiden/as.jpg" width="150px;" height="130px;">
+                        Adrian Frederick Smith é um guitarrista inglês conhecido por tocar na banda Iron Maiden. É considerado, junto de
+                        Dave Murray, um dos melhores e mais influentes guitarristas de todos os tempos. Integrou-se à banda logo após a
+                        saída de Dennis Straton, por indicação de seu amigo Dave Murray. Adrian manteve-se no Maiden durante 9 anos (1981-1990),
+                        e voltou junto com Bruce Dickinson em 1999, depois de gravar dois álbuns solo do vocalista.
+                    </p>
+                </div>
             </section>
 
             <nav>
                 <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divBD07');" onMouseOut="escondeLayer('divBD07');">Bruce Dickinson</a> – Vocal. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divSH07');" onMouseOut="escondeLayer('divSH07');">Steve Harris</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDM07');" onMouseOut="escondeLayer('divDM07');">Dave Murray</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divNM07');" onMouseOut="escondeLayer('divNM07');">Nicko McBrain</a> – Bateria. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divAS07');" onMouseOut="escondeLayer('divAS07');">Adrian Smith</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divMK07');" onMouseOut="escondeLayer('divMK07');">Michael Kenney</a> – Teclado ( Como musico convidado). </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divBRUCE_DICKINSON');" onMouseOut="escondeLayer('divBRUCE_DICKINSON');">Bruce Dickinson</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSTEVE_HARRIS');" onMouseOut="escondeLayer('divSTEVE_HARRIS');">Steve Harris</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDAVE_MURRAY');" onMouseOut="escondeLayer('divDAVE_MURRAY');">Dave Murray</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divNICKO_MCBRAIN');" onMouseOut="escondeLayer('divNICKO_MCBRAIN');">Nicko McBrain</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divADRIAN_SMITH');" onMouseOut="escondeLayer('divADRIAN_SMITH');">Adrian Smith</a> – Guitarra.</li>
                 </ul>
             </nav>
 
-            <div id="divBD07" name="nm_divBD07">
-                <p>
-                    <img class="css" src="img/iron maiden/bd.jpg" width="150px;" height="130px;">
-                    Paul Bruce Dickinson ( 7 de agosto de 1958) é um cantor, compositor, escritor, piloto de avião e empresário britânico,
-                    é mais conhecido por seu trabalho como vocalista da banda britânica Iron Maiden.
-                    <br />
-                    Bruce entrou no Iron Maiden em 1982 e saiu em 1993 a fim de seguir com sua carreira solo. Bruce retornou ao Iron Maiden em 1999 junto
-                    com o guitarrista Adrian Smith e permanecem juntos na banda até hoje.
-                </p>
-            </div>
+            <footer>
+                <a href="iron_maiden.php"><button>Voltar para os álbuns do Iron Maiden</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
 
-            <div id="divSH07" name="nm_divSH07">
-                <p>
-                    <img class="css" src="img/iron maiden/sh.jpg" width="150px;" height="130px;">
-                    Stephen Percy "Steve" Harris ( 12 de março de 1956) é um músico e compositor inglês, conhecido por ser baixista,
-                    principal compositor, tecladista (nas gravações em studio), co-produtor e fundador da banda britânica de heavy metal
-                    Iron Maiden. Ele é o único integrante a permanecer na banda desde sua criação, e junto com o guitarrista Dave Murray
-                    são os únicos a tocar em todos os álbuns.
-                </p>
-            </div>
-
-            <div id="divDM07" name="nm_divDM07">
-                <p>
-                    <img class="css" src="img/iron maiden/dm.jpg" width="150px;" height="130px;">
-                    "Dave" Murray ( 23 de dezembro de 1956) é um músico britânico, conhecido por ser o guitarrista do Iron Maiden.
-                    Dave está no Iron Maiden desde de 1976, saiu por um breve período
-                    em 1977, porém na primavera do ano seguinte Murray foi convidado a se juntar novamente com o Iron Maiden, no qual
-                    ele permaneceu até hoje. É amplamente considerado um dos melhores e mais influentes guitarristas da história do
-                    heavy metal.
-                </p>
-            </div>
-
-            <div id="divNM07" name="nm_divNM07">
-                <p>
-                    <img class="css" src="img/iron maiden/nm.jpg" width="150px;" height="130px;">
-                    Nicko McBrain é um músico inglês de heavy metal. É conhecido por ser o baterista da banda Iron Maiden, onde ingressou
-                    em dezembro de 1982 e permanece desde então gravando todos os discos. Anteriormente foi baterista de bandas como - Trust,
-                    - Streetwalkers e - Pat Travers.
-                </p><br /><br />
-            </div>
-
-            <div id="divAS07" name="nm_divAS07">
-                <p>
-                    <img class="css" src="img/iron maiden/as.jpg" width="150px;" height="130px;">
-                    Adrian Frederick Smith é um guitarrista inglês conhecido por tocar na banda Iron Maiden. É considerado, junto de
-                    Dave Murray, um dos melhores e mais influentes guitarristas de todos os tempos. Integrou-se à banda logo após a
-                    saída de Dennis Straton, por indicação de seu amigo Dave Murray. Adrian manteve-se no Maiden durante 9 anos (1981-1990),
-                    e voltou junto com Bruce Dickinson em 1999, depois de gravar dois álbuns solo do vocalista.
-                </p>
-            </div>
-
-            <div id="divMK07" name="nm_divMK07">
-                <p>
-                    <img class="css" src="img/iron maiden/mk.jpeg" width="150px;" height="130px;">
-                    Michael Kenney é um tecladista americano que acompanha a banda Iron Maiden em suas apresentações ao vivo, além de
-                    ser o técnico que cuida do baixo elétrico do integrante damesma banda, Steve Harris.
-                    <br />
-                    Apesar de aparecer em muitos dos álbuns do Maiden, Michael Kenney não é considerando oficialmente como um dos
-                    integrantes da banda, apenas contribui com seu trabalho.
-                </p>
-            </div>
-            <br /><br />
-
-<footer>
-            <a href="iron_maiden.php"><button>Voltar para os álbuns do Iron Maiden</button></a>
-            <a href="index.php"><button>Home</button></a>
-</footer>
-            
         </section>
 
     </main>

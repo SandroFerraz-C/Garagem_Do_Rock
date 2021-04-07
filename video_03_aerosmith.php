@@ -3,28 +3,27 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Loja da Garagem</title>
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <title>Aerosmith</title>
     <link href="css/css_loja.css" rel="stylesheet" />
-
 </head>
 
 <body>
 
 
-    <iframe width="560" height="445" src="https://www.youtube.com/embed/82cJgPXU-ik" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
+    <iframe class="video" src=" https://www.youtube.com/embed/82cJgPXU-ik" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <div class="letra_03_aerosmith">
+    <div class="letra">
 
         <h1>sweet emotion</h1>
-        <br />
 
         <h2>Doce Emoção</h2>
-        <br /> <br />
+        <br />
+
         <p>Doce emoção
             <br />
-            Doce emoção</p>
-        <br />
+            Doce emoção
+        </p>
 
         <p>
             Você conversa sobre coisas que ninguém liga
@@ -33,7 +32,8 @@
             <br />
             Você chama meu nome, mas eu tenho que clearear as coisas
             <br />
-            Não posso dizer onde esterei em um ano</p>
+            Não posso dizer onde esterei em um ano
+        </p>
         <br />
 
         <p>

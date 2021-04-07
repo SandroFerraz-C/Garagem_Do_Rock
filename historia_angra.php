@@ -2,17 +2,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>História do AAngra</title>
 
-    <link rel="stylesheet" type="text/css" href="css/historia_acdc.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_america.css">
-
+    <link rel="stylesheet" type="text/css" href="css/historia_ac_dc.css">
 </head>
 
 <body>
@@ -38,11 +34,17 @@
             <p>
                 No fim de 1993 foi lançado o disco de estreia, - <a href="angra_01_angels_cry.php" target="blank">Angels Cry</a>,
                 que contava com a participação de Kai Hansen, Dirk Schlachter, Thomas Nack (Gamma Ray) e Sascha Paeth (Heavens Gate).
-                O álbum apresentava uma mistura de heavy metal e música clássica, sonoridade que marcou o estilo da banda. Após o lançamento a
-                banda ganhou fama no Japão, onde Angels Cry chegou à terceira posição na parada internacional, tendo vendido 106 mil cópias, ganhando
+                O álbum apresentava uma mistura de heavy metal e música clássica, sonoridade que marcou o estilo da banda.
+            </p>
+
+            <p> Após o lançamento a
+                banda ganhou fama no Japão, onde - Angels Cry chegou à terceira posição na parada internacional, tendo vendido 106 mil cópias, ganhando
                 seu primeiro Disco de Ouro. Leitores de revistas japonesas e sul-americanas elegeram o Angra "Melhor Banda Nova" de 1993, sendo que,
-                na Rock Brigade, o grupo (e Angels Cry) venceu diversas categorias da votação dos leitores: "Melhor Álbum", "Melhor Vocalista",
-                "Melhor Capa", "Melhor Tecladista" e "Melhor Música" "Carry On". O videoclipe de "Time" foi executado muitas vezes em emissoras de
+                na Rock Brigade, o grupo e o álbum - Angels Cry venceu diversas categorias da votação dos leitores: "Melhor Álbum", "Melhor Vocalista",
+                "Melhor Capa", "Melhor Tecladista" e "Melhor Música" "Carry On".
+            </p>
+
+            <p> O videoclipe de "Time" foi executado muitas vezes em emissoras de
                 TV do Brasil e do Japão, enquanto que o de "Carry On" foi indicado para o MTV Video Music Awards.
             </p>
 

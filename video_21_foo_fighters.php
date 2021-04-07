@@ -3,22 +3,22 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Loja da Garagem</title>
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <title>Foo Fighters</title>
     <link href="css/css_loja.css" rel="stylesheet" />
 
 </head>
 
 <body>
 
-    <iframe width="560" height="445" src="https://www.youtube.com/embed/rbnr8ft81-E" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video" src="https://www.youtube.com/embed/rbnr8ft81-E" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <div class="letra_video_21_foo_fighters">
+    <div class="letra">
 
         <h1>Walk</h1>
-        <br />
 
         <h2>Andar</h2>
-        <br /> <br />
+        <br />
 
         <p>
             A muitas milhas de distância
@@ -118,52 +118,52 @@
             Não quero morrer jamais
             <br />
 
-            <p>
-                Estou rindo da minha própria desgraça
-                <br />
-                Estou me jogando na fogueira
-                <br />
-                Para sempre, que seja
-                <br />
-                Não quero morrer jamais
-            </p>
+        <p>
+            Estou rindo da minha própria desgraça
             <br />
-
-            <p>
-                Não quero partir jamais
-                <br />
-                E nem dizer adeus
-                <br />
-                Para sempre, que seja
-                <br />
-                Para sempre, que seja
-            </p>
+            Estou me jogando na fogueira
             <br />
-
-            <p>
-                Estou aprendendo a andar novamente
-                <br />
-                Acho que já esperei tempo demais
-                <br />
-                Mas por onde eu começo?
-                <br />
-                Estou aprendendo a falar novamente
-                <br />
-                Você não vê que já esperei tempo demais?
-                <br />
-                Por onde eu começo?
-            </p>
+            Para sempre, que seja
             <br />
+            Não quero morrer jamais
+        </p>
+        <br />
 
-            <p>
-                Estou aprendendo a andar novamente
-                <br />
-                Acho que já esperei tempo demais
-                <br />
-                Estou aprendendo a falar novamente
-                <br />
-                Você não vê que já esperei tempo demais?
-            </p>
+        <p>
+            Não quero partir jamais
+            <br />
+            E nem dizer adeus
+            <br />
+            Para sempre, que seja
+            <br />
+            Para sempre, que seja
+        </p>
+        <br />
+
+        <p>
+            Estou aprendendo a andar novamente
+            <br />
+            Acho que já esperei tempo demais
+            <br />
+            Mas por onde eu começo?
+            <br />
+            Estou aprendendo a falar novamente
+            <br />
+            Você não vê que já esperei tempo demais?
+            <br />
+            Por onde eu começo?
+        </p>
+        <br />
+
+        <p>
+            Estou aprendendo a andar novamente
+            <br />
+            Acho que já esperei tempo demais
+            <br />
+            Estou aprendendo a falar novamente
+            <br />
+            Você não vê que já esperei tempo demais?
+        </p>
 
     </div>
 

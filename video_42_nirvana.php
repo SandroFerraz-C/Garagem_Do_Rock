@@ -3,21 +3,21 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Loja da Garagem</title>
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <title>Nirvana</title>
     <link href="css/css_loja.css" rel="stylesheet" />
-
 </head>
 
 <body>
 
-    <iframe width="560" height="445" src="https://www.youtube.com/embed/R3XIGon2RjY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <div class="letra_video_42_nirvana">
+    <iframe class="video" src="https://www.youtube.com/embed/R3XIGon2RjY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <div class="letra">
 
         <h1>Smells Like Teen Spirit</h1>
-        <br />
 
         <h2>Cheira a Espírito Adolescente</h2>
-        <br /> <br />
+        <br />
 
         <p>
             Carregue suas armas, traga seus amigos<br />

@@ -26,76 +26,76 @@ include_once("header.php");
             <section class="disco">
                 <table id="demo-table">
                     <iframe src="https://open.spotify.com/embed/playlist/3LQCcxRDcdaOCpnrTZv38Z" width="100%" height="640" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-                    <br /><br />
                 </table>
+            </section>
+
+            <section>
+                <div id="divCAZUZA" name="nm_divCAZUZA">
+                    <p><img class="css" src="img/barao vermelho/czz.jpg" width="150px;" height="130px;">
+                        Agenor de Miranda Araújo Neto, "Cazuza" ( 4 de abril de 1958 — 7 de julho de 1990),
+                        foi um cantor, compositor, poeta e letrista brasileiro. Primeiramente conhecido como vocalista e principal letrista da banda Barão Vermelho,
+                        Cazuza posteriormente seguiu carreira solo, sendo aclamado pela crítica como um dos principais poetas da música brasileira.
+                    </p>
+                </div>
+
+                <div id="divROBERTO_FREJAT" name="nm_divROBERTO_FREJAT">
+                    <p><img class="css" src="img/barao vermelho/rf.jpg" width="150px;" height="130px;">
+                        Roberto Frejat é um cantor, compositor, produtor e guitarrista brasileiro,
+                        notório por ser o principal parceiro de Cazuza em composições da banda Barão Vermelho e também na carreira solo do
+                        amigo, além de compor com/para outros artistas do cenário musical brasileiro.
+                    </p>
+                </div>
+
+                <div id="divMAURICIO_BARROS" name="nm_divMAURICIO_BARROS">
+                    <p><img class="css" src="img/barao vermelho/mb.jpg" width="150px;" height="130px;">
+                        Maurício Carvalho de Barros, "Maurício Barros" é um tecladista
+                        brasileiro e membro fundador da banda Barão Vermelho.
+                        <br />
+                        No final da década de 1980, foi vocalista e tecladista da banda Buana 4, chegando a gravar um LP e música em trilha
+                        sonora de telenovela.
+                    </p>
+                </div>
+
+                <div id="divDE" name="nm_divDE">
+                    <p><img class="css" src="img/barao vermelho/de.jpg" width="150px;" height="130px;">
+                        André Palmeira Cunha, ou simplesmente "Dé", é um compositor e baixista brasileiro, sendo um dos
+                        integrantes originais do Barão Vermelho até 1990.
+                        <br />
+                        Participou da banda Telefone Gol. Em 2011, juntou-se a Toni Platão, Dado Villa-Lobos e Charles Gavin para formar o
+                        supergrupo Panamericana, que toca sucessos do rock sul-americano.
+                    </p>
+                </div>
+
+                <div id="divGUTO_GOFFI" name="nm_divGUTO_GOFFI">
+                    <p><img class="css" src="img/barao vermelho/gg.jpg" width="150px;" height="130px;">
+                        Flávio Augusto Goffi Marquesini, "Guto Goffi", é um baterista brasileiro.
+                        <br />
+                        Começou a tocar bateria em 1978. Em 1982, fundou o Barão Vermelho, com o tecladista Maurício Barros. Permaneceu na
+                        banda em todas as suas formações. Com a saída de Cazuza, passou a atuar também como letrista e, mais tarde, produtor.
+                    </p>
+                </div>
+
+                <div id="divPENINHA" name="nm_divPENINHA">
+                    <p><img class="css" src="img/barao vermelho/pnh.jpg" width="150px;" height="130px;">
+                        Aroldo Alves Sobrinho, "Peninha", é um cantor, músico e compositor brasileiro.
+                        <br />
+                        Músicas compostas por ele já foram gravadas por cantores como Tim Maia, Caetano Veloso, Fábio Júnior, Daniel, Alexandre Pires, Roberta
+                        Miranda, Paulinho Moska, José Augusto e Renata Arruda, entre outros.
+                    </p>
+                </div>
             </section>
 
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divCZZ02');" onMouseOut="escondeLayer('divCZZ02');">Cazuza</a> – Vocal.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRF02');" onMouseOut="escondeLayer('divRF02');">Roberto Frejat</a> – Guitarra e Violão. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divMB02');" onMouseOut="escondeLayer('divMB02');">Maurício Barros</a> – Teclados e Piano. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDE02');" onMouseOut="escondeLayer('divDE02');">Dé</a> – Baixo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGG02');" onMouseOut="escondeLayer('divGG02');">Guto Goffi</a> – Bateria e Percussão. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divPNH02');" onMouseOut="escondeLayer('divPNH02');">Peninha</a> – (Como artista convidado) Percussão. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divCAZUZA');" onMouseOut="escondeLayer('divCAZUZA');">Cazuza</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divROBERTO_FREJAT');" onMouseOut="escondeLayer('divROBERTO_FREJAT');">Roberto Frejat</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divMAURICIO_BARROS');" onMouseOut="escondeLayer('divMAURICIO_BARROS');">Maurício Barros</a> – Teclados.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDE');" onMouseOut="escondeLayer('divDE');">Dé</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGUTO_GOFFI');" onMouseOut="escondeLayer('divGUTO_GOFFI');">Guto Goffi</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPENINHA');" onMouseOut="escondeLayer('divPENINHA');">Peninha</a> – Percussão.</li>
                 </ul>
             </nav>
-
-
-            <div id="divCZZ02" name="nm_divCZZ02">
-                <p><img class="css" src="img/barao vermelho/czz.jpg" width="150px;" height="130px;">
-                    Agenor de Miranda Araújo Neto, "Cazuza" ( 4 de abril de 1958 — 7 de julho de 1990),
-                    foi um cantor, compositor, poeta e letrista brasileiro. Primeiramente conhecido como vocalista e principal letrista da banda Barão Vermelho,
-                    Cazuza posteriormente seguiu carreira solo, sendo aclamado pela crítica como um dos principais poetas da música brasileira.
-                </p><br /><br />
-            </div>
-
-            <div id="divRF02" name="nm_divRF02">
-                <p><img class="css" src="img/barao vermelho/rf.jpg" width="150px;" height="130px;">
-                    Roberto Frejat é um cantor, compositor, produtor e guitarrista brasileiro,
-                    notório por ser o principal parceiro de Cazuza em composições da banda Barão Vermelho e também na carreira solo do
-                    amigo, além de compor com/para outros artistas do cenário musical brasileiro.
-                </p><br /><br /><br />
-            </div>
-
-            <div id="divMB02" name="nm_divMB02">
-                <p><img class="css" src="img/barao vermelho/mb.jpg" width="150px;" height="130px;">
-                    Maurício Carvalho de Barros, "Maurício Barros" é um tecladista
-                    brasileiro e membro fundador da banda Barão Vermelho.
-                    <br />
-                    No final da década de 1980, foi vocalista e tecladista da banda Buana 4, chegando a gravar um LP e música em trilha
-                    sonora de telenovela.
-                </p><br /><br /><br />
-            </div>
-
-            <div id="divDE02" name="nm_divDE02">
-                <p><img class="css" src="img/barao vermelho/de.jpg" width="150px;" height="130px;">
-                    André Palmeira Cunha, ou simplesmente "Dé", é um compositor e baixista brasileiro, sendo um dos
-                    integrantes originais do Barão Vermelho até 1990.
-                    <br />
-                    Participou da banda Telefone Gol. Em 2011, juntou-se a Toni Platão, Dado Villa-Lobos e Charles Gavin para formar o
-                    supergrupo Panamericana, que toca sucessos do rock sul-americano.
-                </p>
-            </div>
-
-            <div id="divGG02" name="nm_divGG02">
-                <p><img class="css" src="img/barao vermelho/gg.jpg" width="150px;" height="130px;">
-                    Flávio Augusto Goffi Marquesini, "Guto Goffi", é um baterista brasileiro.
-                    <br />
-                    Começou a tocar bateria em 1978. Em 1982, fundou o Barão Vermelho, com o tecladista Maurício Barros. Permaneceu na
-                    banda em todas as suas formações. Com a saída de Cazuza, passou a atuar também como letrista e, mais tarde, produtor.
-                </p><br /><br />
-            </div>
-
-            <div id="divPNH02" name="nm_divPNH02">
-                <p><img class="css" src="img/barao vermelho/pnh.jpg" width="150px;" height="130px;">
-                    Aroldo Alves Sobrinho, "Peninha", é um cantor, músico e compositor brasileiro.
-                    <br />
-                    Músicas compostas por ele já foram gravadas por cantores como Tim Maia, Caetano Veloso, Fábio Júnior, Daniel, Alexandre Pires, Roberta
-                    Miranda, Paulinho Moska, José Augusto e Renata Arruda, entre outros.
-                </p><br /><br />
-            </div>
 
             <footer>
                 <a href="barao_vermelho.php"><button>Voltar para os álbuns do Barão Vermelho</button></a>

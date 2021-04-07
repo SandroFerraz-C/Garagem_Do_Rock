@@ -33,10 +33,12 @@ include_once("header.php");
             </p>
 
             <p>
-                Foi certificado 2X platina pela RIAA (EUA), o álbum vendeu 2.100.000 cópias nos Estados Unidos de acordo com a Nielsen SoundScan.
+                O álbum foi certificado 2X platina pela RIAA (EUA), vendeu 2.100.000 cópias nos Estados Unidos de acordo com a Nielsen SoundScan.
                 - Crush estreou como nº #1 no Reino Unidoem 10 de junho de 2000 e permaneceu no topo das paradas por uma semana antes de cair para
                 a quarta posição, permanecendo na parada por trinta e nove semanas.
-                Foi certificado platina pelo BPI em 1 de setembro de 2000 pela venda de 300.000 Discos. O álbum também liderou o Top 100 de álbuns europeus
+            </p>
+
+            <p>Foi certificado platina pelo BPI em 1 de setembro de 2000 pela venda de 300.000 Discos. O álbum também liderou o Top 100 de álbuns europeus
                 por sete semanas, passou 15 semanas no Top #10 e recebeu a certificação de platina dupla pelo IFPI Europe. O álbum foi n° #6 na parada
                 de álbuns de fim de ano da Europa de 2000 e n° #7 na parada de álbuns de fim de ano em todo o mundo. O primeiro single também com um
                 videoclipe, "It's My Life" foi o single nº #3 mais vendido em todo o mundo em 2000 e liderou a parada de singles europeus por 4 semanas.
@@ -52,188 +54,190 @@ include_once("header.php");
 
             <p>O álbum atingil certificação:</p>
 
-            <div class="tabela">
-                <table border="1px" width="45%">
-                    <tr>
-                        <td width="15%" height="10%">Nivel</td>
-                        <td width="15%">Álbuns Vendidos</td>
-                    </tr>
+            <section class="div-certificacao">
+
+                <div class="tabela">
+                    <table border="1px">
+                        <tr>
+                            <td width="15%" height="10%">Nivel</td>
+                            <td width="15%">Álbuns Vendidos</td>
+                        </tr>
 
 
-                    <tr>
-                        <td width="15%"> 2X Platina </td>
-                        <td> + 2.000.000 (EUA.)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">5X Ouro </td>
-                        <td> + 750.000 (Alemanha)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> 3X Platina </td>
-                        <td> + 670.000 (Japão)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">2X Platina </td>
-                        <td> + 500.000 (Coreia do Sul)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Platina </td>
-                        <td>+ 300.000 (Reino Unido)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">2X Platina </td>
-                        <td> + 200.000 (Canadá)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">2X Platina </td>
-                        <td> + 200.000 (Espanha)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">2X Platina </td>
-                        <td> + 200.000 (Itália)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">2X Platina </td>
-                        <td> + 160.000 (Holanda)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Platina </td>
-                        <td> + 150.000 (México)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">3X Platina </td>
-                        <td> + 150.000 (Suíça)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Ouro </td>
-                        <td> + 100.000 (Brasil )</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Ouro</td>
-                        <td> + 100.000 (França)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">10X Platina e 10X Ouro </td>
-                        <td> + 100.000 (Índia)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">10X Platina e 10X Ouro </td>
-                        <td> + 100.000 (Indonésia)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Platina </td>
-                        <td> + 70.000 (Austrália)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Platina </td>
-                        <td> + 62.000 (Finlândia)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Platina </td>
-                        <td> + 60.000 (Argentina)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">3X Platina </td>
-                        <td> + 60.000 (Hong Kong)</td>
-                    </tr>
+                        <tr>
+                            <td width="15%"> 2X Platina </td>
+                            <td> + 2.000.000 (EUA.)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">5X Ouro </td>
+                            <td> + 750.000 (Alemanha)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%"> 3X Platina </td>
+                            <td> + 670.000 (Japão)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">2X Platina </td>
+                            <td> + 500.000 (Coreia do Sul)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%"> Platina </td>
+                            <td>+ 300.000 (Reino Unido)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">2X Platina </td>
+                            <td> + 200.000 (Canadá)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">2X Platina </td>
+                            <td> + 200.000 (Espanha)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">2X Platina </td>
+                            <td> + 200.000 (Itália)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">2X Platina </td>
+                            <td> + 160.000 (Holanda)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%"> Platina </td>
+                            <td> + 150.000 (México)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">3X Platina </td>
+                            <td> + 150.000 (Suíça)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Ouro </td>
+                            <td> + 100.000 (Brasil )</td>
+                        </tr>
+                        <tr>
+                            <td width="15%"> Ouro</td>
+                            <td> + 100.000 (França)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">10X Platina e 10X Ouro </td>
+                            <td> + 100.000 (Índia)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">10X Platina e 10X Ouro </td>
+                            <td> + 100.000 (Indonésia)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Platina </td>
+                            <td> + 70.000 (Austrália)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%"> Platina </td>
+                            <td> + 62.000 (Finlândia)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%"> Platina </td>
+                            <td> + 60.000 (Argentina)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">3X Platina </td>
+                            <td> + 60.000 (Hong Kong)</td>
+                        </tr>
 
-                </table>
-            </div>
+                    </table>
+                </div>
 
-            <div class="tabela-2">
-                <table border="1px" width="">
-                    <tr>
-                        <td width="15%" height="10%">Nivel</td>
-                        <td width="15%">Álbuns Vendidos</td>
-                    </tr>
+                <div class="tabela-2">
+                    <table border="1px" width="">
+                        <tr>
+                            <td width="15%" height="10%">Nivel</td>
+                            <td width="15%">Álbuns Vendidos</td>
+                        </tr>
 
 
-                    <tr>
-                        <td width="15%">Platina </td>
-                        <td> + 50.000 (Áustria)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Platina </td>
-                        <td> + 50.000 (Bélgica)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Ouro </td>
-                        <td> + 50.000 (Polônia)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Ouro </td>
-                        <td> + 40.000 (Suécia)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Platina </td>
-                        <td> + 30.000 (África do Sul)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">2X Platina </td>
-                        <td> + 30.000 (Irlanda)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Ouro </td>
-                        <td>+ 25.000 (Dinamarca)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Ouro </td>
-                        <td> + 25.000 (Noruega)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Ouro </td>
-                        <td> + 20.000 (Filipinas)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Ouro </td>
-                        <td> + 20.000 (Portugal)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Platina </td>
-                        <td> + 15.000 (Singapura)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Platina </td>
-                        <td>+ 10.000 (Malásia)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Platina </td>
-                        <td> + 10.000 (Tailândia)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">2X Platina </td>
-                        <td> + 10.000 (Taiwan)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Platina </td>
-                        <td> + 5.000 (Turquia)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Ouro </td>
-                        <td> + 5.000 (Venezuela)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Ouro </td>
-                        <td> + 3.000 (Urugai)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Ouro </td>
-                        <td> + 1.500 (República Tcheca)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%">Ouro </td>
-                        <td> + 1.000 (Hungria)</td>
-                    </tr>
+                        <tr>
+                            <td width="15%">Platina </td>
+                            <td> + 50.000 (Áustria)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%"> Platina </td>
+                            <td> + 50.000 (Bélgica)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Ouro </td>
+                            <td> + 50.000 (Polônia)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Ouro </td>
+                            <td> + 40.000 (Suécia)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Platina </td>
+                            <td> + 30.000 (África do Sul)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">2X Platina </td>
+                            <td> + 30.000 (Irlanda)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Ouro </td>
+                            <td>+ 25.000 (Dinamarca)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Ouro </td>
+                            <td> + 25.000 (Noruega)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%"> Ouro </td>
+                            <td> + 20.000 (Filipinas)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Ouro </td>
+                            <td> + 20.000 (Portugal)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Platina </td>
+                            <td> + 15.000 (Singapura)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Platina </td>
+                            <td>+ 10.000 (Malásia)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%"> Platina </td>
+                            <td> + 10.000 (Tailândia)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">2X Platina </td>
+                            <td> + 10.000 (Taiwan)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%"> Platina </td>
+                            <td> + 5.000 (Turquia)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Ouro </td>
+                            <td> + 5.000 (Venezuela)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%"> Ouro </td>
+                            <td> + 3.000 (Urugai)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Ouro </td>
+                            <td> + 1.500 (República Tcheca)</td>
+                        </tr>
+                        <tr>
+                            <td width="15%">Ouro </td>
+                            <td> + 1.00 (Ungria)</td>
+                        </tr>
 
-                </table>
-            </div>
-            <br /><br /><br />
+                    </table>
+                </div>
+            </section>
+            <br />
 
             <p>Duração do álbum: 61 min. 14 seg.</p>
             <p>Gravadora(s): Island Records.</p>
             <p>Produção: Peter Collins, Jon Bon Jovi e Richie Sambora. </p>
-            <br /><br />
-
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -241,72 +245,72 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divBON_JOVI" name="nm_divBON_JOVI">
+                    <p>
+                        <img class="css" src="img/bon jovi/bj.jpg" width="150px;" height="130px;">
+                        É o líder da banda Bon Jovi, que mantém algumas características do estilo hard rock dos anos 80 até hoje, mas assimilou influências dos
+                        variados estilos surgidos no rock e heavy metal. A banda Bon Jovi já vendeu mais de 130 milhões de
+                        álbuns em todo o mundo. A banda Bon Jovi ao passar dos anos veio a se tornar uma das bandas mais bem sucedidas da história do rock,
+                        quando se trata de turnês pelo mundo.
+                    </p>
+                </div>
+
+                <div id="divRICHIE_SAMBORA" name="nm_divRICHIE_SAMBORA">
+                    <p>
+                        <img class="css" src="img/bon jovi/rs.jpg" width="150px;" height="130px;">
+                        Richard "Richie" é um guitarrista, cantor e compositor norte-americano, conhecido
+                        por ter sido, até 2013, o guitarrista solo da banda de hard-rock Bon Jovi.
+                        <br />
+                        Antes de aparecer na banda Bon Jovi, participou de uma audição para tocar nos Kiss, mas, por achar que a banda não se adequava às suas
+                        expectativas como músico, pois possuíam influências e gêneros diferentes, não entrou na banda.
+                    </p>
+                </div>
+
+                <div id="divHUGH_MCDONALD" name="nm_divHUGH_MCDONALD">
+                    <p>
+                        <img class="css" src="img/bon jovi/hm.jpg" width="150px;" height="130px;">
+                        Hugh McDonald Começou a tocar baixo na adolescência, aprendeu tocando junto com os discos que ele ouvia,
+                        depois seus pais o aconselharam a ter aulas particulares, e assim ele fez.
+                        <br />
+                        É o atual baixista da banda Bon Jovi, ( De 1995 até 2016 era tido como baixista "freelancer" da banda).
+                        Em 2016, Hugh passou a ser considerado membro oficial a partir do disco This House Is Not for Sale.
+                    </p>
+                </div>
+
+                <div id="divDAVID_BRYAN" name="nm_divDAVID_BRYAN">
+                    <p>
+                        <img class="css" src="img/bon jovi/db.jpg" width="150px;" height="130px;">
+                        David Bryan Rashbaum é um multi-instrumentista e compositor estadunidense, mais conhecido
+                        como o tecladista da banda Bon Jovi.
+                        <br />
+                        Ele é um símbolo dos teclados, é considerado uns dos melhores tecladistas de bandas de rock; David Bryan toca teclado,
+                        piano, trompete e acordeon. Conheceu Jon quando tinha 16 anos.
+                    </p>
+                </div>
+
+                <div id="divTICO_TORRES" name="nm_divTICO_TORRES">
+                    <p>
+                        <img class="css" src="img/bon jovi/tt.jpg" width="150px;" height="130px;">
+                        Hector Samuel Juan "Tico" Torres é um músico cubano-americano, mais conhecido como
+                        o baterista da banda Bon Jovi.
+                        <br />
+                        Tico também é dono de uma linha de roupas para bebês chamada Rock Star Baby; Além de roupas para bebês, a Rock Star Baby também
+                        produz métodos de aprendizado e desenhos. Além disto, ele também tem licença de piloto de aeronave.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divBJ07');" onMouseOut="escondeLayer('divBJ07');">Jon Bon Jovi</a> – Vocal principal, Guitarras adicionais.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRS07');" onMouseOut="escondeLayer('divRS07');">Richie Sambora</a> – Guitarras e Vocal de apoio.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divHM07');" onMouseOut="escondeLayer('divHM07');">Hugh McDonald</a> (Como Convidado) – Baixo e Vocal de apoio.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divDB07');" onMouseOut="escondeLayer('divDB07');">David Bryan</a> – Teclado .</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTT07');" onMouseOut="escondeLayer('divTT07');">Tico Torres</a> – Bateria e Percussão.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divBON_JOVI');" onMouseOut="escondeLayer('divBON_JOVI');">Jon Bon Jovi</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divRICHIE_SAMBORA');" onMouseOut="escondeLayer('divRICHIE_SAMBORA');">Richie Sambora</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divHUGH_MCDONALD');" onMouseOut="escondeLayer('divHUGH_MCDONALD');">Hugh McDonald</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDAVID_BRYAN');" onMouseOut="escondeLayer('divDAVID_BRYAN');">David Bryan</a> – Teclado.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divTICO_TORRES');" onMouseOut="escondeLayer('divTICO_TORRES');">Tico Torres</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divBJ07" name="nm_divBJ07">
-                <p>
-                    <img class="css" src="img/bon jovi/bj.jpg" width="150px;" height="130px;">
-                    É o líder da banda Bon Jovi, que mantém algumas características do estilo hard rock dos anos 80 até hoje, mas assimilou influências dos
-                    variados estilos surgidos no rock e heavy metal. A banda Bon Jovi já vendeu mais de 130 milhões de
-                    álbuns em todo o mundo. A banda Bon Jovi ao passar dos anos veio a se tornar uma das bandas mais bem sucedidas da história do rock,
-                    quando se trata de turnês pelo mundo.
-                </p>
-            </div>
-
-            <div id="divRS07" name="nm_divRS07">
-                <p>
-                    <img class="css" src="img/bon jovi/rs.jpg" width="150px;" height="130px;">
-                    Richard "Richie" é um guitarrista, cantor e compositor norte-americano, conhecido
-                    por ter sido, até 2013, o guitarrista solo da banda de hard-rock Bon Jovi.
-                    <br />
-                    Antes de aparecer na banda Bon Jovi, participou de uma audição para tocar nos Kiss, mas, por achar que a banda não se adequava às suas
-                    expectativas como músico, pois possuíam influências e gêneros diferentes, não entrou na banda.
-                </p>
-            </div>
-
-            <div id="divHM07" name="nm_divHM07">
-                <p>
-                    <img class="css" src="img/bon jovi/hm.jpg" width="150px;" height="130px;">
-                    Hugh McDonald Começou a tocar baixo na adolescência, aprendeu tocando junto com os discos que ele ouvia,
-                    depois seus pais o aconselharam a ter aulas particulares, e assim ele fez.
-                    <br />
-                    É o atual baixista da banda Bon Jovi, ( De 1995 até 2016 era tido como baixista "freelancer" da banda).
-                    Em 2016, Hugh passou a ser considerado membro oficial a partir do disco This House Is Not for Sale.
-                </p>
-            </div>
-
-            <div id="divDB07" name="nm_divDB07">
-                <p>
-                    <img class="css" src="img/bon jovi/db.jpg" width="150px;" height="130px;">
-                    David Bryan Rashbaum é um multi-instrumentista e compositor estadunidense, mais conhecido
-                    como o tecladista da banda Bon Jovi.
-                    <br />
-                    Ele é um símbolo dos teclados, é considerado uns dos melhores tecladistas de bandas de rock; David Bryan toca teclado,
-                    piano, trompete e acordeon. Conheceu Jon quando tinha 16 anos.
-                    <br /><br />
-                </p>
-            </div>
-
-            <div id="divTT07" name="nm_divTT07">
-                <p>
-                    <img class="css" src="img/bon jovi/tt.jpg" width="150px;" height="130px;">
-                    Hector Samuel Juan "Tico" Torres é um músico cubano-americano, mais conhecido como
-                    o baterista da banda Bon Jovi.
-                    <br />
-                    Tico também é dono de uma linha de roupas para bebês chamada Rock Star Baby; Além de roupas para bebês, a Rock Star Baby também
-                    produz métodos de aprendizado e desenhos. Além disto, ele também tem licença de piloto de aeronave.
-                    <br /><br />
-                </p>
-            </div>
 
             <footer>
                 <a href="bon_jovi.php"><button>Voltar para Aos ábuns do Bon Jovi</button></a>

@@ -41,12 +41,12 @@ include_once("header.php");
                 bombásticoque simplesmente esmaga os pensamentos de todos os desenvolvimentos musicais pós- glamour sob uma bota de salto alto pintada
                 de prata"
             </p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 44 min. 24 seg.</p>
             <p>Gravadora(s): Mercury Records.</p>
             <p>Produção: Bruce Fairbairn.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -54,46 +54,47 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divPAUL_STANLEY" name="nm_divPAUL_STANLEY">
+                    <p>
+                        <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
+                        Paul Stanley é um cantor, compositor e pintor americano, mais conhecido por ser o co-fundador, vocalista,
+                        guitarrista rítmico e co-vocalista ddo Kiss. Ele é o escritor ou co-escritor de muitos dos maiores sucessos da banda.
+                        Stanley estabeleceu o personagem Starchild e é conhecido por sua voz distinta e abrangente.
+                    </p>
+                </div>
+
+                <div id="divTOMMY_THAYER" name="nm_divTOMMY_THAYER">
+                    <p>
+                        <img class="css" src="img/kiss/tt.jpg" width="150px;" height="130px;">
+                        Thomas Cunningham Thayer ( 7 de novembro de 1960) é um músico e compositor americano. Ele é o guitarrista principal
+                        do Kiss, e foi o guitarrista principal da banda Black'n Blue.
+                        <br />
+                        Em 1994, Gene Simmons e Paul Stanley contrataram Thayer para trabalhar meio período em seu álbum - Kisstory, o que
+                        levou a outros projetos e, eventualmente, um papel em tempo integral com Kiss.
+                    </p>
+                </div>
+
+                <div id="divGENE_SIMMONS" name="nm_divGENE_SIMMONS">
+                    <p>
+                        <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
+                        Gene Klein, conhecido profissionalmente como Gene Simmons, é um músico, cantor, compositor, produtor musical,
+                        empresário, ator, autor e personalidade da televisão americana. Também conhecido por seu personagem de palco,
+                        The Demon, ele é o baixista e co-vocalista do Kiss, a banda de rock que ele co-fundou com Paul Stanley no início dos
+                        anos 1970.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divPS18');" onMouseOut="escondeLayer('divPS18');">Paul Stanley</a> – Vocal e Guitarra Base. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTT18');" onMouseOut="escondeLayer('divTT18');">Tommy Thayer</a> – Guitarra Principal ( Como Convidado ). </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGS18');" onMouseOut="escondeLayer('divGS18');">Gene Simmons</a> – Vocal e Baixo. </li>
-                    <li><a href="#">Kevin Valentine</a> – Bateria ( Como Convidado). </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPAUL_STANLEY');" onMouseOut="escondeLayer('divPAUL_STANLEY');">Paul Stanley</a> – Vocal e Guitarra Base.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divTOMMY_THAYER');" onMouseOut="escondeLayer('divTOMMY_THAYER');">Tommy Thayer</a> – Guitarra Principal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGENE_SIMMONS');" onMouseOut="escondeLayer('divGENE_SIMMONS');">Gene Simmons</a> – Vocal e Baixo.</li>
+                    <li><a href="#">Kevin Valentine</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divPS18" name="nm_divPS18">
-                <p>
-                    <img class="css" src="img/kiss/ps.jpg" width="150px;" height="130px;">
-                    Paul Stanley é um cantor, compositor e pintor americano, mais conhecido por ser o co-fundador, vocalista,
-                    guitarrista rítmico e co-vocalista ddo Kiss. Ele é o escritor ou co-escritor de muitos dos maiores sucessos da banda.
-                    Stanley estabeleceu o personagem Starchild e é conhecido por sua voz distinta e abrangente.
-                </p><br /><br />
-            </div>
-
-            <div id="divTT18" name="nm_divTT18">
-                <p>
-                    <img class="css" src="img/kiss/tt.jpg" width="150px;" height="130px;">
-                    Thomas Cunningham Thayer ( 7 de novembro de 1960) é um músico e compositor americano. Ele é o guitarrista principal
-                    do Kiss, e foi o guitarrista principal da banda Black'n Blue.
-                    <br />
-                    Em 1994, Gene Simmons e Paul Stanley contrataram Thayer para trabalhar meio período em seu álbum - Kisstory, o que
-                    levou a outros projetos e, eventualmente, um papel em tempo integral com Kiss.
-                </p>
-            </div>
-
-            <div id="divGS18" name="nm_divGS18">
-                <p>
-                    <img class="css" src="img/kiss/gs.jpg" width="150px;" height="130px;">
-                    Gene Klein, conhecido profissionalmente como Gene Simmons, é um músico, cantor, compositor, produtor musical,
-                    empresário, ator, autor e personalidade da televisão americana. Também conhecido por seu personagem de palco,
-                    The Demon, ele é o baixista e co-vocalista do Kiss, a banda de rock que ele co-fundou com Paul Stanley no início dos
-                    anos 1970.
-                </p><br />
-            </div>
-            <br /><br />
 
             <footer>
                 <a href="kiss.php"><button>Voltar para os álbuns do Kiss</button></a>

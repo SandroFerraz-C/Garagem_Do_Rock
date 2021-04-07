@@ -1,48 +1,18 @@
-<!DOCTYPE html>
-<!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
-
-<html lang="pt-br">
-
-<head>
-
-    <title>Garage Of Rock!!</title>
-
-    <meta charset="utf-8">
-    <meta name="Author" content="Sandro">
-    <meta name="descrition" content="Lista de documentos">
-    <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
-    <link rel="stylesheet" type="text/css" href="css/hv_2.css">
-    <link rel="stylesheet" type="text/css" href="css/layer_led_zeppelin.css">
-
-
-    <!--
-    <link rel="stylesheet" type="text/css" href="css/ti.css">
-    <link rel="stylesheet" type="text/css" href="css/tm.css">
-    <link rel="stylesheet" type="text/css" href="css/lc.css">
-    <link rel="stylesheet" type="text/css" href="css/cp.css">
-    <link rel="stylesheet" type="text/css" href="css/gn.css">
-    <link rel="stylesheet" type="text/css" href="css/bm.css">
--->
-</head>
+<?php
+include_once("header.php");
+?>
 
 <body>
-    <br>
 
     <main>
         <section class="content-section">
 
             <h1>Led Zeppelin IV (1971)</h1>
-            <br />
 
             <p>
                 - O quarto álbum do Led Zeppelin foi lançado em 8 de novembro de 1971 e nunca recebeu um título oficial, por isso é conhecido
                 apenas por Led Zeppelin IV.
             </p>
-            <br />
 
             <p>
                 Após os comentários negativos da crítica a respeito do álbum - Led Zeppelin III, o guitarrista e líder da banda, Jimmy Page,
@@ -54,7 +24,6 @@
                 como single, tornou-se a canção de maior sucesso daquele ano, e é considerada até hoje uma das melhores gravações musicais de
                 todos os tempos.
             </p>
-            <br />
 
             <p>
                 Assim que foi lançado, o disco alcançou o segundo lugar da Billboard 200 nos Estados Unidos, enquanto "Stairway to Heaven"
@@ -63,7 +32,6 @@
                 a nível mundial, sendo assim um dos álbuns mais vendidos da história, além de ter recebido aclamação da crítica especializada
                 e ser apontado até hoje como um dos discos de rock and roll mais importantes de todos os tempos.
             </p>
-            <br />
 
             <h2>Capa e escolha dos símbolos</h2>
             <br />
@@ -71,14 +39,12 @@
             <div class="capa" align='center'>
                 <img src="img/led zeppelin/simbulos.jpg">
             </div>
-            <br />
 
             <p>
                 Cada um dos quatro integrantes da banda escolheu um símbolo para representá-lo nas capas e no encarte interno, e apesar do
                 disco também ser conhecido como "Runas", apenas os dois símbolos do meio são realmente runas, sendo os outros dois símbolos
                 mágicos ou de múltiplos sentidos.
             </p>
-            <br />
 
             <p>
                 O símbolo relacionado ao guitarrista Jimmy Page geralmente é associado a uma palavra da língua grega, ZoSo, e significa salvação,
@@ -91,7 +57,6 @@
                 astrologia, e a parte oSo é parecido com o símbolo alquímico do Mercúrio, também muito associado a Saturno. O que o símbolo
                 representa para Jimmy, no entanto, é um mistério, uma vez que ele nunca revelou publicamente o seu significado total.
             </p>
-            <br />
 
             <p>
                 O símbolo do baterista John Bonham, mostra três círculos interligados, e representa a trindade familiar entre o homem, a mulher
@@ -102,7 +67,6 @@
                 escolher o símbolo que o representaria, ele decidiu pegar esse emprestado por achar que também teria um efeito cômico, e o
                 círculo no meio do símbolo de John Paul Jones também representa uma pessoa com confiança e competência.
             </p>
-            <br />
 
             <p>
                 O vocalista Robert Plant adotou como símbolo inspirado na deusa egípcia Ma'at, mostrando uma pena, que significa verdade,
@@ -113,7 +77,6 @@
                 banda. Além dessas quatro imagens, o encarte interno traz um quinto símbolo, composto por três pirâmides invertidas,
                 escolhido pela cantora Sandy Denny, que participa da canção "The Battle of Evermore".
             </p>
-            <br />
 
             <p>
                 A capa frontal foi inspirada numa pintura a óleo que Jimmy encontrou na cidade de Reading, na Inglaterra, e é interpretada de
@@ -123,26 +86,22 @@
                 A face na página em que está a letra de "Stairway to Heaven" também foi escolhida por Jimmy, que a encontrou em uma edição da extinta
                 revista The Studio, publicada em 1983.
             </p>
-            <br /><br />
+            <br />
 
-            <p>Duração do album: 42 min. 34 seg.</p>
+            <p>Duração do álbum: 42 min. 34 seg.</p>
             <p>Gravadora(s): Atlantic Records.</p>
             <p>Produção: Jimmy Page, Robert Plant e Peter Grant.</p>
-            <br /><br /><br />
+            <br />
 
-            <p>
-                O album atingil certificação:
-                <br /><br />
+            <p>O álbum atingil certificação:</p>
 
             <div class="tabela">
                 <table border="1px" width="45%">
 
                     <tr>
                         <td width="15%" height="10%">Nivel</td>
-                        <td width="15%">Albuns Vendidos</td>
+                        <td width="15%">Álbuns Vendidos</td>
                     </tr>
-
-
 
                     <tr>
                         <td width="15%"> 23X Platina e 2X Diamante </td>
@@ -184,84 +143,85 @@
                         <td width="15%"> Ouro </td>
                         <td> + 30.000 (Brasil)</td>
                     </tr>
+
                 </table>
             </div>
-            </p>
-            <br /><br /><br />
-
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
-
                     <iframe src="https://open.spotify.com/embed/playlist/0rpfswu9MC5t0HsqenBaK2" width="100%" height="500" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-                    <br /><br /><br />
-
-                    <ul>
-                        <li><a href="#" onMouseOver="mostraLayer('divJP04');" onMouseOut="escondeLayer('divJP04');"> Jimmy Page</a> – Guitarra acústica, Guitarra eléctrica, Vocais de apoio e Produtor. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJB04');" onMouseOut="escondeLayer('divJB04');"> John Bonham</a> – Bateria. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divJPJ04');" onMouseOut="escondeLayer('divJPJ04');"> John P. Jones s</a> – Baixo, Teclado e Órgão. </li>
-                        <li><a href="#" onMouseOver="mostraLayer('divRP04');" onMouseOut="escondeLayer('divRP04');"> Robert Plant</a> – Vocal. </li>
-                    </ul>
-
-                    <div id="divJP04" name="nm_divJP04">
-                        <p>
-                            <img class="css" src="img/led zeppelin/jp.jpg" width="150px;" height="130px;">
-                            James Patrick Page OBE ( 9 de janeiro de 1944) é um músico, produtor musical e compositor britânico que alcançou
-                            sucesso internacional como guitarrista da banda de rock Led Zeppelin.
-                            <br />
-
-                            Começou sua carreira como músico de estúdio em Londres e, em meados da década de 1960, tornou-se o guitarrista de
-                            sessão mais procurado na Inglaterra. Foi fundador do Led Zeppelin, em 1968.
-                        </p>
-                    </div>
-
-                    <div id="divJB04" name="nm_divJB04">
-                        <p>
-                            <img class="css" src="img/led zeppelin/jb.jpg" width="150px;" height="130px;">
-                            John Henry Bonham ( 31 de maio de 1948 — Clewer, 25 de setembro de 1980) foi um músico e compositor inglês, mais
-                            conhecido por ter sido o baterista da banda Led Zeppelin. Bonham era admirado por sua velocidade, potência, sons
-                            característicos, e sensibilidade para o groove.
-                            <br />
-                            É amplamente considerado um dos melhores bateristas da história do rock. Em 2011 os leitores da Rolling Stone
-                            consideraram Bonham o "melhor baterista de todos os tempos".
-                        </p>
-                    </div>
-
-                    <div id="divJPJ04" name="nm_divJPJ04">
-                        <p>
-                            <img class="css" src="img/led zeppelin/jpj.jpg" width="150px;" height="130px;">
-                            John Paul Jones, nome artístico de John Baldwin, é um multi-instrumentista, baixista e tecladista britânico.
-                            Jones ganhou notoriedade por ser o baixista, tecladista e um dos membros do Led Zeppelin até o desmembramento da
-                            banda após a morte de John Bonham, em 1980. Desde então, Jones vem desenvolvendo uma carreira solo. Também toca
-                            guitarra, bandolim, koto, gaita e ukulele.
-                        </p>
-                    </div>
-
-                    <div id="divRP04" name="nm_divRP04">
-                        <p>
-                            <img class="css" src="img/led zeppelin/rp.jpg" width="150px;" height="130px;">
-                            Robert Anthony Plant, CBE ( 20 de agosto de 1948) é um músico, cantor, e compositor britânico mais conhecido por
-                            seu trabalho como vocalista da banda de rock Led Zeppelin.
-                            <br />
-                            Uma gama vocal poderosa e ampla deu a ele uma carreira de cantor de sucesso com mais de 50 anos. Foi eleito o #15º
-                            melhor cantor da história pela revista Rolling Stone, e em 2006 a revista Hit Parader colocou Plant como o
-                            "melhor vocalista de heavy metal de todos os tempos".
-                        </p>
-                    </div>
-                    <br /><br /><br />
-
-                    <a href="led_zeppelin.php"><button>Voltar para Albuns do Led Zeppelin</button></a>
-                    <a href="index.php"><button>Home</button></a>
-
-                    </div>
+                </table>
             </section>
 
+            <section>
+                <div id="divJIMMY_PAGE" name="nm_divJIMMY_PAGE">
+                    <p>
+                        <img class="css" src="img/led zeppelin/jp.jpg" width="150px;" height="130px;">
+                        James Patrick Page OBE ( 9 de janeiro de 1944) é um músico, produtor musical e compositor britânico que alcançou
+                        sucesso internacional como guitarrista da banda de rock Led Zeppelin.
+                        <br />
+                        Começou sua carreira como músico de estúdio em Londres e, em meados da década de 1960, tornou-se o guitarrista de
+                        sessão mais procurado na Inglaterra. Foi fundador do Led Zeppelin, em 1968.
+                    </p>
+                </div>
+
+
+                <div id="divJOHN_BONHAM" name="nm_divJOHN_BONHAM">
+                    <p>
+                        <img class="css" src="img/led zeppelin/jb.jpg" width="150px;" height="130px;">
+                        John Henry Bonham ( 31 de maio de 1948 — Clewer, 25 de setembro de 1980) foi um músico e compositor inglês, mais
+                        conhecido por ter sido o baterista da banda Led Zeppelin. Bonham era admirado por sua velocidade, potência, sons
+                        característicos, e sensibilidade para o groove.
+                        <br />
+                        É amplamente considerado um dos melhores bateristas da história do rock. Em 2011 os leitores da Rolling Stone
+                        consideraram Bonham o "melhor baterista de todos os tempos".
+                    </p>
+                </div>
+
+                <div id="divJOHN_JONES" name="nm_divJOHN_JONES">
+                    <p>
+                        <img class="css" src="img/led zeppelin/jpj.jpg" width="150px;" height="130px;">
+                        John Paul Jones, nome artístico de John Baldwin, é um multi-instrumentista, baixista e tecladista britânico.
+                        Jones ganhou notoriedade por ser o baixista, tecladista e um dos membros do Led Zeppelin até o desmembramento da
+                        banda após a morte de John Bonham, em 1980. Desde então, Jones vem desenvolvendo uma carreira solo. Também toca
+                        guitarra, bandolim, koto, gaita e ukulele.
+                    </p>
+                </div>
+
+                <div id="divROBERT_PLANT" name="nm_divROBERT_PLANT">
+                    <p>
+                        <img class="css" src="img/led zeppelin/rp.jpg" width="150px;" height="130px;">
+                        Robert Anthony Plant, CBE ( 20 de agosto de 1948) é um músico, cantor, e compositor britânico mais conhecido por
+                        seu trabalho como vocalista da banda de rock Led Zeppelin.
+                        <br />
+                        Uma gama vocal poderosa e ampla deu a ele uma carreira de cantor de sucesso com mais de 50 anos. Foi eleito o #15º
+                        melhor cantor da história pela revista Rolling Stone, e em 2006 a revista Hit Parader colocou Plant como o
+                        "melhor vocalista de heavy metal de todos os tempos".
+                    </p>
+                </div>
+            </section>
+
+            <nav>
+                <h3>Crédito:</h3>
+                <ul>
+                    <li><a href="#" onMouseOver="mostraLayer('divJIMMY_PAGE');" onMouseOut="escondeLayer('divJIMMY_PAGE');">Jimmy Page</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOHN_BONHAM');" onMouseOut="escondeLayer('divJOHN_BONHAM');">John Bonham</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOHN_JONES');" onMouseOut="escondeLayer('divJOHN_JONES');">John P. Jones</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divROBERT_PLANT');" onMouseOut="escondeLayer('divROBERT_PLANT');">Robert Plant</a> – Vocal.</li>
+                </ul>
+            </nav>
+
+            <footer>
+                <a href="led_zeppelin.php"><button>Voltar para os álbuns do Led Zeppelin</button></a>
+                <a href="index.php"><button>Home</button></a>
+            </footer>
+
+        </section>
+
     </main>
-    </div>
-    </div>
 
     <script type="text/javascript" src="js/Country.js"></script>
-
 
 </body>
 

@@ -1,385 +1,41 @@
-#divAngus,
-#divMalcolm {
+#divBON_SCOTT,
+#divANGUS_YOUNG,
+#divMALCOLM_YOUNG,
+#divROB_BAILEY,
+#divTONY_CURRENTI,
+#divGEORGE_YOUNG,
+#divMARK_EVANS,
+#divPHIL_RUDD,
+#CLIFF_WILLIAMS,
+#divBRIAN_JOHNSON,
+#divSIMON_WRIGHT,
+#divCHRIS_SLADE,
+#STEVIE_YOUNG {
     font-size: 17px;
     position: absolute;
-    top: 49%;
-    left: 27%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .4%;
-    height: auto;
-}
-
-#divBon {
-    font-size: 17px;
-    position: absolute;
-    top: 65.5%;
-    left: 6%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .4%;
-    height: auto;
-}
-
-#divBS1,
-#divAY1,
-#divMY1,
-#divGY1,
-#divRB1,
-#divTC1,
-#divPC1,
-#divJP1 {
-    font-size: 17px;
-    position: absolute;
-    top: 301%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divBS2,
-#divAY2,
-#divMY2,
-#divPC2,
-#divTC2,
-#divRB2,
-#divGY2 {
-    font-size: 17px;
-    position: absolute;
-    top: 321%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divBS03,
-#divAY03,
-#divMY03,
-#divMY03,
-#divME03,
-#divPR03,
-#divHV03,
-#divGY03 {
-    font-size: 17px;
-    position: absolute;
-    top: 334%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divBS04,
-#divAY04,
-#divMY04,
-#divGY04,
-#divRB04,
-#divTC04 {
-    font-size: 17px;
-    position: absolute;
-    top: 351%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divBS05,
-#divAY05,
-#divMY05,
-#divRB05,
-#divTC05 {
-    font-size: 17px;
-    position: absolute;
-    top: 316%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divAY06,
-#divMY06,
-#divBS06,
-#divCliff06,
-#divPR06,
-#divHV06,
-#divGY06 {
-    position: absolute;
-    font-size: 17px;
-    top: 323%;
     left: 42%;
     border: solid 1px #696969;
     width: 50%;
-    height: 44%;
     display: none;
     background-color: #D3D3D3;
-    padding-right: 0.5%;
+    padding: .5%;
     height: auto;
 }
 
-#divBS07,
-#divAY07,
-#divMY07,
-#divCW07,
-#divPH07 {
-    position: absolute;
-    font-size: 17px;
-    top: 378%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: 0.5%;
-    height: auto;
-}
-
-#divBS08,
-#divAY08,
-#divMY08,
-#divCW08,
-#divPH08 {
-    position: absolute;
-    font-size: 17px;
-    top: 377%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: 0.5%;
-    height: auto;
-}
-
-#divBJ09,
-#divAY09,
-#divMY09,
-#divCW09,
-#divPH09 {
-    position: absolute;
-    font-size: 17px;
-    top: 364%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: 0.5%;
-    height: auto;
-}
-
-#divBJ10,
-#divAY10,
-#divMY10,
-#divCW10,
-#divPH10 {
-    position: absolute;
-    font-size: 17px;
-    top: 390%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: 0.5%;
-    height: auto;
-}
-
-#divBJ11,
-#divAY11,
-#divMY11,
-#divCW11,
-#divSW11 {
-    position: absolute;
-    font-size: 17px;
-    top: 344%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: 0.5%;
-    height: auto;
-}
-
-#divMark12,
-#divBJ12,
-#divAY12,
-#divMY12,
-#divCW12,
-#divSW12,
-#divBS12 {
-    font-size: 17px;
-    position: absolute;
-    top: 307%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divBJ13,
-#divAY13,
-#divMY13,
-#divCW13,
-#divSW13 {
-    font-size: 17px;
-    position: absolute;
-    top: 337%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divBJ14,
-#divAY14,
-#divMY14,
-#divCW14,
-#divCS14 {
-    font-size: 17px;
-    position: absolute;
-    top: 346%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divBJ15,
-#divAY15,
-#divMY15,
-#divCW15,
-#divPR15 {
-    font-size: 17px;
-    position: absolute;
-    top: 378%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divBJ16,
-#divAY16,
-#divMY16,
-#divCW16,
-#divPR16 {
-    font-size: 17px;
-    position: absolute;
-    top: 390%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divBJ17,
-#divAY17,
-#divMY17,
-#divCW17,
-#divPR17 {
-    font-size: 17px;
-    position: absolute;
-    top: 472%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divBJ18,
-#divAY18,
-#divSY18,
-#divCW18,
-#divPR18 {
-    font-size: 17px;
-    position: absolute;
-    top: 399%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
-}
-
-#divBJ19,
-#divAY19,
-#divSY19,
-#divCW19,
-#divPR19 {
-    font-size: 17px;
-    position: absolute;
-    top: 425%;
-    left: 43%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: .5%;
-    height: auto;
+#divBON_SCOTT img,
+#divANGUS_YOUNG img,
+#divMALCOLM_YOUNG img,
+#divROB_BAILEY img,
+#divTONY_CURRENTI img,
+#divGEORGE_YOUNG img,
+#divMARK_EVANS img,
+#divPHIL_RUDD img,
+#CLIFF_WILLIAMS img,
+#divBRIAN_JOHNSON img,
+#divSIMON_WRIGHT img,
+#divCHRIS_SLADE img,
+#STEVIE_YOUNG img {
+    margin-bottom: 2%;
 }
 
 #divME05_1 {
@@ -396,24 +52,6 @@
     height: auto;
 }
 
-#divSlash06,
-#divKeith06,
-#divEddie06,
-#divGene06,
-#divRon06 {
-    position: absolute;
-    font-size: 17px;
-    top: 94%;
-    left: 23%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding-right: 0.5%;
-    height: auto;
-}
-
 #divCliff06-1,
 #divMark06-1 {
     position: absolute;
@@ -427,6 +65,10 @@
     background-color: #D3D3D3;
     padding-right: 0.5%;
     height: auto;
+}
+
+ul {
+    list-style-type: none;
 }
 
 .css {

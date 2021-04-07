@@ -3,21 +3,21 @@
 
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
     <title>Loja da Garagem</title>
     <link href="css/css_loja.css" rel="stylesheet" />
-
 </head>
 
 <body>
 
-    <iframe width="560" height="445" src="https://www.youtube.com/embed/1bF01Z0XWj8" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <div class="letra_17_eagles">
+    <iframe class="ideo" src="https://www.youtube.com/embed/1bF01Z0XWj8" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <div class="letra">
 
         <h1>Take It Easy</h1>
-        <br />
 
         <h2>Se acalme</h2>
-        <br /> <br />
+        <br />
 
         <p>
             Bem, eu estou correndo pela estrada
@@ -27,7 +27,9 @@
             Eu tenho sete mulheres em
             <br />
             minha mente
-            <br />
+        </p>
+
+        <p>
             Quatro que quero é meu dono
             <br />
             Dois que quero me apedrejar
@@ -35,7 +37,9 @@
             Um diz que é um amigo meu
             <br />
             ter calma, vá com calma
-            <br />
+        </p>
+
+        <p>
             Não deixe que o som de suas próprias rodas
             <br />
             deixá-lo louco
@@ -43,7 +47,9 @@
             Clarear-se enquanto ainda pode
             <br />
             nem tentar entender
-            <br />
+        </p>
+
+        <p>
             Basta encontrar um lugar para fazer o seu stand
             <br />
             e ter calma
@@ -53,7 +59,9 @@
             em Winslow, Arizona
             <br />
             e uma vista tão bem de ver
-            <br />
+        </p>
+
+        <p>
             É uma menina, meu Senhor, em uma chata
             <br />
             baixo Ford slowin 'para dar uma olhada em mim

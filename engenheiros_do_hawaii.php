@@ -3,20 +3,14 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>Engenheiros do Hawaii</title>
 
-
-    <link rel="stylesheet" type="text/css" href="css/style_acdc.css">
-    <link href="css/css_loja.css" rel="stylesheet" />
-    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
+    <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
+    <link href="css/css_loja.css" rel="stylesheet" />   
 </head>
 
 <body>
@@ -25,9 +19,8 @@
 
         <main>
 
-            <nav>
+            <nav class="top">
                 <a class="loja" href="historia_engenheiros_do_hawaii.php">Historia da Banda</a>
-
                 <a class="vote" href="curiosidades_engenheiros_do_hawaii.php">Curiosidades do Engenheiros do Hawaii</a>
             </nav>
 
@@ -62,10 +55,12 @@
                 </div>
 
             </section>
+
             <div class="botao_acdc">
                 <br />
                 <button><a href="index.php">Home</a></button>
             </div>
+
         </main>
         <br><br>
 

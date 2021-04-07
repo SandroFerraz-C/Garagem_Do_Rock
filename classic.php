@@ -3,10 +3,9 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Loja da Garagem</title>
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <title>TOP 100 CLÁSSICOS DO ROCK!</title>
     <link href="css/css_loja.css" rel="stylesheet" />
-    <script type="text/javascript" src="js/jquery-3.5.1.min.js"></script>
-    <script type="text/javascript" src="js/abas.js"></script>
 </head>
 
 <body>
@@ -108,6 +107,10 @@
             <?php include_once("rodape.php"); ?>
         </footer>
     </div>
+
+    <script type="text/javascript" src="js/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" src="js/abas.js"></script>
+
 </body>
 
 </html>

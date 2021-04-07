@@ -30,70 +30,71 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divROBERTO_FREJAT" name="nm_divROBERTO_FREJAT">
+                    <p><img class="css" src="img/barao vermelho/rf.jpg" width="150px;" height="130px;">
+                        Roberto Frejat é um cantor, compositor, produtor e guitarrista brasileiro,
+                        notório por ser o principal parceiro de Cazuza em composições da banda Barão Vermelho e também na carreira solo do
+                        amigo, além de compor com/para outros artistas do cenário musical brasileiro.
+                    </p>
+                </div>
+
+                <div id="divFERNANDO_MAGALHAES" name="nm_divFERNANDO_MAGALHAES">
+                    <p><img class="css" src="img/barao vermelho/fm.jpg" width="150px;" height="130px;">
+                        Fernando Magalhães; Guitarras e vocais de apoio (desde 1986; entre 1986 e 1989 participava nos discos e nas turnês
+                        como músico contratado), baixo ocasional (desde 2017)
+                    </p>
+                </div>
+
+                <div id="divRODRIGO_SANTOS" name="nm_divRODRIGO_SANTOS">
+                    <p><img class="css" src="img/barao vermelho/rs.jpg" width="150px;" height="130px;">
+                        Rodrigo Luiz de Castro Santos, é um músico brasileiro.
+                        <br />
+                        Com 9 anos, assistia aos ensaios dos Mutantes e aos 12 anos viu o primeiro show de sua vida – Mutantes e O Terço
+                        juntos, tocando The Beatles. Desde pequeno Rodrigo acompanhava o pai na loja de discos Modern Sound.
+                    </p>
+                </div>
+
+                <div id="divGUTO_GOFFI" name="nm_divGUTO_GOFFI">
+                    <p><img class="css" src="img/barao vermelho/gg.jpg" width="150px;" height="130px;">
+                        Flávio Augusto Goffi Marquesini, "Guto Goffi", é um baterista brasileiro.
+                        <br />
+                        Começou a tocar bateria em 1978. Em 1982, fundou o Barão Vermelho, com o tecladista Maurício Barros. Permaneceu na
+                        banda em todas as suas formações. Com a saída de Cazuza, passou a atuar também como letrista e, mais tarde, produtor.
+                    </p>
+                </div>
+
+                <div id="divPENINHA" name="nm_divPENINHA">
+                    <p><img class="css" src="img/barao vermelho/pnh.jpg" width="150px;" height="130px;">
+                        Aroldo Alves Sobrinho, "Peninha", é um cantor, músico e compositor brasileiro.
+                        <br />
+                        Músicas compostas por ele já foram gravadas por cantores como Tim Maia, Caetano Veloso, Fábio Júnior, Daniel, Alexandre Pires, Roberta
+                        Miranda, Paulinho Moska, José Augusto e Renata Arruda, entre outros.
+                    </p>
+                </div>
+
+                <div id="divMAURICIO_BARROS" name="nm_divMAURICIO_BARROS">
+                    <p><img class="css" src="img/barao vermelho/mb.jpg" width="150px;" height="130px;">
+                        Maurício Carvalho de Barros, "Maurício Barros" é um tecladista
+                        brasileiro e membro fundador da banda Barão Vermelho.
+                        <br />
+                        No final da década de 1980, foi vocalista e tecladista da banda Buana 4, chegando a gravar um LP e música em trilha
+                        sonora de telenovela.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divRF08');" onMouseOut="escondeLayer('divRF08');">Roberto Frejat</a> – Voz e Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divFM08');" onMouseOut="escondeLayer('divFM08');">Fernando Magalhães</a> – Guitarra e Violão. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRS08');" onMouseOut="escondeLayer('divRS08');">Rodrigo Santos</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGG08');" onMouseOut="escondeLayer('divGG08');">Guto Goffi</a> – Bateria e Percussão. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divPNH08');" onMouseOut="escondeLayer('divPNH08');">Peninha</a> – Percussão. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divMB08');" onMouseOut="escondeLayer('divMB08');">Maurício Barros</a> – (Como Convidado) Teclados, Órgão e Piano. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divROBERTO_FREJAT');" onMouseOut="escondeLayer('divROBERTO_FREJAT');">Roberto Frejat</a> – Voz</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divFERNANDO_MAGALHAES');" onMouseOut="escondeLayer('divFERNANDO_MAGALHAES');">Fernando Magalhães</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divRODRIGO_SANTOS');" onMouseOut="escondeLayer('divRODRIGO_SANTOS');">Rodrigo Santos</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGUTO_GOFFI');" onMouseOut="escondeLayer('divGUTO_GOFFI');">Guto Goffi</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPENINHA');" onMouseOut="escondeLayer('divPENINHA');">Peninha</a> – Percussão.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divMAURICIO_BARROS');" onMouseOut="escondeLayer('divMAURICIO_BARROS');">Maurício Barros</a> – Teclados.</li>
                 </ul>
             </nav>
-
-
-            <div id="divRF08" name="nm_divRF08">
-                <p><img class="css" src="img/barao vermelho/rf.jpg" width="150px;" height="130px;">
-                    Roberto Frejat é um cantor, compositor, produtor e guitarrista brasileiro,
-                    notório por ser o principal parceiro de Cazuza em composições da banda Barão Vermelho e também na carreira solo do
-                    amigo, além de compor com/para outros artistas do cenário musical brasileiro.
-                </p><br /><br /><br />
-            </div>
-
-            <div id="divFM08" name="nm_divFM08">
-                <p><img class="css" src="img/barao vermelho/fm.jpg" width="150px;" height="130px;">
-                    Fernando Magalhães; Guitarras e vocais de apoio (desde 1986; entre 1986 e 1989 participava nos discos e nas turnês
-                    como músico contratado), baixo ocasional (desde 2017)
-                </p><br /><br /><br /><br /><br />
-            </div>
-
-            <div id="divRS08" name="nm_divRS08">
-                <p><img class="css" src="img/barao vermelho/rs.jpg" width="150px;" height="130px;">
-                    Rodrigo Luiz de Castro Santos, é um músico brasileiro.
-                    <br />
-                    Com 9 anos, assistia aos ensaios dos Mutantes e aos 12 anos viu o primeiro show de sua vida – Mutantes e O Terço
-                    juntos, tocando The Beatles. Desde pequeno Rodrigo acompanhava o pai na loja de discos Modern Sound.
-                </p><br /><br /><br />
-            </div>
-
-            <div id="divGG08" name="nm_divGG08">
-                <p><img class="css" src="img/barao vermelho/gg.jpg" width="150px;" height="130px;">
-                    Flávio Augusto Goffi Marquesini, "Guto Goffi", é um baterista brasileiro.
-                    <br />
-                    Começou a tocar bateria em 1978. Em 1982, fundou o Barão Vermelho, com o tecladista Maurício Barros. Permaneceu na
-                    banda em todas as suas formações. Com a saída de Cazuza, passou a atuar também como letrista e, mais tarde, produtor.
-                </p><br /><br />
-            </div>
-
-            <div id="divPNH08" name="nm_divPNH08">
-                <p><img class="css" src="img/barao vermelho/pnh.jpg" width="150px;" height="130px;">
-                    Aroldo Alves Sobrinho, "Peninha", é um cantor, músico e compositor brasileiro.
-                    <br />
-                    Músicas compostas por ele já foram gravadas por cantores como Tim Maia, Caetano Veloso, Fábio Júnior, Daniel, Alexandre Pires, Roberta
-                    Miranda, Paulinho Moska, José Augusto e Renata Arruda, entre outros.
-                </p><br /><br />
-            </div>
-
-            <div id="divMB08" name="nm_divMB08">
-                <p><img class="css" src="img/barao vermelho/mb.jpg" width="150px;" height="130px;">
-                    Maurício Carvalho de Barros, "Maurício Barros" é um tecladista
-                    brasileiro e membro fundador da banda Barão Vermelho.
-                    <br />
-                    No final da década de 1980, foi vocalista e tecladista da banda Buana 4, chegando a gravar um LP e música em trilha
-                    sonora de telenovela.
-                </p><br /><br /><br />
-            </div>
 
             <footer>
                 <a href="barao_vermelho.php"><button>Voltar para os álbuns do Barão Vermelho</button></a>

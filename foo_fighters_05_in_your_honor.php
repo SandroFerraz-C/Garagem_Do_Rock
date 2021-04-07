@@ -37,7 +37,7 @@ include_once("header.php");
                 a banda fez uma reunião e decidiu que, para finalizar, "Todo mundo tem que ficar aqui o dia todo. Precisamos fazer uma música por
                 dia e ninguém vai embora até a música está pronta. Enquanto os membros gravavam suas partes, Grohl escrevia as letras.
             </p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -95,12 +95,12 @@ include_once("header.php");
 
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 83 min. 17 seg.</p>
             <p>Gravadora(s): Roswell e RCA Records.</p>
             <p>Produção: Foo Fighters e Nick Raskulinecz.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -109,60 +109,58 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divDAVE_GROHL" name="nm_divDAVE_GROHL">
+                    <p>
+                        <img class="css" src="img/foo fighters/dg.jpg" width="150px;" height="130px;">
+                        David Eric Grohl ( 14 de janeiro de 1969) é um músico e compositor norte-americano.
+                        É o fundador, vocalista e guitarrista da banda Foo Fighters. E também ex-baterista
+                        das bandas - Nirvana. Por ser extremamente reconhecido inicialmente como baterista
+                        do Nirvana (antes do Foo Fighters), foi considerado o 27º maior baterista de todos
+                        os tempos pela revista Rolling Stone.
+                    </p>
+                </div>
+
+                <div id="divTAYLOR_HAWKINS" name="nm_divTAYLOR_HAWKINS">
+                    <p>
+                        <img class="css" src="img/foo fighters/th.jpg" width="150px;" height="130px;">
+                        Oliver Taylor Hawkins ( 17 de fevereiro de 1972) é um músico americano, mais conhecido como baterista da
+                        banda de rock Foo Fighters. Antes de entrar para a banda em 1997, ele era o baterista turnê de Alanis Morissette,
+                        bem como o baterista da banda Sylvia.
+                    </p>
+                </div>
+
+                <div id="divNATE_MENDEL" name="nm_divNATE_MENDEL">
+                    <p>
+                        <img class="css" src="img/foo fighters/nm.jpg" width="150px;" height="130px;">
+                        Nate Mendel ( Washington, 2 de dezembro de 1968) é um músico Americano, conhecido por tocar baixo na banda de rock
+                        alternativo Foo Fighters. Também é conhecido por ser o baixista da banda Sunny Day Real Estate.
+                        <br />
+                        Seu primeiro instrumento foi o violino. Aos 13 anos, Mendel começou a se interessar por rock e se juntar a uma banda,
+                        um amigo que tocava violão sugeriu que ele tocasse baixo.
+                    </p>
+                </div>
+
+                <div id="divCHRIS_SHIFLETT" name="nm_divCHRIS_SHIFLETT">
+                    <p>
+                        <img class="css" src="img/foo fighters/cs.jpg" width="150px;" height="130px;">
+                        Christopher Aubrey Shiflett ( 6 de maio de 1971). Ele é mais conhecido como guitarrista da banda de rock Foo Fighters.
+                        Anteriormente, ele foi membro das bandas de punk rock:
+                        <br /> - No Use for a Name (1995–1999)
+                        <br /> - Me First and the Gimme Gimmes (2000–2019).
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divDG05');" onMouseOut="escondeLayer('divDG05');">Dave Grohl</a> – Vocal, Guitarra, Percussão e Bateria. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divTH05');" onMouseOut="escondeLayer('divTH05');">Taylor Hawkins</a> – Vocal de apoio e Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divNM05');" onMouseOut="escondeLayer('divNM05');">Nate Mendel</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divCS05');" onMouseOut="escondeLayer('divCS05');">Chris Shiflett</a> – Guitarra Solo. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divDAVE_GROHL');" onMouseOut="escondeLayer('divDAVE_GROHL');">Dave Grohl</a> – Vocal</li>.
+                    <li><a href="#" onMouseOver="mostraLayer('divTAYLOR_HAWKINS');" onMouseOut="escondeLayer('divTAYLOR_HAWKINS');">Taylor Hawkins</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divNATE_MENDEL');" onMouseOut="escondeLayer('divNATE_MENDEL');">Nate Mendel</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divCHRIS_SHIFLETT');" onMouseOut="escondeLayer('divCHRIS_SHIFLETT');">Chris Shiflett</a> – Guitarra Solo.</li>
                 </ul>
             </nav>
-
-            <div id="divDG05" name="nm_divDG05">
-                <p>
-                    <img class="css" src="img/foo fighters/dg.jpg" width="150px;" height="130px;">
-                    David Eric Grohl ( 14 de janeiro de 1969) é um músico e compositor norte-americano.
-                    É o fundador, vocalista e guitarrista da banda Foo Fighters. E também ex-baterista
-                    das bandas - Nirvana. Por ser extremamente reconhecido inicialmente como baterista
-                    do Nirvana (antes do Foo Fighters), foi considerado o 27º maior baterista de todos
-                    os tempos pela revista Rolling Stone.
-                </p>
-                <br />
-            </div>
-
-            <div id="divTH05" name="nm_divTH05">
-                <p>
-                    <img class="css" src="img/foo fighters/th.jpg" width="150px;" height="130px;">
-                    Oliver Taylor Hawkins ( 17 de fevereiro de 1972) é um músico americano, mais conhecido como baterista da
-                    banda de rock Foo Fighters. Antes de entrar para a banda em 1997, ele era o baterista turnê de Alanis Morissette,
-                    bem como o baterista da banda Sylvia.
-                </p>
-                <br /><br />
-            </div>
-
-            <div id="divNM05" name="nm_divNM05">
-                <p>
-                    <img class="css" src="img/foo fighters/nm.jpg" width="150px;" height="130px;">
-                    Nate Mendel ( Washington, 2 de dezembro de 1968) é um músico Americano, conhecido por tocar baixo na banda de rock
-                    alternativo Foo Fighters. Também é conhecido por ser o baixista da banda Sunny Day Real Estate.
-                    <br />
-                    Seu primeiro instrumento foi o violino. Aos 13 anos, Mendel começou a se interessar por rock e se juntar a uma banda,
-                    um amigo que tocava violão sugeriu que ele tocasse baixo.
-                </p>
-            </div>
-
-            <div id="divCS05" name="nm_divCS05">
-                <p>
-                    <img class="css" src="img/foo fighters/cs.jpg" width="150px;" height="130px;">
-                    Christopher Aubrey Shiflett ( 6 de maio de 1971). Ele é mais conhecido como guitarrista da banda de rock Foo Fighters.
-                    Anteriormente, ele foi membro das bandas de punk rock:
-                    <br /> - No Use for a Name (1995–1999)
-                    <br /> - Me First and the Gimme Gimmes (2000–2019).
-                </p>
-                <br /><br />
-            </div>
-            <br />
 
             <footer>
                 <a href="foo_fighters.php"><button>Voltar para Albuns do Foo Fighters</button></a>

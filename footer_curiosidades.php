@@ -1,7 +1,7 @@
 <div class="limpa"></div>
 <div id="rodape2" class="fundo_azul">
     <div id="caixa">
-        <strong> Dados da Empresa:</strong>
+        <strong> Dados daaa Empresa:</strong>
         Rua: Lorem, Quadra: 36, Número: 129, Sala:260 - Barra da Tijuca<br />
         Rio de Janeiro - RJ<br />
         CEP: 23817-000<br />

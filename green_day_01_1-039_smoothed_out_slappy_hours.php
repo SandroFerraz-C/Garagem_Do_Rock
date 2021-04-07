@@ -47,7 +47,7 @@ include_once("header.php");
                 <li>Hours Referência ao nome da EP 1,000 Hours</li>
             </ul>
             </p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -64,12 +64,12 @@ include_once("header.php");
                     </tr>
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 56 min. 32 seg.</p>
             <p>Gravadora(s): Lookout!.</p>
             <p>Produção: Green Day.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -77,43 +77,44 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divBILLIE_JOE" name="nm_divBILLIE_JOE">
+                    <p>
+                        <img class="css" src="img/green day/bj.jpg" width="150px;" height="130px;">
+                        Billie Joe Armstrong ( 17 de fevereiro de 1972) é um cantor, compositor, músico e produtor musical americano.
+                        Armstrong é o vocalista, principal compositor e guitarrista da banda Green Day, que co-fundou com Mike Dirnt.
+                        Ele também é guitarrista e vocalista da banda de punk rock - Pinhead Gunpowder.
+                    </p>
+                </div>
+
+                <div id="divMIKE_DIRNT" name="nm_divMIKE_DIRNT">
+                    <p>
+                        <img class="css" src="img/green day/md.jpg" width="150px;" height="130px;">
+                        Michael Ryan Pritchard ( 4 de maio de 1972), mais conhecido como Mike Dirnt, é um músico, cantor
+                        e compositor americano. Ele é mais conhecido como co-fundador, baixista, vocalista de apoio e vocalista principal ocasionalmente.
+                        Seu nome artístico é originalmente um apelido já que ele tocava constantemente - ( Baixo / Guitarra "Imaginario" ) e fazia um barulho
+                        "dirnt, dirnt, dirnt" enquanto fingia tocar as cordas.
+                    </p>
+                </div>
+
+                <div id="divJOHN_KIFFMEYER" name="nm_divJOHN_KIFFMEYER">
+                    <p>
+                        <img class="css" src="img/green day/jk.jpg" width="150px;" height="130px;">
+                        John Kiffmeyer (1de julho de 1969), conhecido profissionalmente na música como - Al Sobrante, é um produtor americano,
+                        músico aposentado e compositor, mais conhecido como o segundo baterista do Green Day. Seu nome artístico é uma referência
+                        à sua cidade natal, El Sobrante.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Crédito</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divBJ01');" onMouseOut="escondeLayer('divBJ01');">Billie Joe Armstrong</a> – Vocal e Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divMD01');" onMouseOut="escondeLayer('divMD01');">Mike Dirnt</a> – Baixo e Vocal de apoio. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJK01');" onMouseOut="escondeLayer('divJK01');">John Kiffmeyer</a> – Bateria, Percussão e Vocal de apoio. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divBILLIE_JOE');" onMouseOut="escondeLayer('divBILLIE_JOE');">Billie Joe Armstrong</a> – Vocal e Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divMIKE_DIRNT');" onMouseOut="escondeLayer('divMIKE_DIRNT');">Mike Dirnt</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOHN_KIFFMEYER');" onMouseOut="escondeLayer('divJOHN_KIFFMEYER');">John Kiffmeyer</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divBJ01" name="nm_divBJ01">
-                <p>
-                    <img class="css" src="img/green day/bj.jpg" width="150px;" height="130px;">
-                    Billie Joe Armstrong ( 17 de fevereiro de 1972) é um cantor, compositor, músico e produtor musical americano.
-                    Armstrong é o vocalista, principal compositor e guitarrista da banda Green Day, que co-fundou com Mike Dirnt.
-                    Ele também é guitarrista e vocalista da banda de punk rock - Pinhead Gunpowder.
-                </p><br /><br />
-            </div>
-
-            <div id="divMD01" name="nm_divMD01">
-                <p>
-                    <img class="css" src="img/green day/md.jpg" width="150px;" height="130px;">
-                    Michael Ryan Pritchard ( 4 de maio de 1972), mais conhecido como Mike Dirnt, é um músico, cantor
-                    e compositor americano. Ele é mais conhecido como co-fundador, baixista, vocalista de apoio e vocalista principal ocasionalmente.
-                    Seu nome artístico é originalmente um apelido já que ele tocava constantemente - ( Baixo / Guitarra "Imaginario" ) e fazia um barulho
-                    "dirnt, dirnt, dirnt" enquanto fingia tocar as cordas.
-                </p>
-            </div>
-
-            <div id="divJK01" name="nm_divJK01">
-                <p>
-                    <img class="css" src="img/green day/jk.jpg" width="150px;" height="130px;">
-                    John Kiffmeyer (1de julho de 1969), conhecido profissionalmente na música como - Al Sobrante, é um produtor americano,
-                    músico aposentado e compositor, mais conhecido como o segundo baterista do Green Day. Seu nome artístico é uma referência
-                    à sua cidade natal, El Sobrante.
-                </p><br />
-            </div>
-            <br /><br />
 
             <footer>
                 <a href="green_day.php"><button>Voltar para os álbuns do Green Day</button></a>

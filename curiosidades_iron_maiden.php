@@ -10,7 +10,6 @@ include_once("header_curiosidades.php");
 
     <div class="curiosidade_acdc">
         <h1>Curiosidades sobre o Iron Maiden</h1>
-        <br /><br />
 
         <section class="corpo_curiosidade_acdc">
 
@@ -249,33 +248,6 @@ include_once("header_curiosidades.php");
                         observou-se um aumento de 119% nos streamings das músicas do Iron. Esse up todo roou durante o período do Rock in Rio 2019.</p>
                 </div>
             </div>
-            <br /> <br />
-
-            <nav>
-                <button class="btn23" data-toggle="collapse" data-target="#demo23">Fontes</button>
-
-                <div id="demo23" class="collapse">
-                    <br />
-
-                    <ul>
-                        <li> - Leia mais em: <a href="https://www.letras.com.br/green-day/curiosidades#:~:text=Armstrong%20ganhou%20sua%20primeira%20guitarra,adotivos%20s%C3%A3o%2C%20hoje%2C%20divorciados">
-                                Letras.com.br - As letras das músicas em sua vida</a> ©2021 - Orgulhosamente, uma produção Petaxxon.</li>
-                        <br />
-
-                        <li> - Leia mais em: <a href="https://www.cifraclub.com.br/blog/qual-e-o-significado-de-iron-maiden">
-                                cifraclub </a> ©2021 - Estudio Sol, O maior site de ensino de música do Brasil.</li>
-                        <br />
-
-                        <li> - Leia mais em: <a href="https://whiplash.net/materias/news_816/201727-ironmaiden.html">
-                                Whiplash.Net </a> ©2021 - Estudio Sol, O maior site de ensino de música do Brasil.</li>
-
-                </div>
-            </nav>
-            <br /><br />
-
-            <div class="albuns_acdc">
-                <a href="iron_maiden.php"><button>Voltar para Albuns do Iron Maiden</button></a>
-            </div>
 
         </section>
 
@@ -283,50 +255,33 @@ include_once("header_curiosidades.php");
 
             <h2>Álbum de Fotos</h2>
 
-            <p class="ay_hj">Bruce Dickinson </p>
-            <p class="ay_antes">Bruce Dickinson </p>
-            <p class="bj_hj">Steve Harris </p>
-            <p class="bj_antes">Steve Harris </p>
-
-            <img src="img/iron maiden/bd_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/bd_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Dave Murray </p>
-            <p class="ay_antes">Dave Murray </p>
-
-            <img src="img/iron maiden/sh_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/sh_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Adrian Smith </p>
-            <p class="bj_antes">Adrian Smith </p>
-
-            <img src="img/iron maiden/dm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/dm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="ay_hj">Nicko McBrain </p>
-            <p class="ay_antes">Nicko McBrain </p>
-
-            <img src="img/iron maiden/as_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/as_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-
-            <p class="bj_hj">Janick Gers </p>
-            <p class="bj_antes">Janick Gers </p>
-
-            <img src="img/iron maiden/nm_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/nm_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/jg_hj.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/jg_antes.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/01.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/02.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/03.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/04.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/05.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/06.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/07.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
-            <img src="img/iron maiden/08.jpg" alt="" width="210px;" height="260px;" onMouseOver="aumenta(this)" onMouseOut="diminui(this)" style="border-radius: 15px;">
+            <img id="foto_1_maiden" src="img/iron maiden/bd_hj.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_2_maiden" src="img/iron maiden/bd_antes.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_3_maiden" src="img/iron maiden/sh_hj.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_4_maiden" src="img/iron maiden/sh_antes.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_5_maiden" src="img/iron maiden/dm_hj.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_6_maiden" src="img/iron maiden/dm_antes.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_7_maiden" src="img/iron maiden/as_hj.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_8_maiden" src="img/iron maiden/as_antes.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_9_maiden" src="img/iron maiden/nm_hj.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_10_maiden" src="img/iron maiden/nm_antes.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_11_maiden" src="img/iron maiden/jg_hj.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_12_maiden" src="img/iron maiden/jg_antes.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_13_maiden" src="img/iron maiden/01.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_14_maiden" src="img/iron maiden/02.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_15_maiden" src="img/iron maiden/03.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_16_maiden" src="img/iron maiden/04.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_17_maiden" src="img/iron maiden/05.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_18_maiden" src="img/iron maiden/06.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_19_maiden" src="img/iron maiden/07.jpg" alt="Foto dos integrantes da banda Iron Maiden">
+            <img id="foto_20_maiden" src="img/iron maiden/08.jpg" alt="Foto dos integrantes da banda Iron Maiden">
 
         </div>
 
+    </div>
+
+    <div class="albuns_acdc">
+        <a href="iron_maiden.php"><button>Voltar para Albuns do Iron Maiden</button></a>
     </div>
 
     <footer id="rodape">

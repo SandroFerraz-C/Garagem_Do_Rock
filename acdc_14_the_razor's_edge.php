@@ -29,7 +29,6 @@ include_once("header.php");
                         <td width="15%">Álbuns Vendidos</td>
                     </tr>
 
-
                     <tr>
                         <td width="15%"> 5X Platina</td>
                         <td> + 5.000.000 (EUA.)</td>
@@ -103,59 +102,57 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divBRIAN_JOHNSON" name="nm_divBRIAN_JOHNSON">
+                    <p>
+                        <img class="css" src="img/bj.jpg" width="150px;" height="130px;"> Brian Johnson 5 de Outubro de 1947 é um cantor Inglês e compositor que desde 1980, tem sido o vocalista do AC/DC. Em 1972, tornou-se um dos membros fundadores
+                        da banda de glam rock, “Geordie”. Mas assim que assinaram um novo contrato com uma gravadora, Brian Johnson foi convidado para a audição do AC/DC, cujo vocalista, Bon Scott, havia falecido.
+                    </p>
+                </div>
+
+                <div id="divANGUS_YOUNG" name="nm_divANGUS_YOUNG">
+                    <p>
+                        <img class="css" src="img/angus.jpg" width="150px;" height="130px;"> Angus McKinnon Young (31 de março de 1955) é um guitarrista e compositor, conhecido por ser guitarrista solo, compositor, líder e co-fundador da banda
+                        AC/DC.
+                        <br /> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
+                        <br /> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
+                    </p>
+                </div>
+
+                <div id="divMALCOLM_YOUNG" name="nm_divMALCOLM_YOUNG">
+                    <p>
+                        <img class="css" src="img/Malcolm.jpg" width="150px;" height="130px;"> Malcolm Mitchell Young (6 de janeiro de 1953 — 18 de novembro de 2014) foi um guitarrista e compositor escocês naturalizado australiano e fundador,
+                        junto com seu irmão mais novo Angus Young, do AC/DC, da qual era o guitarrista rítmico, vocalista de apoio e compositor.
+                        <br /> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
+                    </p>
+                </div>
+
+                <div id="CLIFF_WILLIAMS" name="nm_CLIFF_WILLIAMS">
+                    <p>
+                        <img class="css" src="img/acdc/Cliff Williams.jpg" width="150px;" height="130px;"> Clifford Williams nasceu no dia 14 de Dezembro de 1949 é um baixista Inglês, conhecido por tocar pelo AC/DC desde Junho de 1977.
+                        <br /> Seu estilo musical é conhecido por linhas básicas de baixo que seguem o ritmo da guitarra; sua técnica é centrada em downpicking com uso ocasional de pizzicato.
+                    </p>
+                </div>
+
+                <div id="divCHRIS_SLADE" name="nm_divCHRIS_SLADE">
+                    <p>
+                        <img class="css" src="img/cs.jpg" width="150px;" height="130px;"> Chris Slade ( 30 de outubro de 1946 ), que teve uma carreira longa e variada. Teve a oportunidade de trabalhar com diversos artistas, tais como Gary Numan,
+                        Tom Jones, Uriah Heep e Manfred Mann's Earth Band de 1972 a 1978. No começo dos anos 80, Slade tocou com Paul Rodgers e também com o guitarrista e vocalista da banda inglesa Pink Floyd, David Gilmour, em vários projetos
+                        nos anos seguintes. Slade usa bumbos suspensos em sua bateria (aproximadamente na altura da cabeça) sendo essa sua marca registrada.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divBJ14');" onMouseOut="escondeLayer('divBJ14');">Brian Johnson</a> – Vocal.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divAY14');" onMouseOut="escondeLayer('divAY14');">Angus Young</a> – Guitarra solo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divMY14');" onMouseOut="escondeLayer('divMY14');">Malcolm Young</a> – Guitarra rítmica e Vocal de apoio.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divCW14');" onMouseOut="escondeLayer('divCW14');">Cliff Williams</a> – Baixo e Vocal de apoio.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divCS14');" onMouseOut="escondeLayer('divCS14');">Chris Slade</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divBRIAN_JOHNSON');" onMouseOut="escondeLayer('divBRIAN_JOHNSON');">Brian Johnson</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divANGUS_YOUNG');" onMouseOut="escondeLayer('divANGUS_YOUNG');">Angus Young</a> – Guitarra solo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divMALCOLM_YOUNG');" onMouseOut="escondeLayer('divMALCOLM_YOUNG');">Malcolm Young</a> – Guitarra rítmica.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('CLIFF_WILLIAMS');" onMouseOut="escondeLayer('CLIFF_WILLIAMS');">Cliff Williams</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divCHRIS_SLADE');" onMouseOut="escondeLayer('divCHRIS_SLADE');">Chris Slade</a> – Bateria.</li>
                 </ul>
             </nav>
-            <br />
-
-
-            <div id="divBJ14" name="nm_divBJ14">
-                <p>
-                    <img class="css" src="img/bj.jpg" width="150px;" height="130px;"> Brian Johnson 5 de Outubro de 1947 é um cantor Inglês e compositor que desde 1980, tem sido o vocalista do AC/DC. Em 1972, tornou-se um dos membros fundadores
-                    da banda de glam rock, “Geordie”. Mas assim que assinaram um novo contrato com uma gravadora, Brian Johnson foi convidado para a audição do AC/DC, cujo vocalista, Bon Scott, havia falecido.
-                    <br /><br />
-                </p>
-            </div>
-
-            <div id="divAY14" name="nm_divAY14">
-                <p>
-                    <img class="css" src="img/angus.jpg" width="150px;" height="130px;"> Angus McKinnon Young (31 de março de 1955) é um guitarrista e compositor, conhecido por ser guitarrista solo, compositor, líder e co-fundador da banda
-                    AC/DC.
-                    <br /> No ano de 2003, foi introduzido juntamente com outros membros do AC/DC no Rock and Roll Hall of Fame.
-                    <br /> Foi considerado o 24.º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.
-                </p>
-            </div>
-
-            <div id="divMY14" name="nm_divMY14">
-                <p>
-                    <img class="css" src="img/Malcolm.jpg" width="150px;" height="130px;"> Malcolm Mitchell Young (6 de janeiro de 1953 — 18 de novembro de 2014) foi um guitarrista e compositor escocês naturalizado australiano e fundador,
-                    junto com seu irmão mais novo Angus Young, do AC/DC, da qual era o guitarrista rítmico, vocalista de apoio e compositor.
-                    <br /> Em 2014 Malcolm Young afastou-se da banda por estar sofrendo de demência. Morreu a 18 de novembro de 2017, aos 64 anos.
-                </p>
-            </div>
-
-            <div id="divCW14" name="nm_divCW14">
-                <p>
-                    <img class="css" src="img/acdc/Cliff Williams.jpg" width="150px;" height="130px;"> Clifford Williams nasceu no dia 14 de Dezembro de 1949 é um baixista Inglês, conhecido por tocar pelo AC/DC desde Junho de 1977.
-                    <br /> Seu estilo musical é conhecido por linhas básicas de baixo que seguem o ritmo da guitarra; sua técnica é centrada em downpicking com uso ocasional de pizzicato.
-                    <br /><br />
-                </p>
-            </div>
-
-            <div id="divCS14" name="nm_divCS14">
-                <p>
-                    <img class="css" src="img/cs.jpg" width="150px;" height="130px;"> Chris Slade ( 30 de outubro de 1946 ), que teve uma carreira longa e variada. Teve a oportunidade de trabalhar com diversos artistas, tais como Gary Numan,
-                    Tom Jones, Uriah Heep e Manfred Mann's Earth Band de 1972 a 1978. No começo dos anos 80, Slade tocou com Paul Rodgers e também com o guitarrista e vocalista da banda inglesa Pink Floyd, David Gilmour, em vários projetos
-                    nos anos seguintes. Slade usa bumbos suspensos em sua bateria (aproximadamente na altura da cabeça) sendo essa sua marca registrada.
-                </p>
-            </div>
 
             <footer>
                 <a href="acdc.php"><button>Voltar para os álbuns do AC/DC</button></a>

@@ -1,11 +1,12 @@
-#divDOP01,
-#divLJ01,
-#divFL01,
-#divFEL01,
-#divBB01 {
+#divDINHO_OURO_PRETO,
+#divLORO_JONES,
+#divFLAVIO_LEMOS,
+#divFE_LEMOS,
+#divBOZZO_BARRETI,
+#divYVES_PASSARELL,
+#divDOCA_ROLIM {
     font-size: 17px;
     position: absolute;
-    top: 217%;
     left: 42%;
     border: solid 1px #696969;
     width: 50%;
@@ -16,228 +17,14 @@
     height: auto;
 }
 
-#divDOP02,
-#divLJ02,
-#divFL02,
-#divFEL02,
-#divBB02 {
-    font-size: 17px;
-    position: absolute;
-    top: 205%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP03,
-#divLJ03,
-#divFL03,
-#divFEL03,
-#divBB03 {
-    font-size: 17px;
-    position: absolute;
-    top: 182%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP04,
-#divLJ04,
-#divFL04,
-#divFEL04 {
-    font-size: 17px;
-    position: absolute;
-    top: 238%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP05,
-#divLJ05,
-#divFL05,
-#divFEL05,
-#divBB05 {
-    font-size: 17px;
-    position: absolute;
-    top: 220%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP07,
-#divLJ07,
-#divFL07,
-#divFEL07 {
-    font-size: 17px;
-    position: absolute;
-    top: 205%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP08,
-#divLJ08,
-#divFL08,
-#divFEL08 {
-    font-size: 17px;
-    position: absolute;
-    top: 285%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP09,
-#divYP09,
-#divFL09,
-#divFEL09 {
-    font-size: 17px;
-    position: absolute;
-    top: 260%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP10,
-#divDR10,
-#divFL10,
-#divFEL10 {
-    font-size: 17px;
-    position: absolute;
-    top: 227%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP11,
-#divDR11,
-#divFL11,
-#divFEL11 {
-    font-size: 17px;
-    position: absolute;
-    top: 237%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP12,
-#divYP12,
-#divFL12,
-#divFEL12 {
-    font-size: 17px;
-    position: absolute;
-    top: 193%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP13,
-#divYP13,
-#divFL13,
-#divFEL13 {
-    font-size: 17px;
-    position: absolute;
-    top: 238%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP14,
-#divYP14,
-#divFL14,
-#divFEL14 {
-    font-size: 17px;
-    position: absolute;
-    top: 214%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
-}
-
-#divDOP15,
-#divYP15,
-#divFL15,
-#divFEL15 {
-    font-size: 17px;
-    position: absolute;
-    top: 220%;
-    left: 42%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: .5%;
-    height: auto;
+#divDINHO_OURO_PRETO img,
+#divLORO_JONES img,
+#divFLAVIO_LEMOS img,
+#divFE_LEMOS img,
+#divBOZZO_BARRETI img,
+#divYVES_PASSARELL img,
+#divDOCA_ROLIM img {
+    margin-bottom: 2%;
 }
 
 .css {

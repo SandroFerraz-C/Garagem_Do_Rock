@@ -19,12 +19,12 @@ include_once("header.php");
                 Outra novidade na forma de tocar guitarra foi o uso de harmônicos, muito notadamente usados ​​em "Vavoom: Ted the Mechanic" e "Somebody Stole My
                 Guitar". "Sometimes, I Feel Like Screaming" e "Vavoom: Ted the Mechanic" permaneceram constantes no setlist ao vivo do Deep Purple em
                 turnês recentes.</p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 62 min. 16 seg.</p>
             <p>Gravadora(s): RCA.</p>
             <p>Produção: Deep Purple.</p>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -32,56 +32,60 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divIAN_GILLAN" name="nm_divIAN_GILLAN">
+                    <p><img class="css" src="img/deep purple/ig.jpg" width="150px;" height="130px;">
+                        Ian Gillan (Chiswick, 19 de agosto de 1945) é um cantor e compositor britânico. Inicialmente influenciado pelo
+                        Elvis Presley, fundou e liderou diversos grupos locais em meados da década de 1960 e, eventualmente, reuniu-se com
+                        o Episode Six, quando o vocalista original saíra dele. Alcançou o reconhecimento comercial pela primeira vez após
+                        entrar no Deep Purple em 1969.
+                    </p>
+                </div>
+
+                <div id="divSTEVE_MORSE" name="nm_divSTEVE_MORSE">
+                    <p><img class="css" src="img/deep purple/sm.jpg" width="150px;" height="130px;">
+                        Steve J. Morse (28 de julho de 1954) é um guitarrista e compositor americano, mais conhecido como o fundador dos
+                        Dixie Dregs e como o guitarrista principal do Deep Purple desde 1994. Morse também teve uma carreira solo de sucesso
+                        e foi brevemente um membro do grupo Kansas em meados da década de 1980. Mais recentemente, Morse tornou-se membro do
+                        supergrupo Flying Colors.</p>
+                </div>
+
+                <div id="divROGER_GLOVER" name="nm_divROGER_GLOVER">
+                    <p><img class="css" src="img/deep purple/rg.jpg" width="150px;" height="130px;">
+                        Roger David Glover é um músico, compositor e produtor musical.<br />
+                        Depois de passar quatro anos com o Deep Purple, onde a banda viu seus lançamentos mais bem sucedidos, Glover, juntamente com Gillan, abandonou a banda no verão de 1973.
+                        <br />
+                        Ao longo da década de 1970, Glover passou a produzir bandas como <strong>Judas Priest</strong>, <strong>Nazareth</strong>, <strong>Elf</strong>, <strong>Ian Gillan Band</strong>, e <strong>David Coverdale</strong>.
+                    </p>
+                </div>
+
+                <div id="divJOHN_LORD" name="nm_divJOHN_LORD">
+                    <p><img class="css" src="img/deep purple/jl.jpg" width="150px;" height="130px;">
+                        John Douglas Lord, mais conhecido como Jon Lord (Leicester, 9 de junho de 1941 — Londres, 16 de julho de 2013), foi um
+                        compositor, pianista e organista inglês, mais conhecido por ter integrado as bandas Deep Purple e também foi o pioneiro
+                        na fusão do rock com música clássica.
+                    </p>
+                </div>
+
+                <div id="divIAN_PAICE" name="nm_divIAN_PAICE">
+                    <p><img class="css" src="img/deep purple/ip.jpg" width="150px;" height="130px;">
+                        Ian Anderson Paice (nascido em 29 de junho de 1948, Nottingham) é um baterista britânico, famoso por sua participação
+                        na banda Deep Purple, na qual ele é o último integrante da formação original. Seu primeiro contato com a música foi ao
+                        tocar violino, mas aos 15 anos de idade, escolheu a bateria como instrumento.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divIG15');" onMouseOut="escondeLayer('divIG15');">Ian Gillan</a> – Vocal. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divSM15');" onMouseOut="escondeLayer('divSM15');">Steve Morse</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divRG15');" onMouseOut="escondeLayer('divRG15');">Roger Glover</a> – Baixo e Vocal de Apoio. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divJL15');" onMouseOut="escondeLayer('divJL15');">Jon Lord</a> – Órgão, Teclados e Vocal de apoio. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divIP15');" onMouseOut="escondeLayer('divIP15');">Ian Paice</a> – Bateria. </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divIAN_GILLAN');" onMouseOut="escondeLayer('divIAN_GILLAN');">Ian Gillan</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divSTEVE_MORSE');" onMouseOut="escondeLayer('divSTEVE_MORSE');">Steve Morse</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divROGER_GLOVER');" onMouseOut="escondeLayer('divROGER_GLOVER');">Roger Glover</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divJOHN_LORD');" onMouseOut="escondeLayer('divJOHN_LORD');">Jon Lord</a> – Teclados.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divIAN_PAICE');" onMouseOut="escondeLayer('divIAN_PAICE');">Ian Paice</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divIG15" name="nm_divIG15">
-                <p><img class="css" src="img/deep purple/ig.jpg" width="150px;" height="130px;">
-                    Ian Gillan (Chiswick, 19 de agosto de 1945) é um cantor e compositor britânico. Inicialmente influenciado pelo
-                    Elvis Presley, fundou e liderou diversos grupos locais em meados da década de 1960 e, eventualmente, reuniu-se com
-                    o Episode Six, quando o vocalista original saíra dele. Alcançou o reconhecimento comercial pela primeira vez após
-                    entrar no Deep Purple em 1969.<br /><br /></p>
-            </div>
-
-            <div id="divSM15" name="nm_divSM15">
-                <p><img class="css" src="img/deep purple/sm.jpg" width="150px;" height="130px;">
-                    Steve J. Morse (28 de julho de 1954) é um guitarrista e compositor americano, mais conhecido como o fundador dos
-                    Dixie Dregs e como o guitarrista principal do Deep Purple desde 1994. Morse também teve uma carreira solo de sucesso
-                    e foi brevemente um membro do grupo Kansas em meados da década de 1980. Mais recentemente, Morse tornou-se membro do
-                    supergrupo Flying Colors.</p>
-            </div>
-
-            <div id="divRG15" name="nm_divRG15">
-                <p><img class="css" src="img/deep purple/rg.jpg" width="150px;" height="130px;">
-                    Roger David Glover é um músico, compositor e produtor musical.<br />
-                    Depois de passar quatro anos com o Deep Purple, onde a banda viu seus lançamentos mais bem sucedidos, Glover, juntamente com Gillan, abandonou a banda no verão de 1973.
-                    <br />
-                    Ao longo da década de 1970, Glover passou a produzir bandas como <strong>Judas Priest</strong>, <strong>Nazareth</strong>, <strong>Elf</strong>, <strong>Ian Gillan Band</strong>, e <strong>David Coverdale</strong>.
-                </p>
-            </div>
-
-            <div id="divJL15" name="nm_divJL15">
-                <p><img class="css" src="img/deep purple/jl.jpg" width="150px;" height="130px;">
-                    John Douglas Lord, mais conhecido como Jon Lord (Leicester, 9 de junho de 1941 — Londres, 16 de julho de 2013), foi um
-                    compositor, pianista e organista inglês, mais conhecido por ter integrado as bandas Deep Purple e também foi o pioneiro
-                    na fusão do rock com música clássica.<br /><br /><br /></p>
-            </div>
-
-            <div id="divIP15" name="nm_divIP15">
-                <p><img class="css" src="img/deep purple/ip.jpg" width="150px;" height="130px;">
-                    Ian Anderson Paice (nascido em 29 de junho de 1948, Nottingham) é um baterista britânico, famoso por sua participação
-                    na banda Deep Purple, na qual ele é o último integrante da formação original. Seu primeiro contato com a música foi ao
-                    tocar violino, mas aos 15 anos de idade, escolheu a bateria como instrumento.<br /><br /></p>
-            </div>
-            <br />
 
             <footer>
                 <a href="deep_purple.php"><button>Voltar para os álbuns do Deep Purple</button></a>

@@ -4,7 +4,6 @@ body {
     background-color: white;
     border-top: 1px solid transparent;
     color: rgb(31, 29, 29);
-    font-size: 18px;
 }
 
 .content-section {
@@ -14,8 +13,13 @@ body {
     overflow: auto;
 }
 
+.content-section h2 {
+    margin-left: 3%;
+}
+
 p {
-    margin-left: 1%;
+    margin: 3%;
+    font-size: 13px;
 }
 
 .disco {
@@ -39,7 +43,7 @@ a {
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 10px;
+    font-size: 25px;
     letter-spacing: 1px;
 }
 
@@ -111,10 +115,14 @@ button {
     background: #415461;
 }
 
-
-/* body */
-
 #demo-table td {
     background-color: rgb(176, 177, 174);
     padding: .5em .5em .5em 3em;
+}
+
+@media only screen and (min-width: 768px) {
+    p {
+        margin-bottom: 2%;
+        font-size: 22px;
+    }
 }

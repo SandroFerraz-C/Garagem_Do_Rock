@@ -3,15 +3,13 @@
 <html lang="pt-br">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
+    <title>Garage Of Rock!!</title>
 
-    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link rel="stylesheet" type="text/css" href="css/hv_2.css">
     <link rel="stylesheet" type="text/css" href="css/layer_acdc.css">
     <link rel="stylesheet" type="text/css" href="css/layer_aerosmith.css">
@@ -29,5 +27,7 @@
     <link rel="stylesheet" type="text/css" href="css/layer_iron_maiden.css">
     <link rel="stylesheet" type="text/css" href="css/layer_judas_priest.css">
     <link rel="stylesheet" type="text/css" href="css/layer_kiss.css">
-   
+    <link rel="stylesheet" type="text/css" href="css/layer_led_zeppelin.css">
+    <link rel="stylesheet" type="text/css" href="css/layer_legiao_urbana.css">
+    <link rel="stylesheet" type="text/css" href="css/layer_linkin_park.css">
 </head>

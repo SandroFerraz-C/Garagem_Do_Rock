@@ -4,6 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Loja da Garagem</title>
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
     <link href="css/css_loja.css" rel="stylesheet" />
 
 </head>
@@ -11,8 +12,7 @@
 <body>
 
 
-    <iframe width="560" height="445" src="https://www.youtube.com/embed/8kl6q_9qZOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </iframe>
+    <iframe width="560" height="445" src="https://www.youtube.com/embed/8kl6q_9qZOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
 
     <div class="letra_03">
         <h1>Me Dê Abrigo</h1>

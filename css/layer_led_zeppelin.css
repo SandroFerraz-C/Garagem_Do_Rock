@@ -1,41 +1,8 @@
-#divJP,
-#divRP {
+#divJIMMY_PAGE,
+#divJOHN_BONHAM,
+#divJOHN_JONES,
+#divROBERT_PLANT {
     position: absolute;
-    top: 31%;
-    left: 73%;
-    width: 50%;
-    height: 44%;
-    display: none;
-    padding: 1%;
-    height: auto;
-}
-
-#divJPJ,
-#divJB {
-    position: absolute;
-    top: 34%;
-    left: 24%;
-    width: 50%;
-    height: 44%;
-    display: none;
-    padding: 1%;
-    height: auto;
-}
-
-#divJP01,
-#divJB01,
-#divJPJ01,
-#divRP01,
-#divJP02,
-#divJB02,
-#divJPJ02,
-#divRP02,
-#divJP03,
-#divJB03,
-#divJPJ03,
-#divRP03 {
-    position: absolute;
-    top: 323%;
     left: 40%;
     border: solid 1px #696969;
     width: 50%;
@@ -46,84 +13,11 @@
     height: auto;
 }
 
-#divJP04,
-#divJB04,
-#divJPJ04,
-#divRP04 {
-    position: absolute;
-    top: 510%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divJP05,
-#divJB05,
-#divJPJ05,
-#divRP05 {
-    position: absolute;
-    top: 284%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divJP06,
-#divJB06,
-#divJPJ06,
-#divRP06 {
-    position: absolute;
-    top: 356%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divJP07,
-#divJB07,
-#divJPJ07,
-#divRP07 {
-    position: absolute;
-    top: 267%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
-}
-
-#divJP08,
-#divJB08,
-#divJPJ08,
-#divRP08 {
-    position: absolute;
-    top: 271%;
-    left: 40%;
-    border: solid 1px #696969;
-    width: 50%;
-    height: 44%;
-    display: none;
-    background-color: #D3D3D3;
-    padding: 1%;
-    height: auto;
+#divJIMMY_PAGE img,
+#divJOHN_BONHAM img,
+#divJOHN_JONES img,
+#divROBERT_PLANT img {
+    margin-bottom: 2%;
 }
 
 .css {

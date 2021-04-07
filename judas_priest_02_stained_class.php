@@ -32,12 +32,12 @@ include_once("header.php");
                 que apareceu em todos os álbuns anteriores da banda. - Stained Class foi o primeiro álbum do Judas Priest a estourar na parada
                 Billboard 200 e acabou sendo certificado ouro nos Estados Unidos.
             </p>
-            <br /><br />
+            <br />
 
             <p>Duração do álbum: 43 min. 40 seg.</p>
             <p>Gravadora(s): Columbia Records.</p>
             <p>Produção: Dennis Mackay, Judas Priest e James Guthrie.</p>
-            <br /><br />
+            <br />
 
             <p>O álbum atingil certificação:</p>
 
@@ -55,7 +55,7 @@ include_once("header.php");
                     </tr>
                 </table>
             </div>
-            <br /><br />
+            <br />
 
             <section class="disco">
                 <table id="demo-table">
@@ -63,74 +63,75 @@ include_once("header.php");
                 </table>
             </section>
 
+            <section>
+                <div id="divROB_HALFORD" name="nm_divROB_HALFORD">
+                    <p>
+                        <img class="css" src="img/judas priest/rh.jpg" width="150px;" height="130px;">
+                        Robert John Arthur Halford é um cantor e compositor inglês. Ele é mais conhecido como o vocalista da banda de
+                        heavy metal Judas Priest, que foi formada em 1969 e recebeu elogios como o Prêmio Grammy de 2010 de Melhor
+                        Performance de Metal. Ele tem se destacado por sua voz poderosa e abrangente e sua imagem de marca registrada em
+                        couro e tachas, que se tornaram icônicas no heavy metal.
+                    </p>
+                </div>
+
+                <div id="divKK_DOWNING" name="nm_divKK_DOWNING">
+                    <p>
+                        <img class="css" src="img/judas priest/kkd.jpg" width="150px;" height="130px;">
+                        Kenneth "K. K." Downing Jr. é um músico inglês. Ele é co-fundador e ex-guitarrista da banda de heavy metal Judas Priest.
+                        <br />
+                        Downing deixou o Judas Priest oficialmente em 20 de abril de 2011, citando "um colapso contínuo nas relações de
+                        trabalho entre mim, elementos da banda e empresários". Ele afirmou que havia pelo menos "21 razões" pelas quais ele
+                        saiu, mas se recusou a entrar em detalhes específicos;
+                    </p>
+                </div>
+
+                <div id="divGLENN_TIPTON" name="nm_divGLENN_TIPTON">
+                    <p>
+                        <img class="css" src="img/judas priest/gt.jpg" width="150px;" height="130px;">
+                        Glenn Tipton é um músico inglês. Muito conhecido por seu estilo de tocar complexo e solos influenciadores, ele é
+                        mais conhecido como um dos guitarristas do Judas Priest.
+                        <br />
+                        Tipton aprendeu a tocar violão aos 19 anos, com seu primeiro violão. Ele então o trocou em uma guitarra simples
+                        até poder comprar uma Fender Stratocaster. A fender se tornou sua guitarra principal em shows ao vivo, até que foi roubada
+                        em um show.
+                    </p>
+                </div>
+
+                <div id="divIAN_HILL" name="nm_divIAN_HILL">
+                    <p>
+                        <img class="css" src="img/judas priest/ih.jpg" width="150px;" height="130px;">
+                        Ian Frank Hill é um músico inglês, mais conhecido como baixista da banda de heavy metal Judas Priest.
+                        <br />
+                        Hill aprendeu a tocar contrabaixo com seu pai, um baixista de shows de jazz locais. Em 1970, junto com seu colega
+                        de escola K. K. Downing, Hill formou a banda de heavy metal Judas Priest. Ele toca baixo com a banda desde então
+                        e é o único membro original continuamente na banda desde o início, após a saída de Downing em 2011.
+                    </p>
+                </div>
+
+                <div id="divLES_BINKS" name="nm_divLES_BINKS">
+                    <p>
+                        <img class="css" src="img/judas priest/lb.jpg" width="150px;" height="130px;">
+                        James Leslie Binks, é um baterista irlandês de heavy metal, que se destacou por ter sido o baterista do Judas Priest
+                        de 1977 a 1979.
+                        <br />
+                        Binks disse em 2017 que saiu da banda porque se sentia como um "baterista freelance" pela banda e não com um membro
+                        oficial. Ele se sentiu insultado quando o empresário da banda, Mike Dolan, sugeriu que ele
+                        "abrisse mão de seus honorários" (ou seja, não fosse pago por sua performance) no álbum ao vivo - Unleashed in the
+                        East, um álbum certificado de platina pela RIAA.
+                    </p>
+                </div>
+            </section>
+
             <nav>
                 <h3>Crédito:</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divRH02');" onMouseOut="escondeLayer('divRH02');">Rob Halford</a> – Vocal. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divkkd02');" onMouseOut="escondeLayer('divkkd02');">K. K. Downing</a> – Guitarra. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divGT02');" onMouseOut="escondeLayer('divGT02');">Glenn Tipton</a> – Guitarra e Piano. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divIH02');" onMouseOut="escondeLayer('divIH02');">Ian Hill</a> – Baixo. </li>
-                    <li><a href="#" onMouseOver="mostraLayer('divLB02');" onMouseOut="escondeLayer('divLB02');">Les Binks</a> – Bateria ( Como músico convidado). </li>
+                    <li><a href="#" onMouseOver="mostraLayer('divROB_HALFORD');" onMouseOut="escondeLayer('divROB_HALFORD');">Rob Halford</a> – Vocal.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divKK_DOWNING');" onMouseOut="escondeLayer('divKK_DOWNING');">K. K. Downing</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divGLENN_TIPTON');" onMouseOut="escondeLayer('divGLENN_TIPTON');">Glenn Tipton</a> – Guitarra.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divIAN_HILL');" onMouseOut="escondeLayer('divIAN_HILL');">Ian Hill</a> – Baixo.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divLES_BINKS');" onMouseOut="escondeLayer('divLES_BINKS');">Les Binks</a> – Bateria.</li>
                 </ul>
             </nav>
-
-            <div id="divRH02" name="nm_divRH02">
-                <p>
-                    <img class="css" src="img/judas priest/rh.jpg" width="150px;" height="130px;">
-                    Robert John Arthur Halford é um cantor e compositor inglês. Ele é mais conhecido como o vocalista da banda de
-                    heavy metal Judas Priest, que foi formada em 1969 e recebeu elogios como o Prêmio Grammy de 2010 de Melhor
-                    Performance de Metal. Ele tem se destacado por sua voz poderosa e abrangente e sua imagem de marca registrada em
-                    couro e tachas, que se tornaram icônicas no heavy metal.
-                </p>
-            </div>
-
-            <div id="divkkd02" name="nm_divkkd02">
-                <p>
-                    <img class="css" src="img/judas priest/kkd.jpg" width="150px;" height="130px;">
-                    Kenneth "K. K." Downing Jr. é um músico inglês. Ele é co-fundador e ex-guitarrista da banda de heavy metal Judas Priest.
-                    <br />
-                    Downing deixou o Judas Priest oficialmente em 20 de abril de 2011, citando "um colapso contínuo nas relações de
-                    trabalho entre mim, elementos da banda e empresários". Ele afirmou que havia pelo menos "21 razões" pelas quais ele
-                    saiu, mas se recusou a entrar em detalhes específicos;
-                </p>
-            </div>
-
-            <div id="divGT02" name="nm_divGT02">
-                <p>
-                    <img class="css" src="img/judas priest/gt.jpg" width="150px;" height="130px;">
-                    Glenn Tipton é um músico inglês. Muito conhecido por seu estilo de tocar complexo e solos influenciadores, ele é
-                    mais conhecido como um dos guitarristas do Judas Priest.
-                    <br />
-                    Tipton aprendeu a tocar violão aos 19 anos, com seu primeiro violão. Ele então o trocou em uma guitarra simples
-                    até poder comprar uma Fender Stratocaster. A fender se tornou sua guitarra principal em shows ao vivo, até que foi roubada
-                    em um show.
-                </p>
-            </div>
-
-            <div id="divIH02" name="nm_divIH02">
-                <p>
-                    <img class="css" src="img/judas priest/ih.jpg" width="150px;" height="130px;">
-                    Ian Frank Hill é um músico inglês, mais conhecido como baixista da banda de heavy metal Judas Priest.
-                    <br />
-                    Hill aprendeu a tocar contrabaixo com seu pai, um baixista de shows de jazz locais. Em 1970, junto com seu colega
-                    de escola K. K. Downing, Hill formou a banda de heavy metal Judas Priest. Ele toca baixo com a banda desde então
-                    e é o único membro original continuamente na banda desde o início, após a saída de Downing em 2011.
-                </p>
-            </div>
-
-            <div id="divLB02" name="nm_divLB02">
-                <p>
-                    <img class="css" src="img/judas priest/lb.jpg" width="150px;" height="130px;">
-                    James Leslie Binks, é um baterista irlandês de heavy metal, que se destacou por ter sido o baterista do Judas Priest
-                    de 1977 a 1979.
-                    <br />
-                    Binks disse em 2017 que saiu da banda porque se sentia como um "baterista freelance" pela banda e não com um membro
-                    oficial. Ele se sentiu insultado quando o empresário da banda, Mike Dolan, sugeriu que ele
-                    "abrisse mão de seus honorários" (ou seja, não fosse pago por sua performance) no álbum ao vivo - Unleashed in the
-                    East, um álbum certificado de platina pela RIAA.
-                </p>
-            </div>
-            <br /><br />
 
             <footer>
                 <a href="judas_priest.php"><button>Voltar para os álbuns do Judas Priest</button></a>
