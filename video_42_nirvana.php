@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>Nirvana</title>
+    <title><span lang="en-US">Nirvana</span></title>
     <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Smells Like Teen Spirit</h1>
+        <h1><span lang="en-us">Smells Like Teen Spirit</span></h1>
 
         <h2>Cheira a Espírito Adolescente</h2>
         <br />
@@ -104,7 +104,6 @@
         <p>
             Uma negação, uma negação, uma negação, uma negação
         </p>
-
 
     </div>
 

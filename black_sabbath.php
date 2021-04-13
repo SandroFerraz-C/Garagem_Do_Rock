@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-    <title>Black Sabbath</title>
+    <title><span lang="en-US">Black Sabbath</span></title>
 
     <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link href="css/css_loja.css" rel="stylesheet" />
@@ -20,7 +20,7 @@
 
             <nav class="top">
                 <a class="loja" href="historia_black_sabbath.php">Historia da Banda</a>
-                <a class="vote" href="curiosidades_Black_sabbath.php">Curiosidades do Black Sabbath</a>
+                <a class="vote" href="curiosidades_Black_sabbath.php">Curiosidades do <span lang="en-US">Black Sabbath</span></a>
             </nav>
 
             <section class="content-section">

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>Red Hot Chili Peppers</title>
+    <title><span lang="en-US">Red Hot Chili Peppers</span></title>
     <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Californication</h1>
+        <h1><span lang="en-us">Californication</span></h1>
 
         <h2>Californicação</h2>
         <br />

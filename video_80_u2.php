@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>I Still Haven't Found What<br /> I'm Looking For</h1>
+        <h1><span lang="en-us">I Still Haven't Found What<br /> I'm Looking For</span></h1>
 
         <h2>Eu Ainda Não Encontrei<br /> o Que Estou Procurando</h2>
         <br />

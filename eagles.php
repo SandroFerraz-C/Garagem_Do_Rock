@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-    <title>Eagles</title>
+    <title><span lang="en-US">Eagles</span></title>
 
     <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link href="css/css_loja.css" rel="stylesheet" />
@@ -20,7 +20,7 @@
         <main>
             <nav class="top">
                 <a class="loja" href="historia_eagles.php">Historia da Banda</a>
-                <a class="vote" href="curiosidades_eagles.php">Curiosidades do Eagles</a>
+                <a class="vote" href="curiosidades_eagles.php">Curiosidades do <span lang="en-US">Eagles</span></a>
             </nav>
 
             <section class="content-section">

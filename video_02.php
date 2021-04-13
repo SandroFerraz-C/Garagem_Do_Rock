@@ -1,23 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <title>Loja da Garagem</title>
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
     <link href="css/css_loja.css" rel="stylesheet" />
-
 </head>
 
 <body>
-    
+
     <iframe width="560" height="445" src="https://www.youtube.com/embed/PD-MdiUm1_Y" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <div class="letra_02">
-        <h1>Caxemira</h1>
+        <h1><span lang="en-us">Caxemira</span></h1>
         <br /> <br />
-
-
 
         <p>
             Deixe o sol bater no meu rosto
@@ -34,9 +31,9 @@
             <br />
             Eles falam sobre os dias pelos quais eles sentam e esperam
             <br />
-            em que tudo será revelado</p>
+            em que tudo será revelado
+        </p>
         <br />
-
 
         <p>
             Conversa e canto de línguas graciosas
@@ -58,7 +55,6 @@
         </p>
         <br />
 
-
         <p>
             Tudo que vejo torna-se marrom
             <br />
@@ -71,7 +67,6 @@
             Tentando descobrir, tentando descobrir onde eu estive
         </p>
         <br />
-
 
         <p>
             Piloto da tempestade que não deixa vestígios
@@ -110,7 +105,6 @@
         </p>
         <br />
 
-
         <p>
             Ooh, sim, sim, ooh, sim, sim, quando eu estiver triste
             <br />
@@ -120,10 +114,7 @@
         </p>
         <br />
 
-        <p>
-            Deixe-me te levar lá, deixe-me te levar lá
-
-        </p>
+        <p>Deixe-me te levar lá, deixe-me te levar lá</p>
 
 
     </div>

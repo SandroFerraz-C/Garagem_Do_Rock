@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>Foo Fighters</title>
+    <title><span lang="en-US">Foo Fighters</span></title>
     <link href="css/css_loja.css" rel="stylesheet" />
-
 </head>
 
 <body>
@@ -15,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Walk</h1>
+        <h1><span lang="en-us">Walk</span></h1>
 
         <h2>Andar</h2>
         <br />

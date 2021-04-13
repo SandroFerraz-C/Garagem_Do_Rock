@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-    <title>Guns N' Roses</title>
+    <title><span lang="en-US">Guns N' Roses</span></title>
 
     <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link href="css/css_loja.css" rel="stylesheet" />
@@ -20,7 +20,7 @@
 
             <nav class="top">
                 <a class="loja" href="historia_guns_n_roses.php">Historia da Banda</a>
-                <a class="vote" href="curiosidades_guns_n_roses.php">Curiosidades do Guns N' Roses</a>
+                <a class="vote" href="curiosidades_guns_n_roses.php">Curiosidades do <span lang="en-US">Guns N' Roses</span></a>
             </nav>
 
             <section class="content-section">

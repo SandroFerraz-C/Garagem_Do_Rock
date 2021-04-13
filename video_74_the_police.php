@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>The Police</title>
+    <title><span lang="en-US">The Police</span></title>
     <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Bring On The Night</h1>
+        <h1><span lang="en-us">Bring On The Night</span></h1>
 
         <h2>Traga a Noite</h2>
         <br />

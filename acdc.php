@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
 <meta charset="utf-8">
@@ -45,7 +45,7 @@
 
                     <a href="acdc_07_highway_to_hell.php"><img class="hv" src="img/acdc_Highway_to_Hell.jpg" height="310px;" width="360px;"></a>
 
-                    <a href="acdc_08_black_in_black.php"><img class="hv" src="img/acdc_black_in_black.jpg" height="310px;" width="360px;"></a>
+                    <a href="acdc_08_back_in_black.php"><img class="hv" src="img/acdc_black_in_black.jpg" height="310px;" width="360px;"></a>
 
                     <a href="acdc_09_for_those_about_to_rock_(we_salute_you).php"><img class="hv" src="img/acdc_For_Those_About_to_Rock.jpg" height="310px;" width="360px;"></a>
 

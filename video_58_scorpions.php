@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-PR"> 
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>Scorpios</title>
+    <title><span lang="en-US">Scorpios</span></title>
     <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Still Loving You</h1>
+        <h1><span lang="en-us">Still Loving You</span></h1>
 
         <h2>Continuo Te Amando</h2>
         <br />

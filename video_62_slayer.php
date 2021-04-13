@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Angel Of Death</h1>
+        <h1><span lang="en-us">Angel Of Death</span></h1>
 
         <h2>Anjo da Morte</h2>
         <br />

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
@@ -17,7 +17,7 @@
 
         <nav class="pag" aria-label="Page navigation example">
             <ul class="pagination justify-content-center">
-                <li class="page-item"><a class="page-link" href="index.php">Home</a></li>
+                <li class="page-item"><a class="page-link" href="index.php"><span lang="pt-BR">Home</span></a></li>
 
                 <li class="page-item"><a class="page-link" href="classic.php">1</a></li>
 

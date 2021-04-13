@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-    <title>Garage Of Rock!!</title>
+    <title>Garagem do <span lang="en-US">Rock</span>!!</title>
 
     <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link rel="stylesheet" type="text/css" href="css/hv_2.css">

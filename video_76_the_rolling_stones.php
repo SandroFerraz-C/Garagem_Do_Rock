@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>The Rolling Stones</title>
+    <title><span lang="en-US">The Rolling Stones</span></title>
     <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Sympathy For The Devil</h1>
+        <h1><span lang="en-us">Sympathy For The Devil</span></h1>
 
         <h2>Compaixão Pelo Diabo</h2>
         <br />

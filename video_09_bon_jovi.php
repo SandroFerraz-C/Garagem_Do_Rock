@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Livin' On A Prayer</h1>
+        <h1><span lang="en-us">Livin' On A Prayer</span></h1>
 
         <h2>Vivendo em Oração</h2>
         <br />

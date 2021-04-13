@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>Loja da Garagem</title>
-
+    <title>Garagem do <span lang="en-US">Rock</span></title>
     <link href="css/css_loja.css" rel="stylesheet" />
     <script type="text/javascript" src="js/jquery-3.5.1.min.js"></script>
     <script type="text/javascript" src="js/abas.js"></script>

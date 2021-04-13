@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-    <title>Led Zeppelin</title>
+    <title><span lang="en-US">Led Zeppelin</span></title>
     <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link href="css/css_loja.css" rel="stylesheet" />
 
@@ -21,7 +21,7 @@
 
             <nav class="top">
                 <a class="loja" href="historia_led_zeppelin.php">Historia da Banda</a>
-                <a class="vote" href="curiosidades_led_zeppelin.php">Curiosidades do Led Zeppelin</a>
+                <a class="vote" href="curiosidades_led_zeppelin.php">Curiosidades do <span lang="en-US">Led Zeppelin</span></a>
             </nav>
 
             <section class="content-section">

@@ -13,6 +13,46 @@
         width: 100%;
         height: auto;
     }
+    
+    .vitrine_voto {
+        margin: 10px 0px;
+        padding: 5px;
+        width: 99%;
+        height: auto;
+        border: solid 1px #ccc;
+        float: left;
+    }
+    
+    .vitrine_voto ul {
+        width: 95%;
+        border: solid 1px #ccc;
+        padding: 2%;
+        background: #fbfbfb;
+    }
+    
+    .vitrine_voto li {
+        width: 155px;
+        margin: 25px;
+        padding-bottom: 10px;
+        text-align: center;
+        display: inline-block;
+        vertical-align: top;
+    }
+    
+    .vitrine_voto h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    .vitrine_voto h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    .vitrine_voto p {
+        font-size: 16px;
+        text-align: center;
+    }
     /*
     #cabecalho {
         width: 100%;
@@ -20,10 +60,6 @@
         background: url(../img/loja/cabecalho_loja.jpg);
     }
     */
-    
-    #cabecalho_superior {
-        width: 100%;
-    }
     
     .fundo_azul {
         width: auto;
@@ -80,6 +116,10 @@
         background-image: url(../img/loja/logo.png);
     }
     */
+    
+    #cabecalho_superior {
+        width: 100%;
+    }
     
     .albuns_acdc a img,
     .albuns_aerosmith a img,
@@ -206,7 +246,7 @@
             background: url(../img/loja/cabecalho_loja.jpg);
         }
         #cabecalho_meio {
-            width: 380px;
+            width: 320px;
             height: 110px;
             position: relative;
         }
@@ -220,7 +260,7 @@
             background-image: url(../img/loja/logo.png);
         }
         #cabecalho_inferior {
-            width: 378px;
+            width: 320px;
             ;
             border-bottom: 1px solid #ccc;
             line-height: 22px;
@@ -583,7 +623,7 @@
         }
         #rodape2 {
             float: left;
-            width: 380px;
+            width: 320px;
             height: 200px;
         }
         #caixa {
@@ -1647,7 +1687,7 @@
         }
         #rodape2 {
             float: left;
-            width: 979px;
+            width: 768px;
             height: 180px;
         }
         #caixa {
@@ -1673,7 +1713,7 @@
             background: url(../img/loja/cabecalho_loja.jpg);
         }
         #cabecalho_meio {
-            width: 1348px;
+            width: 1024px;
             height: 133px;
             position: relative;
         }
@@ -1687,7 +1727,7 @@
             background-image: url(../img/loja/logo.png);
         }
         #cabecalho_inferior {
-            width: 1291px;
+            width: 1024px;
             border-bottom: 1px solid #ccc;
             line-height: 44px;
         }
@@ -1748,13 +1788,16 @@
             text-align: center;
         }
         .video {
-            width: 1024px;
-            height: 400px;
+            width: 98%;
+            height: 500px;
+            margin-left: 1%;
+            margin-right: 1%;
         }
         .video_iframe {
-            margin-left: 0;
-            width: 1024px;
+            width: 98%;
             height: 500px;
+            margin-left: 1%;
+            margin-right: 1%;
         }
         .letra h1 {
             text-align: center;
@@ -1823,7 +1866,6 @@
             width: 1024px;
         }
         div .paginacao {
-            background-color: cyan;
             width: 1024px;
         }
         div .paginacao h1 {
@@ -1906,7 +1948,7 @@
         }
         #rodape2 {
             float: left;
-            width: 1348px;
+            width: 1024px;
             height: 150px;
         }
         #caixa {

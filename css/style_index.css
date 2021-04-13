@@ -185,6 +185,10 @@
                         letter-spacing: 1px;
                         text-decoration: none;
                     }
+                    .a a:hover {
+                        text-decoration: none;
+                        cursor: auto;
+                    }
                     nav.top-nav {
                         text-align: center;
                         background: #412849;
@@ -253,6 +257,10 @@
                         letter-spacing: 1px;
                         text-decoration: none;
                     }
+                    .a a:hover {
+                        text-decoration: none;
+                        cursor: auto;
+                    }
                     nav.top-nav {
                         text-align: center;
                         background: #412849;
@@ -318,6 +326,10 @@
                         text-transform: uppercase;
                         letter-spacing: 1px;
                         text-decoration: none;
+                    }
+                    .a a:hover {
+                        text-decoration: none;
+                        cursor: auto;
                     }
                     nav.top-nav {
                         text-align: center;
@@ -385,6 +397,10 @@
                         letter-spacing: 1px;
                         text-decoration: none;
                     }
+                    .a a:hover {
+                        text-decoration: none;
+                        cursor: auto;
+                    }
                     nav.top-nav {
                         text-align: center;
                         background: #412849;
@@ -449,6 +465,10 @@
                         text-transform: uppercase;
                         letter-spacing: 1px;
                         text-decoration: none;
+                    }
+                    .a a:hover {
+                        text-decoration: none;
+                        cursor: auto;
                     }
                     nav.top-nav {
                         text-align: center;
@@ -518,6 +538,10 @@
                         letter-spacing: 1px;
                         text-decoration: none;
                     }
+                    .a a:hover {
+                        text-decoration: none;
+                        cursor: auto;
+                    }
                     nav.top-nav {
                         text-align: center;
                         background: #412849;
@@ -583,6 +607,10 @@
                         text-transform: uppercase;
                         letter-spacing: 1px;
                         text-decoration: none;
+                    }
+                    .a a:hover {
+                        text-decoration: none;
+                        cursor: auto;
                     }
                     nav.top-nav {
                         text-align: center;

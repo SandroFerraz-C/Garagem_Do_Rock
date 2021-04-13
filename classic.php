@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>TOP 100 CLÁSSICOS DO ROCK!</title>
+    <title>TOP 100 CLÁSSICOS DO <span lang="pt-BR">ROCK</span>!</title>
     <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-    <title>Angra</title>
+    <title>Barão Vermelho</title>
 
     <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link href="css/css_loja.css" rel="stylesheet" />

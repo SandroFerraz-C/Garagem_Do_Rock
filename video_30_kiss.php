@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>Kiss</title>
+    <title><span lang="en-US">Kiss</span></title>
     <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Rock And Roll All Night</h1>
+        <h1><span lang="en-us">Rock And Roll All Night</span></h1>
 
         <h2>Rock And Roll A Noite Toda</h2>
         <br />
@@ -56,9 +56,7 @@
         </p>
         <br />
 
-        <p>
-            Você continua a berrar, você continua a berrar
-        </p>
+        <p>Você continua a berrar, você continua a berrar</p>
         <br />
 
         <p>
@@ -73,9 +71,7 @@
         </p>
         <br />
 
-        <p>
-            Você continua a berrar você continua a berrar
-        </p>
+        <p>Você continua a berrar você continua a berrar</p>
         <br />
 
         <p>

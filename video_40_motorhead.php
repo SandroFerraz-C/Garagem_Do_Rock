@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>Motorhead</title>
+    <title><span lang="en-US">Motorhead</span></title>
     <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Ace Of Spades</h1>
+        <h1><span lang="en-us">Ace Of Spades</span></h1>
 
         <h2>Ás De Espada</h2>
         <br />
@@ -79,7 +79,6 @@
             O Ás de Espadas<br />
             O Ás de Espadas
         </p>
-
 
     </div>
 

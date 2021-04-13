@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
@@ -85,7 +85,6 @@
             Enquanto houver Sol<br />
             Enquanto houver Sol
         </p>
-
 
     </div>
 

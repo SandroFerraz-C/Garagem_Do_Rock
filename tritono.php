@@ -1,19 +1,14 @@
 <!DOCTYPE html>
 <!-- doctype informa ao agente de usuario a versao do tml que dee ser rederizada -->
 
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
-
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-
-    <!-- Latest compiled and minified CSS -->
-
+    <title>Garagem do <span lang="en-US">Rock!</span></title>
     <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="css/tritono.css" rel="stylesheet" />

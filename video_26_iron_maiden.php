@@ -1,23 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>Iron Maiden</title>
+    <title><span lang="en-US">Iron Maiden</span></title>
     <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 
 <body>
 
-    <iframe class="ivideo" src="https://www.youtube.com/embed/WxnN05vOuSM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video" src="https://www.youtube.com/embed/WxnN05vOuSM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <div class="letra">
 
-        <h1>The Number Of
-            <br />
-            The Beast
-        </h1>
+        <h1><span lang="en-us">The Number Of <br />The Beast</h1>
 
         <h2>O Número da Besta</h2>
         <br />

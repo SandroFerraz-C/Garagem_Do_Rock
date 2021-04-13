@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
         <meta charset="utf-8">
@@ -9,7 +9,6 @@
 </head>
 
 <body>
-
 
         <iframe class="video" src="https://www.youtube.com/embed/_Jcn10Iiuu4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

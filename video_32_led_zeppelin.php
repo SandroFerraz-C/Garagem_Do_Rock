@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head  lang="pt-BR">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-        <title>Led Zeppelin</title>
+        <title><span lang="en-US">Led Zeppelin</span></title>
         <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 
@@ -14,7 +14,7 @@
 
         <div class="letra">
 
-                <h1>Stairway To Heaven</h1>
+                <h1><span lang="en-us">Stairway To Heaven<span></h1>
 
                 <h2>Escada Para o Céu</h2>
                 <br />
@@ -27,7 +27,7 @@
                         Se as lojas estiverem todas fechadas<br />
                         Com uma só palavra ela conseguirá o que foi buscar
                 </p>
-                <br />
+                <br />                   
 
                 <p>
                         E ela vai comprar uma escada para o céu<br />
@@ -41,7 +41,8 @@
                 <br />
 
                 <p>
-                        Isso me faz pensar<br />
+                        Isso me faz pensar
+                        <br />
                         Isso me faz pensar
                 </p>
                 <br />

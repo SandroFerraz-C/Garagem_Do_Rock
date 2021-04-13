@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
@@ -15,7 +15,7 @@
 
     <div class="letra">
 
-        <h1>sweet emotion</h1>
+        <h1><span lang="en-us">sweet emotion</span></h1>
 
         <h2>Doce Emoção</h2>
         <br />

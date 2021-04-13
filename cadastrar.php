@@ -2,7 +2,7 @@
 require_once 'CLASSES/usuarios.php';
 $u = new Usuario;
 ?>
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8" />

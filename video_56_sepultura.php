@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
@@ -14,16 +14,16 @@
 
     <div class="letra">
 
-        <h1>Roots Bloody Roots</h1>
+        <h1><span lang="en-us">Roots Bloody Roots</span></h1>
 
-        <h2>Raízes Raízes Sangrentas</h2>
+        <h2>Raízes Sangrentas Raízes</h2>
         <br />
 
         <p>
-            Raízes, raízes sangrentas<br />
-            Raízes, raízes sangrentas<br />
-            Raízes, raízes sangrentas<br />
-            Raízes, raízes sangrentas
+            Raízes, sangrentas raízes <br />
+            Raízes, sangrentas raízes <br />
+            Raízes, sangrentas raízes <br />
+            Raízes, sangrentas raízes
         </p>
         <br />
 
@@ -44,10 +44,10 @@
         <br />
 
         <p>
-            Raízes, raízes sangrentas<br />
-            Raízes, raízes sangrentas<br />
-            Raízes, raízes sangrentas<br />
-            Raízes, raízes sangrentas
+            Raízes, sangrentas raízes <br />
+            Raízes, sangrentas raízes <br />
+            Raízes, sangrentas raízes <br />
+            Raízes, sangrentas raízes
         </p>
         <br />
 

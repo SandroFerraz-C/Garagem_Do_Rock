@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Paranoid</h1>
+        <h1><span lang="en-us">Paranoid</span></h1>
 
         <h2>Paranóico</h2>
         <br />

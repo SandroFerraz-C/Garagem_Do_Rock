@@ -7,24 +7,20 @@ include_once("header.php");
     <main>
         <section class="content-section">
 
-            <h1><span lang="en-US">HIGHWAY TO HELL</span> (<time datetime="1976">1976</time>)</h1>
+            <h1><span lang="en-US">BACK IN BLACK</span> (<time datetime="1980">1980</time>)</h1>
 
-            <p>- <span lang="en-US">Highway to Hell</span> é o sexto álbum de estúdio, sendo o última da fase de Bon Scott, que morreu no dia <time datetime="1980-02-19"> 19 de Fevereiro de 1980</time>.</p>
+            <p>Depois do sucesso de - <a href="acdc_07_highway_to_hell.php" target="blank"><span lang="en-US">Highway to Hell</span></a>, a banda começou a desenvolver o álbum, após a morte de seu vocalista, Bon Scott. A causa oficial da morte foi divulgada como sendo de “Intoxicação
+                alcoolica aguda”. Quando Scott foi substituído por Brian Johnson, o álbum foi totalmente refeito, com músicas como “<span lang="en-US">Hells Bells</span>”, “<span lang="en-US">Have a Drink on Me</span>” e a faixa que dá título ao álbum, "<span lang="en-US">Back in Black</span>".
+                O álbum se tornou um enorme sucesso nos Estados Unidos e em outras partes do mundo.</p>
 
-            <p>Foi o primeiro álbum do AC/DC a não ser produzidor por Harry Vanda e George Young. Uma pré-produção do álbum começou em <time datetime="1979-01">Janeiro de 1979</time> com músicas demos no Albert Studios em Sydney na Austrália, onde encontraram o desejado produtor, Eddie Kramer. Kramer
-                foi despedido antes da faixa de single estar completa e então Robert John “Mutt” Lange foi contratado para substituí-lo. A mundaça proveu ser positiva e o álbum é considerado uns dos melhores da banda até hoje.</p>
+            <p>Como seu sexto lançamento internacional de estúdio, - <span lang="en-US">Back in Black</span> foi um sucesso sem precedentes. Ele vendeu cerca de 50 milhões de cópias em todo o mundo, e é um dos álbuns mais vendidos da história da música. A banda apoiou o álbum com uma turnê mundial
+                de um ano, consolidando-os entre os atos musicais mais populares do início dos anos <time datetime="1980">1980</time>. O álbum também recebeu uma recepção positiva da crítica durante seu lançamento inicial, e desde então foi incluído em várias listas de "melhores"
+                álbuns. Desde seu lançamento original, o álbum foi reeditado e remasterizado várias vezes, mais recentemente para distribuição digital. Em <time datetime="2019-12-09">9 de dezembro de 2019</time>, foi certificado 25x <span lang="en-US">Platinum</span>.</p>
 
-            <p>Se tornou o primeiro álbum do AC/DC a chegar no top #100, eventualmente chegando em #17º, e isso impulsionou o AC/DC a chegar ao topo dos ícones do <span lang="en-US">Hard Rock</span>. Com “<span lang="en-US">Highway To Hell</span>” atingindo #17º lugar no mercado americano, o álbum foi o primeiro sucesso
-                sólido que o AC/DC conquistou nos EUA.</p>
-
-            <p>Talvez a canção mais famosa do álbum seja "<span lang="en-US">Night Prowler</span>", principalmente por sua associação com o <span lang="en-US">serial killer</span> Richard Ramírez. Em <time datetime="1985-06">junho de 1985</time>, um caso de assassinato altamente divulgado começou, envolvendo Ramírez, que foi responsável por assassinatos
-                brutais em Los Angeles. Apelidado de "<span lang="en-US">Night Stalker</span>", Ramírez era fã do AC/DC, principalmente de "<span lang="en-US">Night Prowler</span>". A polícia também alegou que Ramirez estava vestindo uma camisa do AC/DC e deixou um chapéu da banda em uma das cenas do crime.
-                Durante o julgamento, Ramírez costumava murmurar "Salve Satan" e exibir o pentagrama esculpido em sua palma. Isso trouxe publicidade extremamente ruim para a banda, cujos shows e álbuns enfrentaram protestos em Los Angeles. Em <span lang="en-US">Behind the
-                    Music</span>, do VH1, a banda afirmou que Ramírez deu à música uma conotação assassina, mas na verdade é sobre um menino que entra furtivamente no quarto da namorada à noite enquanto os pais dela estão dormindo.</p>
-
-            <p>
-            <blockquote>As palavras finais ditas por <cite>Bon Scott</cite> no álbum foram <q>Shazbot, na-nu na-nu</q> frases usadas no então popular <span lang="en-US">sitcom</span> americano, - <span lang="en-US">Mork and Mindy</span>, pelo personagem Mork (um visitante extraterrestre interpretado por Robin Williams). A frase é falada no final
-                da música “<span lang="en-US">Night Prowler</span>” e também fecha o álbum.</blockquote>
+            <p>Depois que - <span lang="en-US">Back in Black</span> foi lançado, os discos anteriores do AC/DC, - <a href="acdc_07_highway_to_hell.php" target="blank"><span lang="en-US">Highway to Hell</span></a>,
+                - <a href="#"><span lang="en-US">If You Want Blood, You Got It</span></a> (Álbum ao vivo) e - <a href="acdc_05_let_there_be_rock.php" target="blank"><span lang="en-US">Let There Be Rock</span></a>, todos reentraram nas paradas britânicas, o que os tornou a primeira banda desde os <a href="the_beatles.php" target="blank">Beatles</a>
+                a ter quatro álbuns no Top #100 britânico simultaneamente. Aproveitando o sucesso de - <a href="acdc_08_back_in_black.php" target="blank"><span lang="en-US">Back in Black</span></a>, a Atlantic, gravadora americana da banda, relançou
+                o álbum - <a href="acdc_04_dirty_deeds_done_dirt_cheap.php" target="blank"><span lang="en-US">Dirty Deeds Done Dirt Cheap</span></a> de <time datetime="1976">1976</time> pela primeira vez nos Estados Unidos; Em <time datetime="1981-05">maio de 1981</time>, ultrapassou - <span lang="en-US">Back in Black</span> na parada dos EUA em #3° lugar.
             </p>
             <br /><br />
 
@@ -38,44 +34,56 @@ include_once("header.php");
                     </tr>
 
                     <tr>
-                        <td width="15%"> 7X Platina</td>
-                        <td> + 7.000.000 (<abbr title="Estados Unidos da América">EUA</abbr>.)</td>
+                        <td width="15%"> 25X Platina</td>
+                        <td> + 25.000.000 (<abbr title="Estados Unidos da América">EUA</abbr>.)</td>
                     </tr>
                     <tr>
-                        <td width="15%"> Platina</td>
-                        <td> + 500.000 (França)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> 5X Platina</td>
-                        <td> + 350.000 (Austrália)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Platina</td>
-                        <td> + 300.000 (Reino Unido)</td>
+                        <td width="15%">3X Platina 2X Diamante</td>
+                        <td> + 1.300.000 (França)</td>
                     </tr>
                     <tr>
                         <td width="15%"> 2X Platina</td>
-                        <td> + 200.000 (Canadá)</td>
+                        <td> + 1.000.000 (Alemanha)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Diamante</td>
+                        <td> + 1.000.000 (Canadá)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 12X Platina</td>
+                        <td> + 840.000 (Austrália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 2X Platina</td>
+                        <td> + 600.000 (Reino Unido)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 3X Platina </td>
+                        <td> + 180.000 (Argentina)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 2X Platina</td>
+                        <td> + 100.000 (Itália)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> 2X Platina</td>
+                        <td> + 100.000 (Suíça)</td>
+                    </tr>
+                    <tr>
+                        <td width="15%"> Platina</td>
+                        <td> + 50.000 (Áustria)</td>
                     </tr>
                     <tr>
                         <td width="15%"> Ouro</td>
                         <td> + 50.000 (Espanha)</td>
                     </tr>
                     <tr>
+                        <td width="15%"> 2X Platina</td>
+                        <td> + 40.000 (Dinamarca)</td>
+                    </tr>
+                    <tr>
                         <td width="15%"> Platina</td>
-                        <td> + 50.000 (Suíça)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Ouro</td>
-                        <td> + 30.000 (Argentina)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Ouro</td>
-                        <td> + 25.000 (Áustria)</td>
-                    </tr>
-                    <tr>
-                        <td width="15%"> Ouro</td>
-                        <td> + 25.000 (Itália)</td>
+                        <td> + 15.000 (Nova Zelândia)</td>
                     </tr>
 
                 </table>
@@ -84,24 +92,25 @@ include_once("header.php");
 
             <p>Gênero(s):
             <ul>
-                <li><span lang="en-US">Hard Rock</span>.</li>
-                <li><span lang="en-US">Blues</span>.</li>
-                <li><span lang="en-US">Rock</span>.</li>
-                <li><span lang="en-US">Rock and Roll</span>.</li>
+                <li><span lang="en-US">Hard Rock</span></li>
+                <li><span lang="en-US">Blues</span></li>
+                <li><span lang="en-US">Rock</span></li>
+                <li><span lang="en-US">Rock and Roll</span></li>
             </ul>
             </p>
+            <br />
 
-            <p>Duração do álbum:41 min. 34 seg. </p>
-            <p>Gravadora(s):Atlantic Records</p>
-            <p>Produção: Robert John “Mutt” Lange</p>
+            <p>Duração do álbum: 41 min. 59 seg. </p>
+            <p>Gravadora(s): Atlantic Records, ATCO Records, Epic Records</p>
+            <p>Produção: Robert John “Mutt” Lange e Brad Samuelsohn</p>
             <br />
 
             <section class="disco">
                 <table id="demo-table">
-                    <iframe src="https://open.spotify.com/embed/playlist/3Qr6usnW7ZIXi4lTWBJS0X" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+                    <iframe src="https://open.spotify.com/embed/playlist/1UOdIX7NfyWyeV5EyPMGSP" width="100%" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                 </table>
             </section>
-
 
             <section>
                 <div id="divBON_SCOTT" name="nm_divBON_SCOTT">
@@ -142,11 +151,11 @@ include_once("header.php");
             <nav>
                 <h3>Créditos</h3>
                 <ul>
-                    <li><a href="#" onMouseOver="mostraLayer('divBON_SCOTT');" onMouseOut="escondeLayer('divBON_SCOTT');">Bon Scott</a> – Vocais.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divBON_SCOTT');" onMouseOut="escondeLayer('divBON_SCOTT');">Brian Johnson</a> – Vocais.</li>
                     <li><a href="#" onMouseOver="mostraLayer('divANGUS_YOUNG');" onMouseOut="escondeLayer('divANGUS_YOUNG');">Angus Young</a> – Guitarra solo.</li>
                     <li><a href="#" onMouseOver="mostraLayer('divMALCOLM_YOUNG');" onMouseOut="escondeLayer('divMALCOLM_YOUNG');">Malcolm Young</a> – Guitarra rítmica.</li>
                     <li><a href="#" onMouseOver="mostraLayer('CLIFF_WILLIAMS');" onMouseOut="escondeLayer('CLIFF_WILLIAMS');">Cliff Williams</a> – Baixo.</li>
-                    <li><a href="#" onMouseOver="mostraLayer('divPHIL_RUDD');" onMouseOut="escondeLayer('divPHIL_RUDD');">Phil Rudd</a> – Bateria.</li>
+                    <li><a href="#" onMouseOver="mostraLayer('divPHIL_RUDD');" onMouseOut="escondeLayer('divPHIL_RUDD');">Phil Rudd G</a> – Bateria.</li>
                 </ul>
             </nav>
 

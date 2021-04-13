@@ -3,13 +3,11 @@
 <html lang="pt-br">
 
 <head>
-    <title>Garage Of Rock!!</title>
-
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-
+    <title><span lang="en-US">Linkin Park</span></title>
     <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link href="css/css_loja.css" rel="stylesheet" />
 
@@ -22,7 +20,7 @@
 
             <nav class="top">
                 <a class="loja" href="historia_linkin_park.php">Historia da Banda</a>
-                <a class="vote" href="curiosidades_linkin_park.php">Curiosidades do Linkin Park</a>
+                <a class="vote" href="curiosidades_linkin_park.php">Curiosidades do <span lang="en-US">Linkin Park</span></a>
             </nav>
 
             <section class="content-section">

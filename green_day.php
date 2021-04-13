@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="Author" content="Sandro">
     <meta name="descrition" content="Lista de documentos">
     <meta name="keywords" content="html5, tecnologia">
-    <title>Green Day</title>
+    <title><span lang="en-US">Green Day</span></title>
 
     <link rel="stylesheet" type="text/css" href="css/style_albuns.css">
     <link href="css/css_loja.css" rel="stylesheet" />
@@ -20,7 +20,7 @@
 
             <nav class="top">
                 <a class="loja" href="historia_green_day.php">Historia da Banda</a>
-                <a class="vote" href="curiosidades_green_day.php">Curiosidades do Green Day</a>
+                <a class="vote" href="curiosidades_green_day.php">Curiosidades do <span lang="en-US">Green Day</span></a>
             </nav>
 
             <section class="content-section">

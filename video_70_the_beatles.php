@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-    <title>The Bitles</title>
+    <title><span lang="en-US">The Bitles</span></title>
     <link href="css/css_loja.css" rel="stylesheet" />
 </head>
 
@@ -14,7 +14,7 @@
 
     <div class="letra">
 
-        <h1>Hey Jude</h1>
+        <h1><span lang="en-us">Hey Jude</span></h1>
 
         <h2>Ei, Jude</h2>
         <br />
