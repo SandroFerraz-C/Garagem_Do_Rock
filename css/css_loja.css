@@ -556,6 +556,9 @@
             margin-left: 21%;
             border-radius: 14px;
         }
+        .fotoac img:hover {
+            transform: scale(1.1);
+        }
         .fotoac h2 {
             font-family: 'Novo Tegomin', serif;
             text-align: center;
@@ -1881,6 +1884,9 @@
             height: 281px;
             margin-top: 3%;
             border-radius: 19px;
+        }
+        .fotoac img:hover {
+            transform: scale(1.02);
         }
         .fotoac h2 {
             font-family: 'Novo Tegomin', serif;

@@ -2,14 +2,16 @@
 <html lang="pt-BR">
 
 <head>
-	<meta charset="utf-8">
-	<meta name="Author" content="Sandro">
-	<meta name="descrition" content="Lista de documentos">
-	<meta name="keywords" content="html5, tecnologia">
-	<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
-	<title>Garagem do <span lang="en-US">Rock</span>!!</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="music content page">
+	<meta name="author" content="Sandro Ferraz">
+	<meta name="keywords" content="rock bands, rock, rock in roll, songs, country, blues, r&b, ac / dc, aerosmith, angra, black sabbath, bon jovi, barao vermelho, capital inicial, deeo purple,eagles,engenheiros do hawaii, foo fighters, green day, guns n roses, iron maiden, judas priest, kiss, led zeppelin, legiao urbana, linkin park, metallica, motorhead, nirvana, os paralamas do sucesso, pink floyd, queen, ramones, raul seixas, red hot chili peppers, sepultura, scorpions, skank, slayer, slipknot, the police, the rolling stones, the who, u2, zz top ">
+	<title>Garagem do Rock!!</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="css/style_index.css">
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7733465042756742"
+     crossorigin="anonymous"></script>
 
 </head>
 
@@ -34,10 +36,10 @@
 
 			<nav class="top-nav">
 				<ul>
-					<li><a class="vote" href="vote.php">Vote na Sua banda Favorita</a></li>
+					<!--<li><a class="vote" href="vote.php">Vote na Sua banda Favorita</a></li>-->
 					<li><a class="loja" href="classic.php">TOP 100 CLASSICOS DO <span lang="en-US">ROCK</span> (Com legenda em PT-BR)</a></li>
-					<li><a class="loja" href="http://localhost:3030"><span lang="en-US">Chat</span> da Galera!!</a></li>
-					<li><a href="sair.php">Sair</a></li>
+					<!--<li><a class="loja" href="http://localhost:3030"><span lang="en-US">Chat</span> da Galera!!</a></li> -->
+					<!--<li><a href="sair.php">Sair</a></li>-->
 				</ul>
 				</nave>
 		</header>
@@ -126,7 +128,7 @@
 								</li>
 								<br />
 
-								<li>que mais tarde foi regravado por
+								<li>Que mais tarde foi regravado por
 									<a href="#">Bill Haley & His Comets</a>, em <time datetime="1952">1952</time>;
 								</li>
 								<br />
@@ -175,19 +177,19 @@
 		</section>
 		<br /><br />
 
-		<header class="content-header">
+		<header class="content-header albuns">
 			<h2 class="sub-title">Álbuns das Principais Bandas:</h2>
 		</header>
 		<main>
 			<section class="content-section_album">
 
 				<div class="img1 card01">
-					<a href="acdc.php">
+					<a href="acdc.php" accesskey="a">
 						<img src="img/acdc.png" alt="Álbum do AC/DC">
 					</a>
 				</div>
 
-				<div class="img1 card02">
+				<div class="img1 card02" accesskey="b">
 					<a href="aerosmith.php">
 						<img src="img/aerosmith.png" alt="Álbum do Aerosmith">
 					</a>
@@ -444,7 +446,7 @@
 				</div>
 			</section>
 
-			<section class="content-section_album">
+			<section class="content-section_album-end">
 				<div class="img1 card34">
 					<a href="#">
 						<img class="u2" src="img/u2.jpg" alt="Álbum do U2">
