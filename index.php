@@ -4,14 +4,23 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="music content page">
+	<meta name="description" content="Garagem do ROCK é um site colaborativo sobre ROCK. Página com discografia completa das principais bandas de ROCK  ">
+	<meta name="robots" content="index, follow, sitelinkssearchbox, translate, imageindex, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 	<meta name="author" content="Sandro Ferraz">
 	<meta name="keywords" content="rock bands, rock, rock in roll, songs, country, blues, r&b, ac / dc, aerosmith, angra, black sabbath, bon jovi, barao vermelho, capital inicial, deeo purple,eagles,engenheiros do hawaii, foo fighters, green day, guns n roses, iron maiden, judas priest, kiss, led zeppelin, legiao urbana, linkin park, metallica, motorhead, nirvana, os paralamas do sucesso, pink floyd, queen, ramones, raul seixas, red hot chili peppers, sepultura, scorpions, skank, slayer, slipknot, the police, the rolling stones, the who, u2, zz top ">
 	<title>Garagem do Rock!!</title>
+	<link rel="canonical" href="https://fundamentosweb.netlify.app/">
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:type" content="main">
+	<meta property="og:title" content="Fundamentos Web">
+	<meta property="og:description" content="Fundamentos WEB, aprenda: HTML, CSS e Javascript, Pois a base para a programação Front-End é o tripé: HTML + CSS + Javascript!">
+	<meta property="og:url" content="https://fundamentosweb.netlify.app/">
+	<meta property="og:site_name" content="fundamentos web">
+	<meta name="Author" content="sandro ferraz">
+	<meta name="keywords" content="html, javascript, programacao, js, css, web, tecnologia, desenvolvimento, web design, ">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="css/style_index.css">
-	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7733465042756742"
-     crossorigin="anonymous"></script>
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7733465042756742" crossorigin="anonymous"></script>
 
 </head>
 
